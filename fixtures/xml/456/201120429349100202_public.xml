@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2009v1.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-11T11:46:21-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DANA E LANE CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>374 MAIN ST</AddressLine1>
+        <City>Saco</City>
+        <State>ME</State>
+        <ZIPCode>04072</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010456596</EIN>
+      <Name>
+        <BusinessNameLine1>ALEX TANOUS FOUNDATION FOR SCIENTIFIC RE</BusinessNameLine1>
+      </Name>
+      <NameControl>ALEX</NameControl>
+      <USAddress>
+        <AddressLine1>PO BOX 3818</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04104</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DEE DEE SAMAY</Name>
+      <Title>TREASURER</Title>
+      <Phone>2077738328</Phone>
+      <DateSigned>2011-02-05</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DANA E LANE</Name>
+      <Phone>2072861662</Phone>
+      <DatePrepared>2011-02-11</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>385144</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>2386</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>1</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>1</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>7813</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>7813</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>12580</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>141900</GrossSalesPrice>
+        <TotalRevenueAndExpenses>22780</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>7814</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>3624</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>362</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>3262</CompOfcrDirTrstDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>215</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>16</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>199</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="STM107">35</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>4</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>31</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="STM108">865</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>87</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>778</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="STM109">3720</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>1836</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>1884</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="STM110">322</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>22</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>300</TaxesDsbrsChrtblPrps>
+        <OccupancyRevAndExpnss>3613</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>361</OccupancyNetInvstIncm>
+        <OccupancyDsbrsChrtblPrps>3252</OccupancyDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>50</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubDsbrsChrtblPrps>50</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">740</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>7</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>733</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>13184</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2695</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>10489</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>560</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>560</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>13744</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2695</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>11049</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>9036</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5119</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>917</CashBOY>
+        <CashEOY>2317</CashEOY>
+        <CashEOYFMV>2317</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>80150</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>77509</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>77509</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>762</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>660</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>660</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>307722</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="STM137">318128</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>304658</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>389551</TotalAssetsBOY>
+        <TotalAssetsEOY>398614</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>385144</TotalAssetsEOYFMV>
+        <AccountsPayableEOY>27</AccountsPayableEOY>
+        <TotalLiabilitiesEOY>27</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>89551</UnrestrictedBOY>
+        <UnrestrictedEOY>98587</UnrestrictedEOY>
+        <PermanentlyRestrictedBOY>300000</PermanentlyRestrictedBOY>
+        <PermanentlyRestrictedEOY>300000</PermanentlyRestrictedEOY>
+        <TotalNetAssetsBOY>389551</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>398587</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>389551</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>398614</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>389551</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>9036</ExcessOfRevenueOverExpenses>
+        <Subtotal>398587</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>398587</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>15413</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>412002</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.03741</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>8053</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>493369</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.016322</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>39491</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>505520</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.07812</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>12230</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>490663</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.024925</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>30830</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>466747</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.066053</DistributionRatioYear5>
+        <TotalDistributionRatio>0.22283</TotalDistributionRatio>
+        <AverageDistributionRatio>0.044566</AverageDistributionRatio>
+        <NetNoncharitableAssets>365827</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>16303</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>51</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>16354</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>11049</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>102</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>102</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>102</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>762</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>762</TotalCreditsAndPayments>
+        <Overpayment>660</Overpayment>
+        <AmountCreditedToNextYear>660</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.ALEXTANOUS.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>DEE DEE SAMAY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2077738328</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>49 TOTE RD</AddressLine1>
+          <City>HARPSWELL</City>
+          <State>ME</State>
+          <ZIPCode>04079</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHRYN J DOBROWOLSKI</PersonName>
+          <USAddress>
+            <AddressLine1>152 MAIN ST</AddressLine1>
+            <City>YARMOUTH</City>
+            <State>ME</State>
+            <ZIPCode>04096</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM TANOUS</PersonName>
+          <USAddress>
+            <AddressLine1>32 BEACON AVE</AddressLine1>
+            <City>AUBURN</City>
+            <State>ME</State>
+            <ZIPCode>04210</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEE DEE SAMAY</PersonName>
+          <USAddress>
+            <AddressLine1>49 TOTE RD</AddressLine1>
+            <City>HARPSWELL</City>
+            <State>ME</State>
+            <ZIPCode>04079</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALICE KELLEY</PersonName>
+          <USAddress>
+            <AddressLine1>16 VICTORY AVE</AddressLine1>
+            <City>SOUTH PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04106</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2</AvgHoursPerWkDevotedToPosition>
+          <Compensation>3624</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WAKINE G TANOUS SR</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 246</AddressLine1>
+            <City>EAST MILLINOCKET</City>
+            <State>ME</State>
+            <ZIPCode>04430</ZIPCode>
+          </USAddress>
+          <Title>CLERK</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARBARA PENDLETON</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 110 COLONY RD</AddressLine1>
+            <City>ISLESBORO</City>
+            <State>ME</State>
+            <ZIPCode>04848</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WAKINE TANOUS JR</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 246</AddressLine1>
+            <City>EAST MILLINOCKET</City>
+            <State>ME</State>
+            <ZIPCode>04430</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SHEILA DOBROWOLSKI</PersonName>
+          <USAddress>
+            <AddressLine1>132 PARTRIDGE CIRCLE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CYNTHIA TANOUS</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 7215</AddressLine1>
+            <City>OCEAN PARK</City>
+            <State>ME</State>
+            <ZIPCode>04063</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>COLETTE MALENFANT</PersonName>
+          <ForeignAddress>
+            <AddressLine1>3183 MARSOLET</AddressLine1>
+            <Country>CA</Country>
+          </ForeignAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BARBARA PIVERONAS</PersonName>
+          <USAddress>
+            <AddressLine1>43 SETTLER RD</AddressLine1>
+            <City>SOUTH PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04106</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FRANK PIVERONAS</PersonName>
+          <USAddress>
+            <AddressLine1>43 SETTLER RD</AddressLine1>
+            <City>SOUTH PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04106</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>369781</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1617</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>371398</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>371398</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5571</CashDeemedCharitable>
+        <NetNoncharitableAssets>365827</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>18291</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>18291</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>102</TaxBasedOnInvestmentIncome>
+        <TotalTax>102</TotalTax>
+        <DistributableAmountBeforeAdj>18189</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>18189</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>18189</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>11049</ExpensesAndContributions>
+        <QualifyingDistributions>11049</QualifyingDistributions>
+        <AdjQualifyingDistributions>11049</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>18189</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>2649</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear3>15330</ExcessDistriCarryoverYear3>
+        <TotalExcessDistriCarryover>17979</TotalExcessDistriCarryover>
+        <QualifyingDistributions>11049</QualifyingDistributions>
+        <AppliedToCurrentYear>11049</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>7140</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>7140</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>10839</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>10839</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>10839</ExcessFromYear3>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NA</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LAURA LEE PERKINS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>13238 W SHADOW HILLS DR</AddressLine1>
+            <City>SUN CITY WEST</City>
+            <State>AZ</State>
+            <ZIPCode>85375</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PAID</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP AWARD</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>7813</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>12580</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>20394</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>20394</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>865</Amount>
+        <NetInvestmentIncome>87</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>778</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorpStock>
+        <NameOfStock>CORPORATE STOCK</NameOfStock>
+        <EOYBookValue>103614</EOYBookValue>
+        <EOYFMV>105710</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MUTUAL FUNDS</NameOfStock>
+        <EOYBookValue>214514</EOYBookValue>
+        <EOYFMV>198948</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="STM107">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>35</Amount>
+        <NetInvestmentIncome>4</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>31</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>PROJECTS</Description>
+        <RevenueAndExpensesPerBooks>670</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>670</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BOARD EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>70</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>7</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>63</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="STM109">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT SERVICES</Category>
+        <Amount>1627</Amount>
+        <NetInvestmentIncome>1627</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>WEBSITE MAINTENANCE FEES</Category>
+        <Amount>2093</Amount>
+        <NetInvestmentIncome>209</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1884</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="STM110">
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>220</Amount>
+        <NetInvestmentIncome>22</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>198</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>102</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>102</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

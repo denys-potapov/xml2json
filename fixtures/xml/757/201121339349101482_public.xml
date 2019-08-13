@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-13T13:19:43-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>JAY R GELB &amp; COMPANY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>180 OFFICE PARK WAY STE 2000</AddressLine1>
+        <City>PITTSFORD</City>
+        <State>NY</State>
+        <ZIPCode>14534</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010757068</EIN>
+      <Name>
+        <BusinessNameLine1>JOHN AND BERNICE PLUTA FAMILY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>JOHN</NameControl>
+      <Phone>5185834306</Phone>
+      <USAddress>
+        <AddressLine1>22 MOONGLOW RD</AddressLine1>
+        <City>GANSEVOORT</City>
+        <State>NY</State>
+        <ZIPCode>12831</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GARY J PLUTA</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5185834306</Phone>
+      <DateSigned>2011-05-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>BRADLEY L GELB CPA</Name>
+      <Phone>5852327046</Phone>
+      <DatePrepared>2011-05-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1655338</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>38558</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>38558</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>38558</DividendsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000008" referenceDocumentName="OtherIncomeSchedule2">-1004</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>-1004</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>-1004</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>37554</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>37554</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>37554</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>36000</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>14400</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>14400</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>21600</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">3250</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1300</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>1300</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>1950</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="00000009" referenceDocumentName="TaxesSchedule">2918</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>1266</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>1266</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>1652</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">3717</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>2550</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>2550</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>1167</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>45885</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>19516</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>19516</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>26369</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>70000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>70000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>115885</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>19516</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>19516</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>96369</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-78331</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>18038</NetInvestmentIncome>
+        <AdjustedNetIncome>18038</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>45007</CashBOY>
+        <CashEOY>36141</CashEOY>
+        <CashEOYFMV>36141</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>97928</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>218977</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>218977</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>1118124</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="00000004" referenceDocumentName="InvestmentsCorpStockSchedule">1016923</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1123342</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>347256</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="00000003" referenceDocumentName="InvestmentsCorpBondsSchedule">246100</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>250635</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>27669</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsOtherSchedule2">11333</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>26243</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>1635984</TotalAssetsBOY>
+        <TotalAssetsEOY>1529474</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1655338</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1635984</CapitalStockBOY>
+        <CapitalStockEOY>1529474</CapitalStockEOY>
+        <TotalNetAssetsBOY>1635984</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1529474</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1635984</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1529474</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1635984</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-78331</ExcessOfRevenueOverExpenses>
+        <Subtotal>1557653</Subtotal>
+        <OtherDecreases referenceDocumentId="00000006" referenceDocumentName="OtherDecreasesSchedule">28179</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1529474</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 SH ALCOA INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-14</DateAcquired>
+          <DateSold>2010-11-16</DateSold>
+          <GrossSalesPrice>6360</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>7544</CostOrOtherBasis>
+          <GainOrLoss>-1184</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-1184</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>600 SH BANK OF AMERICA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-23</DateAcquired>
+          <DateSold>2010-10-25</DateSold>
+          <GrossSalesPrice>6611</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>19314</CostOrOtherBasis>
+          <GainOrLoss>-12703</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-12703</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 SH BEST BUY CO INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-16</DateAcquired>
+          <DateSold>2010-01-21</DateSold>
+          <GrossSalesPrice>11302</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>11726</CostOrOtherBasis>
+          <GainOrLoss>-424</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-424</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 SH BOEING COMPANY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-28</DateAcquired>
+          <DateSold>2010-10-04</DateSold>
+          <GrossSalesPrice>26296</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>20781</CostOrOtherBasis>
+          <GainOrLoss>5515</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>5515</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 SH BP PLC SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2010-07-16</DateSold>
+          <GrossSalesPrice>15073</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>18842</CostOrOtherBasis>
+          <GainOrLoss>-3769</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-3769</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>600 SH CHEVRON CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-01</DateAcquired>
+          <DateSold>2010-10-15</DateSold>
+          <GrossSalesPrice>49974</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>41875</CostOrOtherBasis>
+          <GainOrLoss>8099</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>8099</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 SH E M C CORP MASS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-20</DateAcquired>
+          <DateSold>2010-09-14</DateSold>
+          <GrossSalesPrice>8094</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>7923</CostOrOtherBasis>
+          <GainOrLoss>171</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>171</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 SH HESS CORPORATION</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-13</DateAcquired>
+          <DateSold>2010-10-04</DateSold>
+          <GrossSalesPrice>17654</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>14636</CostOrOtherBasis>
+          <GainOrLoss>3018</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>3018</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 SH LOWES COMPANIES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-09-19</DateAcquired>
+          <DateSold>2010-10-25</DateSold>
+          <GrossSalesPrice>4292</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>5250</CostOrOtherBasis>
+          <GainOrLoss>-958</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-958</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 SH SECTOR SPDR TR ENERGY SELECT XLE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-02-09</DateAcquired>
+          <DateSold>2010-09-28</DateSold>
+          <GrossSalesPrice>27228</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>25113</CostOrOtherBasis>
+          <GainOrLoss>2115</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>2115</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>500 SH ENERGY TRANSFER EQUITY LP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-28</DateAcquired>
+          <DateSold>2010-09-28</DateSold>
+          <GrossSalesPrice>18232</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>10856</CostOrOtherBasis>
+          <GainOrLoss>7376</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>7376</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20000 SH FORD MOTOR CREDIT CO 6.85%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-06-23</DateAcquired>
+          <DateSold>2010-12-20</DateSold>
+          <GrossSalesPrice>20000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>20000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25000 SH GENERAL MOTORS GLOBAL NOTES 8.25%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-07-03</DateAcquired>
+          <DateSold>2010-09-28</DateSold>
+          <GrossSalesPrice>7772</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>25469</CostOrOtherBasis>
+          <GainOrLoss>-17697</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-17697</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25000 SH GENERAL MOTORS GLOBAL NOTES 8.375%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-07-03</DateAcquired>
+          <DateSold>2010-09-28</DateSold>
+          <GrossSalesPrice>7980</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>25687</CostOrOtherBasis>
+          <GainOrLoss>-17707</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>-17707</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10000 SH HOUSEHOLD FINANCE CORP INTERNOTE 6.00%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-12-11</DateAcquired>
+          <DateSold>2010-10-18</DateSold>
+          <GrossSalesPrice>10000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>10000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>800 SH GEORGIA POWER CO 6%</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-10-23</DateAcquired>
+          <DateSold>2010-06-24</DateSold>
+          <GrossSalesPrice>20000</GrossSalesPrice>
+          <Depreciation>0</Depreciation>
+          <CostOrOtherBasis>20000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <FMVAsOf123169>0</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>0</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>0</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-28148</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <QualifyingDistributionsYear1>86026</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1376060</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.062516</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>96355</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1679691</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.057365</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>94969</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1978006</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.048012</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>96533</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1915440</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.050397</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>87781</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1882608</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.046627</DistributionRatioYear5>
+        <TotalDistributionRatio>0.264917</TotalDistributionRatio>
+        <AverageDistributionRatio>0.052983</AverageDistributionRatio>
+        <NetNoncharitableAssets>1560532</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>82682</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>180</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>82862</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>96369</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>180</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>180</Subtotal>
+        <TaxBasedOnInvestmentIncome>180</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>515</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>515</TotalCreditsAndPayments>
+        <OriginalReturnOverpayment>-515</OriginalReturnOverpayment>
+        <Overpayment>335</Overpayment>
+        <AmountCreditedToNextYear>335</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>BOOKKEEPER</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5185834306</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>22 MOONGLOW RD</AddressLine1>
+          <City>GANSEVOORT</City>
+          <State>NY</State>
+          <ZIPCode>12831</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GARY J PLUTA</PersonName>
+          <USAddress>
+            <AddressLine1>22 MOONGLOW RD</AddressLine1>
+            <City>GANSEVOORT</City>
+            <State>NY</State>
+            <ZIPCode>12831</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>36000</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1405450</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>178846</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1584296</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1584296</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>23764</CashDeemedCharitable>
+        <NetNoncharitableAssets>1560532</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>78027</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>78027</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>180</TaxBasedOnInvestmentIncome>
+        <TotalTax>180</TotalTax>
+        <DistributableAmountBeforeAdj>77847</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>77847</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>77847</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>96369</ExpensesAndContributions>
+        <QualifyingDistributions>96369</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>180</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>96189</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>77847</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>37687</UndistributedIncomePriorYear>
+        <QualifyingDistributions>96369</QualifyingDistributions>
+        <AppliedToYear1>37687</AppliedToYear1>
+        <AppliedToCurrentYear>58682</AppliedToCurrentYear>
+        <UndistributedIncomeCY>19165</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BEST FRIENDS ANIMAL SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5001 ANGEL CANYON ROAD</AddressLine1>
+            <City>KANAG</City>
+            <State>UT</State>
+            <ZIPCode>84741</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BACK TO THE WILD INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4504 BARDSHAR RD</AddressLine1>
+            <City>CASTALIA</City>
+            <State>OH</State>
+            <ZIPCode>44824</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAGRUDER HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>615 FULTON STREET</AddressLine1>
+            <City>PORT CLINTON</City>
+            <State>OH</State>
+            <ZIPCode>43452</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>31000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SHELTERS OF SARATOGA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14 WALWORTH ST PO BOX 3089 SARATOGA</AddressLine1>
+            <City>SPRINGS</City>
+            <State>NY</State>
+            <ZIPCode>12866</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SARATOGO CARE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>211 CHURCH STREET</AddressLine1>
+            <City>SARATOGO SPRING</City>
+            <State>NY</State>
+            <ZIPCode>12866</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL CENTER FOR MISSING &amp; EXPLOITED CHILDREN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>275 LAKE AVENUE</AddressLine1>
+            <City>ROCHESTER</City>
+            <State>NY</State>
+            <ZIPCode>14608</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>70000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>38558</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>38558</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>38558</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>JAY R GELB &amp; COMPANY P.C. ACCOUNTING</Category>
+        <Amount>3250</Amount>
+        <NetInvestmentIncome>1300</NetInvestmentIncome>
+        <AdjustedNetIncome>1300</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1950</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="00000003">
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF AMERICA CORP BABY BOND 5.875%</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>24510</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>BANK OF AMERICA CORPORATION 5.25%</NameOfBond>
+        <EOYBookValue>24603</EOYBookValue>
+        <EOYFMV>25322</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CISCO SYSTEMS INC SENIOR 5.50%</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>22827</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>CITIGROUP IN GLOBAL 5.30%</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>21329</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FEDERAL HOME LOAN MORTGAGE CORP 5.50%</NameOfBond>
+        <EOYBookValue>34051</EOYBookValue>
+        <EOYFMV>34208</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>FORD MOTOR CO CAPITAL TRUST 6.50%</NameOfBond>
+        <EOYBookValue>9771</EOYBookValue>
+        <EOYFMV>8722</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>GENERAL ELECTRIC CAP CORP 5.70%</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>25027</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>HOME DEPOT INC 5.40%</NameOfBond>
+        <EOYBookValue>30000</EOYBookValue>
+        <EOYFMV>33560</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>JP MORGAN CHASE CAP XII 6.25%</NameOfBond>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>25230</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>SATURNS GOLDMAN SACHS GOUP INC 6.00%</NameOfBond>
+        <EOYBookValue>32675</EOYBookValue>
+        <EOYFMV>29900</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="00000004">
+      <InvestmentsCorpStock>
+        <NameOfStock>CARDINAL HEALTH INC</NameOfStock>
+        <EOYBookValue>22762</EOYBookValue>
+        <EOYFMV>19155</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CAREFUSION CORP</NameOfStock>
+        <EOYBookValue>9019</EOYBookValue>
+        <EOYFMV>6425</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CHESAPEAKE ENERGY CORP</NameOfStock>
+        <EOYBookValue>5673</EOYBookValue>
+        <EOYFMV>7773</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CISCO SYSTEMS INC</NameOfStock>
+        <EOYBookValue>20476</EOYBookValue>
+        <EOYFMV>20230</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CITIGROUP INC</NameOfStock>
+        <EOYBookValue>54352</EOYBookValue>
+        <EOYFMV>8041</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>CONOCOPHILLIPS</NameOfStock>
+        <EOYBookValue>36025</EOYBookValue>
+        <EOYFMV>47670</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DELL INC</NameOfStock>
+        <EOYBookValue>8217</EOYBookValue>
+        <EOYFMV>6775</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EXXON MOBIL CORP</NameOfStock>
+        <EOYBookValue>76562</EOYBookValue>
+        <EOYFMV>87744</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FINANCIAL SELECT SECTOR SPDR XLF</NameOfStock>
+        <EOYBookValue>34350</EOYBookValue>
+        <EOYFMV>23925</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FLEXTRONICS INTERNATIONAL LIMITED</NameOfStock>
+        <EOYBookValue>3531</EOYBookValue>
+        <EOYFMV>2355</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC COMPANY</NameOfStock>
+        <EOYBookValue>43667</EOYBookValue>
+        <EOYFMV>21948</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HOME DEPOT INC</NameOfStock>
+        <EOYBookValue>14305</EOYBookValue>
+        <EOYFMV>17530</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>INTEL CORP</NameOfStock>
+        <EOYBookValue>87164</EOYBookValue>
+        <EOYFMV>79199</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR - S&amp;P SMALLCAP 600 INDEX FUND</NameOfStock>
+        <EOYBookValue>77545</EOYBookValue>
+        <EOYFMV>137008</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P MIDCAP 400 VALUE INDEX FUND</NameOfStock>
+        <EOYBookValue>25248</EOYBookValue>
+        <EOYFMV>42432</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P SMALLCAP 600 GROWTH INDEX FUND</NameOfStock>
+        <EOYBookValue>24912</EOYBookValue>
+        <EOYFMV>48345</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P SMALLCAP 600 VALUE INDEX FUND</NameOfStock>
+        <EOYBookValue>24019</EOYBookValue>
+        <EOYFMV>38389</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TRUST S&amp;P 500 INDEX FUND</NameOfStock>
+        <EOYBookValue>28928</EOYBookValue>
+        <EOYFMV>33728</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TRUST S&amp;P MIDCAP 400 INDEX FUND</NameOfStock>
+        <EOYBookValue>74297</EOYBookValue>
+        <EOYFMV>132952</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR S&amp;P 500 INDEX FUND</NameOfStock>
+        <EOYBookValue>103370</EOYBookValue>
+        <EOYFMV>126250</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>24077</EOYBookValue>
+        <EOYFMV>24740</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>LSI CORP</NameOfStock>
+        <EOYBookValue>1607</EOYBookValue>
+        <EOYFMV>258</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MICROSOFT CORP</NameOfStock>
+        <EOYBookValue>25247</EOYBookValue>
+        <EOYFMV>30701</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MOTOROLA INCORPORATED</NameOfStock>
+        <EOYBookValue>4948</EOYBookValue>
+        <EOYFMV>4118</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>NOKIA CORPORATION SPONSORED ADR</NameOfStock>
+        <EOYBookValue>19490</EOYBookValue>
+        <EOYFMV>12384</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PFIZER INC</NameOfStock>
+        <EOYBookValue>41546</EOYBookValue>
+        <EOYFMV>29767</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SCHLUMBERGER LTD</NameOfStock>
+        <EOYBookValue>23969</EOYBookValue>
+        <EOYFMV>33400</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>TESORO CORP</NameOfStock>
+        <EOYBookValue>21906</EOYBookValue>
+        <EOYFMV>11124</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>UNITED TECHNOLOGIES CORP</NameOfStock>
+        <EOYBookValue>47347</EOYBookValue>
+        <EOYFMV>55104</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VALERO CORP</NameOfStock>
+        <EOYBookValue>32364</EOYBookValue>
+        <EOYFMV>13872</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="00000005">
+      <InvestmentsOther>
+        <CategoryOrItem>LINN ENERGY LLC</CategoryOrItem>
+        <BookValue>11333</BookValue>
+        <EOYFMV>26243</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="00000006">
+      <OtherDecreases>
+        <Description>CAPITAL LOSS</Description>
+        <Amount>28148</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>K-1 30-0108820</Description>
+        <Amount>31</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="00000007">
+      <OtherExpenses>
+        <Description>Office Expense</Description>
+        <RevenueAndExpensesPerBooks>540</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>216</NetInvestmentIncome>
+        <AdjustedNetIncome>216</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>324</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>988</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>395</NetInvestmentIncome>
+        <AdjustedNetIncome>395</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>593</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Futa &amp; Suta Expense</Description>
+        <RevenueAndExpensesPerBooks>85</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>85</NetInvestmentIncome>
+        <AdjustedNetIncome>85</AdjustedNetIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NYS Filing Fees</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>250</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>K-1 65-1177591</Description>
+        <RevenueAndExpensesPerBooks>1854</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>1854</NetInvestmentIncome>
+        <AdjustedNetIncome>1854</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000008">
+      <OtherIncome>
+        <Description>K-1 30-0108820</Description>
+        <RevenueAndExpensesPerBooks>-1505</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>-1505</NetInvestmentIncome>
+        <AdjustedNetIncome>-1505</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>K-1 65-1177591</Description>
+        <RevenueAndExpensesPerBooks>519</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>519</NetInvestmentIncome>
+        <AdjustedNetIncome>519</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>K-1 65-1177591</Description>
+        <RevenueAndExpensesPerBooks>-18</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>-18</NetInvestmentIncome>
+        <AdjustedNetIncome>-18</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000009">
+      <Taxes>
+        <Category>Fica Expense</Category>
+        <Amount>2754</Amount>
+        <NetInvestmentIncome>1102</NetInvestmentIncome>
+        <AdjustedNetIncome>1102</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1652</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Foreign Tax</Category>
+        <Amount>164</Amount>
+        <NetInvestmentIncome>164</NetInvestmentIncome>
+        <AdjustedNetIncome>164</AdjustedNetIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

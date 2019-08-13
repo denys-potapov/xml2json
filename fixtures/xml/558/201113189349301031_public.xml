@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-14T08:58:54-06:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CLIFTON GUNDERSON LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>301 SW ADAMS STREET BOX 1835</AddressLine1>
+        <City>PEORIA</City>
+        <State>IL</State>
+        <ZIPCode>616561835</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010558182</EIN>
+      <Name>
+        <BusinessNameLine1>JCPE INVESTMENTS (NFP)</BusinessNameLine1>
+      </Name>
+      <NameControl>JCPE</NameControl>
+      <Phone>3096856580</Phone>
+      <USAddress>
+        <AddressLine1>2724 W RESERVOIR BLVD</AddressLine1>
+        <City>PEORIA</City>
+        <State>IL</State>
+        <ZIPCode>61615</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN SAHN</Name>
+      <Title>PRESIDENT/SECRETARY</Title>
+      <Phone>3096856580</Phone>
+      <DateSigned>2011-11-09</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>SAMUEL A CIGELNIK</Name>
+      <Phone>3096714500</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>JOHN SAHN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2724 W RESERVOIR BLVD</AddressLine1>
+        <City>PEORIA</City>
+        <State>IL</State>
+        <ZIPCode>61615</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>7916354</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="2">X</Organization501c>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2001</YearFormation>
+      <StateLegalDomicile>IL</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO HOLD AND MANAGE THE INVESTMENTS AND FIXED ASSETS OF THE JOHN C. PROCTOR ENDOWMENT.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>7</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>7</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>0</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>0</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>703148</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>1301248</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>125354</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>128832</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>828502</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>1430080</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>0</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>0</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>3755116</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>3302725</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>3755116</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>3302725</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-2926614</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-1872645</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>55897289</TotalAssetsBOY>
+      <TotalAssetsEOY>57381977</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>34098</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>35392</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>55863191</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>57346585</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>TO HOLD AND MANAGE THE INVESTMENTS AND FIXED ASSETS OF JOHN C. PROCTOR ENDOWMENT.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>JCPE INVESTMENTS HOLDS AND MANAGES THE INVESTMENTS AND FIXED ASSETS OF JOHN C. PROCTOR ENDOWMENT.</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">1</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>7</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>7</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>1</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>IL</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>JOHN SAHN</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>3096856580</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2724 W RESERVOIR BLVD</AddressLine1>
+          <City>PEORIA</City>
+          <State>IL</State>
+          <ZIPCode>61615</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>HARRY C STONE MD</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID L HIGGS</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ARLYN R RUBASH</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN F GILLIGAN</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN B WAHLFELD</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANDREW P STONE</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SARA K STONE</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN G SAHN</NamePerson>
+        <Title>PRES/SEC</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>157643</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>535</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL L TOMLIN</NamePerson>
+        <Title>ASS'T SEC/TREASURER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>75389</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>13859</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>233032</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>14394</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <InvestmentIncome>
+        <TotalRevenueColumn>1029959</TotalRevenueColumn>
+        <ExclusionAmount>1029959</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>122330</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>122330</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>122330</TotalRevenueColumn>
+        <ExclusionAmount>122330</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Securities>6757563</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>6486274</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>271289</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>271289</TotalRevenueColumn>
+        <ExclusionAmount>271289</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <OtherRevenueMisc>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>6502</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6502</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>6502</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>1430080</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6502</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>1423578</ExclusionAmount>
+      </TotalRevenue>
+      <Occupancy>
+        <Total>10155</Total>
+      </Occupancy>
+      <PaymentsToAffiliates>
+        <Total>2413404</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>818776</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>10578</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>REAL ESTATE TAXES</Description>
+        <Total>20443</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS AND MAINTENANCE</Description>
+        <Total>19843</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>AGENCY SERVICES</Description>
+        <Total>4798</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>2456</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <Total>2272</Total>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>3302725</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>1214571</BOY>
+        <EOY>1273563</EOY>
+      </CashNonInterestBearing>
+      <LandBuildingsEquipmentBasis>30033573</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>11941644</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>18887738</BOY>
+        <EOY>18091929</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>35794980</BOY>
+        <EOY>38016485</EOY>
+      </InvestmentsPubTradedSecurities>
+      <TotalAssets>
+        <BOY>55897289</BOY>
+        <EOY>57381977</EOY>
+      </TotalAssets>
+      <OtherLiabilities>
+        <BOY>34098</BOY>
+        <EOY>35392</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>34098</BOY>
+        <EOY>35392</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>55863191</BOY>
+        <EOY>57346585</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>55863191</BOY>
+        <EOY>57346585</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>55897289</BOY>
+        <EOY>57381977</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>-1872645</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>3356039</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>1807156</OtherCostOrOtherBasis>
+        <BookValue>1807156</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>28197073</OtherCostOrOtherBasis>
+        <Depreciation>11925303</Depreciation>
+        <BookValue>16271770</BookValue>
+      </Buildings>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>29344</OtherCostOrOtherBasis>
+        <Depreciation>16341</Depreciation>
+        <BookValue>13003</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>18091929</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>OTHER ACCRUED LIABILITIES</Description>
+        <Amount>35392</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>35392</TotalOfAmounts>
+      <TotalRevenue>1430080</TotalRevenue>
+      <TotalExpenses>3302725</TotalExpenses>
+      <ExcessOrDeficitForYear>-1872645</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>2938471</NetUnrealizedGLOnInvestments>
+      <OtherAmount>417568</OtherAmount>
+      <TotalAdjustments>3356039</TotalAdjustments>
+      <ExcessOrDeficitPerFS>1483394</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>4336814</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>2938470</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>2938470</RevenueNotRptdF990>
+      <RevenueSubtotal>1398344</RevenueSubtotal>
+      <OtherRevenuesNotIncluded>31736</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>31736</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>1430080</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>2896854</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>2896854</ExpensesSubtotal>
+      <OtherExpensesNotIncluded>405871</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>405871</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>3302725</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XI, LINE 8 - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>INVESTMENT BY AFFILIATE - JCPE 417,568.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>ACCRUAL TO CASH ADJUSTMENT 31,736.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>TRANSFER OF ASSETS FROM AFFILIATE 417,568. ACCRUAL TO CASH ADJUSTMENT -11,697.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <Form990ScheduleJPartII>
+        <NamePerson>JOHN G SAHN</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>157643</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>535</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>158178</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 2</Identifier>
+        <Explanation>SARA K. STONE, TRUSTEE, IS THE SPOUSE OF HARRY C. STONE, CHAIRMAN. ANDREW P. STONE, TRUSTEE, IS THE SON OF HARRY C. STONE, CHAIRMAN, AND THE SON OF SARA K. STONE, TRUSTEE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>A COPY OF THE 990 IS DISTRIBUTED TO THE ORGANIZATION'S GOVERNING BODY BEFORE IT IS FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ON AN ANNUAL BASIS THE OFFICERS AND TRUSTEES SUBMIT A LIST OF POTENTIAL CONFLICTS OF INTEREST. THE FORMS ARE HELD BY THE CHAIRMAN OF THE BOARD AND IF A CONFLICT ARISES, HE WOULD HAVE THE DUTY TO EXCUSE THE OFFICER OR TRUSTEE FROM PARTICIPATING IN THAT DISCUSSION/DECISON.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION MAKES ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>NET UNREALIZED GAINS ON INVESTMENTS: 2,938,471. INVESTMENT BY AFFILIATE - JCPE 417,568. TOTAL TO FORM 990, PART XI, LINE 5: 3,356,039.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>THIS PROCESS HAS NOT CHANGED SINCE THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>JCPE PROPERTIES</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2724 W RESERVOIR BLVD</AddressLine1>
+          <City>PEORIA</City>
+          <State>IL</State>
+          <ZIPCode>61615</ZIPCode>
+        </AddressUS>
+        <PrimaryActivities>HOLD &amp; MAINTAIN 24 UNIT APARTMENT COMPLEX</PrimaryActivities>
+        <LegalDomicileState>IL</LegalDomicileState>
+        <TotalIncome>124403</TotalIncome>
+        <EOYAssets>959557</EOYAssets>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>INVESTMENTS</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>JOHN C PROCTOR ENDOWMENT</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2724 W RESERVOIR BLVD</AddressLine1>
+          <City>PEORIA</City>
+          <State>IL</State>
+          <ZIPCode>61615</ZIPCode>
+        </AddressUS>
+        <EIN>370662595</EIN>
+        <PrimaryActivities>PROVIDE ADEQUATE CARE FOR THE AGED</PrimaryActivities>
+        <LegalDomicileState>IL</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>PRIVATE FOUNDATION</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>1</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>1</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>JOHN C PROCTOR ENDOWMENT</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>Q</TransactionType>
+        <AmountInvolved>2413404</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>JOHN C PROCTOR ENDOWMENT</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>R</TransactionType>
+        <AmountInvolved>417568</AmountInvolved>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

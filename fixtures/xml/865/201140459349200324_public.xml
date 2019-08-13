@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-14T12:34:05-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-07-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SQUIRE &amp; COMPANY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1329 SOUTH 800 EAST</AddressLine1>
+        <City>OREM</City>
+        <State>UT</State>
+        <ZIPCode>840977737</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990EZ</ReturnType>
+    <TaxPeriodBeginDate>2009-08-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010865479</EIN>
+      <Name>
+        <BusinessNameLine1>UTAH USBC-WBA</BusinessNameLine1>
+      </Name>
+      <NameControl>UTAH</NameControl>
+      <Phone>8016434344</Phone>
+      <USAddress>
+        <AddressLine1>4096 SOUTH 3325 WEST</AddressLine1>
+        <City>WEST HAVEN</City>
+        <State>UT</State>
+        <ZIPCode>84401</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>CONNIE PAQUETTE</Name>
+      <Title>MANAGER</Title>
+      <Phone>8016434344</Phone>
+      <DateSigned>2011-01-18</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>CHARLOTTE CLARK CPA</Name>
+      <Phone>8012256900</Phone>
+      <DatePrepared>2011-02-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990EZ documentId="RetDoc4">
+      <GroupExemptionNumber>4348</GroupExemptionNumber>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <ScheduleBNotRequired>X</ScheduleBNotRequired>
+      <WebSite>N/A</WebSite>
+      <Organization501c typeOf501cOrganization="3" referenceDocumentId="RetDoc3">X</Organization501c>
+      <GrossReceiptsLessThan25000>X</GrossReceiptsLessThan25000>
+      <GrossReceipts>54082</GrossReceipts>
+      <ProgramServiceRevenue>45091</ProgramServiceRevenue>
+      <MembershipDues>8708</MembershipDues>
+      <InvestmentIncome>283</InvestmentIncome>
+      <TotalRevenue>54082</TotalRevenue>
+      <GrantsAndSimilarAmountsPaid referenceDocumentId="RetDoc5">255</GrantsAndSimilarAmountsPaid>
+      <OtherExpensesTotal referenceDocumentId="RetDoc2">51286</OtherExpensesTotal>
+      <TotalExpenses>51541</TotalExpenses>
+      <ExcessOrDeficitForYear>2541</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>74453</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>76994</NetAssetsOrFundBalancesEOY>
+      <CashSavingsAndInvestments>
+        <BOY>74453</BOY>
+        <EOY>76994</EOY>
+      </CashSavingsAndInvestments>
+      <TotalAssets>
+        <BOY>74453</BOY>
+        <EOY>76994</EOY>
+      </TotalAssets>
+      <NetAssetsOrFundBalances>
+        <BOY>74453</BOY>
+        <EOY>76994</EOY>
+      </NetAssetsOrFundBalances>
+      <PrimaryExemptPurpose>THIS ORGANIZATION SERVES TO OVERSEE LOCAL BOWLING CHAPTERS THROUGHOUT THE STATE OF UTAH.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>ORGANIZE BOWLING TOURNAMENTS AND OVERSEE BOWLING CHAPTERS IN THE STATE OF UTAH</DescriptionProgramServiceAccom>
+        <ProgramServiceExpenses>51541</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <TotalProgramServiceExpenses>51541</TotalProgramServiceExpenses>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">HOLLEY ALLEN</PersonName>
+        <AddressUS>
+          <AddressLine1>11910 N 2000 E</AddressLine1>
+          <City>COVE</City>
+          <State>UT</State>
+          <ZIPCode>84320</ZIPCode>
+        </AddressUS>
+        <Title>1ST VP</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">BONNIE JO WEAKLAND</PersonName>
+        <AddressUS>
+          <AddressLine1>99 N 575 W</AddressLine1>
+          <City>LAYTON</City>
+          <State>UT</State>
+          <ZIPCode>84041</ZIPCode>
+        </AddressUS>
+        <Title>PRESIDENT</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">BECKY ANTHONY</PersonName>
+        <AddressUS>
+          <AddressLine1>359 HILLGATE</AddressLine1>
+          <City>LAYTON</City>
+          <State>UT</State>
+          <ZIPCode>84041</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">MAUREEN NELSON</PersonName>
+        <AddressUS>
+          <AddressLine1>2586 FALCON WAY</AddressLine1>
+          <City>SANDY</City>
+          <State>UT</State>
+          <ZIPCode>84093</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">FLIP NICOL</PersonName>
+        <AddressUS>
+          <AddressLine1>2210 N 1200 W</AddressLine1>
+          <City>HELPER</City>
+          <State>UT</State>
+          <ZIPCode>845262437</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">KATHERINE KNECHT</PersonName>
+        <AddressUS>
+          <AddressLine1>1018 S 1075 E</AddressLine1>
+          <City>CLEARFIELD</City>
+          <State>UT</State>
+          <ZIPCode>84015</ZIPCode>
+        </AddressUS>
+        <Title>2ND VP</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">CONNIE E PAQUETTE</PersonName>
+        <AddressUS>
+          <AddressLine1>4096 SOUTH 3325 WEST</AddressLine1>
+          <City>WEST HAVEN</City>
+          <State>UT</State>
+          <ZIPCode>84401</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">LOUANN POULSON</PersonName>
+        <AddressUS>
+          <AddressLine1>709 W MAIN</AddressLine1>
+          <City>MOUNT PLEASANT</City>
+          <State>UT</State>
+          <ZIPCode>84647</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">BILLY SUMMER</PersonName>
+        <AddressUS>
+          <AddressLine1>3435 WEST 4035 SOUTH</AddressLine1>
+          <City>WEST VALLEY CITY</City>
+          <State>UT</State>
+          <ZIPCode>84119</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">TERESA MAUGHAN</PersonName>
+        <AddressUS>
+          <AddressLine1>111 N 400 W</AddressLine1>
+          <City>BRIGHAM CITY</City>
+          <State>UT</State>
+          <ZIPCode>84302</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">DEBBIE LARSEN</PersonName>
+        <AddressUS>
+          <AddressLine1>866 E 100 S</AddressLine1>
+          <City>MOUNT PLEASANT</City>
+          <State>UT</State>
+          <ZIPCode>84647</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc1">MARNYE MADRID</PersonName>
+        <AddressUS>
+          <AddressLine1>3007 WEST SOUTH POINTE RD</AddressLine1>
+          <City>SOUTH JORDAN</City>
+          <State>UT</State>
+          <ZIPCode>84095</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <ActivitiesNotPreviouslyRpt>false</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>false</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>false</OrganizationHadUBI>
+      <OrganizationDissolvedEtc>false</OrganizationDissolvedEtc>
+      <DidOrgFileForm1120POLThisYear>false</DidOrgFileForm1120POLThisYear>
+      <MadeLoansToFromOfficers>false</MadeLoansToFromOfficers>
+      <EngagedInExcessBenefitTrans>false</EngagedInExcessBenefitTrans>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TheBooksAreInCareOf>
+        <NamePerson>CONNIE PAQUETTE</NamePerson>
+        <AddressUS>
+          <AddressLine1>4096 SOUTH 3325 WEST</AddressLine1>
+          <City>WEST HAVEN</City>
+          <State>UT</State>
+          <ZIPCode>84401</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>8016434344</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ForeignOffice>false</ForeignOffice>
+      <MaintainAnyDonorAdvisedFunds>false</MaintainAnyDonorAdvisedFunds>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <EngagePoliticalCmpgnActivities>false</EngagePoliticalCmpgnActivities>
+      <EngageInLobbyingActivities>false</EngageInLobbyingActivities>
+      <OperatingSchool>false</OperatingSchool>
+      <TrnsfrsExemptNonCharRelatedOrg>false</TrnsfrsExemptNonCharRelatedOrg>
+      <PartVIOfCompOfHighestPaidEmpl>NONE</PartVIOfCompOfHighestPaidEmpl>
+      <PartVIAHghstPaidCntrctProfSer>NONE</PartVIAHghstPaidCntrctProfSer>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="RetDoc3">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>15405</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus1Year>8292</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>8708</CurrentTaxYear>
+        <Total>32405</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>50201</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>56952</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>62806</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>45136</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>45091</CurrentTaxYear>
+        <Total>260186</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>65606</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>56952</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>62806</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>53428</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>53799</CurrentTaxYear>
+        <Total>292591</Total>
+      </Total509>
+      <PublicSupportTotal509>292591</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>1181</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1315</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1737</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>518</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>283</CurrentTaxYear>
+        <Total>5034</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>1181</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1315</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1737</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>518</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>283</CurrentTaxYear>
+        <Total>5034</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>66787</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>58267</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>64543</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>53946</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>54082</CurrentTaxYear>
+        <Total>297625</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.98310</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.98310</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.02000</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.02000</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <CompensationExplanation documentId="RetDoc1">
+      <Compensation>
+        <PersonName>HOLLEY ALLEN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BONNIE JO WEAKLAND</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BECKY ANTHONY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MAUREEN NELSON</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>FLIP NICOL</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>KATHERINE KNECHT</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CONNIE E PAQUETTE</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>LOUANN POULSON</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BILLY SUMMER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TERESA MAUGHAN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>DEBBIE LARSEN</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>MARNYE MADRID</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+  </ReturnData>
+</Return>

@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-12T12:24:52-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>55 Walls Drive</AddressLine1>
+        <City>Fairfield</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010548657</EIN>
+      <Name>
+        <BusinessNameLine1>The Kuehner Brothers Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>KUEH</NameControl>
+      <Phone>8008391754</Phone>
+      <USAddress>
+        <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+        <City>Wilmington</City>
+        <State>DE</State>
+        <ZIPCode>198091377</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Paul Kuehner</Name>
+      <Title>Vice President</Title>
+      <DateSigned>2011-05-12</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey D Haskell</Name>
+      <Phone>8008391754</Phone>
+      <DatePrepared>2011-05-12</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>31975</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>50000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>497</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>497</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>50497</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>497</TotalNetInvestmentIncome>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:78">9</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">5228</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>5228</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5237</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5228</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>45000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>45000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>50237</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>50228</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>260</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>497</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>31715</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>31975</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>31975</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>31715</TotalAssetsBOY>
+        <TotalAssetsEOY>31975</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>31975</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>31715</RetainedEarningsBOY>
+        <RetainedEarningsEOY>31975</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>31715</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>31975</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>31715</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>31975</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>31715</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>260</ExcessOfRevenueOverExpenses>
+        <Subtotal>31975</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>31975</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>100207</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>62456</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>001.604442</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>392648</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>198864</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>001.974455</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>460099</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>341092</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>001.348900</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>523583</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>746251</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.701618</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>232873</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>314676</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.740041</DistributionRatioYear5>
+        <TotalDistributionRatio>006.369456</TotalDistributionRatio>
+        <AverageDistributionRatio>001.273891</AverageDistributionRatio>
+        <NetNoncharitableAssets>43555</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>55484</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>5</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>55489</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>50228</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>10</InvestmentIncomeExciseTax>
+        <Subtotal>10</Subtotal>
+        <TaxBasedOnInvestmentIncome>10</TaxBasedOnInvestmentIncome>
+        <TaxDue>10</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>true</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>co Foundation Source</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8008391754</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>501 Silverside Road Suite 123</AddressLine1>
+          <City>Wilmington</City>
+          <State>DE</State>
+          <ZIPCode>198091377</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>true</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Carl R Kuehner</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>President / Director / Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Paul J Kuehner</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Vice President / Director</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>44218</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>44218</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>44218</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">663</CashDeemedCharitable>
+        <NetNoncharitableAssets>43555</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2178</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2178</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>10</TaxBasedOnInvestmentIncome>
+        <TotalTax>10</TotalTax>
+        <DistributableAmountBeforeAdj>2168</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2168</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2168</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">50228</ExpensesAndContributions>
+        <QualifyingDistributions>50228</QualifyingDistributions>
+        <AdjQualifyingDistributions>50228</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2168</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>216991</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>487232</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>444410</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>382733</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>97102</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1628468</TotalExcessDistriCarryover>
+        <QualifyingDistributions>50228</QualifyingDistributions>
+        <AppliedToCurrentYear>2168</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>48060</RemainingDistriFromCorpus>
+        <TotalCorpus>1676528</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>216991</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>1459537</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>487232</ExcessFromYear4>
+        <ExcessFromYear3>444410</ExcessFromYear3>
+        <ExcessFromYear2>382733</ExcessFromYear2>
+        <ExcessFromYear1>97102</ExcessFromYear1>
+        <ExcessFromCurrentYear>48060</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Carl R Kuehner</ContributingManager>
+        <ContributingManager>Paul J Kuehner</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHINA CARE FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 607</AddressLine1>
+            <City>WESTPORT</City>
+            <State>CT</State>
+            <ZIPCode>06881</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOMUS FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>83 LOCKWOOD AVE</AddressLine1>
+            <City>STAMFORD</City>
+            <State>CT</State>
+            <ZIPCode>06902</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOPE FOR HAITI INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1021 5TH AVE N</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NORWALK EMERGENCY SHELTER INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4 MERRITT ST</AddressLine1>
+            <City>S NORWALK</City>
+            <State>CT</State>
+            <ZIPCode>06854</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE EVERGLADES FOUNDATION INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18001 OLD CUTLER RD STE 625</AddressLine1>
+            <City>PALMETTO BAY</City>
+            <State>FL</State>
+            <ZIPCode>33157</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>45000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>497</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>497</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>497</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="990B" softwareId="10000149" softwareVersion="2010.2.15">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>0001</ContributorNumber>
+        <ContributorNameIndividual>Kuehner Carl R</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>100 Washington Blvd</AddressLine1>
+          <City>Stamford</City>
+          <State>CT</State>
+          <ZIPCode>06902</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <LiquidationExplanationStmt documentId="990PF:238" softwareId="10000149" softwareVersion="2010.2.15">
+      <Statement>This statement is submitted to report the distribution of certain assets during the above-referenced year. The distributions resulted in a substantial contraction of assets. The following information is submitted in accordance with Treasury Regulation Section 1.6043-3a1 and the Form 990-PF instructions During the taxable year ending December 31, 2010, The Kuehner Brothers Foundation Inc. the Foundation made distributions from assets from sources other than current income. Collectively, the distributions in excess of current income totaled 45,000. This amount represents over 25 of the Foundations net assets of 31,715 as measured by fair market value at the beginning of the Foundations taxable year ending December 31, 2010. Although the Foundation technically experienced a substantial contraction, it will continue in existence and has no plans for dissolution. The Foundation made distributions of cash to the grantees listed in the attachment to Part XV, Line 3a each such grant was made solely for the charitable purpose specified therein.</Statement>
+    </LiquidationExplanationStmt>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>Administrative Fees</Description>
+        <RevenueAndExpensesPerBooks>5203</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>5203</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>State or Local Filing Fees</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="10000149" softwareVersion="2010.2.15">
+      <Taxes>
+        <Category>Excise Tax for 2009</Category>
+        <Amount>9</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

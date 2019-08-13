@@ -1,0 +1,430 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-16T08:01:44-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010563707</EIN>
+      <Name>
+        <BusinessNameLine1>AVELINA CHARITABLE FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>AVEL</NameControl>
+      <Phone>5086953252</Phone>
+      <USAddress>
+        <AddressLine1>3 BELCHER STREET</AddressLine1>
+        <City>PLAINVILLE</City>
+        <State>MA</State>
+        <ZIPCode>02762</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>HENRY G GRILLI</Name>
+      <Title>CLERK</Title>
+      <Phone>5086953252</Phone>
+      <DateSigned>2011-05-15</DateSigned>
+    </Officer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="00000001" referenceDocumentId="00000003" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5012</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>11</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>11</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>11</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>11</TotalNetInvestmentIncome>
+        <TaxesRevAndExpnss referenceDocumentId="00000005" referenceDocumentName="TaxesSchedule">4</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>4</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">300</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>304</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>4</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>27200</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>27200</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>27504</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>4</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>27200</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-27493</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>7</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>2480</CashBOY>
+        <CashEOY>476</CashEOY>
+        <CashEOYFMV>476</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>30025</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>4536</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>4536</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>32505</TotalAssetsBOY>
+        <TotalAssetsEOY>5012</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5012</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>32505</RetainedEarningsBOY>
+        <RetainedEarningsEOY>5012</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>32505</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>5012</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>32505</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5012</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>32505</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-27493</ExcessOfRevenueOverExpenses>
+        <Subtotal>5012</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>5012</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>0</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>THE FOUNDATION</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5086953252</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>3 BELCHER STREET</AddressLine1>
+          <City>PLAINVILLE</City>
+          <State>MA</State>
+          <ZIPCode>027621303</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GERARD C LORUSSO</PersonName>
+          <USAddress>
+            <AddressLine1>3 BELCHER STREET</AddressLine1>
+            <City>PLAINVILLE</City>
+            <State>MA</State>
+            <ZIPCode>02762</ZIPCode>
+          </USAddress>
+          <Title>PRES, TREAS TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH J LORUSSO</PersonName>
+          <USAddress>
+            <AddressLine1>299 CREEK STREET</AddressLine1>
+            <City>WRENTHAM</City>
+            <State>MA</State>
+            <ZIPCode>02093</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>HENRY G GRILLI</PersonName>
+          <USAddress>
+            <AddressLine1>3 BELCHER STREET</AddressLine1>
+            <City>PLAINVILLE</City>
+            <State>MA</State>
+            <ZIPCode>02762</ZIPCode>
+          </USAddress>
+          <Title>CLERK</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>10874</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>10874</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>10874</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>163</CashDeemedCharitable>
+        <NetNoncharitableAssets>10711</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>536</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>536</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>536</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>536</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>536</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>27200</ExpensesAndContributions>
+        <QualifyingDistributions>27200</QualifyingDistributions>
+        <AdjQualifyingDistributions>27200</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>536</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>4076</UndistributedIncomePriorYear>
+        <ExcessDistriCarryoverYear5>53103</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>63513</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>123025</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>78200</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>92450</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>410291</TotalExcessDistriCarryover>
+        <QualifyingDistributions>27200</QualifyingDistributions>
+        <RemainingDistriFromCorpus>27200</RemainingDistriFromCorpus>
+        <TotalCorpus>437491</TotalCorpus>
+        <TaxableAmount2>4076</TaxableAmount2>
+        <UndistributedIncomeCY>536</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>53103</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>384388</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>63513</ExcessFromYear4>
+        <ExcessFromYear3>123025</ExcessFromYear3>
+        <ExcessFromYear2>78200</ExcessFromYear2>
+        <ExcessFromYear1>92450</ExcessFromYear1>
+        <ExcessFromCurrentYear>27200</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>AVELINA CHARITABLE FOUNDATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3 BELCHER STREET</AddressLine1>
+            <City>PLAINVILLE</City>
+            <State>MA</State>
+            <ZIPCode>02762</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5086953252</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS MAY TAKE THE FORM OF A SIGNED LETTER STATING THE PURPOSE AND USE OF THE GRANT. INCLUDE PROGRAM LITERATURE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>AVELINA CHARITABLE FOU DATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3 BELCHER STREET</AddressLine1>
+            <City>PLAINVILLE</City>
+            <State>MA</State>
+            <ZIPCode>02762</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5086953252</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS MAY TAKE THE FORM OF A SIGNED LETTER STATING THE PURPOSE AND USE OF THE GRANT. INCLUDE PROGRAM LITERATURE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <AppicationSubmissionInfo>
+          <RecipientName>AVELINA CHARITABLE FOUNDATION INC</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>3 BELCHER STREET</AddressLine1>
+            <City>PLAINVILLE</City>
+            <State>MA</State>
+            <ZIPCode>02762</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>5086953252</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATIONS MAY TAKETHE FORM OF A SIGNED LETTER STATING THE PURPOSE AND USE OF THE GRANT. INCLUDE PROGRAM LITERATURE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>XAVERIAN BROTHERS HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>800 CLAPBOARDTREE STREET</AddressLine1>
+            <City>WESTWOOD</City>
+            <State>MA</State>
+            <ZIPCode>02090</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCIENTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KING PHILIP HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>201 FRANKLIN STREET</AddressLine1>
+            <City>WRENTHAM</City>
+            <State>MA</State>
+            <ZIPCode>02093</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCIENTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCYMOUNT COUNTRY DAY SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>WRENTHAM RD</AddressLine1>
+            <City>CUMBERLAND</City>
+            <State>RI</State>
+            <ZIPCode>02860</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCIENTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARITAS NORWOOD HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>800 WASHINGTON ST</AddressLine1>
+            <City>NORWOOD</City>
+            <State>MA</State>
+            <ZIPCode>02062</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCEINTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>2200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HOCKOMOCK YMCA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3 ELMWOOD STREET</AddressLine1>
+            <City>NORTH ATTLEBORO</City>
+            <State>MA</State>
+            <ZIPCode>02762</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOS, SCEINTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>12500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PAN MASS CHALLENGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>77 4TH AVENUE</AddressLine1>
+            <City>NEEDHAM</City>
+            <State>MA</State>
+            <ZIPCode>02494</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCIENTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DANA FABER CANCER INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>450 BROOKLINE AVE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCIENTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>STURDY MEMORIAL HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>211 PARK STREET</AddressLine1>
+            <City>ATTLEBORO</City>
+            <State>MA</State>
+            <ZIPCode>02703</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RELIGIOUS, SCIENTIFIC, EDUCATIONAL</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>27200</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AllOthProgRltdInvestmentsSch documentId="00000002">
+      <AllOthProgRltdInvestments>
+        <Description>N/A</Description>
+      </AllOthProgRltdInvestments>
+    </AllOthProgRltdInvestmentsSch>
+    <GeneralExplanationAttachment documentId="00000003">
+      <GeneralExplanation>
+        <Identifier>Part VII-A Question 10</Identifier>
+        <Explanation>JOSEPH J LORUSSO 299 CREEK STREET WRENTHAM MA 02093 GERARD C LORUSSO 3 BELCHER STREET PLAINVILLE MA 02762 THE AVELINA COMPANIES, INC 3 BELCHER STREET PLAINVILLE MA 02762</Explanation>
+      </GeneralExplanation>
+    </GeneralExplanationAttachment>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER FEES</Description>
+        <RevenueAndExpensesPerBooks>250</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="00000005">
+      <Taxes>
+        <Category>2009 990-PF</Category>
+        <Amount>4</Amount>
+        <NetInvestmentIncome>4</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

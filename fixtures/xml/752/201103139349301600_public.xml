@@ -1,0 +1,856 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-09T08:17:41-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SISTERSON &amp; CO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>310 GRANT STREET SUITE 2100</AddressLine1>
+        <City>PITTSBURGH</City>
+        <State>PA</State>
+        <ZIPCode>15219</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010752319</EIN>
+      <Name>
+        <BusinessNameLine1>PITTSBURGH REGIONAL HEALTHCARE INITIATIVE</BusinessNameLine1>
+      </Name>
+      <NameControl>PITT</NameControl>
+      <Phone>4125866700</Phone>
+      <USAddress>
+        <AddressLine1>CENTRE CITY TOWER 650 SMITHFIELD ST</AddressLine1>
+        <AddressLine2>NO 2400</AddressLine2>
+        <City>PITTSBURGH</City>
+        <State>PA</State>
+        <ZIPCode>15222</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KAREN W FEINSTEIN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>4125866700</Phone>
+      <DateSigned>2011-11-07</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL M COMSTOCK</Name>
+      <Phone>4122812025</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>KAREN W FEINSTEIN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>650 SMITHFIELD STSTE 2400</AddressLine1>
+        <City>PGH</City>
+        <State>PA</State>
+        <ZIPCode>15222</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>3281334</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.PRHI.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2002</YearFormation>
+      <StateLegalDomicile>PA</StateLegalDomicile>
+      <ActivityOrMissionDescription>PITTSBURGH REGIONAL HEALTHCARE INITIATIVE'S GOAL IS TO PROVIDE CLINICIANS AND INSTITUTIONS WITH THE TRAINING AND TOOLS TO DRAMATICALLY IMPROVE PATIENT SAFETY, HEALTHCARE QUALITY AND THE COST REIMBURSEMENT SYSTEM THROUGH REDUCTIONS IN MEDICAL ERRORS, USE OF EVIDENCE-BASED PRACTICES AND ELIMINATION OF WASTE.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>24</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>24</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>15</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>3513846</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>2931334</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>375018</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>350000</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>0</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>3888864</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>3281334</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>1097283</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>1625250</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>659917</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>1952210</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1702197</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>3049493</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>3327447</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>839371</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-46113</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>2758892</TotalAssetsBOY>
+      <TotalAssetsEOY>2876006</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>157122</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>320349</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>2601770</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>2555657</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>PITTSBURGH REGIONAL HEALTHCARE INITIATIVE'S GOAL IS TO PROVIDE CLINICIANS AND INSTITUTIONS WITH THE TRAINING AND TOOLS TO DRAMATICALLY IMPROVE PATIENT SAFETY, HEALTHCARE QUALITY AND THE COST REIMBURSEMENT SYSTEM THROUGH REDUCTIONS IN MEDICAL ERRORS, USE OF EVIDENCE-BASED PRACTICES AND ELIMINATION OF WASTE.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>2337571</Expense>
+      <Revenue>350000</Revenue>
+      <Description>TO ESTABLISH SOUTHWESTERN PENNSYLVANIA AS A MODEL FOR IMPROVEMENT IN HEALTH SYSTEM PERFORMANCE.</Description>
+      <TotalProgramServiceExpense>2337571</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039700001">0</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="RetDoc1039700001">0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>17</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>15</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <Form8899Filed>0</Form8899Filed>
+      <Form1098CFiled>0</Form1098CFiled>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>24</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>24</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>0</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>PA</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>KAREN W FEINSTEIN</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>4125942555</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>CENTRE CITY TOWERSTE 2400 650</AddressLine1>
+          <City>PITTSBURGH</City>
+          <State>PA</State>
+          <ZIPCode>15222</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>ROSEMARY ALMON-MARTIN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DONALD FISCHER MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KAREN WOLK FEINSTEIN</NamePerson>
+        <Title>EX OFFICIO</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>331432</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>51894</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN FRIEL</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALAN GUTTMAN</NamePerson>
+        <Title>BOARD CHAIR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TIMOTHY MERRILL JR</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOANN NARDUZZI MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALBERTO COLOMBI MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN KRAH</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>AJ HARPER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID L MCCLENAHAN</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHLEEN MCKENZIE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MORGAN K O'BRIEN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHRISTINE WHIPPLE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JAMES COSTLOW MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARILYN RUDOLPH</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID KELLEY MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GRANT OLIPHANT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANNE MULLANEY ESQ</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS TIMCHO</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PATRICIA SIGER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRANK CIVITARESE DO</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SEAN MCDONALD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ATEEV MEHROTRA MD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RALPH ROSKIES</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.50</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BARBARA JENNION</NamePerson>
+        <Title>DIR. PREFECTING PATIENT CA</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>92923</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>22657</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GERALD BALBIER</NamePerson>
+        <Title>DIR. TOMORROW'S HEALTHCARE</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>125360</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>20440</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>218283</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>331432</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>94991</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>HAROLD D MILLER</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>320 FT DUQUESNE BLVD STE 20-J</AddressLine1>
+            <City>PGH</City>
+            <State>PA</State>
+            <ZIPCode>15222</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>STRUCTURAL</DescriptionOfServices>
+        <Compensation>155421</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>CONSILIENT SOLUTIONS LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>3929 LAUREL OAK CIRCLE</AddressLine1>
+            <City>MURRYSVILLE</City>
+            <State>PA</State>
+            <ZIPCode>15668</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>STRUCTURAL</DescriptionOfServices>
+        <Compensation>101435</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>2</NumberOfContractorsGT100K>
+      <GovernmentGrants>170339</GovernmentGrants>
+      <AllOtherContributions>2760995</AllOtherContributions>
+      <TotalContributions>2931334</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>PPC PROGRAM</Description>
+        <TotalRevenueColumn>350000</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>350000</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>350000</TotalProgramServiceRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>3281334</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>350000</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>1295792</Total>
+        <ProgramServices>907054</ProgramServices>
+        <ManagementAndGeneral>129579</ManagementAndGeneral>
+        <Fundraising>259159</Fundraising>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>228486</Total>
+        <ProgramServices>159940</ProgramServices>
+        <ManagementAndGeneral>22849</ManagementAndGeneral>
+        <Fundraising>45697</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>100972</Total>
+        <ProgramServices>70680</ProgramServices>
+        <ManagementAndGeneral>10097</ManagementAndGeneral>
+        <Fundraising>20195</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>59117</Total>
+        <ProgramServices>41382</ProgramServices>
+        <ManagementAndGeneral>5912</ManagementAndGeneral>
+        <Fundraising>11823</Fundraising>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>11321</Total>
+        <ProgramServices>7924</ProgramServices>
+        <ManagementAndGeneral>1132</ManagementAndGeneral>
+        <Fundraising>2265</Fundraising>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>997118</Total>
+        <ProgramServices>697983</ProgramServices>
+        <ManagementAndGeneral>99712</ManagementAndGeneral>
+        <Fundraising>199423</Fundraising>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>158671</Total>
+        <ProgramServices>111070</ProgramServices>
+        <ManagementAndGeneral>15867</ManagementAndGeneral>
+        <Fundraising>31734</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>75164</Total>
+        <ProgramServices>52615</ProgramServices>
+        <ManagementAndGeneral>7516</ManagementAndGeneral>
+        <Fundraising>15033</Fundraising>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>84638</Total>
+        <ProgramServices>59247</ProgramServices>
+        <ManagementAndGeneral>8464</ManagementAndGeneral>
+        <Fundraising>16927</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>121015</Total>
+        <ProgramServices>84711</ProgramServices>
+        <ManagementAndGeneral>12102</ManagementAndGeneral>
+        <Fundraising>24202</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>70108</Total>
+        <ProgramServices>49075</ProgramServices>
+        <ManagementAndGeneral>7011</ManagementAndGeneral>
+        <Fundraising>14022</Fundraising>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>6305</Total>
+        <ProgramServices>4414</ProgramServices>
+        <ManagementAndGeneral>631</ManagementAndGeneral>
+        <Fundraising>1260</Fundraising>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>23044</Total>
+        <ProgramServices>16131</ProgramServices>
+        <ManagementAndGeneral>2304</ManagementAndGeneral>
+        <Fundraising>4609</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>GOVERNMENT RELATIONS</Description>
+        <Total>65812</Total>
+        <ProgramServices>46068</ProgramServices>
+        <ManagementAndGeneral>6581</ManagementAndGeneral>
+        <Fundraising>13163</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBTS</Description>
+        <Total>27860</Total>
+        <ProgramServices>27860</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBERSHIP DUES</Description>
+        <Total>2024</Total>
+        <ProgramServices>1417</ProgramServices>
+        <ManagementAndGeneral>202</ManagementAndGeneral>
+        <Fundraising>405</Fundraising>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>3327447</Total>
+        <ProgramServices>2337571</ProgramServices>
+        <ManagementAndGeneral>329959</ManagementAndGeneral>
+        <Fundraising>659917</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>1535039</BOY>
+        <EOY>1632460</EOY>
+      </CashNonInterestBearing>
+      <PledgesAndGrantsReceivable>
+        <BOY>1213150</BOY>
+        <EOY>1215391</EOY>
+      </PledgesAndGrantsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>5725</BOY>
+        <EOY>12654</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>28048</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>12547</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>4978</BOY>
+        <EOY>15501</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>2758892</BOY>
+        <EOY>2876006</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>153202</BOY>
+        <EOY>316657</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>3920</BOY>
+        <EOY>3692</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>157122</BOY>
+        <EOY>320349</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>868292</BOY>
+        <EOY>1086778</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>1733478</BOY>
+        <EOY>1468879</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>2601770</BOY>
+        <EOY>2555657</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>2758892</BOY>
+        <EOY>2876006</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-46113</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <SupportingOrganization509a3>X</SupportingOrganization509a3>
+      <SupportingOrg509a3Type1>X</SupportingOrg509a3Type1>
+      <ContribByControllingIndividual>0</ContribByControllingIndividual>
+      <ContributionByRelatedParty>0</ContributionByRelatedParty>
+      <ContribBy35ControlledEntity>0</ContribBy35ControlledEntity>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>THE JEWISH HEALTHCARE FOUNDATION OF PITTSBURGH</BusinessNameLine1>
+        </Name>
+        <EIN>251624347</EIN>
+        <TypeOfOrganization>7</TypeOfOrganization>
+        <ListedInGoverningDoc>1</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>1</SupportedOrganizationNotified>
+        <OrganizedInUS>1</OrganizedInUS>
+        <Amount>3327447</Amount>
+      </SupportedOrgInformation>
+      <TotalNumberOfSupportedOrgs>1</TotalNumberOfSupportedOrgs>
+      <SumOfAmounts>3327447</SumOfAmounts>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <OtherActivities>1</OtherActivities>
+      <OtherActivitiesAmount>65812</OtherActivitiesAmount>
+      <TotalLobbyingExpendituresIIB>65812</TotalLobbyingExpendituresIIB>
+      <NotDescribedIn501c3>0</NotDescribedIn501c3>
+      <Form990ScheduleCPartIV>
+        <Identifier>EXPLANATION OF OTHER LOBBYING ACTIVITIES:</Identifier>
+        <ReturnReference>PART II-B, LINE 1I:</ReturnReference>
+        <Explanation>RESEARCH AND COMPILE HEALTH CARE REFORM EVENTS, MEETINGS AND CALLS WITH MEDIA FOR PITCHES.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Equipment>
+        <OtherCostOrOtherBasis>28048</OtherCostOrOtherBasis>
+        <Depreciation>12547</Depreciation>
+        <BookValue>15501</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <BookValue>0</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>15501</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>EMPLOYEE BENEFITS PAYABLE &amp; 403(B) WITHHOLDING</Description>
+        <Amount>563</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>INSURANCE PAYABLE</Description>
+        <Amount>3129</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>3692</TotalOfAmounts>
+      <TotalRevenue>3281334</TotalRevenue>
+      <TotalExpenses>3327447</TotalExpenses>
+      <ExcessOrDeficitForYear>-46113</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-46113</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>3281334</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>3281334</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>3281334</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>3327447</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>3327447</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>3327447</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Explanation>SCHEDULE D, PART X, LINE 2 THE FINANCIAL ACCOUNTING STANDARDS BOARD ACCOUNTING STANDARDS CODIFICATION ("FASB ASC") ON INCOME TAXES CLARIFIES REGONITION, MEASUREMENT, PRESENTATION AND DISCLOSURE RELATING TO UNCERTAIN TAX POSITIONS. THE FOUNDATION EVALUATES TAX POSITIONS FOR RECOGNITION BY DETERMINING WHETHER EVIDENCE INDICATES THAT IT IS MORE LIKELY THAN NOT THAT A POSITION WILL BE SUSTAINED IF EXAMINED BY TAXING AUTHORITIES. AS OF DECEMBER 31, 2010 AND 2009, THE FOUNDATION IS UNAWARE OF ANY UNCERTAIN TAX POSITIONS. THE FOUNDATION'S TAX RETURNS FOR YEARS 2007 AND BEYOND REMAIN SUBJECT TO EXAMINATION BY THE INTERNAL REVENUE SERVICE.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>KAREN WOLK FEINSTEIN</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>331432</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>20000</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>31894</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>383326</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE FINANCE AND AUDIT CHAIR, THE BOARD CHAIR, AND THE TREASURER OF PITTSBURGH REGIONAL HEALTHCARE INITIATIVE'S SUPPORTED ORGANIZATION, THE JEWISH HEALTHCARE FOUNDATION OF PITTSBURGH, REVIEWS THE 990 PRIOR TO FILING. AN ANNOUNCEMENT WAS MADE AT YEAR END BOARD MEETING THAT THE 990 IS AVAILABLE TO ANY DIRECTOR OR TRUSTEE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ANNUALLY, EACH COVERED INDIVIDUAL MUST COMPLETE A DISCLOSURE STATEMENT REFLECTING HIS OR HER INTERESTS. THE CHAIR OF THE GOVERNANCE COMMITTEE (IN CONSULTATION WITH ITS COMMITTEE MEMBERS, AS REASONABLY APPROPRIATE) IS RESPONSIBLE FOR REVIEWING THE DISCLOSURE STATEMENTS SO THAT HE OR SHE IS FAMILIAR WITH AND CAN REPORT POTENTIAL CONFLICTS. IN ADDITION, EACH COVERED INDIVIDUAL IS PERSONALLY RESPONSIBLE FOR DISCLOSING HIS/HER ACTUAL OR POTENTIAL CONFLICT (AND FOR BRINGING ATTENTION TO ACTUAL OR POTENTIAL CONFLICTS OF OTHER COVERED INDIVIDUALS) AT THE TIME THE CORPORATION IS CONSIDERNG A TRANSACTION THAT MAY INVOLVE A CONFLICT OR APPEARANCE OF A CONFLICT. AFTER DISCLOSURE OF A POTENTIAL CONFLICT AND ALL MATERIAL FACTS, THE AFFECTED COVERED INDIVIDUAL SHALL LEAVE THE ROOM WHILE THE CHAIR OF THE BOARD OR COMMITTEE DETERMINES WHETHER AN ACTUAL CONFLICT OF INTEREST EXISTS IN THE PARTICULAR CIRCUMSTANCE. (IF THE POSSIBLE CONFLICT INVOLVES THE BOARD CHAIR OR COMMITTEE CHAIR, THE DISINTERESTED MEMBERS PRESENT SHALL APPOINT AN ACTING CHAIR.) IN THE EVENT THE BOARD CHAIR OR COMMITTEE CHAIR CONCLUDES THAT A CONFLICT OF INTEREST EXISTS, THE FOLLOWING PROCEDURES SHALL BE FOLLOWED: THE AFFECTED COVERED INDIVIDUAL MAY MAKE A PRESENTATION TO THE BOARD OR COMMITTEE CONSIDERING THE TRANSACTION OR ARRANGEMENT, BUT AFTER THE PRESENTATION, HE OR SHE SHALL LEAVE THE MEETING DURING THE DISCUSSION OF, AND THE VOTE ON, THE TRANSACTION OR ARRANGEMENT INVOLVING THE CONFLICT OF INTEREST. THE MAJORITY OF DISINTERESTED TRUSTEES PRESENT SHALL THEN DETERMINE WHETHER THEY CURRENTLY POSSESS SUFFICIENT INFORMATION, BASED UPON THEIR PERSONAL KNOWLEDGE AND DATE PROVIDED TO THEM, AS TO WHETHER THE PROPOSED TRANSACTION OR ARRANGEMENT SATISFIES THE REQUIREMENTS SET FORTH IN SUBSECTION 4 OF THE CONFLICT OF INTEREST POLICY. IF THEY DO NOT BELIEVE THAT THEY POSSESS SUCH SUFFICIENT INFORMATION, REASONABLE STEPS SHALL BE TAKEN BY THE CHAIR OF DISINTERESTED TRUSTEES APPOINTED BY THE CHAIR TO OBTAIN COMPARABLE INFORMATION WITH RESPSECT TO THE TRANSACTION OR ARRANGEMENT SUCH AS APPRAISALS, VALUATIONS, COMPETING OFFERS OR BIDS, COMPENSATION SURVEYS, REPORTS OF EXPERTS AND SIMILAR DATA. WHEN SETTING COMPENSATION FOR A DISQUALIFIED PERSON, INCLUDING WITHOUT LIMITATION A TRUSTEE OR OFFICER, THE CORPORATION SHALL OBTAIN COMPARABLE INFORMATION AND EXCLUDE FROM THE DECISION MAKING BODY THE APPLICABLE DISQUALIFIED PERSON AND ANY PERSONS HE/SHE SUPERVISES. THE BOARD OR COMMITTEE CONSIDERING A TRANSACTION OR ARRANGEMENT INVOLVING A CONFLICT OF INTEREST MAY APPROVE SUCH TRANSACTION OR ARRANGEMENT ONLY AFTER DETERMINING BY MAJORITY VOTE OF THE DISINTERESTED MEMBERS OF THE BOARD OR COMMITTEE (A) THAT THE TRANSACTION OR ARRANGEMENT IS IN THE CORPORATION'S BEST INTEREST AND FOR ITS OWN BENEFIT, (B) THAT IT IS FAIR AND REASONABLE TO THE CORPORATION, AND (C) AFTER EXERCISING DUE DILIGENCE, THE CORPORATION WOULD NOT OBTAIN A MORE ADVANTAGEOUS TRANSACTION WITH REASONABLE EFFORTS UNDER THE CIRCUMSTANCES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>POLICY FOR DETERMINING COMPENSATION: CEO/PRESIDENT: THE BOARD OF TRUSTEES FOR THE JEWISH HEALTHCARE FOUNDATION PERIODICALLY ENGAGES A COMPENSATION CONSULTANT TO REVIEW THE PRESIDENT'S OVERALL COMPENSATION STRUCTURE. SUGGESTIONS FROM THIS REVIEW ARE AGGREGATED WITH BENCHMARKING RESEARCH CONDUCTED BY THE FOUNDATION'S COMPENSATION COMMITTEE. FINANCIAL CONSIDERATIONS ARE MATCHED AGAINST PERFORMANCE RELATED TO PRIORITY GOALS AGREED UPON ANNUALLY BY THE PRESIDENT AND THE EXECUTIVE COMMITTEE OF THE BOARD. FINAL COMPENSATION IS RECOMMENDED BY THE COMPENSATION COMMITTEE AND APPROVED BY THE FULL BOARD AS A PART OF THE ANNUAL BUDGET. OTHER EMPLOYEES: THE ORGANIZATION HAS A FORMAL SALARY RANGE FOR EACH SET OF POSITIONS WHICH IS UPDATED EACH YEAR TO ACCOUNT FOR COST OF LIVING INCREASES. TO DETERMINE ANNUAL COMPENSATION, THE PRESIDENT/CEO AND THE CFO REVIEW INFORMATION FROM THE ORGANIZATION'S FORMAL PERFORMANCE EVALUATION PROCESS ALONG WITH COMPARABILITY DATA, SUCH AS WRITTEN JOB DESCRIPTIONS FOR SIMILAR POSITIONS AND IRS FORM 990 FILINGS OF SIMILAR ORGANIZATIONS. RECOMMENDATIONS FOR ANNUAL COMPENSATION ARE BROUGHT TO THE COMPENSATION COMMITTEE AND APPROVED BY THE FULL BOARD AS PART OF THE ANNUAL BUDGET. COMPARABILITY DATA. WHEN THE APPROVAL BODY IS CONSIDERING COMPENSATION TO BE PAID TO COVERED INDIVIDUALS, IT MUST RELY ON COMPARABILITY DATA THAT DEMONSTRATE THE FAIR MARKET VALUE OF THE COMPENSATION IN QUESTION. FOR EXAMPLE, WHEN CRAFTING COMPENSATION PACKAGES, THE APPROVAL BODY MUST SECURE DATA DOCUMENTING COMPENSATION LEVELS FOR SIMILARLY QUALIFIED INDIVIDUALS IN LIKE POSITIONS AT LIKE ORGANIZATIONS. THIS DATA MAY INCLUDE THE FOLLOWING: A) EXPERT COMPENSATION STUDIES BY INDEPENDENT FIRMS; B) WRITTEN JOB OFFERS FOR POSITIONS AT SIMILAR ORGANIZATIONS; C) DOCUMENTED TELEPHONE CALLS ABOUT SIMILAR POSITIONS AT BOTH NONPROFIT AND FORPROFIT ORGANIZATIONS; AND D) INFORMATION OBTAINED FROM THE IRS FORM 990 FILINGS OF SIMILAR ORGANIZATIONS</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION MAKES ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>JEWISH HEALTHCARE FOUNDATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>CENTRE CITY TOWER 650 SMITHFIELD ST</AddressLine1>
+          <City>PITTSBURGH</City>
+          <State>PA</State>
+          <ZIPCode>15222</ZIPCode>
+        </AddressUS>
+        <EIN>251624347</EIN>
+        <PrimaryActivities>HEALTHCARE SERVICES</PrimaryActivities>
+        <LegalDomicileState>PA</LegalDomicileState>
+        <ExemptCodeSection>501 (C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>1</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>1</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>JEWISH HEALTHCARE FOUNDATION</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>K</TransactionType>
+        <AmountInvolved>3327447</AmountInvolved>
+        <MethodOfAmtDetermination>FAIR MARKET VALUE</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

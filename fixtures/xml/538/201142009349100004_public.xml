@@ -1,0 +1,919 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-15T10:51:58-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DAWSON SMITH PURVIS &amp; BASSETT PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>15 CASCO STREET</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041012902</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010538172</EIN>
+      <Name>
+        <BusinessNameLine1>PINELAND FARMS INC</BusinessNameLine1>
+      </Name>
+      <NameControl>PINE</NameControl>
+      <Phone>2076884800</Phone>
+      <USAddress>
+        <AddressLine1>32 FARMVIEW DRIVE</AddressLine1>
+        <City>NEW GLOUCESTER</City>
+        <State>ME</State>
+        <ZIPCode>04260</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ERIK HAYWARD</Name>
+      <Title>TREASURER</Title>
+      <Phone>2076884800</Phone>
+      <DateSigned>2011-07-19</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>RICHARD B DAWSON</Name>
+      <Phone>2078740355</Phone>
+      <DatePrepared>2011-07-19</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>5130353</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>4253300</ContriReceivedRevAndExpnss>
+        <GrossRentsRevAndExpnss>63781</GrossRentsRevAndExpnss>
+        <GrossRentsAdjNetIncm>63781</GrossRentsAdjNetIncm>
+        <NetRentalIncomeOrLoss>63781</NetRentalIncomeOrLoss>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc2213400001">53520</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>71407</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <GrossSalesLessReturnsAndAllwnc>4090772</GrossSalesLessReturnsAndAllwnc>
+        <CostOfGoodsSold>2182690</CostOfGoodsSold>
+        <GrossProfitRevAndExpnss>1908082</GrossProfitRevAndExpnss>
+        <GrossProfitAdjNetIncm>1908082</GrossProfitAdjNetIncm>
+        <TotalRevenueAndExpenses>6278683</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>1971863</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>2075508</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>660910</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>1401012</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <PensionEmplBnftRevAndExpnss>388535</PensionEmplBnftRevAndExpnss>
+        <PensionEmplBnftNetInvstIncm>0</PensionEmplBnftNetInvstIncm>
+        <PensionEmplBnftAdjNetIncm>123722</PensionEmplBnftAdjNetIncm>
+        <PensionEmplBnftDsbrsChrtblPrps>264813</PensionEmplBnftDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">32162</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>32162</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">6543</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>6543</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">19941</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>6350</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>13591</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">209802</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesAdjNetIncm>66807</TaxesAdjNetIncm>
+        <TaxesDsbrsChrtblPrps>142995</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss>774424</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>246602</DeprecAndDepletionAdjNetIncm>
+        <OccupancyRevAndExpnss>663584</OccupancyRevAndExpnss>
+        <OccupancyNetInvstIncm>0</OccupancyNetInvstIncm>
+        <OccupancyAdjNetIncm>223726</OccupancyAdjNetIncm>
+        <OccupancyDsbrsChrtblPrps>439858</OccupancyDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>75702</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>24106</TravConfMeetingAdjNetIncm>
+        <TravConfMeetingDsbrsChrtblPrps>51596</TravConfMeetingDsbrsChrtblPrps>
+        <PrintingAndPubRevAndExpnss>16807</PrintingAndPubRevAndExpnss>
+        <PrintingAndPubNetInvstIncm>0</PrintingAndPubNetInvstIncm>
+        <PrintingAndPubAdjNetIncm>5352</PrintingAndPubAdjNetIncm>
+        <PrintingAndPubDsbrsChrtblPrps>11455</PrintingAndPubDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">1929095</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>614288</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>1384361</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6192103</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>1971863</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3748386</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>297</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>297</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6192400</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>1971863</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>3748683</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>86283</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>90878</CashBOY>
+        <CashEOY>131242</CashEOY>
+        <CashEOYFMV>131242</CashEOYFMV>
+        <AccountsReceivable>153247</AccountsReceivable>
+        <AccountsReceivableBOY>164361</AccountsReceivableBOY>
+        <AccountsReceivableEOY>153247</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>153247</AccountsReceivableEOYFMV>
+        <InventoriesForSaleOrUseBOY>1447614</InventoriesForSaleOrUseBOY>
+        <InventoriesForSaleOrUseEOY>1257915</InventoriesForSaleOrUseEOY>
+        <InventoriesForSaleOrUseEOYFMV>1257915</InventoriesForSaleOrUseEOYFMV>
+        <PrepaidExpensesBOY>107950</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>95032</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>95032</PrepaidExpensesEOYFMV>
+        <LandBuildingAndEquipmentBasis>8944401</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>5643177</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>3129433</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY>3301224</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>3301224</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">198311</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">191693</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">191693</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>5138547</TotalAssetsBOY>
+        <TotalAssetsEOY>5130353</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>5130353</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>210492</AccountsPayableBOY>
+        <AccountsPayableEOY>128020</AccountsPayableEOY>
+        <DeferredRevenueBOY>3928</DeferredRevenueBOY>
+        <DeferredRevenueEOY>5881</DeferredRevenueEOY>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">166205</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">152247</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>380625</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>286148</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>4757922</UnrestrictedBOY>
+        <UnrestrictedEOY>4844205</UnrestrictedEOY>
+        <TotalNetAssetsBOY>4757922</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>4844205</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>5138547</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5130353</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>4757922</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>86283</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>4844205</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>4844205</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>4365942</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>121811</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>35.841935</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>4299646</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>140600</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>30.580697</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>3420156</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>165176</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>20.706132</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>3542446</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>128006</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>27.674062</DistributionRatioYear4>
+        <TotalDistributionRatio>114.802826</TotalDistributionRatio>
+        <AverageDistributionRatio>28.700707</AverageDistributionRatio>
+        <NetNoncharitableAssets>157057</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>4507647</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>4507647</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>4712785</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>1</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>1</Form990TFiled>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>1</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.PINELANDFARMS.ORG</WebsiteAddress>
+        <BooksInCareOfPersonName>ERIK HAYWARD</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2078796280</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>THREE CANAL PLAZA</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>041128516</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>1</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MEG BAXTER</PersonName>
+          <USAddress>
+            <AddressLine1>59 WOOD ROAD</AddressLine1>
+            <City>CAPE ELIZABETH</City>
+            <State>ME</State>
+            <ZIPCode>04107</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BEVERLY T CADIGAN</PersonName>
+          <USAddress>
+            <AddressLine1>GLOUCESTER HILL ROAD</AddressLine1>
+            <City>NEW GLOUCESTER</City>
+            <State>ME</State>
+            <ZIPCode>04260</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WAYNE C MCGARVEY</PersonName>
+          <USAddress>
+            <AddressLine1>167 BRADLEY STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LAWRENCE R PUGH</PersonName>
+          <USAddress>
+            <AddressLine1>38 MARIGOLD LANE</AddressLine1>
+            <City>FALMOUTH</City>
+            <State>ME</State>
+            <ZIPCode>04105</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM E HAGGETT</PersonName>
+          <USAddress>
+            <AddressLine1>425 BIRCH POINT ROAD</AddressLine1>
+            <City>WEST BATH</City>
+            <State>ME</State>
+            <ZIPCode>04530</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompensationOfHighestPaidEmpl>
+          <Name>NORMAN A MARTIN III</Name>
+          <USAddress>
+            <AddressLine1>27 MILL POND RD</AddressLine1>
+            <City>GORHAM</City>
+            <State>ME</State>
+            <ZIPCode>04038</ZIPCode>
+          </USAddress>
+          <Title>FARM OPERATIONS COOR</Title>
+          <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+          <Compensation>75795</Compensation>
+          <EmployeeBenefits>7567</EmployeeBenefits>
+          <ExpenseAccount>918</ExpenseAccount>
+        </CompensationOfHighestPaidEmpl>
+        <CompensationOfHighestPaidEmpl>
+          <Name>PATRICIA L MCGUINNESS</Name>
+          <USAddress>
+            <AddressLine1>6 SOUTHWELL ROAD</AddressLine1>
+            <City>CAPE ELIZABETH</City>
+            <State>ME</State>
+            <ZIPCode>04107</ZIPCode>
+          </USAddress>
+          <Title>SALES DIRECTOR</Title>
+          <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+          <Compensation>73691</Compensation>
+          <EmployeeBenefits>7034</EmployeeBenefits>
+          <ExpenseAccount>1025</ExpenseAccount>
+        </CompensationOfHighestPaidEmpl>
+        <CompensationOfHighestPaidEmpl>
+          <Name>NEAL R KOLTERMAN</Name>
+          <USAddress>
+            <AddressLine1>114 FORESIDE ROAD</AddressLine1>
+            <City>FALMOUTH</City>
+            <State>ME</State>
+            <ZIPCode>04104</ZIPCode>
+          </USAddress>
+          <Title>SALES DIRECTOR</Title>
+          <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+          <Compensation>72149</Compensation>
+          <EmployeeBenefits>7429</EmployeeBenefits>
+          <ExpenseAccount>1863</ExpenseAccount>
+        </CompensationOfHighestPaidEmpl>
+        <CompensationOfHighestPaidEmpl>
+          <Name>MARK WHITNEY</Name>
+          <USAddress>
+            <AddressLine1>51 VALLEY FARM RD</AddressLine1>
+            <City>NEW GLOUCESTER</City>
+            <State>ME</State>
+            <ZIPCode>04260</ZIPCode>
+          </USAddress>
+          <Title>CREAMERY MANAGER</Title>
+          <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+          <Compensation>73717</Compensation>
+          <EmployeeBenefits>7532</EmployeeBenefits>
+          <ExpenseAccount>0</ExpenseAccount>
+        </CompensationOfHighestPaidEmpl>
+        <CompensationOfHighestPaidEmpl>
+          <Name>RONALD S STUART</Name>
+          <USAddress>
+            <AddressLine1>81 VALLEY FARM RD</AddressLine1>
+            <City>NEW GLOUCESTER</City>
+            <State>ME</State>
+            <ZIPCode>04260</ZIPCode>
+          </USAddress>
+          <Title>FARM LABORER</Title>
+          <AverageHoursPerWeek>50.00</AverageHoursPerWeek>
+          <Compensation>65884</Compensation>
+          <EmployeeBenefits>7297</EmployeeBenefits>
+          <ExpenseAccount>0</ExpenseAccount>
+        </CompensationOfHighestPaidEmpl>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE ORGANIZATION PRODUCED CHEESE AS A VALUE ADDED ALTERNATIVE TO LOW MILK PRICES AND TO PROMOTE THE SUSTAINABILITY OF DAIRY FARMING IN MAINE AND NEW ENGLAND. THE ORGANIZATION SOLD GOODS RELATED TO ITS FARMING AND EDUCATIONAL PROGRAMS, PROMOTING SUSTAINABILITY OF LOCAL AGRICULTURE AND PROVIDING EDUCATIONAL OPPORTUNITIES FOR THE PUBLIC. EQUESTRIAN AND OUTDOOR SKIING AND HIKING OPERATIONS PROMOTE AMATEUR ATHLETICS AND HEALTHY LIFESTYLES THROUGH RECREATION.</Description1>
+        <Expenses1>3748683</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>111060</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>48389</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>159449</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>159449</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2392</CashDeemedCharitable>
+        <NetNoncharitableAssets>157057</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>7853</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3748683</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>964102</AmountsPaidAcqCharitableAssets>
+        <QualifyingDistributions>4712785</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>4712785</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>4712785</CurrentYear>
+          <Year1>4365942</Year1>
+          <Year2>4299646</Year2>
+          <Year3>3420156</Year3>
+          <Total>16798529</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>4712785</CurrentYear>
+          <Year1>4365942</Year1>
+          <Year2>4299646</Year2>
+          <Year3>3420156</Year3>
+          <Total>16798529</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Total>0</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Total>0</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <CurrentYear>8344072</CurrentYear>
+          <Year1>8572214</Year1>
+          <Year2>7617734</Year2>
+          <Year3>6473729</Year3>
+          <Total>31007749</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Total>0</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <CurrentYear>4242000</CurrentYear>
+          <Year1>4500000</Year1>
+          <Year2>4532000</Year2>
+          <Year3>3926000</Year3>
+          <Total>17200000</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CUMBERLAND COUNTY YMCA PINELAND CAMPUS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 CAMPUS DRIVE SUITE 100</AddressLine1>
+            <City>NEW GLOUCESTER</City>
+            <State>ME</State>
+            <ZIPCode>04260</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>AUCTION ITEMS</PurposeOfGrantOrContribution>
+          <Amount>297</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>297</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <NetRntlIncmReNotDebtFincdProp>
+          <ExclusionCode>16</ExclusionCode>
+          <ExclusionAmount>63781</ExclusionAmount>
+        </NetRntlIncmReNotDebtFincdProp>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>53520</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <GrossProfitLossSalesOfInvntry>
+          <BusinessCode>453220</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>61191</UnrelatedBusinessIncomeAmount>
+          <RelatedOrExemptFunctionIncome>1846891</RelatedOrExemptFunctionIncome>
+        </GrossProfitLossSalesOfInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>61191</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>117301</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>1846891</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2025383</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>10</LineNumber>
+          <RelationshipStatement>REVENUE FROM THE SALES OF INVENTORY RELATES TO THE ORGANIZATION'S SALES OF ITS FARM GOODS; THUS PROMOTING SUSTAINABILITY AND VIABILITY OF FARMING IN MAINE AND PRESERVING FARMLAND FROM DEVELOPMENT. CHEESE PRODUCTION CONSTITUTES A VALUE-ADDED ALTERNATIVE TO LOW MILK PRICES AND PROMOTES THE SUSTAINABILITY OF DAIRY FARMING IN MAINE AND NEW ENGLAND. EQUESTRIAN AND OUTDOOR SKIING OPERATIONS PROMOTE AMATEUR ATHLETICS AND HEALTHY LIFESTYLES THROUGH RECREATION.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>1</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <TransferSchedule>
+          <LineNumber>1b(3)</LineNumber>
+          <AmountInvolved>625743</AmountInvolved>
+          <NameOfNoncharitableEO>
+            <BusinessNameLine1>OCTOBER CORPORATION</BusinessNameLine1>
+          </NameOfNoncharitableEO>
+          <DescriptionOfTransfersEtc>FACILITY LEASE PAYMENTS</DescriptionOfTransfersEtc>
+        </TransferSchedule>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>LIBRA FOUNDATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>THREE CANAL PLAZA</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>041128516</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>4242000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>6543</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>6543</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2213400001">
+      <GainLossSaleOtherAsset>
+        <Name>EQUIPMENT</Name>
+        <HowAcquired>PURCHASED</HowAcquired>
+        <PurchaserName>
+          <Individual>VARIOUS</Individual>
+        </PurchaserName>
+        <GrossSalesPrice>71407</GrossSalesPrice>
+        <Basis>206628</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>53520</TotalNet>
+        <AccumulatedDepreciation>188741</AccumulatedDepreciation>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>32162</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>32162</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>WEBSITE DESIGN, NET OF AMORTIZATION</Description>
+        <BOYBookValue>11578</BOYBookValue>
+        <EOYBookValue>7207</EOYBookValue>
+        <EOYFMV>7207</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>GOODWILL</Description>
+        <BOYBookValue>175000</BOYBookValue>
+        <EOYBookValue>175000</EOYBookValue>
+        <EOYFMV>175000</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>BRAND LOGO, NET OF AMORTIZATION</Description>
+        <BOYBookValue>9399</BOYBookValue>
+        <EOYBookValue>8553</EOYBookValue>
+        <EOYFMV>8553</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>LEASE ACQUISITION, NET OF AMORTIZATION</Description>
+        <BOYBookValue>2334</BOYBookValue>
+        <EOYBookValue>933</EOYBookValue>
+        <EOYFMV>933</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>48926</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>15580</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>33346</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>39406</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>12548</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>26858</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL FEES</Description>
+        <RevenueAndExpensesPerBooks>6538</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2082</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4456</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>42278</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>13463</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>28815</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LIABILITY INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>128353</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>40872</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>87481</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WORKERS COMP</Description>
+        <RevenueAndExpensesPerBooks>99218</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>31594</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>54706</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSES AND PERMITS</Description>
+        <RevenueAndExpensesPerBooks>19695</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>6272</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>13423</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>8306</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2644</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5662</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE AND DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>7520</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2395</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5125</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CREDIT CARD FEES</Description>
+        <RevenueAndExpensesPerBooks>24604</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>7835</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>16769</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>174153</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>55456</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>118697</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CABLE/INTERNET</Description>
+        <RevenueAndExpensesPerBooks>8059</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2566</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5493</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REIMBURSED EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>141438</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>45038</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>178872</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>179590</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>57187</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>122403</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMMISSION - LIVESTOCK</Description>
+        <RevenueAndExpensesPerBooks>4000</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>1274</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>2726</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>VETERINARY EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>95705</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>30476</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>65229</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ADVERTISING AND PROMOTION</Description>
+        <RevenueAndExpensesPerBooks>145789</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>46424</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>99365</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EMBRYO</Description>
+        <RevenueAndExpensesPerBooks>18894</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>6016</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>12878</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FERTILIZER AND PESTICIDE</Description>
+        <RevenueAndExpensesPerBooks>11795</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>3756</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>8039</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DAIRY SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>90639</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>28862</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>61777</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BREEDING FEES</Description>
+        <RevenueAndExpensesPerBooks>19046</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>6065</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>12981</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TRASH DISPOSAL</Description>
+        <RevenueAndExpensesPerBooks>25809</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>8218</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>17591</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>AUTOMOBILE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>37396</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>11908</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>25488</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>1899</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>605</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1294</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>COMMISSION - CHEESE</Description>
+        <RevenueAndExpensesPerBooks>64311</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>20479</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>43832</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTRACT LABOR</Description>
+        <RevenueAndExpensesPerBooks>51753</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>16480</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>35273</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SHOP SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>37118</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>11820</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>25298</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LAB TESTING</Description>
+        <RevenueAndExpensesPerBooks>6751</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2150</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4601</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GAS AND FUEL</Description>
+        <RevenueAndExpensesPerBooks>140376</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>44700</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>95676</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FEED</Description>
+        <RevenueAndExpensesPerBooks>235252</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>74912</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>160340</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LAUNDRY &amp; LINEN</Description>
+        <RevenueAndExpensesPerBooks>7859</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2503</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>5356</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>AMORTIZATION</Description>
+        <RevenueAndExpensesPerBooks>6619</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>2108</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>4511</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>ACCRUED PAYROLL</Description>
+        <BOYBookValue>89926</BOYBookValue>
+        <EOYBookValue>103512</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>SECURITY DEPOSITS</Description>
+        <BOYBookValue>76279</BOYBookValue>
+        <EOYBookValue>48735</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>CONSULTING FEES</Category>
+        <Amount>19941</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>6350</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>13591</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>PAYROLL TAXES</Category>
+        <Amount>185873</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>59188</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>126685</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>PERSONAL PROPERTY TAXES</Category>
+        <Amount>10578</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>3368</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>7210</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>USE TAXES</Category>
+        <Amount>13351</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>4251</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>9100</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

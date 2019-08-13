@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-01T11:33:19-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>55 Walls Drive</AddressLine1>
+        <City>Fairfield</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010548650</EIN>
+      <Name>
+        <BusinessNameLine1>The Carolyn L Donigan Private Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>CARO</NameControl>
+      <Phone>8008391754</Phone>
+      <USAddress>
+        <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+        <City>Wilmington</City>
+        <State>DE</State>
+        <ZIPCode>198091377</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Carolyn L Donigan</Name>
+      <Title>President</Title>
+      <DateSigned>2011-11-01</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey D Haskell</Name>
+      <Phone>8008391754</Phone>
+      <DatePrepared>2011-11-01</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>333438</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>12191</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>12191</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:72">-158</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>14842</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>12033</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>12191</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="990PF:77">2779</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>2779</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:78">123</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>123</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">3461</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>3461</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6363</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2902</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>3461</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>16000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>16000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>22363</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2902</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>19461</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-10330</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9289</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>21082</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>11635</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>11635</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>328352</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:89">327469</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>321803</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>349434</TotalAssetsBOY>
+        <TotalAssetsEOY>339104</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>333438</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>349434</RetainedEarningsBOY>
+        <RetainedEarningsEOY>339104</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>349434</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>339104</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>349434</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>339104</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>349434</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-10330</ExcessOfRevenueOverExpenses>
+        <Subtotal>339104</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>339104</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Publicly-traded Securities</DescriptionOfAsset>
+          <GrossSalesPrice>14842</GrossSalesPrice>
+          <CostOrOtherBasis>15000</CostOrOtherBasis>
+          <GainOrLoss>-158</GainOrLoss>
+          <GainsMinusExcessOrLosses>-158</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-158</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>19356</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>264473</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.073187</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>19479</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>341880</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.056976</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>22586</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>411344</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.054908</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>16800</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>398504</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.042158</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>13598</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>388365</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.035013</DistributionRatioYear5>
+        <TotalDistributionRatio>000.262242</TotalDistributionRatio>
+        <AverageDistributionRatio>000.052448</AverageDistributionRatio>
+        <NetNoncharitableAssets>303726</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>15930</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>93</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>16023</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>19461</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>93</InvestmentIncomeExciseTax>
+        <Subtotal>93</Subtotal>
+        <TaxBasedOnInvestmentIncome>93</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>291</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>291</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>291</TaxPaidOriginalReturn>
+        <Overpayment>198</Overpayment>
+        <AmountCreditedToNextYear>198</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>co Foundation Source</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8008391754</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>501 Silverside Road Suite 123</AddressLine1>
+          <City>Wilmington</City>
+          <State>DE</State>
+          <ZIPCode>198091377</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>true</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Bryant Scott Donigan</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Vice President / Director</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Carolyn L Donigan</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>President / Director / Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Dustin Donigan</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Vice President / Director</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Michael Stephen Donigan</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Vice President / Director</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>297003</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>11348</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>308351</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>308351</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">4625</CashDeemedCharitable>
+        <NetNoncharitableAssets>303726</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>15186</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>15186</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>93</TaxBasedOnInvestmentIncome>
+        <TotalTax>93</TotalTax>
+        <DistributableAmountBeforeAdj>15093</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>15093</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>15093</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">19461</ExpensesAndContributions>
+        <QualifyingDistributions>19461</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>93</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>19368</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>15093</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>1117</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>2659</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>6316</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>10092</TotalExcessDistriCarryover>
+        <QualifyingDistributions>19461</QualifyingDistributions>
+        <AppliedToCurrentYear>15093</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>4368</RemainingDistriFromCorpus>
+        <TotalCorpus>14460</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>14460</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>1117</ExcessFromYear3>
+        <ExcessFromYear2>2659</ExcessFromYear2>
+        <ExcessFromYear1>6316</ExcessFromYear1>
+        <ExcessFromCurrentYear>4368</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Carolyn L Donigan</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FLORIDA OCEANOGRAPHIC SOCIETY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>890 NE OCEAN BLVD</AddressLine1>
+            <City>STUART</City>
+            <State>FL</State>
+            <ZIPCode>34996</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(2)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RUSSELL ISLAND FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 304</AddressLine1>
+            <City>ALGONAC</City>
+            <State>MI</State>
+            <ZIPCode>48001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Parking Lot Capital Campaign</PurposeOfGrantOrContribution>
+          <Amount>5700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YMCA OF GREENVILLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>601 E MCBEE AVE STE 212</AddressLine1>
+            <City>GREENVILLE</City>
+            <State>SC</State>
+            <ZIPCode>29601</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(2)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Shower System For The Inside Pool</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>16000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>12191</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-158</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>12033</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>12033</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsCorpStock>
+        <NameOfStock>575 shares of BAC CAP TR III 7.00 DUE 08/15/32 BAC-PX</NameOfStock>
+        <EOYBookValue>15171</EOYBookValue>
+        <EOYFMV>13984</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>135 shares of ENERGY SELECT SPDR XLE</NameOfStock>
+        <EOYBookValue>7663</EOYBookValue>
+        <EOYFMV>9214</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of ISHARES IBOXX HIGH YIELD CORPORATE BOND FUND HYG</NameOfStock>
+        <EOYBookValue>19406</EOYBookValue>
+        <EOYFMV>18058</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of ISHARES IBOXX INVESTMENT GRADE CORPORATE BOND FD LQD</NameOfStock>
+        <EOYBookValue>21194</EOYBookValue>
+        <EOYFMV>21688</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>375 shares of ISHARES MSCI EMERGING MARKETS INDEX FD EEM</NameOfStock>
+        <EOYBookValue>17689</EOYBookValue>
+        <EOYFMV>17865</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>360 shares of ISHARES RUSSELL MIDCAP G IN FD IWP</NameOfStock>
+        <EOYBookValue>15250</EOYBookValue>
+        <EOYFMV>20380</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>390 shares of ISHARES RUSSELL MIDCAP VALUE IWS</NameOfStock>
+        <EOYBookValue>14901</EOYBookValue>
+        <EOYFMV>17554</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>600 shares of ISHARES SP 500 VALUE INDEX FUND IVE</NameOfStock>
+        <EOYBookValue>37581</EOYBookValue>
+        <EOYFMV>35753</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 shares of ISHARES SP NORTH AMERCIA NATURAL RESOURCE IGE</NameOfStock>
+        <EOYBookValue>5984</EOYBookValue>
+        <EOYFMV>8338</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1225 shares of ISHARES TR DJ SEL DIVIDEND INX DVY</NameOfStock>
+        <EOYBookValue>74809</EOYBookValue>
+        <EOYFMV>61078</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>300 shares of ISHARES TRUST MSCI EAFE INDEX FUND EFA</NameOfStock>
+        <EOYBookValue>19413</EOYBookValue>
+        <EOYFMV>17466</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 shares of JP MORGAN CHASE CAP X PFD - 7.000 - 02/15/2032 JPM-PJ</NameOfStock>
+        <EOYBookValue>9992</EOYBookValue>
+        <EOYFMV>10124</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3750 shares of NUVEEN QUALITY PREFERRED INC FD 2 JPS</NameOfStock>
+        <EOYBookValue>27547</EOYBookValue>
+        <EOYFMV>29625</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>325 shares of POWERSHARES QQQ NASDAQ 100 QQQ</NameOfStock>
+        <EOYBookValue>12172</EOYBookValue>
+        <EOYFMV>17700</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 shares of WELLS FARGO CAPITAL TRUST IV WSF</NameOfStock>
+        <EOYBookValue>10012</EOYBookValue>
+        <EOYFMV>10116</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1000 shares of PENGROWTH ENERGY CORP PGH</NameOfStock>
+        <EOYBookValue>18685</EOYBookValue>
+        <EOYFMV>12860</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>Administrative Fees</Description>
+        <RevenueAndExpensesPerBooks>3436</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3436</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>State or Local Filing Fees</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="990PF:77" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherProfessionalFees>
+        <Category>Investment Management Services</Category>
+        <Amount>2779</Amount>
+        <NetInvestmentIncome>2779</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="10000149" softwareVersion="2010.2.15">
+      <Taxes>
+        <Category>Foreign Tax Paid</Category>
+        <Amount>123</Amount>
+        <NetInvestmentIncome>123</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

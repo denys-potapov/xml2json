@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-02-15T10:33:49-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>JOHNSON MILLER &amp; CO CPA'S PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 220</AddressLine1>
+        <City>HOBBS</City>
+        <State>NM</State>
+        <ZIPCode>88241</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010576324</EIN>
+      <Name>
+        <BusinessNameLine1>STEVAN &amp; CYNTHIA PEARCE CHARITABLE</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>STEV</NameControl>
+      <Phone>5753972253</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 1830</AddressLine1>
+        <City>HOBBS</City>
+        <State>NM</State>
+        <ZIPCode>88241</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>STEVAN PEARCE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>5753972253</Phone>
+      <DateSigned>2011-02-04</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>JAMES W FRANCIS</Name>
+      <Phone>5753932171</Phone>
+      <DatePrepared>2011-02-07</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1304077</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>48000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>16569</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>16569</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>16569</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>22398</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>22398</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>22398</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">33232</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>3715595</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>2</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>120199</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>38969</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>38967</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc6">1640</TaxesRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>769</TravConfMeetingRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc5">9696</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>9696</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>12105</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>9696</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>49980</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>49980</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>62085</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>9696</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>49980</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>58114</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>29273</NetInvestmentIncome>
+        <AdjustedNetIncome>38967</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>63173</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>57932</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>57932</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>164</PrepaidExpensesBOY>
+        <InvestmentsOtherBOY>1086613</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc4">1150132</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1246145</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>1149950</TotalAssetsBOY>
+        <TotalAssetsEOY>1208064</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1304077</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1149950</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1208064</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1149950</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1208064</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1149950</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1208064</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1149950</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>58114</ExcessOfRevenueOverExpenses>
+        <Subtotal>1208064</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1208064</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>2</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>61293</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1192273</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.051409</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>93718</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1313521</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.071349</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>88332</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1293993</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.068263</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>78084</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1241706</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.062884</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>57872</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1442121</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.040130</DistributionRatioYear5>
+        <TotalDistributionRatio>0.294035</TotalDistributionRatio>
+        <AverageDistributionRatio>0.058807</AverageDistributionRatio>
+        <NetNoncharitableAssets>1224486</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>72008</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>293</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>72301</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>49980</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>585</InvestmentIncomeExciseTax>
+        <Subtotal>585</Subtotal>
+        <TaxBasedOnInvestmentIncome>585</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>400</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>400</TotalCreditsAndPayments>
+        <TaxDue>185</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NM</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>CYNTHIA PEARCE</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>5753972253</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 1830</AddressLine1>
+          <City>HOBBS</City>
+          <State>NM</State>
+          <ZIPCode>88241</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CYNTHIA PEARCE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1830</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88241</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEVAN PEARCE</PersonName>
+          <USAddress>
+            <AddressLine1>PO BOX 1830</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88241</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>9MARKS MINISTRY GRANT FOR CHARITABLE PURPOSES</Description1>
+        <Expenses1>10000</Expenses1>
+        <Description2>ACCESS PARTNERS GRANT FOR CHARITABLE PURPOSES</Description2>
+        <Expenses2>10000</Expenses2>
+        <Description3>MY POWER, INC GRANT FOR CHARITABLE PURPOSES</Description3>
+        <Expenses3>5000</Expenses3>
+        <Description4>VIETNAM VETERANS ASSOCIATION GRANT FOR CHARITABLE PURPOSES</Description4>
+        <Expenses4>4000</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1185649</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>57484</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1243133</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1243133</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>18647</CashDeemedCharitable>
+        <NetNoncharitableAssets>1224486</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>61224</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>61224</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>585</TaxBasedOnInvestmentIncome>
+        <TotalTax>585</TotalTax>
+        <DistributableAmountBeforeAdj>60639</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>60639</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>60639</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>49980</ExpensesAndContributions>
+        <QualifyingDistributions>49980</QualifyingDistributions>
+        <AdjQualifyingDistributions>49980</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>60639</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>20807</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>2253</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>23060</TotalExcessDistriCarryover>
+        <QualifyingDistributions>49980</QualifyingDistributions>
+        <AppliedToCurrentYear>49980</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>10659</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>10659</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>12401</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>12401</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>10148</ExcessFromYear2>
+        <ExcessFromYear1>2253</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ACCESS PARTNERS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>525 A STREET NE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20002</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>9MARKS MINISTRY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>525 A STREET NE</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20002</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MY POWER INC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1756</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88241</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BUCKNER FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>600 N PEARL ST</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75201</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>VIETNAM VETERANS ASSOCIAT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2114 W 2ND STREET</AddressLine1>
+            <City>ROSWELL</City>
+            <State>NM</State>
+            <ZIPCode>88202</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JUNCTION CHRISTIAN ACADEM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>9924 CATCHINGS RD</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88240</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SPENCER THEATER</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>108 SPENCER ROAD</AddressLine1>
+            <City>ALDO</City>
+            <State>NM</State>
+            <ZIPCode>88312</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEW MEXICO STATE FAIR</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 8546</AddressLine1>
+            <City>ALBUQUERQUE</City>
+            <State>NM</State>
+            <ZIPCode>87198</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>OOH LA LA CHRISTMAS HOME</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8500 SNAKEDANCE COURT NE</AddressLine1>
+            <City>ALBUQUERQUE</City>
+            <State>NM</State>
+            <ZIPCode>87111</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LEA COUNTY COMM FOR ARTS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1974</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88241</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NMSU SCHOLARSHIP DEPT</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 30001</AddressLine1>
+            <City>LAS CRUCES</City>
+            <State>NM</State>
+            <ZIPCode>88003</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SANTAS HELPERS RUIDOSO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1803 SUDDERTH DRIVE</AddressLine1>
+            <City>RUIDOSO</City>
+            <State>NM</State>
+            <ZIPCode>88345</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BIKERS ON A MISSION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>507 W AVE Q</AddressLine1>
+            <City>LOVINGTON</City>
+            <State>NM</State>
+            <ZIPCode>88260</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HABITAT FOR HUMANITY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>920 N TURNER</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88241</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LORI BOVA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3815 SAVANNAH LANE</AddressLine1>
+            <City>SPRINGDALE</City>
+            <State>AR</State>
+            <ZIPCode>72762</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MIDLAND CHRISTIAN SCHOOL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2001 CULVER</AddressLine1>
+            <City>MIDLAND</City>
+            <State>TX</State>
+            <ZIPCode>79705</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MOTHER HUBBARD'S ACTS SCH</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1736</AddressLine1>
+            <City>LAS CRUCES</City>
+            <State>NM</State>
+            <ZIPCode>88004</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RISING SONG SACRED DRUM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 414</AddressLine1>
+            <City>MESCALERO</City>
+            <State>NM</State>
+            <ZIPCode>88340</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>SIERRA COUNTY CANCER ASST</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 476</AddressLine1>
+            <City>ELEPHANT BUTTE</City>
+            <State>NM</State>
+            <ZIPCode>87935</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NM CHRISTIAN CHILDRENS HO</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1356 HWY 236</AddressLine1>
+            <City>PORTALES</City>
+            <State>NM</State>
+            <ZIPCode>88130</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>JAYLAH DOW</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>806 SIERRA VISTA DR</AddressLine1>
+            <City>T OR C</City>
+            <State>NM</State>
+            <ZIPCode>87901</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>RIGHT TO LIFE COMM OF NM</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2800 SAN MATEO NE</AddressLine1>
+            <AddressLine2>SUITE 107</AddressLine2>
+            <City>ALBUQUERQUE</City>
+            <State>NM</State>
+            <ZIPCode>87110</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BARBRA BRADLEY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 12</AddressLine1>
+            <City>CARRIZOZO</City>
+            <State>NM</State>
+            <ZIPCode>88301</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HENGAME STANFIELD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>319 MCCUTCHEON AVE</AddressLine1>
+            <City>SOCORRO</City>
+            <State>NM</State>
+            <ZIPCode>87801</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LOVINGTON TOY TEA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1064</AddressLine1>
+            <City>LOVINGTON</City>
+            <State>NM</State>
+            <ZIPCode>88260</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MATT STANFIELD</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>319 MCCUTCHEON AVE</AddressLine1>
+            <City>SOCORRO</City>
+            <State>NM</State>
+            <ZIPCode>87801</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NM AMERICAN LEGION RIDERS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>34 STONEWOOD DR</AddressLine1>
+            <City>ALAMOGORDO</City>
+            <State>NM</State>
+            <ZIPCode>88310</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST JUDE CHILDREN'S HOSP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 172</AddressLine1>
+            <City>MESQUITE</City>
+            <State>NM</State>
+            <ZIPCode>88048</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CAMPUS CRUSADE FOR CHRIST</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 628222</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>FL</State>
+            <ZIPCode>328628222</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>205</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BETTER VISION INSTITUTE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1700 DIAGONAL ROAD</AddressLine1>
+            <AddressLine2>SUITE 500</AddressLine2>
+            <City>ALEXANDRIA</City>
+            <State>VA</State>
+            <ZIPCode>22314</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MARCH OF DIMES LAS CRUCES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6545 DOS LOBOS ROAD</AddressLine1>
+            <City>LAS CRUCES</City>
+            <State>NM</State>
+            <ZIPCode>88005</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOYS AND GIRLS CLUB TORC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>122 N BROADWAY</AddressLine1>
+            <City>T OR C</City>
+            <State>NM</State>
+            <ZIPCode>87901</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PUERTO SEGURO INC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1433</AddressLine1>
+            <City>SOCORRO</City>
+            <State>NM</State>
+            <ZIPCode>87801</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MLK JR SCHOLARSHIP FOUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1384</AddressLine1>
+            <AddressLine2>2611 DAVIS STREET</AddressLine2>
+            <City>CARLSBAD</City>
+            <State>NM</State>
+            <ZIPCode>88220</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ST CHRISTOPHERS EPISCOPAL</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>200 E PERMIAN</AddressLine1>
+            <City>HOBBS</City>
+            <State>NM</State>
+            <ZIPCode>88240</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>25</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>49980</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>16569</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>22398</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>26</ExclusionCode>
+          <ExclusionAmount>2</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>33230</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>38969</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>33230</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>72199</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>LFT LLC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>PO BOX 1830</AddressLine1>
+          <City>HOBBS</City>
+          <State>NM</State>
+          <ZIPCode>88241</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>48000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <Name>SEE ATTACHED</Name>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <GrossSalesPrice>100624</GrossSalesPrice>
+        <Basis>113946</Basis>
+        <TotalNet>-13322</TotalNet>
+      </GainLossSaleOtherAsset>
+      <GainLossSaleOtherAsset>
+        <Name>SEE ATTACHED</Name>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <GrossSalesPrice>3614969</GrossSalesPrice>
+        <Basis>3568417</Basis>
+        <TotalNet>46552</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc4">
+      <InvestmentsOther>
+        <CategoryOrItem>LONGER INVESTMENTS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1150132</BookValue>
+        <EOYFMV>1246145</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc5">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES &amp; POSTAGE</Description>
+        <RevenueAndExpensesPerBooks>2089</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2089</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT FEE</Description>
+        <RevenueAndExpensesPerBooks>7607</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>7607</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc6">
+      <Taxes>
+        <Category>FEDERAL INCOME TAX EXPENSE</Category>
+        <Amount>400</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>OTHER TAXES, LICENSES, FEES</Category>
+        <Amount>1240</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

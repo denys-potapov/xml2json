@@ -1,0 +1,930 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-14T14:35:23-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BAKER NEWMAN &amp; NOYES LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>650 ELM STREET SUITE 302</AddressLine1>
+        <City>MANCHESTER</City>
+        <State>NH</State>
+        <ZIPCode>03101</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010286541</EIN>
+      <Name>
+        <BusinessNameLine1>MAINE DENTAL SERVICE CORPORATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MAIN</NameControl>
+      <Phone>6032231000</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 2002</AddressLine1>
+        <City>CONCORD</City>
+        <State>NH</State>
+        <ZIPCode>033022002</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>THOMAS RAFFIO</Name>
+      <Title>PRESIDENT &amp; CEO</Title>
+      <Phone>6032231000</Phone>
+      <DateSigned>2011-11-14</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>E DREW CHENEY</Name>
+      <Phone>8002447444</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <DoingBusinessAs>
+        <BusinessNameLine1>DELTA DENTAL PLAN OF MAINE</BusinessNameLine1>
+      </DoingBusinessAs>
+      <NameOfPrincipalOfficerPerson>THOMAS RAFFIO</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 2002</AddressLine1>
+        <City>CONCORD</City>
+        <State>NH</State>
+        <ZIPCode>033022002</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>86030355</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="4">X</Organization501c>
+      <WebSite>WWW.NEDELTA.COM</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1965</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>PROVIDES PROGRAMS OF DENTAL CARE</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>15</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>11</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>98446</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>75029888</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>79348867</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1150196</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>945828</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>-4987</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>98446</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>76175097</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>80393141</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>144100</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>260300</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>64828944</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>67908059</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>631080</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>600925</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>9266107</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>9495323</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>74870231</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>78264607</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>1304866</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>2128534</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>34662773</TotalAssetsBOY>
+      <TotalAssetsEOY>37526646</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>7018385</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>6692018</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>27644388</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>30834628</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>IT IS OUR MISSION TO BE THE LEADING FORCE IN THE DENTAL PREPAYMENT MARKET BY OFFERING QUALITY, VERSATILE AND AFFORDABLE DENTAL PROGRAMS TO BENEFIT OUR PURCHASERS, SUBSCRIBERS, AND PARTICIPATING MEMBER DENTISTS.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>70710762</Expense>
+      <Revenue>79348867</Revenue>
+      <Description>PROGRAM SERVICES INCLUDE THE PROCESSING AND PAYMENT OF CLAIMS FOR DENTAL BENEFITS FOR VARIOUS ORGANIZATIONS. APPROXIMATELY 432,2000 CLAIMS WERE PROCESSED IN 2010. THERE ARE APPROXIMATELY 216,900 MEMBERS INCLUDED IN THE VARIOUS PLANS.</Description>
+      <Activity2>
+        <Expense>260300</Expense>
+        <Grants>260300</Grants>
+        <Description>DONATION TO UNIVERSITY OF NEW ENGLAND TO BUILD A NEW DENTAL SCHOOL ($33,000).CONTRIBUTIONS TO NORTHEAST DELTA DENTAL FOUNDATION ($227,300).</Description>
+      </Activity2>
+      <TotalProgramServiceExpense>70971062</TotalProgramServiceExpense>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <SubjectToProxyTax>0</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">1</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>192</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>15</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>11</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>FRANK BOUCHER</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6032231000</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>ONE DELTA DRIVE PO BOX 2002</AddressLine1>
+          <City>CONCORD</City>
+          <State>NH</State>
+          <ZIPCode>03302</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DOUGLAS C TERP</NamePerson>
+        <Title>CHAIR &amp; DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>15771</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEPHEN G MORSE DMD</NamePerson>
+        <Title>VICE CHAIR &amp; DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>5122</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BARRY C SALTZ DDS</NamePerson>
+        <Title>TREASURER &amp; DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>6258</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BEVERLY ATTENBURG</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>4186</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEVIN C BAACK PHD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5831</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID L BAGDASARIAN DDS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>4895</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHERYL BASCOMB</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5363</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARYELLEN BEAULIEU EDD MPH RDH</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>4654</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRED BECHARD DED</NamePerson>
+        <Title>DIRECTOR (PART YEAR)</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>468</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHARLES BROWN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>7234</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL P GOLDBERG DMD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>6395</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CYNTHIA H HAMILTON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5413</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CLIFFORD B LARLEE JR DMD</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>4895</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARTHA M LAWRENCE DDS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5363</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL W PARDUE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5363</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DANIEL THAYER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>3491</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS RAFFIO - DDPNH</NamePerson>
+        <Title>PRESIDENT &amp; CEO</Title>
+        <AverageHoursPerWeek>10.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>706067</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>149478</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HELEN T BIGLIN - DDPNH</NamePerson>
+        <Title>SR. VICE PRESIDENT</Title>
+        <AverageHoursPerWeek>10.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>182420</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>31522</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BENJAMIN E MARCUS ESQ</NamePerson>
+        <Title>CLERK</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>90702</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>888487</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>181000</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>1</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>TD INSURANCE INC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 406 OTS</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04112</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>INSURANCE BROKER COMMISSIONS</DescriptionOfServices>
+        <Compensation>271758</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>COMBINED SERVICES LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>15 NORTH MAIN STREET SUITE 300</AddressLine1>
+            <City>CONCORD</City>
+            <State>NH</State>
+            <ZIPCode>03301</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>INSURANCE BROKER COMMISSIONS</DescriptionOfServices>
+        <Compensation>215338</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>THE HOLDEN AGENCY</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>1085 BRIGHTON AVENUE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04104</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>INSURANCE BROKER COMMISSIONS</DescriptionOfServices>
+        <Compensation>212033</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>THE BAY AGENCY</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>520 OCEAN STREET</AddressLine1>
+            <City>SOUTH PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04106</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>INSURANCE BROKER COMMISSIONS</DescriptionOfServices>
+        <Compensation>143382</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>ACADIA BENEFITS INC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>111 COMMERCIAL STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>INSURANCE BROKER COMMISSIONS</DescriptionOfServices>
+        <Compensation>131019</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>7</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>PREMIUM REVENUE</Description>
+        <BusinessCode>524114</BusinessCode>
+        <TotalRevenueColumn>55215168</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>55215168</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>ADMIN SERVICE CONTRACT</Description>
+        <BusinessCode>524292</BusinessCode>
+        <TotalRevenueColumn>24133699</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>24133699</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>79348867</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>714254</TotalRevenueColumn>
+        <ExclusionAmount>714254</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>5868788</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>5637214</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>231574</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>231574</TotalRevenueColumn>
+        <ExclusionAmount>231574</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <OtherRevenueMisc>
+        <Description>MANAGEMENT FEE - CSLLC</Description>
+        <BusinessCode>561000</BusinessCode>
+        <TotalRevenueColumn>100000</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>100000</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>EQUITY LOSSES - NEW EN</Description>
+        <BusinessCode>524292</BusinessCode>
+        <TotalRevenueColumn>-1554</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>-1554</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>98446</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>80393141</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>79348867</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>98446</UnrelatedBusinessRevenue>
+        <ExclusionAmount>945828</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>260300</Total>
+        <ProgramServices>260300</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <BenefitsToMembers>
+        <Total>67908059</Total>
+        <ProgramServices>67908059</ProgramServices>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>90702</Total>
+        <ManagementAndGeneral>90702</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>394676</Total>
+        <ManagementAndGeneral>394676</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>21718</Total>
+        <ManagementAndGeneral>21718</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>63808</Total>
+        <ManagementAndGeneral>63808</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>30021</Total>
+        <ManagementAndGeneral>30021</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>17457</Total>
+        <ManagementAndGeneral>17457</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>88350</Total>
+        <ManagementAndGeneral>88350</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesInvstMgmntFees>
+        <Total>98393</Total>
+        <ManagementAndGeneral>98393</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>18000</Total>
+        <ManagementAndGeneral>18000</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>422858</Total>
+        <ManagementAndGeneral>422858</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>62525</Total>
+        <ManagementAndGeneral>62525</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>55235</Total>
+        <ManagementAndGeneral>55235</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>32536</Total>
+        <ManagementAndGeneral>32536</ManagementAndGeneral>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>36082</Total>
+        <ManagementAndGeneral>36082</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>245</Total>
+        <ManagementAndGeneral>245</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>17900</Total>
+        <ManagementAndGeneral>17900</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>21522</Total>
+        <ManagementAndGeneral>21522</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>ADMINISTRATION - DELTA</Description>
+        <Total>5694581</Total>
+        <ProgramServices>2748703</ProgramServices>
+        <ManagementAndGeneral>2945878</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BROKERS' COMMISSIONS</Description>
+        <Total>2668995</Total>
+        <ManagementAndGeneral>2668995</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <Total>127594</Total>
+        <ManagementAndGeneral>127594</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROFESSIONAL RELATIONS</Description>
+        <Total>9669</Total>
+        <ManagementAndGeneral>9669</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>123381</Total>
+        <ProgramServices>54000</ProgramServices>
+        <ManagementAndGeneral>69381</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>78264607</Total>
+        <ProgramServices>70971062</ProgramServices>
+        <ManagementAndGeneral>7293545</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>2141195</BOY>
+        <EOY>2928762</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>3842308</BOY>
+        <EOY>3278960</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>2939924</BOY>
+        <EOY>3125601</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>6247</BOY>
+        <EOY>6754</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>200066</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>173272</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>24721</BOY>
+        <EOY>26794</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>24286952</BOY>
+        <EOY>26802005</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsProgramRelated>
+        <BOY>1410112</BOY>
+        <EOY>1352030</EOY>
+      </InvestmentsProgramRelated>
+      <OtherAssetsTotal>
+        <BOY>11314</BOY>
+        <EOY>5740</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>34662773</BOY>
+        <EOY>37526646</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>2665233</BOY>
+        <EOY>2663876</EOY>
+      </AccountsPayableAccruedExpenses>
+      <GrantsPayable>
+        <BOY>1818300</BOY>
+        <EOY>1399100</EOY>
+      </GrantsPayable>
+      <OtherLiabilities>
+        <BOY>2534852</BOY>
+        <EOY>2629042</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>7018385</BOY>
+        <EOY>6692018</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>27644388</BOY>
+        <EOY>30834628</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>27644388</BOY>
+        <EOY>30834628</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>34662773</BOY>
+        <EOY>37526646</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>2128534</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>1061706</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>14667</OtherCostOrOtherBasis>
+        <Depreciation>11331</Depreciation>
+        <BookValue>3336</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>122361</OtherCostOrOtherBasis>
+        <Depreciation>117611</Depreciation>
+        <BookValue>4750</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>63038</OtherCostOrOtherBasis>
+        <Depreciation>44330</Depreciation>
+        <BookValue>18708</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>26794</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>ACCRUED REFUNDS</Description>
+        <Amount>238030</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>UNEARNED REVENUE</Description>
+        <Amount>876912</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>ADVANCES - ADMIN SERV CONTRACTS</Description>
+        <Amount>1514100</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>2629042</TotalOfAmounts>
+      <TotalRevenue>80393141</TotalRevenue>
+      <TotalExpenses>78264607</TotalExpenses>
+      <ExcessOrDeficitForYear>2128534</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>1061706</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>1061706</TotalAdjustments>
+      <ExcessOrDeficitPerFS>3190240</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>59045545</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>1061706</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>1061706</RevenueNotRptdF990>
+      <RevenueSubtotal>57983839</RevenueSubtotal>
+      <InvestmentExpensesNotIncluded>98393</InvestmentExpensesNotIncluded>
+      <OtherRevenuesNotIncluded>22310909</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>22409302</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>80393141</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>55855305</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>55855305</ExpensesSubtotal>
+      <InvestmentExpensesNotIncluded2>98393</InvestmentExpensesNotIncluded2>
+      <OtherExpensesNotIncluded>22310909</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>22409302</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>78264607</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>PER THE AUDITED FINANCIAL STATEMENTS: MAINE DENTAL SERVICE CORPORATION (THE CORPORATION)'S MANAGEMENT HAS DETERMINED THAT THE CORPORATION HAS NOT TAKEN, NOR EXPECTS TO TAKE, ANY UNCERTAIN TAX POSITIONS IN ANY INCOME TAX RETURN. TAX YEARS AFTER DECEMBER 31, 2006 ARE OPEN FOR INTERNAL REVENUE SERVICE OR STATE EXAMINATION.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>DENTAL CLAIMS PAID UNDER ADMIN SERVICE CONTRACTS 22,310,909.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>DENTAL CLAIMS PAID UNDER ADMIN SERVICE CONTRACTS 22,310,909.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>UNIVERSITY OF NEW ENGLAND</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>11 HILLS BEACH ROAD</AddressLine1>
+          <City>BIDDEFORD</City>
+          <State>ME</State>
+          <ZIPCode>04005</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010211810</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>33000</AmountOfCashGrant>
+        <PurposeOfGrant>BUILDING A NEW DENTAL SCHOOL</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>NORTHEAST DELTA DENTAL FOUNDATION</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>ONE DELTA DRIVE PO BOX 2002</AddressLine1>
+          <City>CONCORD</City>
+          <State>NH</State>
+          <ZIPCode>03302</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>020489150</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>227300</AmountOfCashGrant>
+        <PurposeOfGrant>GENERAL SUPPORT TO PROMOTE ORAL HEALTH</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>2</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>0</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIV>
+        <Identifier>OTHER INFORMATION:</Identifier>
+        <ReturnReference>PART IV:</ReturnReference>
+        <Explanation>MAINE DENTAL SERVICE CORPORATION (MDSC) MAKES ELECTIVE ANNUAL CHARITABLE CONTRIBUTIONS TO THE NORTHEAST DENTAL FOUNDATION EQUAL TO 0.05% OF THE BUDGETED GROSS BILLINGS, PLUS 5% OF THE ACTUAL INCREASE IN UNRESTRICTED NET ASSETS FROM OPERATIONS EACH YEAR. MDSC'S TOTAL CONTRIBUTIONS TO THE FOUNDATION IN 2010 TOTALED $227,300. DURING 2008, MDSC PLEDGED $2,000,000 TO THE UNIVERSITY OF NEW ENGLAND TO BUILD A NEW DENTAL SCHOOL. PER THE AUDITED FINANCIAL STATEMENTS, THE $33,000 RELATED TO THE CHANGE IN THE DISCOUNTED VALUE OF THE PLEDGE HAS BEEN RECORDED AS AN EXPENSE FOR THE YEAR ENDED DECEMBER 31, 2010.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <CompensationCommittee>X</CompensationCommittee>
+      <IndependentConsultant>X</IndependentConsultant>
+      <Form990OfOtherOrganizations>X</Form990OfOtherOrganizations>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>1</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>THOMAS RAFFIO - DDPNH</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>522204</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>125693</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>58170</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>120051</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>29427</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>855545</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>HELEN T BIGLIN - DDPNH</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>153461</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>11466</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>17493</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>9246</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>22276</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>213942</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>SUPPLEMENTAL INFORMATION</Identifier>
+        <ReturnReference>PART III</ReturnReference>
+        <Explanation>THOMAS RAFFIO, CEO, AND HELEN BIGLIN, SENIOR VICE PRESIDENT, BOTH RECEIVE ALL OF THEIR COMPENSATION FROM DELTA DENTAL PLAN OF NEW HAMPSHIRE, WHICH IS AN UNRELATED ORGANIZATION PER SCHEDULE R DEFINITIONS.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>DAVID L BAGDASARIAN DDS</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>DIRECTOR</Relationship>
+        <AmountOfTransaction>506630</AmountOfTransaction>
+        <DescriptionOfTransaction>THE DIRECTORS LISTED HERE HAVE OWNERSHIP INTERESTS IN DENTAL PRACTICES THAT RECEIVE INSURANCE REIMBURSEMENTS FROM DELTA DENTAL IN THE ORDINARY COURSE OF THEIR BUSINESS. ALL TRANSACTIONS ARE AT ARM'S LENGTH AND FOR FAIR VALUE.</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>STEPHEN G MORSE DDS</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>DIRECTOR</Relationship>
+        <AmountOfTransaction>266870</AmountOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>BARRY C SALTZ DDS</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>DIRECTOR</Relationship>
+        <AmountOfTransaction>247576</AmountOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>CHARLES BROWN DDS</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>DIRECTOR</Relationship>
+        <AmountOfTransaction>107756</AmountOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE FORM 990 IS REVIEWED IN DETAIL BY KEY FINANCE EMPLOYEES OF NORTHEAST DELTA DENTAL. A FINAL DRAFT IS PRESENTED TO THE BOARD BEFORE THE FORM IS FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>A COPY OF THE CONFLICT OF INTEREST POLICY IS DISTRIBUTED ANNUALLY TO ALL OFFICERS, DIRECTORS, AND THE MANAGEMENT TEAM. ALL ARE REQUIRED TO REPORT ANY CONFLICTS AND SIGN, DATE, AND RETURN THE POLICY, WHETHER OR NOT A CONFLICT EXISTS, TO CONFIRM COMPLIANCE. GENERAL COUNSEL REVIEWS THE RETURNED POLICIES AND REPORTS THE RESULTS TO THE ENTIRE BOARD OF DIRECTORS. BOARD MEMBERS ARE ASKED TO PROVIDE UPDATES OF ANY CHANGES THAT MAY OCCUR BETWEEN THEIR ANNUAL CONFLICT OF INTEREST FILINGS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>UPON REQUEST, MAINE DENTAL SERVICES CORPORATION MAKES ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, OR FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>NET UNREALIZED GAINS ON INVESTMENTS: 1,061,706.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART XII, LINE 2C:</ReturnReference>
+        <Explanation>THE FINANCE/AUDIT COMMITTEE OVERSEES THE AUDIT PROCESS FOR MAINE DENTAL SERVICE CORPORATION. THE AUDIT PROCESS FOR THE FINANCIAL STATEMENTS DID NOT CHANGE FROM THE PRIOR YEAR. INDEPENDENT ACCOUNTANTS PERFORMED THE AUDIT IN BOTH 2009 AND 2010.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

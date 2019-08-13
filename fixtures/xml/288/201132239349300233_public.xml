@@ -1,0 +1,933 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-11T07:29:12-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MAINEHEALTH</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>110 FREE ST</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041013908</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010288362</EIN>
+      <Name>
+        <BusinessNameLine1>COMMUNITY COUNSELING CENTER</BusinessNameLine1>
+      </Name>
+      <NameControl>COMM</NameControl>
+      <Phone>2078741030</Phone>
+      <USAddress>
+        <AddressLine1>165 LANCASTER STREET</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041012499</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARY JANE KREBS</Name>
+      <Title>INTERIM CEO</Title>
+      <Phone>2078741030</Phone>
+      <DateSigned>2011-07-28</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <DatePrepared>2011-08-11</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc6" referenceDocumentId="RetDoc8">
+      <NameOfPrincipalOfficerPerson>MARY JANE KREBS</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>165 LANCASTER STREET</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041012499</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>5684425</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>WWW.COMMCC.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1971</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>COMMUNITY COUNSELING CENTER PROVIDES FAMILY SERVICES AND BEHAVIORAL HEALTH PROGRAMS TO CHILDREN, ADOLESCENTS, ADULTS, AND SENIORS. CORE SERVICES INCLUDE MENTAL HEALTH COUNSELING, CASE MANAGEMENT, EMPLOYEE ASSISTANCE PROGRAMS, PSYCHIATRIC SERVICES, FIRST PSYCHOLOGICAL AIDE, AND A WIDE ARRAY OF PREVENTION, EDUCATION AND WELLNESS PROGRAMS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>18</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>16</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>140</TotalNbrEmployees>
+      <TotalNbrVolunteers>40</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>309088</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>1362503</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>984175</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>4313486</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1212</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>8436</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>9234</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>1303709</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>5684425</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>1067384</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>4466906</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>35467</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>617056</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1734984</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>1684440</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>6201890</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-380731</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-517465</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>2253026</TotalAssetsBOY>
+      <TotalAssetsEOY>1787198</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>942387</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>987379</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>1310639</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>799819</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>COMMUNITY COUNSELING CENTER PROVIDES FAMILY SERVICES AND BEHAVIORAL HEALTH PROGRAMS TO CHILDREN, ADOLESCENTS, ADULTS, AND SENIORS. CORE SERVICES INCLUDE MENTAL HEALTH COUNSELING, CASE MANAGEMENT, EMPLOYEE ASSISTANCE PROGRAMS, PSYCHIATRIC SERVICES, FIRST PSYCHOLOGICAL AIDE, AND A WIDE ARRAY OF PREVENTION, EDUCATION AND WELLNESS PROGRAMS.</MissionDescription>
+      <SignificantNewProgramServices>true</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>2829213</Expense>
+      <Revenue>2143560</Revenue>
+      <Description>OUTPATIENT COUNSELING SERVICES: ADULT OUTPATIENT COUNSELING SERVICES PROVIDES TIME-SENSITIVE INDIVIDUAL, COUPLES, AND GROUP THERAPY TO HELP PEOPLE WHO MAY BE STRUGGLING WITH A WIDE VARIETY OF PERSONAL AND FAMILY ISSUES SUCH AS RELATIONSHIP CONCERNS, TRAUMATIC EVENTS, MILITARY DEPLOYMENT, EMOTIONAL DIFFICULTIES, MENTAL ILLNESS OR PROBLEM BEHAVIORS. ADULT OUTPATIENT COUNSELING SERVICES ALSO PROVIDES SPECIALIZED TRAUMA TREATMENT, INCLUDING DIALECTICAL BEHAVIORAL THERAPY (DBT), EYE MOVEMENT DESENSITIZATION AND REPROCESSING (EMDR). (CONTINUED ON SCHEDULE O) (CONTINUED FROM PART III) SERVICES TO CHILDREN AND FAMILIES INCLUDE ADDRESSING A BROAD RANGE OF DIAGNOSTIC PRESENTATIONS, ESPECIALLY DEPRESSION, ANXIETY, ATTENTION DEFICIT DISORDER, AND CONDUCT DISORDERS; SUBSTANCE ABUSE ASSESSMENT AND COUNSELING; TEENS REQUESTING SERVICES FOR THEMSELVES; UNPLANNED PREGNANCY; AND PARENTING SUPPORT. TREATMENT IS FAMILY CENTERED, FOCUSING ON INHERENT STRENGTHS, UNMET NEEDS, AND STRATEGIES TO STRENGTHEN FAMILIAL AND SOCIAL SUPPORT NETWORKS.</Description>
+      <Activity2>
+        <Expense>1274793</Expense>
+        <Revenue>1069401</Revenue>
+        <Description>TARGETED CASE MANAGEMENT: CASE MANAGEMENT SERVICES ARE DESIGNED FOR CHILDREN WITH MENTAL HEALTH OR BEHAVIORAL PROBLEMS AND PROVIDED IN THE HOME, SCHOOL AND AT THE AGENCY. CASE MANAGERS WORK WITH FAMILIES TO DESIGN A SERVICE PLAN TAILORED TO MEET THE INDIVIDUALIZED NEEDS OF THE CHILD, LOCATE AND COORDINATE RESOURCES, ADVOCATE FOR NEEDED SERVICES, AND ASSURE THAT THE CHILD'S AND FAMILY'S NEEDS ARE ADDRESSED. SEE ATTACHED COMMUNITY BENEFIT REPORT FOR MAINE MENTAL HEALTH PARTNERS &amp; SUBSIDIARIES.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>417441</Expense>
+        <Revenue>417441</Revenue>
+        <Description>THE CHILDREN'S INITIATIVE: THE CHILDREN'S INITIATIVE IS A FOUR YEAR, 1.6 MILLION GRANT FOCUSED ON THE WELL-BEING OF CHILDREN WHO HAVE EXPERIENCED VIOLENCE, AND THEIR FAMILIES. WE OFFER SUPPORT AND TREATMENT FOR THOSE WHO HAVE EXPERIENCED VIOLENCE OR OTHER TYPES OF TRAUMA, AND ALSO PROVIDE FREE TRAINING TO THE COMMUNITY ABOUT SIGNS, SYMPTOMS AND STRATEGIES FOR WORKING WITH CHILDREN AND FAMILIES WHO HAVE EXPERIENCED TRAUMA IN THEIR LIVES. THE TREATMENT USED WITHIN THE CHILDREN'S INITIATIVE IS TRAUMA-FOCUSED COGNITIVE BEHAVIORAL THERAPY, ALSO KNOWN AS TF-CBT. THIS IS A TYPE OF THERAPY PROVEN TO HELP CHILDREN WHO HAVE EXPERIENCED A TRAUMATIC EVENT. (CONTINUED ON SCHEDULE O) (CONTINUED FROM PART III) IT COMBINES INDIVIDUAL THERAPY WITH PARTICIPATION OF THE PARENT OR CAREGIVER, AND LETS CHILDREN KNOW THAT THESE TYPES OF EVENTS HAVE HAPPENED TO OTHERS WHILE ADDRESSING THE TRAUMA IN A SUPPORTIVE, HELPFUL MANNER. THE TREATMENT TEACHES METHODS FOR RELAXATION, STRESS MANAGEMENT AND SAFETY SKILLS. THIS ALLOWS THE CHILD TO LEARN NEW WAYS TO COPE AND HELPS CAREGIVERS SUPPORT THEM IN THE PROCESS.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>776807</Expense>
+        <Revenue>1100225</Revenue>
+        <Description>COMMUNITY COUNSELING CENTER OFFERS A VARIETY OF PROGRAMS AND SERVICES TO MEET THE VARIED NEEDS OF OUR COMMUNITY. THESE INCLUDE: CASE MANAGEMENT AND COMMUNITY INTEGRATION SERVICES FOR CHILDREN AND ADULTS WHO NEED ASSISTANCE CONNECTING TO EDUCATIONAL AND COMMUNITY RESOURCES; MEDICATION MANAGEMENT THROUGH ON-SITE PSYCHIATRIC STAFF FOR CLIENTS WHO UTILIZE MEDICATION AS PART OF THEIR THERAPY; ELDERWORKS, A DAY SUPPORT PROGRAM FOR OLDER ADULTS WHO SUFER FROM CHRONIC MENTAL ILLNESS; SURVIVORS OF TORTURE, A THREE YEAR, FEDERAL GRANT THAT PROVIDES COUNSELING SERVICES TO REFUGEES WHO HAVE SURVIVED TORTURE AND ARE TRAUMATIZED BY THE VIOLENCE THEY EXPERIENCED IN THEIR HOME COUNTRIES; SAFE AND STRONG, A FEDERAL GRANT AIMED AT EDUCATING CHILDREN AND ADULTS ABOUT THE EFFECTS OF BULLYING AND HOW TO STOP IT; PROUD RAINBOW YOUTH OF SOUTHERN MAINE, A DROP-IN PROGRAM FOR LESBIAN, GAY, BISEXUAL, TRANSGENDER AND QUESTIONING YOUTH THAT PROVIDES LEADERSHIP OPPORTUNITIES AND PSYCHO-EDUCATIONAL WORKSHOPS; AND THE TRAUMA INTERVENTION PROGRAM, WHICH TRAINS CITIZEN VOLUNTEERS TO PROVIDE EMOTIONAL AND PRACTICAL SUPPORT TO VICTIMS OF TRAUMATIC EVENTS.</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>776807</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceRev>1100225</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>5298254</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc4">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc5">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc5">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc5">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc5">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc5">true</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc5">true</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc5">false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc5">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc7">true</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc9">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc9">true</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="RetDoc9">false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc9">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc9">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>21</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>140</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>18</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>16</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>ME</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>MARY JANE KREBS</NamePerson>
+        <TelephoneNumber>2078741030</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>165 LANCASTER STREET</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>041012499</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DENNIS KING</NamePerson>
+        <Title>CEO-MMHP</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>494901</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>32373</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LISA TONER</NamePerson>
+        <Title>CHAIR</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRANK BROOKS</NamePerson>
+        <Title>VICE CHAIR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL NELSON</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD WHITE</NamePerson>
+        <Title>CHAIR FINANC</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DICK ARONSON</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LEIGH BAGLEY</NamePerson>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PATRICIA BRASSARD</NamePerson>
+        <Title>CHAIR PROG.</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GREG DICKSON</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WENDY LAIDLAW</NamePerson>
+        <Title>CHAIR PLANNI</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CINDY LIBBY</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ELEANOR PACKER</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRANK PARKER</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSEPH PURINGTON</NamePerson>
+        <Title>CHAIR PERSON</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID SMITH</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NED SMITH ESQ</NamePerson>
+        <Title>CHAIR BUILDI</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LAURIE WILLIAMSON</NamePerson>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LESLIE CLARK BRANCATO</NamePerson>
+        <Title>CEO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>114889</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>17302</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>REBECCA FARRAR</NamePerson>
+        <Title>CFO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>82323</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>15085</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>197212</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>494901</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>64760</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <FederatedCampaigns>367074</FederatedCampaigns>
+      <GovernmentGrants>942443</GovernmentGrants>
+      <AllOtherContributions>52986</AllOtherContributions>
+      <TotalContributions>1362503</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>OUTPATIENT COUNSELING SERVICE</Description>
+        <BusinessCode>621400</BusinessCode>
+        <TotalRevenueColumn>2143560</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2143560</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>TARGETED CASE MANAGEMENT</Description>
+        <BusinessCode>624100</BusinessCode>
+        <TotalRevenueColumn>1069401</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1069401</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>COMMUNITY INTEGRATION</Description>
+        <BusinessCode>624100</BusinessCode>
+        <TotalRevenueColumn>377552</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>377552</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>DAY TREATMENT</Description>
+        <BusinessCode>624100</BusinessCode>
+        <TotalRevenueColumn>317011</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>317011</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>MEDICATION MANAGEMENT</Description>
+        <BusinessCode>621400</BusinessCode>
+        <TotalRevenueColumn>187910</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>187910</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalOthProgramServiceRevenue>
+        <TotalRevenueColumn>218052</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>218052</RelatedOrExemptFunctionIncome>
+      </TotalOthProgramServiceRevenue>
+      <TotalProgramServiceRevenue>4313486</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>8436</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>8436</RelatedOrExemptFunctionIncome>
+      </InvestmentIncome>
+      <TotalRevenue>
+        <TotalRevenueColumn>5684425</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>4321922</RelatedOrExemptFunctionIncome>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>271512</Total>
+        <ProgramServices>32927</ProgramServices>
+        <ManagementAndGeneral>238585</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>3432003</Total>
+        <ProgramServices>3108875</ProgramServices>
+        <ManagementAndGeneral>307052</ManagementAndGeneral>
+        <Fundraising>16076</Fundraising>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>448170</Total>
+        <ProgramServices>358985</ProgramServices>
+        <ManagementAndGeneral>84510</ManagementAndGeneral>
+        <Fundraising>4675</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>315221</Total>
+        <ProgramServices>258971</ProgramServices>
+        <ManagementAndGeneral>54476</ManagementAndGeneral>
+        <Fundraising>1774</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>337994</Total>
+        <ProgramServices>324794</ProgramServices>
+        <ManagementAndGeneral>12413</ManagementAndGeneral>
+        <Fundraising>787</Fundraising>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>11368</Total>
+        <ManagementAndGeneral>11368</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>14535</Total>
+        <ManagementAndGeneral>14535</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>442747</Total>
+        <ProgramServices>386633</ProgramServices>
+        <ManagementAndGeneral>55457</ManagementAndGeneral>
+        <Fundraising>657</Fundraising>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>123797</Total>
+        <ProgramServices>88971</ProgramServices>
+        <ManagementAndGeneral>28627</ManagementAndGeneral>
+        <Fundraising>6199</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>2618</Total>
+        <ProgramServices>2498</ProgramServices>
+        <ManagementAndGeneral>120</ManagementAndGeneral>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>523321</Total>
+        <ProgramServices>490667</ProgramServices>
+        <ManagementAndGeneral>28379</ManagementAndGeneral>
+        <Fundraising>4275</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>45273</Total>
+        <ProgramServices>44164</ProgramServices>
+        <ManagementAndGeneral>1014</ManagementAndGeneral>
+        <Fundraising>95</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>61628</Total>
+        <ProgramServices>52202</ProgramServices>
+        <ManagementAndGeneral>9301</ManagementAndGeneral>
+        <Fundraising>125</Fundraising>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>8000</Total>
+        <ManagementAndGeneral>8000</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>54647</Total>
+        <ProgramServices>48002</ProgramServices>
+        <ManagementAndGeneral>6323</ManagementAndGeneral>
+        <Fundraising>322</Fundraising>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>28150</Total>
+        <ProgramServices>24731</ProgramServices>
+        <ManagementAndGeneral>3251</ManagementAndGeneral>
+        <Fundraising>168</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>HOSPITAL TAX</Description>
+        <Total>34192</Total>
+        <ProgramServices>34192</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBERSHIP DUES</Description>
+        <Total>28283</Total>
+        <ProgramServices>23211</ProgramServices>
+        <ManagementAndGeneral>4758</ManagementAndGeneral>
+        <Fundraising>314</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROVISION FOR BAD DEBTS</Description>
+        <Total>18431</Total>
+        <ProgramServices>18431</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>6201890</Total>
+        <ProgramServices>5298254</ProgramServices>
+        <ManagementAndGeneral>868169</ManagementAndGeneral>
+        <Fundraising>35467</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>776792</BOY>
+        <EOY>481291</EOY>
+      </CashNonInterestBearing>
+      <PledgesAndGrantsReceivable>
+        <BOY>412577</BOY>
+        <EOY>172696</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>833322</BOY>
+        <EOY>838413</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>23606</BOY>
+        <EOY>29606</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>413626</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>298723</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>57845</BOY>
+        <EOY>114903</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>148884</BOY>
+        <EOY>150289</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>2253026</BOY>
+        <EOY>1787198</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>522431</BOY>
+        <EOY>530529</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>239603</BOY>
+        <EOY>83567</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>180353</BOY>
+        <EOY>373283</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>942387</BOY>
+        <EOY>987379</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>930702</BOY>
+        <EOY>470689</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>103162</BOY>
+        <EOY>50949</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>276775</BOY>
+        <EOY>278181</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>1310639</BOY>
+        <EOY>799819</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>2253026</BOY>
+        <EOY>1787198</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc4">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>1405814</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1291872</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1323440</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1825112</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1362503</CurrentTaxYear>
+        <Total>7208741</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>1405814</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1291872</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1323440</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1825112</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1362503</CurrentTaxYear>
+        <Total>7208741</Total>
+      </Total170>
+      <PublicSupportTotal170>7208741</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>12386</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>4844</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>10059</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>4670</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>8436</CurrentTaxYear>
+        <Total>40395</Total>
+      </GrossInvestmentIncome170>
+      <TotalSupport>7249136</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>4321922</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.99440</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.99400</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc5">
+      <DisclosedOrgsLegalControl>false</DisclosedOrgsLegalControl>
+      <DisclosedForCharitablePurposes>false</DisclosedForCharitablePurposes>
+      <WrittenPolicyMonitoring>false</WrittenPolicyMonitoring>
+      <Sect170hRequirementsSatisfied>false</Sect170hRequirementsSatisfied>
+      <SolicitedAssetsForSale>false</SolicitedAssetsForSale>
+      <AgentTrusteeEtc>false</AgentTrusteeEtc>
+      <IncludedOnFS>false</IncludedOnFS>
+      <CurrentYear>
+        <BeginningOfYearBalance>127892</BeginningOfYearBalance>
+        <EndOfYearBalance>127892</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>127892</BeginningOfYearBalance>
+        <EndOfYearBalance>127892</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <PermanentEndowmentEOYBalance>1.00000</PermanentEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>false</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>false</EndowmentsHeldByRelatedOrgs>
+      <AreRelatedOrgsListedScheduleR>false</AreRelatedOrgsListedScheduleR>
+      <Buildings>
+        <OtherCostOrOtherBasis>110802</OtherCostOrOtherBasis>
+        <BookValue>110802</BookValue>
+      </Buildings>
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>274242</OtherCostOrOtherBasis>
+        <Depreciation>270943</Depreciation>
+        <BookValue>3299</BookValue>
+      </LeaseholdImprovements>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>28582</OtherCostOrOtherBasis>
+        <Depreciation>27780</Depreciation>
+        <BookValue>802</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>114903</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>BENEFICIAL INTEREST- PERPETUAL TRUST</Description>
+        <BookValue>150289</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>150289</TotalBookValueOtherAssets>
+      <OtherLiabilities>
+        <Description>DUE TO AFFILIATES</Description>
+        <Amount>373283</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>373283</TotalOfAmounts>
+      <Form990ScheduleDPartXIV>
+        <Identifier>INTENDED USES FOR ENDOWMENT FUNDS</Identifier>
+        <ReturnReference>SCHEDULE D, PAGE 2, PART V, LINE 4</ReturnReference>
+        <Explanation>THE ENDOWMENT FUNDS ARE INTENDED TO BE USED TOWARD SUPPORTING CHILDREN AND FAMILIES, INCLUDING ADOPTION.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc7">
+      <CompensationCommittee>X</CompensationCommittee>
+      <IndependentConsultant>X</IndependentConsultant>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>true</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>DENNIS KING</NamePerson>
+        <CompBasedOnRelatedOrgs>281832</CompBasedOnRelatedOrgs>
+        <BonusRelatedOrgs>55000</BonusRelatedOrgs>
+        <OtherCompensationRelatedOrgs>158069</OtherCompensationRelatedOrgs>
+        <DeferredCompRelatedOrgs>4900</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsRelatedOrgs>27473</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationRelatedOrgs>527274</TotalCompensationRelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>SEVERANCE, NONQUALIFIED, AND EQUITY-BASED PAYMENTS</Identifier>
+        <ReturnReference>SCHEDULE J, PAGE 1, PART I, LINE 4</ReturnReference>
+        <Explanation>DENNIS KING 0 144,079 0</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc8">
+      <GeneralExplanation>
+        <Identifier>ORGANIZATION'S MISSION</Identifier>
+        <ReturnReference>FORM 990 - ORGANIZATION'S MISSION</ReturnReference>
+        <Explanation>COMMUNITY COUNSELING CENTER PROVIDES FAMILY SERVICES AND BEHAVIORAL HEALTH PROGRAMS TO CHILDREN, ADOLESCENTS, ADULTS, AND SENIORS. CORE SERVICES INCLUDE MENTAL HEALTH COUNSELING, CASE MANAGEMENT, EMPLOYEE ASSISTANCE PROGRAMS, PSYCHIATRIC SERVICES, FIRST PSYCHOLOGICAL AIDE, AND A WIDE ARRAY OF PREVENTION, EDUCATION AND WELLNESS PROGRAMS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ANY SIGNIFICANT NEW PROGRAM SERVICES NOT LISTED ON A PRIOR RETURN</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 2</ReturnReference>
+        <Explanation>THE CHILDREN'S INITIATIVE IS A NEW, SIGNIFICANT PROGRAM IN THE CURRENT YEAR. SEE DESCRIPTION OF PROGRAM AT PART III, LINE 4C.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FIRST ACHIEVEMENT DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4A</ReturnReference>
+        <Explanation>(CONTINUED FROM PART III) SERVICES TO CHILDREN AND FAMILIES INCLUDE ADDRESSING A BROAD RANGE OF DIAGNOSTIC PRESENTATIONS, ESPECIALLY DEPRESSION, ANXIETY, ATTENTION DEFICIT DISORDER, AND CONDUCT DISORDERS; SUBSTANCE ABUSE ASSESSMENT AND COUNSELING; TEENS REQUESTING SERVICES FOR THEMSELVES; UNPLANNED PREGNANCY; AND PARENTING SUPPORT. TREATMENT IS FAMILY CENTERED, FOCUSING ON INHERENT STRENGTHS, UNMET NEEDS, AND STRATEGIES TO STRENGTHEN FAMILIAL AND SOCIAL SUPPORT NETWORKS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>THIRD ACHIEVEMENT DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4C</ReturnReference>
+        <Explanation>(CONTINUED FROM PART III) IT COMBINES INDIVIDUAL THERAPY WITH PARTICIPATION OF THE PARENT OR CAREGIVER, AND LETS CHILDREN KNOW THAT THESE TYPES OF EVENTS HAVE HAPPENED TO OTHERS WHILE ADDRESSING THE TRAUMA IN A SUPPORTIVE, HELPFUL MANNER. THE TREATMENT TEACHES METHODS FOR RELAXATION, STRESS MANAGEMENT AND SAFETY SKILLS. THIS ALLOWS THE CHILD TO LEARN NEW WAYS TO COPE AND HELPS CAREGIVERS SUPPORT THEM IN THE PROCESS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ALL OTHER ACHIEVEMENTS DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4D</ReturnReference>
+        <Explanation>COMMUNITY COUNSELING CENTER OFFERS A VARIETY OF PROGRAMS AND SERVICES TO MEET THE VARIED NEEDS OF OUR COMMUNITY. THESE INCLUDE: CASE MANAGEMENT AND COMMUNITY INTEGRATION SERVICES FOR CHILDREN AND ADULTS WHO NEED ASSISTANCE CONNECTING TO EDUCATIONAL AND COMMUNITY RESOURCES; MEDICATION MANAGEMENT THROUGH ON-SITE PSYCHIATRIC STAFF FOR CLIENTS WHO UTILIZE MEDICATION AS PART OF THEIR THERAPY; ELDERWORKS, A DAY SUPPORT PROGRAM FOR OLDER ADULTS WHO SUFER FROM CHRONIC MENTAL ILLNESS; SURVIVORS OF TORTURE, A THREE YEAR, FEDERAL GRANT THAT PROVIDES COUNSELING SERVICES TO REFUGEES WHO HAVE SURVIVED TORTURE AND ARE TRAUMATIZED BY THE VIOLENCE THEY EXPERIENCED IN THEIR HOME COUNTRIES; SAFE AND STRONG, A FEDERAL GRANT AIMED AT EDUCATING CHILDREN AND ADULTS ABOUT THE EFFECTS OF BULLYING AND HOW TO STOP IT; PROUD RAINBOW YOUTH OF SOUTHERN MAINE, A DROP-IN PROGRAM FOR LESBIAN, GAY, BISEXUAL, TRANSGENDER AND QUESTIONING YOUTH THAT PROVIDES LEADERSHIP OPPORTUNITIES AND PSYCHO-EDUCATIONAL WORKSHOPS; AND THE TRAUMA INTERVENTION PROGRAM, WHICH TRAINS CITIZEN VOLUNTEERS TO PROVIDE EMOTIONAL AND PRACTICAL SUPPORT TO VICTIMS OF TRAUMATIC EVENTS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CLASSES OF MEMBERS OR STOCKHOLDERS</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 6</ReturnReference>
+        <Explanation>MAINE MENTAL HEALTH PARTNERS (MMHP) - EIN 26-3426990 IS THE SOLE MEMBER OF COMMUNITY COUNSELING CENTER. MAINEHEALTH (EIN 01-0431680), AS SOLE MEMBER OF MMHP HAS THE RIGHT TO APPROVE SIGNIFICANT DECISIONS OF THE GOVERNING BODY OF MMHP AND ITS SUBSIDIARIES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ELECTION OF MEMBERS AND THEIR RIGHTS</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 7A</ReturnReference>
+        <Explanation>MAINEHEALTH MAY ELECT MEMBERS OF THE BOARD OF DIRECTORS FROM A SLATE OF NOMINEES SUBMITTED BY THE CORPORATION. THE PRESIDENT/CEO OF THE CORPORATION IS ALSO ELECTED OR APPOINTED BY THE MEMBER.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>DECISIONS SUBJECT TO APPROVAL OF MEMBERS</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 7B</ReturnReference>
+        <Explanation>THE EXERCISE OF THE FOLLOWING POWERS BY THE BOARD OF TRUSTEES SHALL BE SUBJECT TO THE APPROVAL OF THE SOLE MEMBER AND ITS PARENT, MAINEHEALTH: A) ADOPTION OF ANNUAL CAPITAL &amp; OPERATING BUDGETS B) APPROVAL OF ANY BUSINESS, MARKETING AND STRATEGIC PLANS, INCLUDING MODIFICATION THEREOF, BY THE ORGANIZATION OR ITS SUBSIDIARIES C) AUTHORIZATION OF DEBT INCURRED, ASSUMED OR GUARANTEED D) AUTHORITY TO APPROVE OF ANY SALE, LEASE OR DISPOSITION OF CORPORATE ASSETS GREATER THAN 100,000 E) AUTHORIZATION OF ANY CORPORATE MERGER, ACQUISITION, DISSOLUTION OR LIQUIDATION, OR ANY OTHER ACTIONS REQUIRED OF MEMBERS BY LAW. THE EXERCISE OF THE FOLLOWING POWERS BY THE BOARD OF TRUSTEES SHALL BE SUBJECT TO THE APPROVAL OF THE SOLE MEMBER: A) SELECTION, EVALUATION &amp; TERMINATION OF THE CEO B) AUTHORIZATION FOR THE COMMENCEMENT OF LITIGATION OTHER THAN ROUTINE COLLECTION ACTIONS C) ADOPTION OF THE ORGANIZATION'S BYLAWS OR ANY MODIFICATIONS/AMENDMENTS OF BYLAWS</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ORGANIZATION'S PROCESS USED TO REVIEW FORM 990</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 11</ReturnReference>
+        <Explanation>THE FORM 990 WAS MADE AVAILABLE TO THE BOARD OF TRUSTEES. A FINAL DETAILED REVIEW OF THE FORM 990 IS PERFORMED BY THE CEO &amp; CFO, PRIOR TO THE CEO SIGNING AND FILING THE RETURN.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ENFORCEMENT OF CONFLICTS POLICY</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 12C</ReturnReference>
+        <Explanation>THE ORGANIZATION REQUIRES THAT ALL OFFICERS AND TRUSTEES ACKNOWLEDGE IN WRITING AT LEAST ANNUALLY, THAT THEY HAVE REVIEWED AND UNDERSTAND THE AGENCY'S POLICY ON CONFLICT OF INTEREST ADOPTED BY THE BOARD AND THEY AGREE TO COMPLY WITH SUCH POLICY. ANY REPORTED CONFLICTS ARE IMMEDIATELY REVIEWED BY THE BOARD OF TRUSTEES AND ARE ADDRESSED IMMEDIATELY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>COMPENSATION PROCESS FOR TOP OFFICIAL</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 15A</ReturnReference>
+        <Explanation>COMMUNITY COUNSELING CENTER BOARD OF DIRECTORS ARE RESPONSIBLE FOR AN ANNUAL EVALUATION OF THE PRESIDENT/CEO, SUBJECT TO APPROVAL BY THE MEMBER. COMPENSATION OF THE CEO IS EVALUATED BY THE COMPENSATION COMMITTEE APPOINTED BY THE MEMBER, AND THE ORGANIZATION'S BOARD OF DIRECTORS MUST APPROVE OF THE COMPENSATION. IN ADDITION, THE ORGANIZATION UTILIZES THE SERVICES OF AN INDEPENDENT COMPENSATION CONSULTING FIRM, AND INDUSTRY SURVEY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>GOVERNING DOCUMENTS DISCLOSURE EXPLANATION</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 19</ReturnReference>
+        <Explanation>DOCUMENTS THAT ARE REQUIRED TO BE OPEN FOR PUBLIC INSPECTION ARE MADE AVAILABLE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>REASON FOR NOT UNDERGOING REQUIRED AUDIT</Identifier>
+        <ReturnReference>FORM 990, PAGE 11, PART XI, LINE 3B</ReturnReference>
+        <Explanation>CCC ON IT'S OWN DID NOT HAVE AN A-133 AUDIT. HOWEVER, THEY RECEIVED A TOTAL OF 596,801.12 IN FEDERAL FUNDING AND WERE INCLUDED IN THE CONSOLIDATED A-133 AUDIT FOR MAINEHEALTH (EIN 01-0431680).</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ADDITIONAL INFORMATION</Identifier>
+        <ReturnReference>SCHEDULE R</ReturnReference>
+        <Explanation>MAINE MENTAL HEALTH PARTNERS IS WAITING FOR FINAL APPROVAL OF THEIR PUBLIC CHARITY TAX-EXEMPT STATUS FROM THE IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ADDITIONAL INFORMATION</Identifier>
+        <ReturnReference>SCHEDULE O</ReturnReference>
+        <Explanation>FORM 990, PART IV, LINE 12 THE FINANCIAL RESULTS OF THE ORGANIZATION WERE PART OF A CONSOLIDATED FINANCIAL STATEMENT AUDIT PREPARED FOR MAINE MENTAL HEALTH PARTNERS AND ITS SUBSIDIARIES. FORM 990, PART III, LINE 4C AND PART VIII, LINE 2G THE TOTAL PROGRAM REVENUE DOES NOT AGREE BETWEEN PART III AND PART VIII, LINE 2G. THIS IS BECAUSE ONE OF THE PROGRAMS, THE CHILDREN'S INITIAVIVE, LINE 4C ON PART III IS ACTUALLY A FEDERAL GRANT. THEREFORE, THIS REVENUE IS INCLUDED IN INE 1E OF PART VIII.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc9">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MAINEHEALTH</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>465 CONGRESS STREET SUITE 600</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>04101</ZIPCode>
+        </AddressUS>
+        <EIN>010431680</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>501</ExemptCodeSection>
+        <PublicCharityStatus>11C</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MAINE MENTAL HEALTH PARTNERS</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>123 ANDOVER ROAD</AddressLine1>
+          <City>WESTBROOK</City>
+          <State>ME</State>
+          <ZIPCode>04092</ZIPCode>
+        </AddressUS>
+        <EIN>263426990</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>501</ExemptCodeSection>
+        <PublicCharityStatus>11C</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SPRING HARBOR HOSPITAL</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>123 ANDOVER ROAD</AddressLine1>
+          <City>WESTBROOK</City>
+          <State>ME</State>
+          <ZIPCode>04092</ZIPCode>
+        </AddressUS>
+        <EIN>010524834</EIN>
+        <PrimaryActivities>HOSPITAL</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>501</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SPRING HARBOR COMMUNITY SERVICES</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>123 ANDOVER ROAD</AddressLine1>
+          <City>WESTBROOK</City>
+          <State>ME</State>
+          <ZIPCode>04092</ZIPCode>
+        </AddressUS>
+        <EIN>010524835</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>501</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>INTEGRATED BEHAVIORAL HEALTH INC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>123 ANDOVER ROAD</AddressLine1>
+          <City>WESTBROOK</City>
+          <State>ME</State>
+          <ZIPCode>04092</ZIPCode>
+        </AddressUS>
+        <EIN>208736290</EIN>
+        <PrimaryActivity>HEALTHCARE</PrimaryActivity>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>false</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>true</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>true</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>true</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>false</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

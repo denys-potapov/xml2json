@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-09T13:44:29-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Ablre Tax Associates</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>6515 Grand Teton PLZ STE 145</AddressLine1>
+        <City>Madison</City>
+        <State>WI</State>
+        <ZIPCode>53719</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010800004</EIN>
+      <Name>
+        <BusinessNameLine1>Pierce Family Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>PIER</NameControl>
+      <Phone>9413835783</Phone>
+      <USAddress>
+        <AddressLine1>5635 Gulf of Mexico Dr 201</AddressLine1>
+        <City>Longboat Key</City>
+        <State>FL</State>
+        <ZIPCode>34228</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Harvey Pierce</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-05-09</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Elizabeth A Herbst CPA</Name>
+      <Phone>6088274780</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>400040</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>23894</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>17</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>17</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>17</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>12866</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>12866</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>12866</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>160</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>226555</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>160</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>168</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>36937</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>13043</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>13051</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">500</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">434</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>30</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>1449</TravConfMeetingRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">3388</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>3388</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>5771</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3418</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>58584</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>58584</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>64355</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3418</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>58584</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-27418</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9625</NetInvestmentIncome>
+        <AdjustedNetIncome>13051</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>10008</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>26382</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>26382</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>392573</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">340886</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>373658</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">23682</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">31577</OtherAssetsEOY>
+        <TotalAssetsBOY>426263</TotalAssetsBOY>
+        <TotalAssetsEOY>398845</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>400040</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>426263</UnrestrictedBOY>
+        <UnrestrictedEOY>398845</UnrestrictedEOY>
+        <TotalNetAssetsBOY>426263</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>398845</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>426263</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>398845</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>426263</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-27418</ExcessOfRevenueOverExpenses>
+        <Subtotal>398845</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>398845</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>160</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>168</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>23405</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>336667</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.06952</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>63700</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>404820</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.15735</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>65100</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>473478</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.13749</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>26950</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>333650</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.08077</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>43572</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>35361</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>1.23221</DistributionRatioYear5>
+        <TotalDistributionRatio>1.67735</TotalDistributionRatio>
+        <AverageDistributionRatio>0.33547</AverageDistributionRatio>
+        <NetNoncharitableAssets>340167</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>114115</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>96</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>114211</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>58584</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>193</InvestmentIncomeExciseTax>
+        <Subtotal>193</Subtotal>
+        <TaxBasedOnInvestmentIncome>193</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>400</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>400</TotalCreditsAndPayments>
+        <Overpayment>207</Overpayment>
+        <AmountCreditedToNextYear>207</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>WI</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Harvey Pierce</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9413835783</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5635 Gulf of Mexico Dr 201</AddressLine1>
+          <City>Longboat Key</City>
+          <State>FL</State>
+          <ZIPCode>34228</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Julie Pierce</PersonName>
+          <USAddress>
+            <AddressLine1>2106 St Anthony Pkwy</AddressLine1>
+            <City>Minneapolis</City>
+            <State>MN</State>
+            <ZIPCode>55418</ZIPCode>
+          </USAddress>
+          <Title>Executive Cmte</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Steve Pierce</PersonName>
+          <USAddress>
+            <AddressLine1>1960 Snowy Owl</AddressLine1>
+            <City>Broomfiled</City>
+            <State>CO</State>
+            <ZIPCode>80020</ZIPCode>
+          </USAddress>
+          <Title>Executive Cmte</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Susan Pierce Jacobsen</PersonName>
+          <USAddress>
+            <AddressLine1>4134 Hiawatha Dr</AddressLine1>
+            <City>Madison</City>
+            <State>WI</State>
+            <ZIPCode>53711</ZIPCode>
+          </USAddress>
+          <Title>Executive Cmte</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jeffrey R Pierce</PersonName>
+          <USAddress>
+            <AddressLine1>525 N Third St 110</AddressLine1>
+            <City>Minneapolis</City>
+            <State>MN</State>
+            <ZIPCode>55401</ZIPCode>
+          </USAddress>
+          <Title>Executive Cmte</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Delores Pierce</PersonName>
+          <USAddress>
+            <AddressLine1>5635 Gulf of Mexico Dr 201</AddressLine1>
+            <City>Longboat Key</City>
+            <State>FL</State>
+            <ZIPCode>34228</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Harvey Pierce</PersonName>
+          <USAddress>
+            <AddressLine1>5635 Gulf of Mexico Dr 201</AddressLine1>
+            <City>Longboat Key</City>
+            <State>FL</State>
+            <ZIPCode>34228</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>336427</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>8920</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>345347</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>345347</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5180</CashDeemedCharitable>
+        <NetNoncharitableAssets>340167</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>17008</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>17008</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>193</TaxBasedOnInvestmentIncome>
+        <TotalTax>193</TotalTax>
+        <DistributableAmountBeforeAdj>16815</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>16815</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>16815</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>58584</ExpensesAndContributions>
+        <QualifyingDistributions>58584</QualifyingDistributions>
+        <AdjQualifyingDistributions>58584</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>16815</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>42660</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>10527</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>42278</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>43860</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>6961</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>146286</TotalExcessDistriCarryover>
+        <QualifyingDistributions>58584</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>16815</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>41769</RemainingDistriFromCorpus>
+        <TotalCorpus>188055</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>42660</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>145395</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>10527</ExcessFromYear4>
+        <ExcessFromYear3>42278</ExcessFromYear3>
+        <ExcessFromYear2>43860</ExcessFromYear2>
+        <ExcessFromYear1>6961</ExcessFromYear1>
+        <ExcessFromCurrentYear>41769</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Delores Pierce</ContributingManager>
+        <ContributingManager>Harvey Pierce</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Pierce Family Foundation</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>5635 Gulf of Mexico Dr 201</AddressLine1>
+            <City>Long Boat Key</City>
+            <State>FL</State>
+            <ZIPCode>34228</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9413835783</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Letter stating name, address and telephone number of organization, and charitable purpose that funds would be used for. Charities should include a copy of their exempt designation letter.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>No restrictions at this time.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>MDA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>7401 Metro Blvd 325SP</AddressLine1>
+            <City>Edina</City>
+            <State>MN</State>
+            <ZIPCode>55439</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Support research to find cure for muscular dystrophy</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Smart Ride</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1314 E Las Olas Boulevard Ste 302</AddressLine1>
+            <City>Fort Lauderdale</City>
+            <State>FL</State>
+            <ZIPCode>33301</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide services to individual affected by HIV and AIDS</PurposeOfGrantOrContribution>
+          <Amount>700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Juvenile Diabetes Research Foundati</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>434 S Yellowstone Drive</AddressLine1>
+            <City>Madison</City>
+            <State>WI</State>
+            <ZIPCode>53719</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Support research to find cure for diabetes</PurposeOfGrantOrContribution>
+          <Amount>10334</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Green Lake Cleanup</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>8925 North Shore Drive</AddressLine1>
+            <City>Spicer</City>
+            <State>MN</State>
+            <ZIPCode>56288</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Environmental cleanup</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Wilshire Park Parent's Association</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>3600 Highcrest Rd NE</AddressLine1>
+            <City>St Anthony</City>
+            <State>MN</State>
+            <ZIPCode>55418</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Promote education</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Salvation Army</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>521 4th St SW</AddressLine1>
+            <City>Willmar</City>
+            <State>MN</State>
+            <ZIPCode>56201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide Food and Shelter</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>United Way of Manatee County</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1701 Tamiami Trail</AddressLine1>
+            <City>Bradenton</City>
+            <State>FL</State>
+            <ZIPCode>34205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Various Charitable Purposes</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Friends of UW Hosp Clinics</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>635 Science Dr</AddressLine1>
+            <City>Madison</City>
+            <State>WI</State>
+            <ZIPCode>53711</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Support of Children's Hospital and Various Charitable Purposes</PurposeOfGrantOrContribution>
+          <Amount>31000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>United Way of West Central MN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>311 4th St SW PO Box 895</AddressLine1>
+            <City>Willmar</City>
+            <State>MN</State>
+            <ZIPCode>56201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Various Charitable Purposes</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>58584</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>12866</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>160</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>13043</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>13043</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Harvey and Delores Pierce</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>5635 Gulf of Mexico Dr</AddressLine1>
+          <City>Longboat Key</City>
+          <State>FL</State>
+          <ZIPCode>34228</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>22894</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Tax Prep</Category>
+        <Amount>500</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsOther>
+        <CategoryOrItem>See attached Summary</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>340886</BookValue>
+        <EOYFMV>373658</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>Rounding</Description>
+        <EOYBookValue>1</EOYBookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Life Ins Policy</Description>
+        <BOYBookValue>23682</BOYBookValue>
+        <EOYBookValue>31576</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Investment Management</Description>
+        <RevenueAndExpensesPerBooks>3388</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>3388</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>IRS</Category>
+        <Amount>404</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>Foreign Tax</Category>
+        <Amount>30</Amount>
+        <NetInvestmentIncome>30</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

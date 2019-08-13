@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-16T13:20:05-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BLUE &amp; CO LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>627 WASHINGTON ST</AddressLine1>
+        <City>COLUMBUS</City>
+        <State>IN</State>
+        <ZIPCode>47201</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990EZ</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010773281</EIN>
+      <Name>
+        <BusinessNameLine1>SU CASA COLUMBUS INC</BusinessNameLine1>
+      </Name>
+      <NameControl>SUCA</NameControl>
+      <Phone>8123759370</Phone>
+      <USAddress>
+        <AddressLine1>1531 13TH STREET STE G110</AddressLine1>
+        <City>COLUMBUS</City>
+        <State>IN</State>
+        <ZIPCode>47201</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>STEVE FRANZ</Name>
+      <Title>CHAIRMAN</Title>
+      <Phone>8123759370</Phone>
+      <DateSigned>2011-05-03</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DONALD K ABEL CPA</Name>
+      <Phone>8123769245</Phone>
+      <DatePrepared>2011-05-03</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990EZ documentId="RetDoc1234200001" referenceDocumentId="RetDoc10046300000 RetDoc1051800001">
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <WebSite>WWW.SUCASACOLUMBUS.COM</WebSite>
+      <Organization501c3 referenceDocumentId="RetDoc1039100001">X</Organization501c3>
+      <GrossReceipts>43154</GrossReceipts>
+      <InfoInScheduleOPartI>X</InfoInScheduleOPartI>
+      <ContributionsGiftsGrantsEtc>26172</ContributionsGiftsGrantsEtc>
+      <ProgramServiceRevenue>16739</ProgramServiceRevenue>
+      <InvestmentIncome>243</InvestmentIncome>
+      <TotalRevenue>43154</TotalRevenue>
+      <SalariesOtherCompEmplBenefits>26100</SalariesOtherCompEmplBenefits>
+      <FeesAndOthPymtToIndContractors>2925</FeesAndOthPymtToIndContractors>
+      <OtherExpensesTotal>22347</OtherExpensesTotal>
+      <TotalExpenses>51372</TotalExpenses>
+      <ExcessOrDeficitForYear>-8218</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>29093</NetAssetsOrFundBalancesBOY>
+      <OtherChangesInNetAssets>0</OtherChangesInNetAssets>
+      <NetAssetsOrFundBalancesEOY>20875</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartII>X</InfoInScheduleOPartII>
+      <CashSavingsAndInvestments>
+        <BOY>59251</BOY>
+        <EOY>36029</EOY>
+      </CashSavingsAndInvestments>
+      <OtherAssetsTotal>
+        <BOY>12200</BOY>
+        <EOY>5849</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>71451</BOY>
+        <EOY>41878</EOY>
+      </TotalAssets>
+      <SumOfTotalLiabilities>
+        <BOY>42358</BOY>
+        <EOY>21003</EOY>
+      </SumOfTotalLiabilities>
+      <NetAssetsOrFundBalances>
+        <BOY>29093</BOY>
+        <EOY>20875</EOY>
+      </NetAssetsOrFundBalances>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <PrimaryExemptPurpose>TO PROVIDE A CULTURAL BRIDGE BETWEEN LATINO AND NON-LATINO RESIDENTS OF BARTHOLOMEW COUNTY AND COLUMBUS, INDIANA, AND TO PROMOTE MUTUAL RESPECT, INFORMATION EXCHANGE, EDUCATION, AND RECREATION.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>TO PROVIDE LEGAL AID TO NON ENGLISH HISPANIC PEOPLE</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>0</GrantsAndAllocations>
+        <ProgramServiceExpenses>46235</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>TO TEACH SPANISH SPEAKING PEOPLE TO USE ENGLISH</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>0</GrantsAndAllocations>
+        <ProgramServiceExpenses>5137</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <TotalProgramServiceExpenses>51372</TotalProgramServiceExpenses>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>STEVE FRANZ</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>CHAIRMAN</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>BRIAN WHITE</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>SECRETARY</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>ROSAURA SERRATO</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>TREASURER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>MERILYN BARTLETT</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>ROCIO RODRIGUEZ</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>KELLY BAKER</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>ALFREDO FIGUEROA</PersonName>
+        <AddressUS>
+          <AddressLine1>512 7TH STREET</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+        <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+        <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <InfoInScheduleOPartV>X</InfoInScheduleOPartV>
+      <ActivitiesNotPreviouslyRpt>0</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>0</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>0</OrganizationHadUBI>
+      <OrganizationDissolvedEtc>0</OrganizationDissolvedEtc>
+      <DirectIndirectPoliticalExpend>0</DirectIndirectPoliticalExpend>
+      <MadeLoansToFromOfficers>0</MadeLoansToFromOfficers>
+      <TaxImposedUnderIRC4911>0</TaxImposedUnderIRC4911>
+      <TaxImposedUnderIRC4912>0</TaxImposedUnderIRC4912>
+      <TaxImposedUnderIRC4955>0</TaxImposedUnderIRC4955>
+      <EngagedInExcessBenefitTrans>0</EngagedInExcessBenefitTrans>
+      <AmountOfTaxImposedOnOrgMgr>0</AmountOfTaxImposedOnOrgMgr>
+      <AmountOfTaxReimbursedByOrg>0</AmountOfTaxReimbursedByOrg>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <StatesWhereCopyOfReturnIsFiled>IN</StatesWhereCopyOfReturnIsFiled>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>MISSION MANAGEMENT SERVICES</BusinessNameLine1>
+        </NameBusiness>
+        <AddressUS>
+          <AddressLine1>1531 13TH STREET STE G110</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>IN</State>
+          <ZIPCode>47201</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>8123759370</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ForeignOffice>0</ForeignOffice>
+      <MaintainAnyDonorAdvisedFunds>0</MaintainAnyDonorAdvisedFunds>
+      <DoesOrgHaveHospital>0</DoesOrgHaveHospital>
+      <TanningServicesProvided>0</TanningServicesProvided>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionWithControlEntity>0</TransactionWithControlEntity>
+      <EngagePoliticalCmpgnActivities>0</EngagePoliticalCmpgnActivities>
+      <EngageInLobbyingActivities>0</EngageInLobbyingActivities>
+      <OperatingSchool>0</OperatingSchool>
+      <TrnsfrsExemptNonCharRelatedOrg>0</TrnsfrsExemptNonCharRelatedOrg>
+      <PartVIOfCompOfHighestPaidEmpl>NONE</PartVIOfCompOfHighestPaidEmpl>
+      <PartVIAHghstPaidCntrctProfSer>NONE</PartVIAHghstPaidCntrctProfSer>
+      <FiledScheduleA>1</FiledScheduleA>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>55462</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>87931</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>79392</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>28999</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>26172</CurrentTaxYear>
+        <Total>277956</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>63968</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>69713</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>39583</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>14505</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>16739</CurrentTaxYear>
+        <Total>204508</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>119430</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>157644</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>118975</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>43504</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>42911</CurrentTaxYear>
+        <Total>482464</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>482464</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus3Years>2176</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1373</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>436</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>243</CurrentTaxYear>
+        <Total>4228</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus3Years>2176</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1373</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>436</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>243</CurrentTaxYear>
+        <Total>4228</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>119430</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>159820</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>120348</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>43940</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>43154</CurrentTaxYear>
+        <Total>486692</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99130</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99300</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00870</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00700</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleO documentId="RetDoc1051800001">
+      <GeneralExplanation>
+        <Identifier>OTHER INVESTMENT INCOME</Identifier>
+        <ReturnReference>FORM 990-EZ, PART I, LINE 4</ReturnReference>
+        <Explanation>INTEREST INCOME 243..</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OTHER EXPENSES</Identifier>
+        <ReturnReference>FORM 990-EZ, PART I, LINE 16</ReturnReference>
+        <Explanation>DESCRIPTION: COURTS/INTERPRETER EXPENSES. AMOUNT: 9,085. DESCRIPTION: MISCELLANEOUS. AMOUNT: 55. DESCRIPTION: ADVERTISING &amp; PROMOTIONS. AMOUNT: 410. DESCRIPTION: LATIN AMERICAN ASSOC EXPENSE. AMOUNT: 2,700. DESCRIPTION: INSURANCE EXPENSE. AMOUNT: 818. DESCRIPTION: ADMINISTRATIVE PAYROLL FEES. AMOUNT: 3,132. DESCRIPTION: OFFICE EXPENSE. AMOUNT: 6,147. TOTAL TO FORM 990-EZ, LINE 16: 22,347.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OTHER ASSETS</Identifier>
+        <ReturnReference>FORM 990-EZ, PART II, LINE 24</ReturnReference>
+        <Explanation>DESCRIPTION: ACCOUNTS RECEIVABLE. BEG. OF YEAR AMOUNT: 12,200. END OF YEAR AMOUNT: 5,849.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OTHER LIABILITIES</Identifier>
+        <ReturnReference>FORM 990-EZ, PART II, LINE 26</ReturnReference>
+        <Explanation>DESCRIPTION: HELP PROGRAM. BEG. OF YEAR AMOUNT: 12,890. END OF YEAR AMOUNT: 4,325. DESCRIPTION: FLOOD RELIEF. BEG. OF YEAR AMOUNT: 14,850. END OF YEAR AMOUNT: 9,318. DESCRIPTION: LOVE PROGRAM. BEG. OF YEAR AMOUNT: 14,091. END OF YEAR AMOUNT: 114. DESCRIPTION: MISCELLANEOUS PROGRAMS. BEG. OF YEAR AMOUNT: 527. END OF YEAR AMOUNT: 1,430. DESCRIPTION: LATIN AMERICAN ASSOCIATION. BEG. OF YEAR AMOUNT: 0. END OF YEAR AMOUNT: 1,038. DESCRIPTION: PROFESSIONAL MENTOR PROGRAM. BEG. OF YEAR AMOUNT: 0. END OF YEAR AMOUNT: 3,923. DESCRIPTION: ACCOUNTS PAYABLE. BEG. OF YEAR AMOUNT: 0. END OF YEAR AMOUNT: 855.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <TransferPrsnlBnftContractsDecl documentId="RetDoc10046300000">
+      <Declaration>THE ORGANIZATION DID NOT, DURING THE YEAR, RECEIVE ANY FUNDS, DIRECTLY,OR INDIRECTLY, TO PAY PREMIUMS ON A PERSONAL BENEFIT CONTRACT.THE ORGANIZATION, DID NOT, DURING THE YEAR, PAY ANY PREMIUMS, DIRECTLY,OR INDIRECTLY, ON A PERSONAL BENEFIT CONTRACT.</Declaration>
+    </TransferPrsnlBnftContractsDecl>
+  </ReturnData>
+</Return>

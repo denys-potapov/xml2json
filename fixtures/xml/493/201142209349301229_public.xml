@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T13:57:19-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>EDWARDS FAUST &amp; SMITH</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>716 UNION ST</AddressLine1>
+        <City>BANGOR</City>
+        <State>ME</State>
+        <ZIPCode>044013156</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010493123</EIN>
+      <Name>
+        <BusinessNameLine1>WALDO COUNTY YMCA</BusinessNameLine1>
+      </Name>
+      <NameControl>WALD</NameControl>
+      <Phone>2073384598</Phone>
+      <USAddress>
+        <AddressLine1>157 LINCOLNVILLE AVENUE</AddressLine1>
+        <City>BELFAST</City>
+        <State>ME</State>
+        <ZIPCode>04915</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DALE CROSS</Name>
+      <Title>EXECUTIVE DIRECTOR</Title>
+      <Phone>2073384598</Phone>
+      <DateSigned>2011-08-02</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MARK CHELLIS</Name>
+      <Phone>2079474575</Phone>
+      <DatePrepared>2011-08-02</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc4" referenceDocumentId="RetDoc7">
+      <NameOfPrincipalOfficerPerson>DALE CROSS</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>157 LINCOLNVILLE AVENUE</AddressLine1>
+        <City>BELFAST</City>
+        <State>ME</State>
+        <ZIPCode>04915</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>1502602</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.WALDOCOUNTYYMCA.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1994</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE WALDO COUNTY YMCA IS A CHARITABLE COMMUNITY SERVICES ORGANIZATION THAT INCLUDES MEN, WOMEN AND CHILDREN OF ANY AGE, ABILITY, INCOME, RACE OR RELIGION. WE ARE DEDICATED TO BUILDING STRONG KIDS, STRONG FAMILIES AND STRONG COMMUNITIES BY PUTTING OUR CORE VALUES OF CARING, HONESTY, RESPECT AND RESPONSIBILITY INTO PRACTICE THROUGH PROGRAMS THAT PROMOTE HEALTHY LIFESTYLES, STRONG VALUES, LEADERSHIP DEVELOPMENT, COMMUNITY INTERACTION AND INTERNATIONAL UNDERSTANDING. ALL PERSONS ARE WELCOME AT THE WALDO YMCA REGARDLESS OF THEIR ABILITY TO PAY. THE WALDO COUNTY YMCA WAS FOUNDED AND IS LED BY VOLUNTEERS FROM OUR COMMUNITY. VOLUNTEERS ALSO SERVE AS MENTORS, COACHES, PROGRAM LEADERS AND INSTRUCTORS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>26</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>26</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>85</TotalNbrEmployees>
+      <TotalNbrVolunteers>410</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>871706</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>245751</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>1089413</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>1197603</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>1109</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>1183</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>37466</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>58065</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>1999694</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>1502602</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>791218</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>847704</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>116158</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>768637</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>887416</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>1559855</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>1735120</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>439839</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-232518</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>8203298</TotalAssetsBOY>
+      <TotalAssetsEOY>7660535</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>791869</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>467998</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>7411429</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>7192537</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>THE WALDO COUNTY YMCA IS A CHARITABLE COMMUNITY SERVICES ORGANIZATION THAT INCLUDES MEN, WOMEN AND CHILDREN OF ANY AGE, ABILITY, INCOME, RACE OR RELIGION. WE ARE DEDICATED TO BUILDING STRONG KIDS, STRONG FAMILIES AND STRONG COMMUNITIES BY PUTTING OUR CORE VALUES OF CARING, HONESTY, RESPECT AND RESPONSIBILITY INTO PRACTICE THROUGH PROGRAMS THAT PROMOTE HEALTHY LIFESTYLES, STRONG VALUES, LEADERSHIP DEVELOPMENT, COMMUNITY INTERACTION AND INTERNATIONAL UNDERSTANDING. ALL PERSONS ARE WELCOME AT THE WALDO YMCA REGARDLESS OF THEIR ABILITY TO PAY. THE WALDO COUNTY YMCA WAS FOUNDED AND IS LED BY VOLUNTEERS FROM OUR COMMUNITY. VOLUNTEERS ALSO SERVE AS MENTORS, COACHES, PROGRAM LEADERS AND INSTRUCTORS.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>60175</Expense>
+      <Revenue>185701</Revenue>
+      <Description>CHILDCARE - THE WALDO COUNTY YMCA PROVIDES HIGH QUALITY CHILDCARE BY PROVIDING COMPREHENSIVE ACTIVITIES FOR PRESCHOOL AND SCHOOL AGE CHILDREN DRAWING ON DIVERSE MEMBERS OF THE LOCAL COMMUNITY. WE PROVIDE BOTH FULL AND PART TIME OPTIONS TO SERVE A WIDE RANGE OF FAMILY SCHEDULING NEEDS. WOVEN INTO THE FABRIC OF THE WALDO COUNTY YMCA MISSION IS A COMMITMENT TO STRENGTHEN FAMILIES. WALDO COUNTY YMCA CHILDCARE PROGRAMS RELIEVE THE BURDEN OF BALANCING WORK AND FAMILY AND MAKE IT POSSIBLE FOR PARENTS OF CHILDREN IN OUR CARE TO REMAIN GAINFULLY EMPLOYED KNOWING THAT THEIR CHILDREN ARE THRIVING IN A SAFE AND DEVELOPMENTALLY SOUND ENVIRONMENT. OUR SERVICES ARE PROVIDED AT AFFORDABLE FEES FOR THE COMMUNITY AT LARGE WITH FINANCIAL ASSISTANCE AVAILABLE TO THOSE IN NEED. THESE PROGRAMS SERVE ABOUT 2,000 INDIVIDUALS WITH APPROXIMATELY 27,630 UNITS OF SERVICE.</Description>
+      <Activity2>
+        <Expense>298420</Expense>
+        <Revenue>208804</Revenue>
+        <Description>HEALTH AND WELLNESS FOR YOUTH AND ADULTS - HELPING PEOPLE OF ALL AGES AND ABILITIES DEVELOP HEALTH IN SPIRIT, MIND AND BODY IS AT THE CORE OF THE WALDO COUNTY YMCA MISSION. OUR PROGRAMS ARE DESIGNED TO HELP PEOPLE CREATE REALISTIC GOALS FOR SELF-IMPROVEMENT AND EMPHASIZE DISEASE PREVENTION THROUGH REGULAR EXERCISE, PROPER NUTRITION, STRESS MANAGEMENT AND HEALTH EDUCATION. SPORTS PROGRAMS FOR YOUTH, FAMILIES AND ADULTS PROMOTE TEAMWORK, INTERACTION AND DEVELOPMENT OF SOCIAL AND PHYSICAL SKILLS. OUR SERVICES ARE PROVIDED AT AFFORDABLE FEES FOR THE COMMUNITY AT LARGE WITH FINANCIAL ASSISTANCE AVAILABLE TO THOSE IN NEED. THESE PROGRAMS SERVE ABOUT 4,600 INDIVIDUALS WITH WELL OVER 150,000 UNITS OF SERVICES.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>65197</Expense>
+        <Revenue>69527</Revenue>
+        <Description>YOUTH DEVELOPMENT PROGRAMS - THE WALDO YMCA YOUTH AND TEEN PROGRAMS GIVE KIDS GOOD ROLE MODELS TO HELP THEM DEVELOP SELF-ESTEEM AND GOOD VALUES, INCLUDING COOPERATION, RESPECT, GOOD CITIZENSHIP AND A STRONG WORK ETHIC. OUR YOUTH ADVOCACY PROGRAM PROMOTES THE BENEFITS OF NON-SMOKING AND OTHER DRUG USE EDUCATION. THE WALDO COUNTY YMCA MAINTAINS A "TEEN CENTER" TO PROVIDE A SAFE, HEALTHY AND FUN PLACE FOR TEENS TO HANG OUT AND PARTICIPATE IN MONITORED ACTIVITIES EVERY DAY AFTER SCHOOL. OUR CAMPING PROGRAM PROVIDES A LASTING EXPERIENCE OF PERSONAL ENRICHMENT. DAY CAMPS AND ADVENTURE CAMPS OFFER LEARNING ACTIVITIES THAT CHALLENGE AND PROMOTE SPIRITUAL AWARENESS, MENTAL DEVELOPMENT, PHYSICAL WELL BEING, SOCIAL GROWTH AND SELF-RESPECT. CAMPING HELPS YOUTH BECOME AWARE OF THEIR PHYSICAL AND MENTAL CAPABILITIES, TO RECOGNIZE THE VALUE OF COOPERATION AND TO GAIN CONFIDENCE. OUR SERVICES ARE PROVIDED AT AFFORDABLE FEES FOR THE COMMUNITY AT LARGE WITH FINANCIAL ASSISTANCE AVAILABLE TO THOSE IN NEED. THESE PROGRAMS SERVE ABOUT 500 INDIVIDUALS WITH APPROXIMATELY 17,500 UNITS OF SERVICE.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>995358</Expense>
+        <Revenue>23439</Revenue>
+        <Description>OLDER ADULT PROGRAMS - THE WALDO COUNTY YMCA CONTINUES TO HOST MONTHLY FREE LUNCHEONS FOR FOLKS 60 YEARS AND OLDER. THE LUNCHEONS PROVIDE A GREAT OPPORTUNITY FOR SENIORS TO SOCIALIZE. A SPEAKER OR ENTERTAINMENT IS PROVIDED AT SOME LUNCHEONS WITH TOPICS RANGING FROM HEALTH OR SOCIAL ISSUES TO JUST PLAIN FUN. OUR "LIFETIME FITNESS" CLASSES OFFER ACTIVITY FOR LIFELONG FITNESS. IT INCLUDES WARM-UP STRETCHES, WALKING, LOW-LEVEL AEROBICS, OPTIONAL CHAIR EXERCISES, MUSCLE STRENGTHENING AND RELAXATION TO BURN CALORIES WHILE IMPROVING FLEXIBILITY, MUSCLE TONE, COORDINATION, BALANCE AND HEART AND LUNG CAPACITY. OUR SERVICES ARE PROVIDED AT AFFORDABLE FEES FOR THE COMMUNITY AT LARGE WITH FINANCIAL ASSISTANCE AVAILABLE TO THOSE IN NEED. THESE PROGRAMS SERVE ABOUT 700 INDIVIDUALS WITH OVER 6,200 UNITS OF SERVICE. ALL OTHER PROGRAMS - THE WALDO COUNTY YMCA HOSTS AND ORGANIZES VARIOUS SOCIAL, SPORT AND RECREATIONAL PROGRAMS THAT INCLUDE MEN, WOMEN, AND CHILDREN OF ANY AGE, ABILITY, INCOME, RACE OR RELIGION. WE ARE DEDICATED TO BUILDING STRONG KIDS, STRONG FAMILIES AND STRONG COMMUNITIES BY PUTTING OUR CORE VALUES OF CARING, HONESTY, RESPECT AND RESPONSIBILITY INTO PRACTICE THROUGH PROGRAMS THAT PROMOTE HEALTHY LIFESTYLES, STRONG VALUES, LEADERSHIP DEVELOPMENT, COMMUNITY INTERACTION AND INTERNATIONAL UNDERSTANDING. ALL PERSONS ARE WELCOME AT THE WALDO COUNTY YMCA REGARDLESS OF THEIR ABILITY TO PAY. THESE EXPENSES INCLUDE COSTS OF MAINTAINING THE FACILITY WITHIN WHICH THE ABOVE PROGRAMS TAKE PLACE.</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>995358</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceRev>23439</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>1419150</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc2">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc3">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc3">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc3">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc3">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc3">true</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc3">true</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc3">false</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc3">false</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc3">false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc3">false</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc3">false</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc3">true</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc3">false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising referenceDocumentId="RetDoc5">false</ProfessionalFundraising>
+      <FundraisingActivities referenceDocumentId="RetDoc5">true</FundraisingActivities>
+      <Gaming referenceDocumentId="RetDoc5">false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc6">false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc6">false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc6">false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc6">false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc6">true</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc6">false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc6">false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity>false</DisregardedEntity>
+      <RelatedEntity>false</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>false</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>85</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>26</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>26</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>false</MembersOrStockholders>
+      <ElectionOfBoardMembers>false</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>true</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>true</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>MIKE REYNOLDS</NamePerson>
+        <TelephoneNumber>2073384598</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>157 LINCOLNVILLE AVE</AddressLine1>
+          <City>BELFAST</City>
+          <State>ME</State>
+          <ZIPCode>04915</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DOROTHY ALLING</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALEX ALLMAYER-BECK</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BETH ANDERSON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WILLIAM ARMSTRONG</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DEANNA BIELENBERG</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANNE COLLINS</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>GREG DUTCH</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHARLES ERB</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID FLANAGAN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CAROL FORTIN</NamePerson>
+        <Title>VICE CVO</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CATHY HEBERER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DON HOENIG</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAN HORTON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEREMY MARDEN</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD MARSDEN</NamePerson>
+        <Title>CVO</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS MAYCOCK</NamePerson>
+        <Title>VICE CVO</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHELLE MORROW</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PETE PEARSON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FLEETWOOD PRIDE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALBERT PUTNAM</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEFF RAUCH</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSH TREAT V</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ALEX TURNER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JIM WESCOTT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRED WHALEY</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BOB WINSLOW</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JENNY WOODBURY</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DALE CROSS</NamePerson>
+        <Title>EXECUTIVE DI</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>60650</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>7978</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL REYNOLDS</NamePerson>
+        <Title>FINANCE DIRE</Title>
+        <AverageHoursPerWeek>35.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>32498</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>2275</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>93148</TotalReportableCompFromOrg>
+      <TotalOtherCompensation>10253</TotalOtherCompensation>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <GovernmentGrants>55000</GovernmentGrants>
+      <AllOtherContributions>190751</AllOtherContributions>
+      <TotalContributions>245751</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>MEMBERSHIPS - ANNUAL</Description>
+        <TotalRevenueColumn>386490</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>386490</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>MEMBERSHIPS - ACH BILLING</Description>
+        <TotalRevenueColumn>313805</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>313805</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>CHILD CARE</Description>
+        <TotalRevenueColumn>120896</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>120896</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>CAMP KODA</Description>
+        <TotalRevenueColumn>40987</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>40987</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>CAMP NEDOBAK</Description>
+        <TotalRevenueColumn>31506</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>31506</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalOthProgramServiceRevenue>
+        <TotalRevenueColumn>303919</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>303919</RelatedOrExemptFunctionIncome>
+      </TotalOthProgramServiceRevenue>
+      <TotalProgramServiceRevenue>1197603</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>1183</TotalRevenueColumn>
+        <ExclusionAmount>1183</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossIncomeFundraisingEvents>52412</GrossIncomeFundraisingEvents>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>52412</TotalRevenueColumn>
+        <ExclusionAmount>21598</ExclusionAmount>
+      </NetIncomeFromFundraisingEvents>
+      <OtherRevenueMisc>
+        <Description>FACILITY RENTALS</Description>
+        <TotalRevenueColumn>2914</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2914</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>COMMISSIONS</Description>
+        <TotalRevenueColumn>1305</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1305</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>MERCHANDISE</Description>
+        <TotalRevenueColumn>1160</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1160</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <MiscellaneousRevenue>
+        <TotalRevenueColumn>274</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>274</RelatedOrExemptFunctionIncome>
+      </MiscellaneousRevenue>
+      <TotalOtherRevenue>5653</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>1502602</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1203256</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>22781</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>103400</Total>
+        <ManagementAndGeneral>69041</ManagementAndGeneral>
+        <Fundraising>34359</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>607620</Total>
+        <ProgramServices>574361</ProgramServices>
+        <ManagementAndGeneral>17249</ManagementAndGeneral>
+        <Fundraising>16010</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>24836</Total>
+        <ProgramServices>17626</ProgramServices>
+        <ManagementAndGeneral>7210</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>51571</Total>
+        <ProgramServices>45716</ProgramServices>
+        <ManagementAndGeneral>315</ManagementAndGeneral>
+        <Fundraising>5540</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>60277</Total>
+        <ProgramServices>49678</ProgramServices>
+        <ManagementAndGeneral>6580</ManagementAndGeneral>
+        <Fundraising>4019</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesOther>
+        <Total>11456</Total>
+        <ManagementAndGeneral>11456</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>793</Total>
+        <ManagementAndGeneral>793</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>8029</Total>
+        <ProgramServices>3757</ProgramServices>
+        <ManagementAndGeneral>4180</ManagementAndGeneral>
+        <Fundraising>92</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>15030</Total>
+        <ProgramServices>10458</ProgramServices>
+        <ManagementAndGeneral>4572</ManagementAndGeneral>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>181674</Total>
+        <ProgramServices>181674</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>4617</Total>
+        <ProgramServices>3675</ProgramServices>
+        <ManagementAndGeneral>942</ManagementAndGeneral>
+      </Travel>
+      <Interest>
+        <Total>14111</Total>
+        <ProgramServices>890</ProgramServices>
+        <Fundraising>13221</Fundraising>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>278753</Total>
+        <ProgramServices>278753</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>19694</Total>
+        <ProgramServices>10175</ProgramServices>
+        <ManagementAndGeneral>9519</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>BOARD SCHOLARSHIPS</Description>
+        <Total>76155</Total>
+        <ProgramServices>76155</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MAINTENANCE &amp; REPAIR</Description>
+        <Total>28391</Total>
+        <ProgramServices>28391</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NATIONAL Y DUES</Description>
+        <Total>23109</Total>
+        <ManagementAndGeneral>23109</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POOL CONSTRUCTION COSTS</Description>
+        <Total>17512</Total>
+        <Fundraising>17512</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CREDIT CARD CHARGES</Description>
+        <Total>15308</Total>
+        <ManagementAndGeneral>15308</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>192784</Total>
+        <ProgramServices>137841</ProgramServices>
+        <ManagementAndGeneral>29538</ManagementAndGeneral>
+        <Fundraising>25405</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>1735120</Total>
+        <ProgramServices>1419150</ProgramServices>
+        <ManagementAndGeneral>199812</ManagementAndGeneral>
+        <Fundraising>116158</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>129456</BOY>
+        <EOY>234235</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>122060</BOY>
+        <EOY>15035</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>494587</BOY>
+        <EOY>254782</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>35451</BOY>
+        <EOY>29857</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>48685</BOY>
+        <EOY>14127</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>8434545</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>1502373</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>7206695</BOY>
+        <EOY>6932172</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>166364</BOY>
+        <EOY>180327</EOY>
+      </InvestmentsPubTradedSecurities>
+      <TotalAssets>
+        <BOY>8203298</BOY>
+        <EOY>7660535</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>40966</BOY>
+        <EOY>57594</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>76007</BOY>
+        <EOY>95744</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>674896</BOY>
+        <EOY>314660</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <TotalLiabilities>
+        <BOY>791869</BOY>
+        <EOY>467998</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>7294744</BOY>
+        <EOY>7062226</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>1282</BOY>
+        <EOY>14908</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>115403</BOY>
+        <EOY>115403</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>7411429</BOY>
+        <EOY>7192537</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>8203298</BOY>
+        <EOY>7660535</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-232518</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>13626</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc2">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>1301255</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2016962</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1119104</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>871706</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>245751</CurrentTaxYear>
+        <Total>5554778</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>364077</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>479204</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>375371</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1089413</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1234070</CurrentTaxYear>
+        <Total>3542135</Total>
+      </GrossReceiptsFromAdmissions>
+      <GrossReceiptsFromNonUBI>
+        <CurrentTaxYearMinus1Year>64700</CurrentTaxYearMinus1Year>
+        <Total>64700</Total>
+      </GrossReceiptsFromNonUBI>
+      <Total509>
+        <CurrentTaxYearMinus4Years>1665332</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2496166</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1494475</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>2025819</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1479821</CurrentTaxYear>
+        <Total>9161613</Total>
+      </Total509>
+      <PublicSupportTotal509>9161613</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>3772</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>9577</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>5445</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1109</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1183</CurrentTaxYear>
+        <Total>21086</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>3772</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>9577</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>5445</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>1109</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1183</CurrentTaxYear>
+        <Total>21086</Total>
+      </InvestmentIncomeAndUBTI>
+      <NetIncomeFromOtherUBI>
+        <CurrentTaxYear>12031</CurrentTaxYear>
+        <Total>12031</Total>
+      </NetIncomeFromOtherUBI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>1669104</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>2505743</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1499920</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>2026928</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>1493035</CurrentTaxYear>
+        <Total>9194730</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99640</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99600</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00000</InvestmentIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc3">
+      <DisclosedOrgsLegalControl>false</DisclosedOrgsLegalControl>
+      <DisclosedForCharitablePurposes>false</DisclosedForCharitablePurposes>
+      <WrittenPolicyMonitoring>false</WrittenPolicyMonitoring>
+      <Sect170hRequirementsSatisfied>false</Sect170hRequirementsSatisfied>
+      <SolicitedAssetsForSale>false</SolicitedAssetsForSale>
+      <AgentTrusteeEtc>false</AgentTrusteeEtc>
+      <IncludedOnFS>false</IncludedOnFS>
+      <CurrentYear>
+        <BeginningOfYearBalance>166364</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>13963</InvestmentEarningsOrLosses>
+        <EndOfYearBalance>180327</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>146137</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>27127</InvestmentEarningsOrLosses>
+        <OtherExpenditures>6900</OtherExpenditures>
+        <EndOfYearBalance>166364</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <CurrentYearMinus2Years>
+        <BeginningOfYearBalance>115403</BeginningOfYearBalance>
+        <EndOfYearBalance>115403</EndOfYearBalance>
+      </CurrentYearMinus2Years>
+      <BoardDesignatedEOYBalance>0.28000</BoardDesignatedEOYBalance>
+      <PermanentEndowmentEOYBalance>0.64000</PermanentEndowmentEOYBalance>
+      <TermEndowmentEOYBalance>0.08000</TermEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>false</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>false</EndowmentsHeldByRelatedOrgs>
+      <AreRelatedOrgsListedScheduleR>false</AreRelatedOrgsListedScheduleR>
+      <Buildings>
+        <OtherCostOrOtherBasis>8091953</OtherCostOrOtherBasis>
+        <Depreciation>1268967</Depreciation>
+        <BookValue>6822986</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>342592</OtherCostOrOtherBasis>
+        <Depreciation>233406</Depreciation>
+        <BookValue>109186</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>6932172</TotalOfBookValueLandBuildings>
+      <TotalRevenue>1502602</TotalRevenue>
+      <TotalExpenses>1735120</TotalExpenses>
+      <ExcessOrDeficitForYear>-232518</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>13626</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>13626</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-218892</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>1516228</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>13626</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>13626</RevenueNotRptdF990>
+      <RevenueSubtotal>1502602</RevenueSubtotal>
+      <TotalRevenuePerForm990>1502602</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>1735120</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesSubtotal>1735120</ExpensesSubtotal>
+      <TotalExpensesPerForm990>1735120</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>INTENDED USES FOR ENDOWMENT FUNDS</Identifier>
+        <ReturnReference>SCHEDULE D, PAGE 2, PART V, LINE 4</ReturnReference>
+        <Explanation>INCOME IS TO BE USED ULTIMATELY FOR OPERATIONS, BUT NO DECISIONS HAVE YET BEEN MADE AS TO HOW THAT AMOUNT WILL BE DETERMINED.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>RECONCILIATION OF CHANGES - OTHER</Identifier>
+        <ReturnReference>SCHEDULE D, PAGE 4, PART XI, LINE 8</ReturnReference>
+        <Explanation>DIRECT FUNDRAISING COSTS NETTED AGAINST INCOME ON 990 0 DIRECT FUNDRAISING COSTS NETTED AGAINST INCOME ON 990 0</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>REVENUE AMOUNTS INCLUDED IN FINANCIALS - OTHER</Identifier>
+        <ReturnReference>SCHEDULE D, PAGE 4, PART XII, LINE 2D</ReturnReference>
+        <Explanation>DIRECT FUNDRAISING COSTS NETTED AGAINST INCOME ON 990 0</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>EXPENSE AMOUNTS INCLUDED IN FINANCIALS - OTHER</Identifier>
+        <ReturnReference>SCHEDULE D, PAGE 4, PART XIII, LINE 2D</ReturnReference>
+        <Explanation>DIRECT FUNDRAISING COSTS NETTED AGAINST INCOME ON 990 0</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>SUPPLEMENTAL FINANCIAL INFORMATION</Identifier>
+        <ReturnReference>SCHEDULE D, PAGE 4, PART XIV</ReturnReference>
+        <Explanation>THE ORGANIZATIONS FEDERAL RETURN OF ORGANIZATION EXEMPT FROM INCOME TAX FOR 2010, 2009, AND 2008 ARE SUBJECT TO EXAMINATION BY THE IRS, GENERALLY FOR THREE YEARS AFTER THEY WERE FILED.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc5">
+      <EventsInformation>
+        <NameOfEvent1>ANNUAL DINNER &amp;</NameOfEvent1>
+        <GrossReceiptsEvent1>15998</GrossReceiptsEvent1>
+        <GrossRevenueEvent1>15998</GrossRevenueEvent1>
+        <NameOfEvent2>CANOE RACES</NameOfEvent2>
+        <GrossReceiptsEvent2>11076</GrossReceiptsEvent2>
+        <GrossRevenueEvent2>11076</GrossRevenueEvent2>
+        <TotalNumberOfOtherEvents>3</TotalNumberOfOtherEvents>
+        <GrossReceiptsOtherEvents>22038</GrossReceiptsOtherEvents>
+        <GrossRevenueOtherEvents>22038</GrossRevenueOtherEvents>
+        <GrossReceiptsTotal>49112</GrossReceiptsTotal>
+        <GrossRevenueTotalEvents>49112</GrossRevenueTotalEvents>
+        <NetIncomeSummary>49112</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleL documentId="RetDoc6">
+      <DQPTable>
+        <NameBusiness>
+          <BusinessNameLine1>VIKING LUMBER</BusinessNameLine1>
+        </NameBusiness>
+        <DescriptionOfTransaction>DIRECTOR</DescriptionOfTransaction>
+        <TransactionCorrected>true</TransactionCorrected>
+      </DQPTable>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc7">
+      <GeneralExplanation>
+        <Identifier>ORGANIZATION'S MISSION</Identifier>
+        <ReturnReference>FORM 990 - ORGANIZATION'S MISSION</ReturnReference>
+        <Explanation>THE WALDO COUNTY YMCA IS A CHARITABLE COMMUNITY SERVICES ORGANIZATION THAT INCLUDES MEN, WOMEN AND CHILDREN OF ANY AGE, ABILITY, INCOME, RACE OR RELIGION. WE ARE DEDICATED TO BUILDING STRONG KIDS, STRONG FAMILIES AND STRONG COMMUNITIES BY PUTTING OUR CORE VALUES OF CARING, HONESTY, RESPECT AND RESPONSIBILITY INTO PRACTICE THROUGH PROGRAMS THAT PROMOTE HEALTHY LIFESTYLES, STRONG VALUES, LEADERSHIP DEVELOPMENT, COMMUNITY INTERACTION AND INTERNATIONAL UNDERSTANDING. ALL PERSONS ARE WELCOME AT THE WALDO YMCA REGARDLESS OF THEIR ABILITY TO PAY. THE WALDO COUNTY YMCA WAS FOUNDED AND IS LED BY VOLUNTEERS FROM OUR COMMUNITY. VOLUNTEERS ALSO SERVE AS MENTORS, COACHES, PROGRAM LEADERS AND INSTRUCTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FIRST ACHIEVEMENT DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4A</ReturnReference>
+        <Explanation>ABOUT 2,000 INDIVIDUALS WITH APPROXIMATELY 27,630 UNITS OF SERVICE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>THIRD ACHIEVEMENT DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4C</ReturnReference>
+        <Explanation>MENTAL CAPABILITIES, TO RECOGNIZE THE VALUE OF COOPERATION AND TO GAIN CONFIDENCE. OUR SERVICES ARE PROVIDED AT AFFORDABLE FEES FOR THE COMMUNITY AT LARGE WITH FINANCIAL ASSISTANCE AVAILABLE TO THOSE IN NEED. THESE PROGRAMS SERVE ABOUT 500 INDIVIDUALS WITH APPROXIMATELY 17,500 UNITS OF SERVICE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ALL OTHER ACHIEVEMENTS DESCRIPTION</Identifier>
+        <ReturnReference>FORM 990, PAGE 2, PART III, LINE 4D</ReturnReference>
+        <Explanation>OLDER ADULT PROGRAMS - THE WALDO COUNTY YMCA CONTINUES TO HOST MONTHLY FREE LUNCHEONS FOR FOLKS 60 YEARS AND OLDER. THE LUNCHEONS PROVIDE A GREAT OPPORTUNITY FOR SENIORS TO SOCIALIZE. A SPEAKER OR ENTERTAINMENT IS PROVIDED AT SOME LUNCHEONS WITH TOPICS RANGING FROM HEALTH OR SOCIAL ISSUES TO JUST PLAIN FUN. OUR "LIFETIME FITNESS" CLASSES OFFER ACTIVITY FOR LIFELONG FITNESS. IT INCLUDES WARM-UP STRETCHES, WALKING, LOW-LEVEL AEROBICS, OPTIONAL CHAIR EXERCISES, MUSCLE STRENGTHENING AND RELAXATION TO BURN CALORIES WHILE IMPROVING FLEXIBILITY, MUSCLE TONE, COORDINATION, BALANCE AND HEART AND LUNG CAPACITY. OUR SERVICES ARE PROVIDED AT AFFORDABLE FEES FOR THE COMMUNITY AT LARGE WITH FINANCIAL ASSISTANCE AVAILABLE TO THOSE IN NEED. THESE PROGRAMS SERVE ABOUT 700 INDIVIDUALS WITH OVER 6,200 UNITS OF SERVICE. ALL OTHER PROGRAMS - THE WALDO COUNTY YMCA HOSTS AND ORGANIZES VARIOUS SOCIAL, SPORT AND RECREATIONAL PROGRAMS THAT INCLUDE MEN, WOMEN, AND CHILDREN OF ANY AGE, ABILITY, INCOME, RACE OR RELIGION. WE ARE DEDICATED TO BUILDING STRONG KIDS, STRONG FAMILIES AND STRONG COMMUNITIES BY PUTTING OUR CORE VALUES OF CARING, HONESTY, RESPECT AND RESPONSIBILITY INTO PRACTICE THROUGH PROGRAMS THAT PROMOTE HEALTHY LIFESTYLES, STRONG VALUES, LEADERSHIP DEVELOPMENT, COMMUNITY INTERACTION AND INTERNATIONAL UNDERSTANDING. ALL PERSONS ARE WELCOME AT THE WALDO COUNTY YMCA REGARDLESS OF THEIR ABILITY TO PAY. THESE EXPENSES INCLUDE COSTS OF MAINTAINING THE FACILITY WITHIN WHICH THE ABOVE PROGRAMS TAKE PLACE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ORGANIZATION'S PROCESS USED TO REVIEW FORM 990</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 11B</ReturnReference>
+        <Explanation>THE FINANCE COMMITTEE REVIEWS AND MAKES ANY NECESSARY CHANGES BEFORE FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ENFORCEMENT OF CONFLICTS POLICY</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 12C</ReturnReference>
+        <Explanation>THE BOARD OF DIRECTORS IS REQUIRED TO READ AND SIGN OFF ON THE POLICY YEARLY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>COMPENSATION PROCESS FOR TOP OFFICIAL</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 15A</ReturnReference>
+        <Explanation>THE FINANCE COMMITTEE OF THE BOARD OF DIRECTORS APPROVES THE COMPENSATION PAID TO THE EXECUTIVE AND FINANCE DIRECTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>GOVERNING DOCUMENTS DISCLOSURE EXPLANATION</Identifier>
+        <ReturnReference>FORM 990, PAGE 6, PART VI, LINE 19</ReturnReference>
+        <Explanation>THE GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY AND FINANCIAL STATEMENTS ARE MAINTAINED IN THE OFFICE AND ARE AVAILABLE TO THE PUBLIC DURING STANDARD BUSINESS HOURS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OTHER EXPENSES</Identifier>
+        <ReturnReference>FORM 990, PART IX, LINE 24F</ReturnReference>
+        <Explanation>SPECIALTY CLASS EXPENSE 15,151 POOL CHEMICALS EXPENSE 12,652 CONSUMMABLES 11,990 A O A . DAY TRIPS 10,542 OFFICE SUPPLIES 10,412 BAD DEBT EXPENSE FOR PROG 7,638 COMPUTER SYSTEM MAINTENAN 7,404 TEEN PROGRAM . YAP 7,183 EXPENSES 6,417 SUMMER SPORTS CAMPS 6,101 EXPENSES 5,157 OTHER POOL EXPENSES 4,876 ADULT SOCCER 4,387 EXPENSES 4,081 AOA . OVERNIGHT TRIPS 4,007 TEAM EXPENSES 3,920 FOOD / COFFEE / KITCHEN 3,714 GENERAL CAMP EXPENSE 3,635 GENERAL CLASS EXPENSES 3,478 EXPENSES 3,080 EXPENSES 2,958 BEFORE / AFTERSCHL SUPPLI 2,947 ADULT SOFTBALL 2,897 CAMP NEDOBAK 2,872 PAYROLL PROCESSING 2,195 PROFESSIONAL DUES 2,177 EXPENSE 2,150 FUNDRAISING EXPENSES 2,114 TRAVEL 2,019 AOA . LUNCHES / DINNERS 1,917 US SWIM MEET/EVENT FEES 1,755 CC MATERIALS COST 1,562 CAMP KODA EXPENSE 1,464 PROGRAM SUPPLIES 1,445 TOWELS, ETC. 1,438 MERCHANDISE 1,346 MAINTENANCE CONTRACTS 1,316 YOUTH SOCCER 1,221 VOLUNTEER EXPENSE 1,169 TRAINING FOR COACHES &amp;OFF 1,040 TEEN PROG . SNACKS &amp; SUPP 955 TEE BALL 939 MAINTENACE OF EQUIPMENT 876 OTHER BLUEFISH EXPENSES 868 FIELD HOCKEY . INDOOR &amp; O 838 YMCA MEET/EVENT FEES 796 AOA ACTIVITY / PROGRAM 771 TEEN PROG . DANCES 771 OTHER MEMBERSHIP EXPENSES 691 ADULT BASKETBALL 689 PRE.SCHOOL ACTIVIITES EXP 667 SUPPLIES . MUSIC/OFFICE/C 666 AOA NEWSLETTER, SUPPLIES, 645 OTHER GENERAL PROGRAM EXP 618 SUPPLIES 611 HOCKEY . MEN'S FLOOR 601 POOL SUPPLIES EXPENSE 598 LICENSES AND PERMITS 540 AQUATICS TRAINING . WSI 490 REPAIRS AND MAINTENANCE 480 ADMIN/PROCESSING FEES 465 YOUTH BASKETBALL 423 TRACK . SUMMER 410 NEW EQUIPMENT &amp; TOOL PURC 396 MEDICAL SUPPLIES 331 CONTRIBUTIONS/ GIFTS 300 FIRST AID/CPR TRAINING 290 AQUATICS TRAINING . LG 257 PROGRAM TRAINING 253 EQUIPMENT 224 SCAMPER CAMP 220 CONCESSION EXPENSE 211 UNIFORMS 207 MISCELLANEOUS EXPENSE 200 ADULT VOLLEYBALL 176 TEEN PROG . SPECIAL PROGR 153 SOFTBALL 113 OTHER 90 GENERAL BOARD EXPENSE 78 US SWIM CLUB FEES 30 AOA . DANCES 20</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

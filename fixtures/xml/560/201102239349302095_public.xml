@@ -1,0 +1,827 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-11T15:58:51-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BKD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>400 E MAIN ST STE 200 PO BOX 1196</AddressLine1>
+        <City>BOWLING GREEN</City>
+        <State>KY</State>
+        <ZIPCode>421021196</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010560598</EIN>
+      <Name>
+        <BusinessNameLine1>CHILD DEVELOPMENT CENTER CORPORATION</BusinessNameLine1>
+      </Name>
+      <NameControl>CHIL</NameControl>
+      <Phone>6064084583</Phone>
+      <USAddress>
+        <AddressLine1>2201 LEXINGTON AVENUE</AddressLine1>
+        <City>ASHLAND</City>
+        <State>KY</State>
+        <ZIPCode>41101</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PAUL MCDOWELL</Name>
+      <Title>TREASURER</Title>
+      <DateSigned>2011-08-11</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>KIM SCIFRES</Name>
+      <Phone>2707810111</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <NameOfPrincipalOfficerPerson>FRED JACKSON</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+        <City>ASHLAND</City>
+        <State>KY</State>
+        <ZIPCode>41101</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>494935</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2000</YearFormation>
+      <StateLegalDomicile>KY</StateLegalDomicile>
+      <ActivityOrMissionDescription>PROVIDE KING'S DAUGHTERS MEDICAL CENTER TEAM MEMBERS THE BENEFIT OF A CHILD DEVELOPMENT CENTER THAT PROMOTES PHYSICAL, EMOTIONAL, INTELLECTUAL AND SOCIAL GROWTH IN A CHRISTIAN VALUES-BASED ENVIRONMENT</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>6</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>1</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>45</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>446597</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>494935</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>-1437</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>445160</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>494935</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>537640</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>593858</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>226952</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>220524</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>764592</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>814382</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-319432</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-319447</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>1868503</TotalAssetsBOY>
+      <TotalAssetsEOY>1776986</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>1955921</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>2183851</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-87418</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-406865</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>TO PROVIDE KING'S DAUGHTERS MEDICAL CENTER TEAM MEMBERS THE CONVENIENCE OF AN EXCEPTIONAL CHILD DEVELOPMENT CENTER THAT PROMOTES PHYSICAL, EMOTIONAL, INTELLECTUAL, AND SOCIAL GROWTH IN A CHRISTIAN VALUES-BASED ENVIRONMENT, SUPPORTING THE WELL BEING OF THE FAMILY.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>774705</Expense>
+      <Revenue>494935</Revenue>
+      <Description>THE CHILD DEVELOPMENT CENTER AT KDMC IS OPEN MONDAY THROUGH FRIDAY, 5:30 A.M. TO 6:30 P.M. KDMC TEAM MEMBERS MAY ENROLL THEIR CHILDREN 6 WEEKS - 4 YEARS OLD. WE HAVE A TOTAL OF 8 CLASSROOMS AND ALL LEAD TEACHERS ARE CHILD DEVELOPMENT ASSOCIATE (CDA) CERTIFIED, TWO WITH BACHELOR DEGREES, AND ONE WITH A MASTERS DEGREE. APPROXIMATELY 155 CHILDREN WERE ENROLLED IN FY 2010 WITH AN AVERAGE DAILY ATTENDANCE OF 74. THE CHILD DEVELOPMENT CENTER EMPLOYED APPROXIMATELY 45 TEAM MEMBERS. AGE APPROPRIATE CURRICULUM IS USED THROUGHOUT THE CENTER FROM THE INFANT ROOMS TO OUR PRESCHOOL CLASSES. PARENT INVOLVEMENT/VISITS IS ENCOURAGED.</Description>
+      <TotalProgramServiceExpense>774705</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired>false</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="IRS990ScheduleD">true</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity referenceDocumentId="IRS990ScheduleR">false</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>45</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>6</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>1</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>false</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>false</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>true</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>true</DocumentRetentionPolicy>
+      <CompensationProcessCEO>true</CompensationProcessCEO>
+      <CompensationProcessOther>true</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>KY</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>AUTUMN MCFANN</NamePerson>
+        <TelephoneNumber>6064084678</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVENUE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>JANE BLANKENSHIP</NamePerson>
+        <Title>PART YEAR ADMIN DIRECTOR</Title>
+        <AverageHoursPerWeek>15.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>93052</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>19214</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAUL MCDOWELL</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>473300</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>146320</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LARRY HIGGINS</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>362275</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>111988</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>FRED JACKSON</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>914207</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>409462</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID JONES</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>0.25</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHERYL MAHANEY</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>347722</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>101445</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JAN BLAIR</NamePerson>
+        <Title>PART YEAR ADMIN DIRECTOR</Title>
+        <AverageHoursPerWeek>15.0</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>2190556</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>788429</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>true</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <TotalContributions>0</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>CHILD CARE INCOME</Description>
+        <BusinessCode>624410</BusinessCode>
+        <TotalRevenueColumn>494935</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>494935</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>494935</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <TotalOtherRevenue>0</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>494935</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>494935</RelatedOrExemptFunctionIncome>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>35230</Total>
+        <ManagementAndGeneral>35230</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>526685</Total>
+        <ProgramServices>526685</ProgramServices>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>0</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>-11223</Total>
+        <ProgramServices>-11223</ProgramServices>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>43166</Total>
+        <ProgramServices>43166</ProgramServices>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>0</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>2050</Total>
+        <ProgramServices>2050</ProgramServices>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>0</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>58799</Total>
+        <ProgramServices>54355</ProgramServices>
+        <ManagementAndGeneral>4444</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>0</Total>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>26112</Total>
+        <ProgramServices>26112</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>0</Total>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>0</Total>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>3</Total>
+        <ManagementAndGeneral>3</ManagementAndGeneral>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>85489</Total>
+        <ProgramServices>85489</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>5004</Total>
+        <ProgramServices>5004</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <Total>32760</Total>
+        <ProgramServices>32760</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>10307</Total>
+        <ProgramServices>10307</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>814382</Total>
+        <ProgramServices>774705</ProgramServices>
+        <ManagementAndGeneral>39677</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>58322</BOY>
+        <EOY>33315</EOY>
+      </CashNonInterestBearing>
+      <LandBuildingsEquipmentBasis>2427367</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>685531</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1807866</BOY>
+        <EOY>1741836</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>2315</BOY>
+        <EOY>1835</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>1868503</BOY>
+        <EOY>1776986</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>56721</BOY>
+        <EOY>43828</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>1899200</BOY>
+        <EOY>2140023</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>1955921</BOY>
+        <EOY>2183851</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-87418</BOY>
+        <EOY>-406865</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-87418</BOY>
+        <EOY>-406865</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>1868503</BOY>
+        <EOY>1776986</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>true</FSAudited>
+      <AuditCommittee>true</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <SupportingOrganization509a3>X</SupportingOrganization509a3>
+      <SupportingOrg509a3Type1>X</SupportingOrg509a3Type1>
+      <CertificationCheckbox>X</CertificationCheckbox>
+      <ContribByControllingIndividual>false</ContribByControllingIndividual>
+      <ContributionByRelatedParty>false</ContributionByRelatedParty>
+      <ContribBy35ControlledEntity>false</ContribBy35ControlledEntity>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>ASHLAND HOSPITAL CORP DBA KING'S DAUGHTERS MEDICAL CENTER</BusinessNameLine1>
+        </Name>
+        <EIN>610444716</EIN>
+        <TypeOfOrganization>03</TypeOfOrganization>
+        <ListedInGoverningDoc>true</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>true</SupportedOrganizationNotified>
+        <OrganizedInUS>true</OrganizedInUS>
+        <Amount>0</Amount>
+      </SupportedOrgInformation>
+      <TotalNumberOfSupportedOrgs>1</TotalNumberOfSupportedOrgs>
+      <SumOfAmounts>0</SumOfAmounts>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmts />
+      <HeldWorksOfArtAmts />
+      <Land>
+        <OtherCostOrOtherBasis>553853</OtherCostOrOtherBasis>
+        <BookValue>553853</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>1586202</OtherCostOrOtherBasis>
+        <Depreciation>519479</Depreciation>
+        <BookValue>1066723</BookValue>
+      </Buildings>
+      <LeaseholdImprovements />
+      <Equipment>
+        <OtherCostOrOtherBasis>172832</OtherCostOrOtherBasis>
+        <Depreciation>127922</Depreciation>
+        <BookValue>44910</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>114479</OtherCostOrOtherBasis>
+        <Depreciation>38129</Depreciation>
+        <BookValue>76350</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>1741836</TotalOfBookValueLandBuildings>
+      <FederalIncomeTaxLiability>0</FederalIncomeTaxLiability>
+      <OtherLiabilities>
+        <Description>INTERCOMPANY PAYABLES</Description>
+        <Amount>2140023</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>2140023</TotalOfAmounts>
+      <TotalRevenue>494935</TotalRevenue>
+      <TotalExpenses>814382</TotalExpenses>
+      <ExcessOrDeficitForYear>-319447</ExcessOrDeficitForYear>
+      <ExcessOrDeficitPerFS>-319447</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>494935</TotRevenueEtcAuditedFinclStmt>
+      <RevenueSubtotal>494935</RevenueSubtotal>
+      <TotalRevenuePerForm990>494935</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>814382</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesSubtotal>814382</ExpensesSubtotal>
+      <TotalExpensesPerForm990>814382</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>FEDERAL INCOME TAXES</Identifier>
+        <ReturnReference>SCH D, PART X, LINE 2</ReturnReference>
+        <Explanation>THE MEDICAL CENTER, KHF, KBNH, CDC, KHI, KDMT, KDMS AND FOUNDATION HAVE BEEN RECOGNIZED BY THE IRS AS SECTION 501(C)(3) CHARITABLE ORGANIZATIONS. SECTION 501(C)(3) ORGANIZATIONS ARE EXEMPT FROM FEDERAL AND STATE INCOME TAXES ON RELATED INCOME. THESE ORGANIZATIONS DO NOT ENGAGE IN SIGNIFICANT UNRELATED ACTIVITIES AND THEREFORE NO TAX IS RECORDED. AMP IS A SMALL TAXABLE ENTITY SUBJECT TO FEDERAL AND STATE INCOME TAXATION. THE MEDICAL CENTER IS NO LONGER SUBJECT TO U.S. FEDERAL INCOME TAX EXAMINATIONS BY TAX AUTHORITIES FOR YEARS BEFORE 2007.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ">
+      <SeverancePayment>false</SeverancePayment>
+      <SupplementalNonqualRetirePlan>true</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>false</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>false</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>false</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>false</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>false</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>false</AnyNonFixedPayments>
+      <InitialContractException>false</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>PAUL MCDOWELL</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>275186</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>80112</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>118002</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>128630</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>17690</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>619620</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>66573</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>LARRY HIGGINS</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>231604</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>56600</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>74071</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>98583</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>13405</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>474263</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>52688</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>FRED JACKSON</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>641829</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>169236</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>103142</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>393692</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>15770</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>1323669</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>SHERYL MAHANEY</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>228727</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>60880</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>58115</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>85675</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>15770</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>449167</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>44670</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>COMPENSATION FROM RELATED ORGANIZATION</Identifier>
+        <ReturnReference>SCH J, PART I, LINE 3</ReturnReference>
+        <Explanation>THE TOP MANAGEMENT OFFICIAL IS UNCOMPENSATED BY THE REPORTING ORGANIZATION. THE REPORTING ORGANIZATION RELIES ON KING'S DAUGHTERS MEDICAL CENTER, A RELATED ORGANIZATION, TO ESTABLISH COMPENSATION FOR THE TOP MANAGEMENT OFFICIAL.</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <Identifier>NONQUALIFIED RETIREMENT PLAN</Identifier>
+        <ReturnReference>SCH J, PART I, LINE 4B</ReturnReference>
+        <Explanation>THE CEO AND VICE PRESIDENTS BENEFIT IN THE QUALIFIED TAX SHELTERED ANNUITY PLAN IS LIMITED DUE TO IRS COMPENSATION AND BENEFIT LIMITS. THE INDIVIDUALS RECEIVE A BENEFIT RESTORATION CONTRIBUTION UNDER THE DEFERRED ANNUITY PLAN THAT IS PAID AS A TAXABLE DISTRIBUTION TO THE PARTICIPANT ANNUALLY. IN ADDITION, FRED JACKSON WILL BE PROVIDED WITH A LUMP SUM SUPPLEMENTAL RETIREMENT BENEFIT IF HE REMAINS EMPLOYED UNTIL AGE 62. THE LUMP SUM PAYMENT, WHEN COMBINED WITH ALL OTHER RETIREMENT BENEFITS, IS ESTIMATED TO PRODUCE A TARGET RETIREMENT INCOME REPLACEMENT EQUAL TO A PERCENTAGE OF HIS FINAL AVERAGE PAY COMMENCING AT AGE 62. THE SUPPLEMENTAL EXECUTIVE RETIREMENT PLAN PAYMENTS FOR THE YEAR WERE AS FOLLOWS: FRED JACKSON $29,008 PAUL MCDOWELL $14,938 SHERYL MAHANEY $7,024 LARRY HIGGINS $7,319</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <GeneralExplanation>
+        <Identifier>PROCESS TO REVIEW FORM 990</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 11</ReturnReference>
+        <Explanation>THE FORM 990 IS REVIEWED BY THE CONTROLLER AND THE SENIOR VP, FINANCE/CFO OF KING'S DAUGHTERS MEDICAL CENTER AFTER THE FINAL DRAFT IS RECEIVED BY THE CONTROLLER BUT BEFORE IT IS FILED WITH THE IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>MONITORING THE CONFLICT OF INTEREST POLICY</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12B AND 12C</ReturnReference>
+        <Explanation>CHILD DEVELOPMENT CENTER CORPORATION IS CURRENTLY IN THE PROCESS OF DEVELOPING A CONFLICT OF INTEREST POLICY. IN THE MEANTIME, CHILD DEVELOPMENT CENTER CORPORATION FOLLOWS SIMILAR POLICIES AND PROCEDURES OF ITS PARENT ORGANIZATION REGARDING MONITORING AND REPORTING CONFLICTS OF INTEREST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>PROCESS FOR DETERMINING COMPENSATION</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15A AND 15B</ReturnReference>
+        <Explanation>THE CHILD DEVELOPMENT CENTER CORPORATION IS A SUBSIDIARY OF KING'S DAUGHTERS MEDICAL CENTER (KDMC). AT THE DIRECTION OF THE PERSONNEL &amp; COMPENSATION COMMITTEE OF THE BOARD, KDMC ENGAGES HEWITT ASSOCIATES, A LEADING, INDEPENDENT GLOBAL COMPENSATION CONSULTING COMPANY TO ASSIST IN DETERMINING COMPENSATION OF THE CEO, SENIOR VICE PRESIDENTS AND VICE PRESIDENTS. HEWITT'S MOST RECENT EXECUTIVE COMPENSATION REVIEW IS DATED SEPTEMBER 2009. THE PRINCIPLE OBJECTIVE OF THIS STUDY WAS TO ASSEMBLE A DETAILED PROFILE OF THE CURRENT COMPENSATION LEVELS AVAILABLE TO EXECUTIVES MANAGING SIMILAR TASKS AND RESPONSIBILITIES AS MEMBERS OF THE KDMC EXECUTIVE TEAM, AS HEWITT SELECTED OTHER "KEY" EXECUTIVE MANAGEMENT ROLES. MOREOVER, THE OBJECTIVE WAS TO COMPILE MARKET DATA FOR EACH POSITION THAT WAS REFLECTIVE OF THE PAY LEVELS OFFERED BY INDEPENDENT, NOT-FOR-PROFIT HEALTH CARE ORGANIZATIONS OF COMPARABLE SIZE (I.E., $555 MILLION IN ANNUAL REVENUE) WITH AN EMPHASIS ON THE SOUTHEAST REGION OF THE UNITED STATES. THE HEWITT DATA COUPLED WITH THE PERFORMANCE OF THE ORGANIZATION AS WELL AS THE PERSONAL PERFORMANCE OF EACH EXECUTIVE IS THE BASIS FOR KDMC'S PERSONELL &amp; COMPENSATION COMMITTEE'S REVIEW AND RECOMMENDATIONS, AND THE BOARD'S REVIEW AND APPROVAL OF ANNUAL COMPENSATION INCREASES. THE PROCESS INCLUDES A REVIEW AND APPROVAL BY INDEPENDENT PERSONS, COMPARABILITY DATA AND CONTEMPORANEOUS SUBSTANTIATION OF THE DELIBERATION AND DECISION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>MAKING FORMS AVAILABLE TO THE PUBLIC</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATION'S CONSOLIDATED QUARTERLY FINANCIAL STATEMENTS AND AUDIT REPORT CAN BE ACCESSED AT HTTP://EMMA.MSRB.ORG</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>MEMBERS OF THE ORGANIZATION</Identifier>
+        <ReturnReference>FORM 990, PART VI, SECTION A, LINE 6 AND 7A</ReturnReference>
+        <Explanation>ASHLAND HOSPITAL CORPORATION D/B/A KING'S DAUGHTERS MEDICAL CENTER IS THE SOLE CORPORATE MEMBER OF CHILD DEVELOPMENT CENTER CORPORATION. ASHLAND HOSPITAL CORPORATION, A RELATED 501(C)(3) ENTITY, IS THE PARENT ORGANIZATION OF AN INTEGRATED HEALTHCARE DELIVERY SYSTEM. ASHLAND HOSPITAL CORPORATION ELECTS BOARD MEMBERS OF THE CHILD DEVELOPMENT CENTER CORPORATION ON AN ANNUAL BASIS.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ASHLAND HOSPITAL CORPORATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+        <EIN>610444716</EIN>
+        <PrimaryActivities>HEALTHCARE</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ASHLAND NURSING HOME CORPORATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2500 STATE ROUTE 5</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41102</ZIPCode>
+        </AddressUS>
+        <EIN>611386016</EIN>
+        <PrimaryActivities>NURSING HOME</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11-I</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>KENTUCKY MEDICAL LOGISTICS INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2518 STATE ROUTE 5</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41102</ZIPCode>
+        </AddressUS>
+        <EIN>264736971</EIN>
+        <PrimaryActivities>MED TRANSPORT</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>KENTUCKY HEART INSTITUTE</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+        <EIN>611255904</EIN>
+        <PrimaryActivities>PHYSICIANS</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>KENTUCKY HEART FOUNDATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+        <EIN>260791997</EIN>
+        <PrimaryActivities>MED RESEARCH</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>KING'S DAUGHTERS HEALTH FOUNDATION INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+        <EIN>611035701</EIN>
+        <PrimaryActivities>FUNDRAISING</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>11-III-FI</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>KING'S DAUGHTERS MEDICAL SPECIALTIESINC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+        <EIN>264183569</EIN>
+        <PrimaryActivities>PHYSICIANS</PrimaryActivities>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>9</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>ASHLAND MEDICAL PROPERTIES INC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>2201 LEXINGTON AVE</AddressLine1>
+          <City>ASHLAND</City>
+          <State>KY</State>
+          <ZIPCode>41101</ZIPCode>
+        </AddressUS>
+        <EIN>611079090</EIN>
+        <PrimaryActivity>RENTALS</PrimaryActivity>
+        <LegalDomicileState>KY</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>NA</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>C</TypeOfEntity>
+        <ShareOfTotalIncome>0</ShareOfTotalIncome>
+        <ShareOfEOYAssets>0</ShareOfEOYAssets>
+        <PercentageOwnership>0.00000</PercentageOwnership>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>true</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>false</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>false</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>false</SharingOfFacilities>
+      <SharingOfPaidEmployees>false</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>false</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>false</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>true</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

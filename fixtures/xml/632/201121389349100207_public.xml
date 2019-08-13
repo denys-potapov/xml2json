@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-18T11:48:34-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Robert H Gallup EA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>5520 E 2nd Street Suite E</AddressLine1>
+        <City>Long Beach</City>
+        <State>CA</State>
+        <ZIPCode>90803</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010632950</EIN>
+      <Name>
+        <BusinessNameLine1>Pereira Higgins Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>PERE</NameControl>
+      <Phone>9499333087</Phone>
+      <USAddress>
+        <AddressLine1>1537 Buena Vista</AddressLine1>
+        <City>San Clemente</City>
+        <State>CA</State>
+        <ZIPCode>92672</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Harold L Higgins</Name>
+      <Title>CFO &amp; Sec'y.</Title>
+      <DateSigned>2010-05-17</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Robert H Gallup EA</Name>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>159955</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <NetGainSaleAssetsRevAndExpnss>-258</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>6594</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">2181</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>1923</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">70</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">500</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">83</TaxesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">1446</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>2099</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>9290</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>9290</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>11389</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>9290</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-9466</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">163486</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">154274</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId=" OtherAssetsSchedule">159955</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>163486</TotalAssetsBOY>
+        <TotalAssetsEOY>154274</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>159955</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>163486</UnrestrictedBOY>
+        <UnrestrictedEOY>154274</UnrestrictedEOY>
+        <TotalNetAssetsBOY>163486</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>154274</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>163486</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>154274</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>163486</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-9466</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">254</OtherIncreases>
+        <Subtotal>154274</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>154274</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>-258</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Harold L Higgins</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>9499333087</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1537 Buena Vista</AddressLine1>
+          <City>San Clemente</City>
+          <State>CA</State>
+          <ZIPCode>926724939</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Harold L Higgins</PersonName>
+          <USAddress>
+            <AddressLine1>1537 Buena Vista</AddressLine1>
+            <City>San Clemente</City>
+            <State>CA</State>
+            <ZIPCode>926724939</ZIPCode>
+          </USAddress>
+          <Title>CFO &amp; Sec'y.</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Gayle E Pereira</PersonName>
+          <USAddress>
+            <AddressLine1>1537 Buena Vista</AddressLine1>
+            <City>San Clemente</City>
+            <State>CA</State>
+            <ZIPCode>926724939</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>9290</ExpensesAndContributions>
+        <QualifyingDistributions>9290</QualifyingDistributions>
+        <AdjQualifyingDistributions>9290</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>12635</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>17715</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>15102</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>14480</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>12000</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>71932</TotalExcessDistriCarryover>
+        <QualifyingDistributions>9290</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <RemainingDistriFromCorpus>9290</RemainingDistriFromCorpus>
+        <TotalCorpus>81222</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>12635</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>68587</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>17715</ExcessFromYear4>
+        <ExcessFromYear3>15102</ExcessFromYear3>
+        <ExcessFromYear2>14480</ExcessFromYear2>
+        <ExcessFromYear1>12000</ExcessFromYear1>
+        <ExcessFromCurrentYear>9290</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Muscular Dystrophy Association</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>650 University Avenue 108</AddressLine1>
+            <City>Sacramento</City>
+            <State>CA</State>
+            <ZIPCode>95825</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Medical Research</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>St Margaret's Episcopal School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>31641 La Novia</AddressLine1>
+            <City>San Juan Capistrano</City>
+            <State>CA</State>
+            <ZIPCode>92675</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>To Buy Equipment</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>St Margaret's Episcopal School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>31641 La Novia</AddressLine1>
+            <City>San Juan Capistrano</City>
+            <State>CA</State>
+            <ZIPCode>92675</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Annual Fund</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Our Savior's Lutheran School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>200 E Avenida San Pablo</AddressLine1>
+            <City>San Clemente</City>
+            <State>CA</State>
+            <ZIPCode>92672</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Capital Building Fund</PurposeOfGrantOrContribution>
+          <Amount>2240</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CASA Romantica Cultural Ctr</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>415 Avenida Granada</AddressLine1>
+            <City>San Clemente</City>
+            <State>CA</State>
+            <ZIPCode>92672</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Rehab Capital Fund</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Our Savior's Lutheran School</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>200 E Avenida San Pablo</AddressLine1>
+            <City>San Clemente</City>
+            <State>CA</State>
+            <ZIPCode>92672</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Building FundStaff Retention</PurposeOfGrantOrContribution>
+          <Amount>1250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Orangewood Children's Found</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1575 E 17th Street</AddressLine1>
+            <City>Santa Ana</City>
+            <State>CA</State>
+            <ZIPCode>92705</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>To buy equipment</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>9290</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <OtherInvestmentIncomePartVII>
+          <RelatedOrExemptFunctionIncome>2181</RelatedOrExemptFunctionIncome>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-258</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>1923</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1923</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>Robert Gallup, EA : Prep of form 990-PF</Category>
+        <Amount>500</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>Bradley W. Nemeth</Category>
+        <Amount>70</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>Selected American Shares</Description>
+        <BOYBookValue>19992</BOYBookValue>
+        <EOYBookValue>17892</EOYBookValue>
+        <EOYFMV>17767</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Russell MidCap</Description>
+        <BOYBookValue>10501</BOYBookValue>
+        <EOYBookValue>10501</EOYBookValue>
+        <EOYFMV>11192</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Russell 2000</Description>
+        <BOYBookValue>10714</BOYBookValue>
+        <EOYBookValue>10714</EOYBookValue>
+        <EOYFMV>10954</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Russell 1000</Description>
+        <BOYBookValue>60834</BOYBookValue>
+        <EOYBookValue>60834</EOYBookValue>
+        <EOYFMV>59381</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>MSCI EAFE Index</Description>
+        <BOYBookValue>20472</BOYBookValue>
+        <EOYBookValue>20472</EOYBookValue>
+        <EOYFMV>17466</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Janus Overseas</Description>
+        <BOYBookValue>26355</BOYBookValue>
+        <EOYBookValue>21498</EOYBookValue>
+        <EOYFMV>27098</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Fidelity Cash Fund</Description>
+        <BOYBookValue>4059</BOYBookValue>
+        <EOYBookValue>1804</EOYBookValue>
+        <EOYFMV>1804</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>Emerging Markets</Description>
+        <BOYBookValue>10559</BOYBookValue>
+        <EOYBookValue>10559</EOYBookValue>
+        <EOYFMV>14293</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Coast Wealth Management Fees</Description>
+        <RevenueAndExpensesPerBooks>1446</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Other Investment Income</Description>
+        <RevenueAndExpensesPerBooks>2181</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncreases>
+        <Description>Funds appreciation</Description>
+        <Amount>254</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Foreign Taxes Paid on Fidelity Dividends</Category>
+        <Amount>83</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

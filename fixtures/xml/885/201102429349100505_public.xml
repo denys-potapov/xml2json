@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-30T15:55:56-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HOWARD &amp; CO LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>8350 MEADOW ROAD SUITE 286</AddressLine1>
+        <City>DALLAS</City>
+        <State>TX</State>
+        <ZIPCode>75231</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010885745</EIN>
+      <Name>
+        <BusinessNameLine1>BETTY &amp; JAMES MUNS FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>BETT</NameControl>
+      <Phone>9722675656</Phone>
+      <USAddress>
+        <AddressLine1>5512 W PLANO PARKWAY NO 200</AddressLine1>
+        <City>PLANO</City>
+        <State>TX</State>
+        <ZIPCode>75093</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JAMES N MUNS</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>9722675656</Phone>
+      <DateSigned>2011-08-10</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DUNCAN CAMPBELL</Name>
+      <Phone>2143460750</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1386197</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>233363</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>7778</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6351</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-2305</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>223416</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>238836</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>6351</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2000</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>2000</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">26</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">5640</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>5080</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>7666</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7080</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>59440</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>59440</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>67106</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7080</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>59440</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>171730</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>1195578</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>1364576</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>1383415</SavingsAndTempCashInvstEOYFMV>
+        <AccountsReceivable>223</AccountsReceivable>
+        <AccountsReceivableBOY>50</AccountsReceivableBOY>
+        <AccountsReceivableEOY>223</AccountsReceivableEOY>
+        <AccountsReceivableEOYFMV>223</AccountsReceivableEOYFMV>
+        <PrepaidExpensesEOY>2559</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>2559</PrepaidExpensesEOYFMV>
+        <TotalAssetsBOY>1195628</TotalAssetsBOY>
+        <TotalAssetsEOY>1367358</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1386197</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>1195628</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1367358</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1195628</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1367358</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1195628</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1367358</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1195628</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>171730</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>1367358</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1367358</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150,000 CALIFORNIA ST REV ANTIC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-24</DateAcquired>
+          <DateSold>2010-05-25</DateSold>
+          <GrossSalesPrice>150000</GrossSalesPrice>
+          <CostOrOtherBasis>150000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 SH ISHARES BARCLAYS INTERMED GOVT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-03</DateAcquired>
+          <DateSold>2010-04-27</DateSold>
+          <GrossSalesPrice>2649</GrossSalesPrice>
+          <CostOrOtherBasis>2655</CostOrOtherBasis>
+          <GainOrLoss>-6</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1750 SH POWERSHARES GLOBAL EXCHANGE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-01</DateAcquired>
+          <DateSold>2010-08-05</DateSold>
+          <GrossSalesPrice>36165</GrossSalesPrice>
+          <CostOrOtherBasis>36666</CostOrOtherBasis>
+          <GainOrLoss>-501</GainOrLoss>
+          <GainsMinusExcessOrLosses>-501</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9 SH ROYCE MICROCAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-09</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>127</GrossSalesPrice>
+          <CostOrOtherBasis>78</CostOrOtherBasis>
+          <GainOrLoss>49</GainOrLoss>
+          <GainsMinusExcessOrLosses>49</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SPDR GOLD TR GOLD SHS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-03</DateAcquired>
+          <DateSold>2010-09-03</DateSold>
+          <GrossSalesPrice>8</GrossSalesPrice>
+          <CostOrOtherBasis>7</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>660 SH DIAMOND HILL LONG/SHRT FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-01</DateAcquired>
+          <DateSold>2010-08-13</DateSold>
+          <GrossSalesPrice>10226</GrossSalesPrice>
+          <CostOrOtherBasis>12521</CostOrOtherBasis>
+          <GainOrLoss>-2295</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2295</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 SH ISHARES TR COHEN &amp; STEERS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-18</DateAcquired>
+          <DateSold>2010-11-24</DateSold>
+          <GrossSalesPrice>3168</GrossSalesPrice>
+          <CostOrOtherBasis>3511</CostOrOtherBasis>
+          <GainOrLoss>-343</GainOrLoss>
+          <GainsMinusExcessOrLosses>-343</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>125 SH ISHARES TR RUSSELL MICROCAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-17</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>5211</GrossSalesPrice>
+          <CostOrOtherBasis>5866</CostOrOtherBasis>
+          <GainOrLoss>-655</GainOrLoss>
+          <GainsMinusExcessOrLosses>-655</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>631 SH ROYCE MICROCAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-12-17</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>9112</GrossSalesPrice>
+          <CostOrOtherBasis>5574</CostOrOtherBasis>
+          <GainOrLoss>3538</GainOrLoss>
+          <GainsMinusExcessOrLosses>3538</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>SPDR GOLD TR GOLD SHS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-14</DateAcquired>
+          <DateSold>2010-12-03</DateSold>
+          <GrossSalesPrice>34</GrossSalesPrice>
+          <CostOrOtherBasis>23</CostOrOtherBasis>
+          <GainOrLoss>11</GainOrLoss>
+          <GainsMinusExcessOrLosses>11</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 SH WISDOMTREE TR INT'L SMALL CAP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-01-18</DateAcquired>
+          <DateSold>2010-08-24</DateSold>
+          <GrossSalesPrice>6392</GrossSalesPrice>
+          <CostOrOtherBasis>8820</CostOrOtherBasis>
+          <GainOrLoss>-2428</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2428</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>324</GrossSalesPrice>
+          <GainOrLoss>324</GainOrLoss>
+          <GainsMinusExcessOrLosses>324</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-2305</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>0</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1135411</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.0</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>0</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>964286</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.0</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>0</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>41039</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.0</DistributionRatioYear3>
+        <TotalDistributionRatio>0.0</TotalDistributionRatio>
+        <AverageDistributionRatio>0.0</AverageDistributionRatio>
+        <NetNoncharitableAssets>1271793</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>59440</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>VICKIE BRIDGES</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9722675656</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5512 W PLANO PARKWAY SUITE 200</AddressLine1>
+          <City>PLANO</City>
+          <State>TX</State>
+          <ZIPCode>75093</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>1</UndistributedIncomePriorYears>
+        <UndistributedIncomePriorYear1>2007</UndistributedIncomePriorYear1>
+        <UndistrIncome4942a2NotApplied>0</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN BELL MUNS</PersonName>
+          <USAddress>
+            <AddressLine1>5512 W PLANO PARKWAY SUITE 200</AddressLine1>
+            <City>PLANO</City>
+            <State>TX</State>
+            <ZIPCode>75093</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES GREGORY MUNS</PersonName>
+          <USAddress>
+            <AddressLine1>5512 W PLANO PARKWAY SUITE 200</AddressLine1>
+            <City>PLANO</City>
+            <State>TX</State>
+            <ZIPCode>75093</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHARINE MUNS SPENCER</PersonName>
+          <USAddress>
+            <AddressLine1>603 PERSON ROAD</AddressLine1>
+            <City>WHITE OAK</City>
+            <State>TX</State>
+            <ZIPCode>75693</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARLA MUNS</PersonName>
+          <USAddress>
+            <AddressLine1>5512 W PLANO PARKWAY SUITE 200</AddressLine1>
+            <City>PLANO</City>
+            <State>TX</State>
+            <ZIPCode>75093</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1146481</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>144679</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1291160</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1291160</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>19367</CashDeemedCharitable>
+        <NetNoncharitableAssets>1271793</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>63590</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>63590</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>63590</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>63590</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>63590</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>59440</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>59440</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>59440</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>63590</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>49723</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <TotalForPriorYears>2052</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>59440</QualifyingDistributions>
+        <AppliedToYear1>49723</AppliedToYear1>
+        <AppliedToPriorYears referenceDocumentId="RetDoc10083200000">2052</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>7665</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>55925</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DALLAS CHRISTIAN SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 570249</AddressLine1>
+            <City>DALLAS</City>
+            <State>TX</State>
+            <ZIPCode>75357</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>FURTHER EDUCATIONAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PLANO ISD EDUCATION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2700 W 15TH STREET</AddressLine1>
+            <City>PLANO</City>
+            <State>TX</State>
+            <ZIPCode>75075</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>FURTHER EDUCATIONAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>14440</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ARTS OF COLLIN COUNTY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>305 CENTURY PARKWAY THIRD FLOOR</AddressLine1>
+            <City>ALLEN</City>
+            <State>TX</State>
+            <ZIPCode>75013</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>FURTHER NONPROFIT PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>59440</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>7778</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>-2305</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>5473</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5473</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>JAMES AND BETTY MUNS 2003 CHARITABLE LEAD UNITRUST</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>5512 WEST PLANO PARKWAY STE 200</AddressLine1>
+          <City>PLANO</City>
+          <State>TX</State>
+          <ZIPCode>75093</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>233363</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>PROFESSIONAL FEES</Category>
+        <Amount>2000</Amount>
+        <NetInvestmentIncome>2000</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <AppliedToPriorYearElection documentId="RetDoc10083200000">
+      <Election>IN ACCORDANCE WITH REGULATIONS SECTION 5.4942(A)9-3(D)(2), THE TAXPAYER ELECTS TO APPLY $2,052 OF EXCESS QUALIFYING DISTRIBUTIONS TO UNDISTRIBUTED INCOME REMAINING FROM YEARS BEFORE 2009.</Election>
+    </AppliedToPriorYearElection>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>INVESTMENT MANAGEMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>5023</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>5023</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>42</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>42</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK CHARGES</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>15</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>560</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <BusinessName>
+          <BusinessNameLine1>BETTY &amp; JAMES MUNS FOUNDATION</BusinessNameLine1>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1>5512 W PLANO PARKWAY SUITE 200</AddressLine1>
+          <City>PLANO</City>
+          <State>TX</State>
+          <ZIPCode>75093</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>13</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>TAX ON INVESTMENT INCOME</Category>
+        <Amount>13</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

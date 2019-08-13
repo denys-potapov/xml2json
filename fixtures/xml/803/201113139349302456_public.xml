@@ -1,0 +1,886 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-09T14:03:36-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MAXWELL LOCKE &amp; RITTER LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>401 CONGRESS AVENUE SUITE 1100</AddressLine1>
+        <City>AUSTIN</City>
+        <State>TX</State>
+        <ZIPCode>787019682</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010803109</EIN>
+      <Name>
+        <BusinessNameLine1>INTERNATIONAL SEMATECH MANUFACTURING</BusinessNameLine1>
+        <BusinessNameLine2>INITIATIVE INC</BusinessNameLine2>
+      </Name>
+      <NameControl>INTE</NameControl>
+      <Phone>5123563500</Phone>
+      <USAddress>
+        <AddressLine1>2706 MONTOPOLIS DRIVE</AddressLine1>
+        <City>AUSTIN</City>
+        <State>TX</State>
+        <ZIPCode>787416408</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID D SAATHOFF</Name>
+      <Title>DIRECTOR</Title>
+      <Phone>5123563500</Phone>
+      <DateSigned>2011-11-07</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>SEAN HOLCOMB</Name>
+      <Phone>5123703200</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>SCOTT S KRAMER</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2706 MONTOPOLIS DRIVE</AddressLine1>
+        <City>AUSTIN</City>
+        <State>TX</State>
+        <ZIPCode>787416408</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>15076693</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="6">X</Organization501c>
+      <WebSite>ISMI.SEMATECH.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2003</YearFormation>
+      <StateLegalDomicile>TX</StateLegalDomicile>
+      <ActivityOrMissionDescription>ISMI'S MISSION IS TO ESTABLISH A COLLABORATIVE EFFORT TO IMPROVE THE MANUFACTURING INFRASTRUCTURE, STANDARDS, AND PRODUCTIVITY OF THE SEMICONDUCTOR INDUSTRY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>2</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>0</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>51</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>15989612</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>14834230</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>103449</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>1763</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>238698</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>16093061</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>15074691</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>9083137</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>9413686</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>9976284</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>8832737</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>19059421</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>18246423</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-2966360</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-3171732</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>8779538</TotalAssetsBOY>
+      <TotalAssetsEOY>4777235</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>7605512</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>6702704</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>1174026</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-1925469</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>INTERNATIONAL SEMATECH MANUFACTURING INITIATIVE, INC.'S (ISMI'S) MISSION IS TO HELP IMPROVE THE PRODUCTIVITY AND COST PERFORMANCE OF SEMICONDUCTOR MANUFACTURING EQUIPMENT AND OPERATIONS. UNLIKE ITS PARENT ORGANIZATION, SEMATECH, WHICH FOCUSES ON TECHNOLOGY DEVELOPMENT, ISMI FOCUSES ON MANUFACTURING EFFECTIVENESS AND HELPING REDUCE THE COST PER WAFER AND/OR INCREASING WAFER AREA THROUGH PROGRAMS THAT DIRECTLY IMPACT THE BOTTOM LINE OF THE SEMICONDUCTOR FAB. ISMI'S PROGRAM PORTFOLIO INCLUDES DEFECT METROLOGY, RESOURCE AND ENERGY CONSERVATION, E-MANUFACTURING STANDARDS, EQUIPMENT AND FAB PRODUCTIVITY, AND A SUITE OF INDUSTRY SPECIFIC COUNCILS AND WORKSHOPS. PROGRAM GOALS ARE ACCOMPLISHED BY IDENTIFYING COMMON AREAS OF INTEREST, BENCHMARKING PRODUCTIVITY PERFORMANCE LEVELS, AND SHARING BEST-KNOWN METHODS IN MANUFACTURING.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>ACHIEVEMENTS FOR 2010:--WORKING WITH MEMBERS, SUPPLIERS, AND OTHER INDUSTRY PARTICIPANTS, ISMI TOOK SIGNIFICANT STEPS TOWARD ENABLING 450MM WAFER MANUFACTURING BY SHIFTING EMPHASIS TO SUPPLIER AND EQUIPMENT READINESS AND ADVANCING TOOL DEMONSTRATIONS, INCLUDING WAFER CLEANING AND FILM DEPOSITION CAPABILITIES.--THE NEXT GENERATION FACTORY (NGF) PROGRAM MADE ADVANCEMENTS IN DEVELOPING OVERALL EQUIPMENT EFFECTIVENESS AND PROVIDED GUIDELINES, DEFINITIONS AND ALGORITHM DEVELOPMENT FOR PREDICTIVE PREVENTIVE MAINTENANCE, INCLUDING THE DEVELOPMENT OF AN ENHANCED QUALITY ASSURANCE (EEQA) DATA USAGE SOFTWARE APPLICATION THAT TRACKS AND MONITORS EQUIPMENT FUNCTIONAL PERFORMANCE.--THE CONTINUOUS IMPROVEMENT PROGRAM (CIP) PROVIDED MEMBERS WITH SIGNIFICANT POTENTIAL SAVINGS THROUGH BEST KNOWN METHODS INFORMATION EXCHANGES AT EQUIPMENT PRODUCTIVITY MEETINGS AND WORKSHOPS.--THE ENVIRONMENT, SAFETY, AND HEALTH TECHNOLOGY CENTER HELPED ENABLE REDUCED CONSUMPTION OF SEMICONDUCTOR MANUFACTURING RESOURCES, INCLUDING ENERGY, WATER AND CHEMICALS AND PROVIDED ESH ASSESSMENTS OF EMERGING TECHNOLOGIES AND PROCESSES. --THE ISMI METROLOGY PROGRAM CREATED 22NM MULTILAYER GATE STACK INTENTIONAL DEFECT ARRAY WAFERS FOR TOOL TECHNOLOGY ASSESSMENTS AND TOOL EVALUATIONS AS WELL AS DEVELOPING MODELS AND RECIPES TO ANALYZE COMPLEX OXIDE GATE STACKS USING SPECTROSCOPIC ELLIPSOMETRY.</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <SubjectToProxyTax>0</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">1</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>1</ForeignOffice>
+      <ForeignActivities referenceDocumentId="RetDoc1040500001">1</ForeignActivities>
+      <MoreThan5000KToOrganizations referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals referenceDocumentId="RetDoc1040500001">0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>26</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>51</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>2</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>0</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>1</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>0</MinutesOfGoverningBody>
+      <MinutesOfCommittees>0</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>0</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>0</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>0</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>JACK BALL</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>5123563525</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2706 MONTOPOLIS DRIVE</AddressLine1>
+          <City>AUSTIN</City>
+          <State>TX</State>
+          <ZIPCode>787416408</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>SCOTT S KRAMER</NamePerson>
+        <Title>MANAGING DIR, VP MANUFACTURING</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>245767</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>34793</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID D SAATHOFF</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>528781</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>31358</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSEPH M DRAINA</NamePerson>
+        <Title>DIRECTOR, LEADING EDGE FABS</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>231372</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>43719</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THOMAS G WEAR</NamePerson>
+        <Title>PROJECT MANAGER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>186904</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>30789</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RONALD L REMKE</NamePerson>
+        <Title>PROGRAM MANAGER, METROLOGY</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>176662</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>32521</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRADLEY VAN ECK</NamePerson>
+        <Title>PROGRAM MANAGER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>167274</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>35779</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL D JACKSON</NamePerson>
+        <Title>PROJECT MANAGER, COUNCILS</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>183068</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>33689</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DILIPKUMAR P PATEL</NamePerson>
+        <Title>PROJECT MGR. MATURE FABS</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>177049</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>36736</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>1368096</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>528781</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>279384</TotalOtherCompensation>
+      <NumberIndividualsGT100K>26</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>SEMICONDUCTOR PORTAL INC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressForeign>
+            <AddressLine1>EAST 17 AKASAKA TWIN TOWER</AddressLine1>
+            <City>AKASAKA</City>
+            <ProvinceOrState>MINATO-KU</ProvinceOrState>
+            <Country>JA</Country>
+          </AddressForeign>
+        </AddressOfContractor>
+        <DescriptionOfServices>MEMBER MARKETING AND CONFERENCE PLANNING</DescriptionOfServices>
+        <Compensation>268253</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>LAURIE S BEU CONSULTING</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>12449 LOS INDIOS TRAIL</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78729</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>ESH PROJECT MANGEMENT SERVICES</DescriptionOfServices>
+        <Compensation>160000</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>FEI CO - ACTIVE</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>5350 NE DAWSON CREEK DR</AddressLine1>
+            <City>HILLSBORO</City>
+            <State>OR</State>
+            <ZIPCode>97124</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>METROLOGY ENGINEERING SERVICES</DescriptionOfServices>
+        <Compensation>150000</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>UNIVERSITY OF TEXAS AT AUSTIN</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>ENGINEERING SCIENCE BLDG - 433A</AddressLine1>
+            <City>AUSTIN</City>
+            <State>TX</State>
+            <ZIPCode>78712</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>PREDICTIVE &amp; PREVENTATIVE MAINTENANCE B</DescriptionOfServices>
+        <Compensation>148302</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>UNIVERSITY OF CINCINNATI</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 691031</AddressLine1>
+            <City>CINCINNATI</City>
+            <State>OH</State>
+            <ZIPCode>75269</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>PREDICTIVE &amp; PREVENTATIVE MAINTENANCE DE</DescriptionOfServices>
+        <Compensation>114202</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>6</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>MEMBERSHIP DUES</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>14261663</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>14261663</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>ADVISORY COMMITTEE FUN</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>309000</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>309000</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>MEETING REGISTRATION F</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>263567</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>263567</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>14834230</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>3765</TotalRevenueColumn>
+        <ExclusionAmount>3765</ExclusionAmount>
+      </InvestmentIncome>
+      <LessCostOthBasisSalesExpenses>
+        <Other>2002</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Other>-2002</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>-2002</TotalRevenueColumn>
+        <ExclusionAmount>-2002</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <OtherRevenueMisc>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>238698</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>238698</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>238698</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>15074691</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>15072928</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>1763</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>555649</Total>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>7273254</Total>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>374750</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>836363</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>373670</Total>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>19194</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesOther>
+        <Total>1494987</Total>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>250</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>178368</Total>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>10884</Total>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>183415</Total>
+      </Occupancy>
+      <Travel>
+        <Total>1095855</Total>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>400634</Total>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>626126</Total>
+      </DepreciationDepletion>
+      <OtherExpenses>
+        <Description>ADMINISTRATIVE SERVICES</Description>
+        <Total>2852640</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>RECRUITING &amp; RELOCATION</Description>
+        <Total>1492800</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DEVELOPMENT CONTRACTS</Description>
+        <Total>190302</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OVERHEAD ALLOCATION</Description>
+        <Total>133178</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEALS</Description>
+        <Total>96971</Total>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>57133</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>18246423</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>409319</BOY>
+        <EOY>1379600</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>6599008</BOY>
+        <EOY>1477151</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>55739</BOY>
+        <EOY>152967</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>42928</BOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>2413968</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>957386</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1672544</BOY>
+        <EOY>1456582</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <EOY>310935</EOY>
+      </InvestmentsPubTradedSecurities>
+      <TotalAssets>
+        <BOY>8779538</BOY>
+        <EOY>4777235</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>1842542</BOY>
+        <EOY>3074494</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>117000</BOY>
+        <EOY>9375</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>5645970</BOY>
+        <EOY>3618835</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>7605512</BOY>
+        <EOY>6702704</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>978557</BOY>
+        <EOY>-1965804</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>195469</BOY>
+        <EOY>40335</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>1174026</BOY>
+        <EOY>-1925469</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>8779538</BOY>
+        <EOY>4777235</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>-3171732</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>72237</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementBoth>X</FinancialStatementBoth>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Equipment>
+        <OtherCostOrOtherBasis>2413968</OtherCostOrOtherBasis>
+        <Depreciation>957386</Depreciation>
+        <BookValue>1456582</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>1456582</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>INTERCOMPANY PAYABLE</Description>
+        <Amount>3313046</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>MEMBER PAYABLES</Description>
+        <Amount>305789</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>3618835</TotalOfAmounts>
+      <TotalRevenue>15074691</TotalRevenue>
+      <TotalExpenses>18246423</TotalExpenses>
+      <ExcessOrDeficitForYear>-3171732</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>72237</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>72237</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-3099495</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>15148930</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>72237</NetUnrealizedGainsInvestments>
+      <OtherRevenues>2002</OtherRevenues>
+      <RevenueNotRptdF990>74239</RevenueNotRptdF990>
+      <RevenueSubtotal>15074691</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>15074691</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>18248425</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>2002</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>2002</ExpensesNotRptdF990>
+      <ExpensesSubtotal>18246423</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>18246423</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>NET BOOK VALUE OF INVESTMENT 2,002.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>NET BOOK VALUE OF INVESTMENT 2,002.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleF documentId="RetDoc1040500001">
+      <AcctsActvsOutUSTable>
+        <Region>EAST ASIA AND THE PACIFIC</Region>
+        <NumberOfOffices>1</NumberOfOffices>
+        <NumberOfEmployees>2</NumberOfEmployees>
+        <TypeOfActivitiesConducted>PROGRAM SERVICES</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>PARTICIPANT MARKETING AND RELATIONSHIP MANAGEMENT</SpecificServicesProvided>
+        <TotalExpenditures>294503</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <AcctsActvsOutUSTable>
+        <Region>EAST ASIA AND THE PACIFIC</Region>
+        <TypeOfActivitiesConducted>PROGRAM SERVICE REVENUE</TypeOfActivitiesConducted>
+        <SpecificServicesProvided>MEMBERSHIP DUES RECEIVED FROM MEMBERS IN THE REGION</SpecificServicesProvided>
+        <TotalExpenditures>0</TotalExpenditures>
+      </AcctsActvsOutUSTable>
+      <SubtotalNumberOfEmployees>2</SubtotalNumberOfEmployees>
+      <ContNumberOfEmployees>0</ContNumberOfEmployees>
+      <TotalNumberOfEmployees>2</TotalNumberOfEmployees>
+      <SubtotalAmountSpent>294503</SubtotalAmountSpent>
+      <ContAmountSpent>0</ContAmountSpent>
+      <TotalAmountSpent>294503</TotalAmountSpent>
+      <TransferToForeignCorp>0</TransferToForeignCorp>
+      <InterestInForeignTrust>0</InterestInForeignTrust>
+      <OwnForeignCorp>0</OwnForeignCorp>
+      <PassiveForeignInvestCo>0</PassiveForeignInvestCo>
+      <ForeignPartnership>0</ForeignPartnership>
+      <BoycottCountries>0</BoycottCountries>
+      <Form990ScheduleFPartV>
+        <Identifier>OTHER INFORMATION</Identifier>
+        <ReturnReference>SCHEDULE F, PART V</ReturnReference>
+        <Explanation>TOTAL AMOUNT OF MEMBERSHIP DUES FROM MEMBERS IN EAST ASIA AND THE PACIFIC REGION: $5,850,000.</Explanation>
+      </Form990ScheduleFPartV>
+    </IRS990ScheduleF>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <FirstClassOrCharterTravel>X</FirstClassOrCharterTravel>
+      <IdemnificationGrossUpPayments>X</IdemnificationGrossUpPayments>
+      <ClubDuesOrFees>X</ClubDuesOrFees>
+      <WrittenPolicyReTAndEExpenses>1</WrittenPolicyReTAndEExpenses>
+      <SubstantiationRequired>1</SubstantiationRequired>
+      <CompensationCommittee>X</CompensationCommittee>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>1</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <Form990ScheduleJPartII>
+        <NamePerson>SCOTT S KRAMER</NamePerson>
+        <BaseCompensationFilingOrg>192410</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>51605</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>1752</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>21094</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>13699</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>280560</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>DAVID D SAATHOFF</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>306942</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>213146</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>8693</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>29520</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>1838</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>560139</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>JOSEPH M DRAINA</NamePerson>
+        <BaseCompensationFilingOrg>187879</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>42890</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>603</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>20910</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>22809</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>275091</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>THOMAS G WEAR</NamePerson>
+        <BaseCompensationFilingOrg>143585</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>11635</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>31684</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>15224</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15565</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>217693</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>RONALD L REMKE</NamePerson>
+        <BaseCompensationFilingOrg>161357</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>13087</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>2218</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>17407</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15114</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>209183</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>BRADLEY VAN ECK</NamePerson>
+        <BaseCompensationFilingOrg>130926</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>5641</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>30707</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>13731</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>22048</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>203053</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>MICHAEL D JACKSON</NamePerson>
+        <BaseCompensationFilingOrg>145569</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>5171</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>32328</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>13138</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>20551</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>216757</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>DILIPKUMAR P PATEL</NamePerson>
+        <BaseCompensationFilingOrg>130191</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>10467</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>36391</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>13756</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>22980</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>213785</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>PART I, LINE 4B</ReturnReference>
+        <Explanation>SECTION 457(F) PLAN CONTRIBUTIONS BY RELATED ORGANIZATION: DAVID D. SAATHOFF - 4,969</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>THE ORGANIZATION HAS ONE STOCKHOLDER, SEMATECH. THERE HAS BEEN NO CHANGE TO THIS SINCE THE ORGANIZATION'S INCEPTION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>SEMATECH, BEING THE SOLE STOCKHOLDER, DETERMINES THE GOVERNING BODY OF THE ORGANIZATION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7B</Identifier>
+        <Explanation>SEMATECH IS THE SOLE STOCKHOLDER AND ITS OFFICERS AND DIRECTORS ARE FULLY AWARE OF THE ORGANIZATION'S ACTIVITIES. THE ORGANIZATION'S EXECUTIVE ADVISORY COUNCIL, WHICH IS MADE UP OF REPRESENTATIVES OF THE ORGANIZATION'S PARTICIPANT COMPANIES, APPROVES THE ORGANIZATION'S BUDGET, SCHEDULE AND TECHNICAL OBJECTIVES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 8A</Identifier>
+        <Explanation>THE ORGANIZATION DID NOT HAVE ANY BOARD OF DRIECTORS MEETINGS IN 2010.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 8B</Identifier>
+        <Explanation>THE ORGANIZATION DOES NOT HAVE COMMITTEES WITH AUTHORITY TO ACT ON BEHALF OF THE GOVERNING BODY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>ISMI'S FORM 990 IS REVIEWED AND SIGNED BY SEMATECH'S CAO, WHO IS A MEMBER OF ISMI'S BOARD OF DIRECTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>THE MANAGING DIRECTOR'S SALARY OF ISMI AS WELL AS OTHER KEY EMPLOYEES' SALARIES ARE BENCHMARKED BY THE DIRECTOR OF HUMAN RESOURCES AND REVIEWED AND APPROVED BY THE CEO OF SEMATECH.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THESE ARE NOT MADE AVAILABLE TO THE PUBLIC.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>CHANGES IN NET ASSETS OR FUND BALANCES:</Identifier>
+        <ReturnReference>FORM 990, PART XI, LINE 5:</ReturnReference>
+        <Explanation>NET UNREALIZED GAINS ON INVESTMENTS: 72,237.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART X1, LINE 2C:</ReturnReference>
+        <Explanation>THE PROCESS OF SELECTING AN INDEPENDENT ACCOUNTANT AND OVERSEEING THE AUDIT OF THE FINANCIAL STATEMENTS HAS NOT CHANGED FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ADVANCED MATERIAL RESEARCH CENTER LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2706 MONTOPOLIS DR</AddressLine1>
+          <City>AUSTIN</City>
+          <State>TX</State>
+          <ZIPCode>78741</ZIPCode>
+        </AddressUS>
+        <EIN>201216560</EIN>
+        <PrimaryActivities>TO SPONSOR AND CONDUCT ADVANCED TECHNOLOGY RESEARCH AND DEVELOPMENT IN TEXAS</PrimaryActivities>
+        <LegalDomicileState>TX</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>SEMATECH INC</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>SEMATECH INC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2706 MONTOPOLIS DR</AddressLine1>
+          <City>AUSTIN</City>
+          <State>TX</State>
+          <ZIPCode>78741</ZIPCode>
+        </AddressUS>
+        <EIN>770164704</EIN>
+        <PrimaryActivities>SET GLOBAL INDUSTRY DIRECTION &amp; ACCELERATE SEMICONDUCTOR MANUFACTURING TECHN</PrimaryActivities>
+        <LegalDomicileState>TX</LegalDomicileState>
+        <ExemptCodeSection>501(C)(6)</ExemptCodeSection>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>1</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>1</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>1</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>1</SharingOfFacilities>
+      <SharingOfPaidEmployees>1</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>1</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>1</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>1</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>SEMATECH INC</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>O</TransactionType>
+        <AmountInvolved>2852640</AmountInvolved>
+        <MethodOfAmtDetermination>COST</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

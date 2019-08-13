@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-10T15:13:17-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FARBER &amp; COMPANY CPA'S PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>498 BERGEN BLVD</AddressLine1>
+        <City>RIDGEFIELD</City>
+        <State>NJ</State>
+        <ZIPCode>07657</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010728135</EIN>
+      <Name>
+        <BusinessNameLine1>SETH MORRIS 911 HEROES FOUNDATION</BusinessNameLine1>
+        <BusinessNameLine2>INC</BusinessNameLine2>
+      </Name>
+      <NameControl>SETH</NameControl>
+      <Phone>9732831323</Phone>
+      <USAddress>
+        <AddressLine1>5 SUGAR HILL ROAD</AddressLine1>
+        <City>KINNELON</City>
+        <State>NJ</State>
+        <ZIPCode>07405</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LYNN MORRIS</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>9732831323</Phone>
+      <DateSigned>2011-11-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>STEWART A FARBER</Name>
+      <Phone>2019434500</Phone>
+      <DatePrepared>2011-11-10</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1183</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>37</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>37</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>37</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>37</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>37</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>37</TotalAdjustedNetIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc4">245</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>112</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>133</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>245</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>112</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>133</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>245</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>112</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>133</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-208</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>37</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>543</CashBOY>
+        <CashEOY>298</CashEOY>
+        <InvestmentsOtherBOY>2845</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc3">2882</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>1183</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>3388</TotalAssetsBOY>
+        <TotalAssetsEOY>3180</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1183</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>3388</RetainedEarningsBOY>
+        <RetainedEarningsEOY>3180</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>3388</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>3180</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>3388</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>3180</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>3388</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-208</ExcessOfRevenueOverExpenses>
+        <Subtotal>3180</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>3180</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>false</AtLeast5000InAssets>
+        <StatesFiledWith>NJ</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LYNN MORRIS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9734922368</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5 SUGAR HILL ROAD</AddressLine1>
+          <City>KINNELON</City>
+          <State>NJ</State>
+          <ZIPCode>07405</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">LYNN MORRIS</PersonName>
+          <USAddress>
+            <AddressLine1>SETH MORRIS FNDN 5 SUGAR HILL ROAD</AddressLine1>
+            <City>KINNELON</City>
+            <State>NJ</State>
+            <ZIPCode>07405</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">PAMELA HOWARTH</PersonName>
+          <USAddress>
+            <AddressLine1>SETH MORRIS FNDN 5 SUGAR HILL ROAD</AddressLine1>
+            <City>KINNELON</City>
+            <State>NJ</State>
+            <ZIPCode>07405</ZIPCode>
+          </USAddress>
+          <Title>VICE-PRESIDE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">JOANNE MOONEY</PersonName>
+          <USAddress>
+            <AddressLine1>SETH MORRIS FNDN 5 SUGAR HILL ROAD</AddressLine1>
+            <City>KINNELON</City>
+            <State>NJ</State>
+            <ZIPCode>07405</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">VANESSA KRIPPNER</PersonName>
+          <USAddress>
+            <AddressLine1>SETH MORRIS FNDN 5 SUGAR HILL ROAD</AddressLine1>
+            <City>KINNELON</City>
+            <State>NJ</State>
+            <ZIPCode>07405</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>100</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>100</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>100</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2</CashDeemedCharitable>
+        <NetNoncharitableAssets>98</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>5</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>5</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>5</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>5</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>5</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>133</ExpensesAndContributions>
+        <QualifyingDistributions>133</QualifyingDistributions>
+        <AdjQualifyingDistributions>133</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>5</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>2278</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear2>39</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>5107</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>7424</TotalExcessDistriCarryover>
+        <QualifyingDistributions>133</QualifyingDistributions>
+        <AppliedToCurrentYear>5</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>128</RemainingDistriFromCorpus>
+        <TotalCorpus>7552</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>7552</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>2278</ExcessFromYear4>
+        <ExcessFromYear2>39</ExcessFromYear2>
+        <ExcessFromYear1>5107</ExcessFromYear1>
+        <ExcessFromCurrentYear>128</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>37</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>37</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>37</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>LYNN MORRIS</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>PAMELA HOWARTH</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JOANNE MOONEY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>VANESSA KRIPPNER</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsOtherSchedule2 documentId="RetDoc3">
+      <InvestmentsOther>
+        <CategoryOrItem>NEUBERGER BERMAN REAL ESTATE SEC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>2882</BookValue>
+        <EOYFMV>1183</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc4">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+        <RevenueAndExpensesPerBooks>245</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>112</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>133</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

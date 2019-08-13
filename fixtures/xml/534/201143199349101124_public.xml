@@ -1,0 +1,610 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-15T12:02:09-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SAMET &amp; COMPANY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1330 BOYLSTON STREET</AddressLine1>
+        <City>CHESTNUT HILL</City>
+        <State>MA</State>
+        <ZIPCode>024672111</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010534479</EIN>
+      <Name>
+        <BusinessNameLine1>SUSANNAH M SWIHART CHARITABLE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>SUSA</NameControl>
+      <Phone>2078299231</Phone>
+      <USAddress>
+        <AddressLine1>16 TOWN LANDING ROAD</AddressLine1>
+        <City>CUMBERLAND FORESIDE</City>
+        <State>ME</State>
+        <ZIPCode>04110</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SUSANNAH M SWIHART</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>2078299231</Phone>
+      <DateSigned>2011-11-02</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>NORMAN P POSNER CPA</Name>
+      <Phone>6177311222</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1098935</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>30519</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>30519</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>109306</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>138700</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>109306</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>139825</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>139825</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">382</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>382</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>74166</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>74166</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>74548</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>74166</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>65277</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>139825</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>215283</CashBOY>
+        <CashEOY>24038</CashEOY>
+        <CashEOYFMV>24038</CashEOYFMV>
+        <InvestmentsCorpStockBOY>807098</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">1063620</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1074897</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>1022381</TotalAssetsBOY>
+        <TotalAssetsEOY>1087658</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1098935</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>1022381</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1087658</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1022381</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1087658</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1022381</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1087658</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1022381</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>65277</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>1087658</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1087658</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FRONTIER COMMUNICATIONS CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-06-27</DateAcquired>
+          <DateSold>2010-07-26</DateSold>
+          <GrossSalesPrice>2710</GrossSalesPrice>
+          <CostOrOtherBasis>2886</CostOrOtherBasis>
+          <GainOrLoss>-176</GainOrLoss>
+          <GainsMinusExcessOrLosses>-176</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>OCCIDENTAL PETROLEUM CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2003-07-01</DateAcquired>
+          <DateSold>2010-03-31</DateSold>
+          <GrossSalesPrice>135990</GrossSalesPrice>
+          <CostOrOtherBasis>26508</CostOrOtherBasis>
+          <GainOrLoss>109482</GainOrLoss>
+          <GainsMinusExcessOrLosses>109482</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>109306</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>83667</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>938575</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.089143</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>63500</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1268153</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.050073</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>75000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1509113</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.049698</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>75500</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1435974</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.052578</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>70509</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1296103</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.054401</DistributionRatioYear5>
+        <TotalDistributionRatio>0.295893</TotalDistributionRatio>
+        <AverageDistributionRatio>0.059179</AverageDistributionRatio>
+        <NetNoncharitableAssets>1043840</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>61773</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>1398</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>63171</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>74166</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>1398</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>1398</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>1398</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>2287</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>2287</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="RetDoc1192000001">X</Form2220Attached>
+        <Overpayment>889</Overpayment>
+        <AmountCreditedToNextYear>889</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>SUSANNAH M SWIHART</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2078299231</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>16 TOWN LANDING ROAD</AddressLine1>
+          <City>CUMBERLAND FORESIDE</City>
+          <State>ME</State>
+          <ZIPCode>04110</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSANNAH M SWIHART</PersonName>
+          <USAddress>
+            <AddressLine1>16 TOWN LANDING ROAD</AddressLine1>
+            <City>CUMBERLAND FORESIDE</City>
+            <State>ME</State>
+            <ZIPCode>04110</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>935730</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>124006</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1059736</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1059736</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>15896</CashDeemedCharitable>
+        <NetNoncharitableAssets>1043840</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>52192</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>52192</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1398</TaxBasedOnInvestmentIncome>
+        <TotalTax>1398</TotalTax>
+        <DistributableAmountBeforeAdj>50794</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>50794</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>50794</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>74166</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>74166</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>1398</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>72768</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>50794</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>6686</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>6157</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>3056</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>1123</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>37272</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>54294</TotalExcessDistriCarryover>
+        <QualifyingDistributions>74166</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>50794</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>23372</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>77666</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>6686</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>70980</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>6157</ExcessFromYear4>
+        <ExcessFromYear3>3056</ExcessFromYear3>
+        <ExcessFromYear2>1123</ExcessFromYear2>
+        <ExcessFromYear1>37272</ExcessFromYear1>
+        <ExcessFromCurrentYear>23372</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>SUSANNAH M SWIHART</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GULF OF MAINE RESEARCH INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>360 SPRING STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>6666</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE TIDES INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 161</AddressLine1>
+            <City>EASTPORT</City>
+            <State>ME</State>
+            <ZIPCode>04631</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF GREATER PORTLAND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 15200</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04112</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAINE AUDUBON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>20 GILSLAND FARM ROAD</AddressLine1>
+            <City>FALMOUTH</City>
+            <State>ME</State>
+            <ZIPCode>04105</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PREBLE STREET RESOURCE CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1459</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS &amp; GIRLS CLUBS OF SOUTHERN MAINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>277 CUMERLAND AVENUE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMMON GOOD VENTURES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>14 MAINE STREET</AddressLine1>
+            <City>BRUNSWICK</City>
+            <State>ME</State>
+            <ZIPCode>04011</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WAYNFLETE SCHOOL CAPITAL CAMPAIGN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>360 SPRING STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MERCY HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>144 STATE STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>74166</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>30519</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>109306</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>139825</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>139825</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>BP PLC SPON ADR REPRESENTING</NameOfStock>
+        <EOYBookValue>38856</EOYBookValue>
+        <EOYFMV>35336</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BRISTOL MYERS SQUIBB</NameOfStock>
+        <EOYBookValue>39313</EOYBookValue>
+        <EOYFMV>39720</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DOMINION RESOURCES</NameOfStock>
+        <EOYBookValue>71793</EOYBookValue>
+        <EOYFMV>85440</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>OCCIDENTAL PETROLEUM CORP</NameOfStock>
+        <EOYBookValue>6627</EOYBookValue>
+        <EOYFMV>39240</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BANK OF AMERICA</NameOfStock>
+        <EOYBookValue>134319</EOYBookValue>
+        <EOYFMV>53360</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENERAL ELECTRIC</NameOfStock>
+        <EOYBookValue>99041</EOYBookValue>
+        <EOYFMV>73160</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JP MORGAN CHASE</NameOfStock>
+        <EOYBookValue>36668</EOYBookValue>
+        <EOYFMV>42420</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MERCK &amp; CO.</NameOfStock>
+        <EOYBookValue>38608</EOYBookValue>
+        <EOYFMV>28832</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3M COMPANY</NameOfStock>
+        <EOYBookValue>79208</EOYBookValue>
+        <EOYFMV>86300</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DU PONT</NameOfStock>
+        <EOYBookValue>39258</EOYBookValue>
+        <EOYFMV>49880</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>HEINZ H J</NameOfStock>
+        <EOYBookValue>36318</EOYBookValue>
+        <EOYFMV>49460</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VERIZON COMMUNICATIONS</NameOfStock>
+        <EOYBookValue>43868</EOYBookValue>
+        <EOYFMV>53670</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>JOHNSON &amp; JOHNSON</NameOfStock>
+        <EOYBookValue>55898</EOYBookValue>
+        <EOYFMV>61850</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MCDONALDS CORP</NameOfStock>
+        <EOYBookValue>62960</EOYBookValue>
+        <EOYFMV>76760</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PAYCHECK INC</NameOfStock>
+        <EOYBookValue>28917</EOYBookValue>
+        <EOYFMV>30910</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>AMERICAN ELEC PWR</NameOfStock>
+        <EOYBookValue>34466</EOYBookValue>
+        <EOYFMV>35980</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DELHAIZE</NameOfStock>
+        <EOYBookValue>57194</EOYBookValue>
+        <EOYFMV>51597</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>EXXON MOBIL</NameOfStock>
+        <EOYBookValue>54512</EOYBookValue>
+        <EOYFMV>65808</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MATTEL</NameOfStock>
+        <EOYBookValue>23148</EOYBookValue>
+        <EOYFMV>25430</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SECTOT TSPDR TECH</NameOfStock>
+        <EOYBookValue>23298</EOYBookValue>
+        <EOYFMV>25190</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>WASTE MANAGEMENT</NameOfStock>
+        <EOYBookValue>34725</EOYBookValue>
+        <EOYFMV>36870</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GUGGENHEIM BRIC ETF</NameOfStock>
+        <EOYBookValue>24625</EOYBookValue>
+        <EOYFMV>27684</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAX PAID</Category>
+        <Amount>382</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

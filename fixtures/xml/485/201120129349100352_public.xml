@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-01-10T08:58:13-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-09-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>OTIS ATWELL</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>324 GANNETT DRIVE</AddressLine1>
+        <City>SOUTH PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-10-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010485292</EIN>
+      <Name>
+        <BusinessNameLine1>ELLEN M LEACH MEMORIAL HOME</BusinessNameLine1>
+        <BusinessNameLine2>CO DAVID TAYLOR ESQ ADAMS &amp; BLINN</BusinessNameLine2>
+      </Name>
+      <NameControl>ELLE</NameControl>
+      <Phone>2079897890</Phone>
+      <USAddress>
+        <AddressLine1>141 KENDALL HILL ROAD</AddressLine1>
+        <City>STERLING</City>
+        <State>MA</State>
+        <ZIPCode>01564</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>david taylor</Name>
+      <Title>treasurer</Title>
+      <Phone>2079897890</Phone>
+      <DateSigned>2011-01-10</DateSigned>
+    </Officer>
+    <Preparer>
+      <Phone>2077801100</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>370228</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>231975</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>36</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>36</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>232011</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>36</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>0</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">215</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>215</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2898</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>2898</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">123</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>123</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3236</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3236</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>232069</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>232069</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>235305</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3236</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>232069</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3294</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>27895</CashBOY>
+        <CashEOY>35948</CashEOY>
+        <CashEOYFMV>35948</CashEOYFMV>
+        <AccountsReceivableBOY>15672</AccountsReceivableBOY>
+        <OtherNotesAndLoansReceivable>10500</OtherNotesAndLoansReceivable>
+        <OtherNotesAndLoansRcvblBOY>10500</OtherNotesAndLoansRcvblBOY>
+        <OtherNotesAndLoansRcvblEOY>10500</OtherNotesAndLoansRcvblEOY>
+        <OtherNotesAndLoansRcvblEOYFMV>10500</OtherNotesAndLoansRcvblEOYFMV>
+        <InvestmentsCorpStockBOY>323780</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">323780</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>323780</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>377847</TotalAssetsBOY>
+        <TotalAssetsEOY>370228</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>370228</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>4120</AccountsPayableBOY>
+        <DeferredRevenueBOY>370</DeferredRevenueBOY>
+        <DeferredRevenueEOY>165</DeferredRevenueEOY>
+        <TotalLiabilitiesBOY>4490</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>165</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>373357</RetainedEarningsBOY>
+        <RetainedEarningsEOY>370063</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>373357</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>370063</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>377847</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>370228</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>373357</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3294</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>370063</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>370063</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>379209</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>36737</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>10.322264</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>585619</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>53534</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>10.939198</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>575586</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>45088</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>12.765836</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>628620</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>16761</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>37.504922</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>634064</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>5926</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>106.996963</DistributionRatioYear5>
+        <TotalDistributionRatio>178.529183</TotalDistributionRatio>
+        <AverageDistributionRatio>35.705837</AverageDistributionRatio>
+        <NetNoncharitableAssets>31443</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>1122699</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>1122699</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>232069</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>BREWER HOUSING AUTHORITY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2079897890</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>ONE COLONIAL CIRCLE</AddressLine1>
+          <City>brewer</City>
+          <State>ME</State>
+          <ZIPCode>04412</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>FRANK T MCGUIRE</PersonName>
+          <USAddress>
+            <AddressLine1>39 NOTTINGHAM WAY</AddressLine1>
+            <City>BREWER</City>
+            <State>ME</State>
+            <ZIPCode>04412</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN A TAYLOR</PersonName>
+          <USAddress>
+            <AddressLine1>109 BOHONNAN STREET</AddressLine1>
+            <City>danbury</City>
+            <State>NH</State>
+            <ZIPCode>03230</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID L TAYLOR</PersonName>
+          <USAddress>
+            <AddressLine1>141 KENDALL HILL ROAD</AddressLine1>
+            <City>STERLING</City>
+            <State>MA</State>
+            <ZIPCode>01564</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DOROTHY E IGOE</PersonName>
+          <USAddress>
+            <AddressLine1>58 COLONIAL CIRCLE</AddressLine1>
+            <City>BREWER</City>
+            <State>ME</State>
+            <ZIPCode>04412</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY/ASST TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DONALD LEWIS</PersonName>
+          <USAddress>
+            <AddressLine1>4 NORTH ROAD</AddressLine1>
+            <City>BREWER</City>
+            <State>ME</State>
+            <ZIPCode>04412</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CARROLL LEE</PersonName>
+          <USAddress>
+            <AddressLine1>25 LOCKSLEY LANE</AddressLine1>
+            <City>BREWER</City>
+            <State>ME</State>
+            <ZIPCode>04412</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>5.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>DEVELOP LOW-INCOME HOUSING IN BREWER, ME</Description1>
+        <Expenses1>3236</Expenses1>
+        <Description2>PROVIDE RENT SUBSIDIES TO LOW-INCOME ELDERLY HOUSEHOLDS IN BREWER, MAINE.</Description2>
+        <Expenses2>232069</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>31922</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>31922</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>31922</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>479</CashDeemedCharitable>
+        <NetNoncharitableAssets>31443</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1572</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1572</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>1572</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>1572</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>1572</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>232069</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>232069</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>232069</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>1572</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>633768</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>627782</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>573332</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>582942</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>377372</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>2795196</TotalExcessDistriCarryover>
+        <QualifyingDistributions>232069</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>1572</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>230497</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>3025693</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>633768</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>2391925</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>627782</ExcessFromYear4>
+        <ExcessFromYear3>573332</ExcessFromYear3>
+        <ExcessFromYear2>582942</ExcessFromYear2>
+        <ExcessFromYear1>377372</ExcessFromYear1>
+        <ExcessFromCurrentYear>230497</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEACH HOME PARTNERS LP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE COLONIAL CIRCLE</AddressLine1>
+            <City>BREWER</City>
+            <State>ME</State>
+            <ZIPCode>04412</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>LOW INCOME HOUSING</PurposeOfGrantOrContribution>
+          <Amount>231911</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>the stephen &amp; tabitha king foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>49 florida avenue</AddressLine1>
+            <City>bangor</City>
+            <State>ME</State>
+            <ZIPCode>04401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>transportation</PurposeOfGrantOrContribution>
+          <Amount>158</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>232069</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>36</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>36</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>36</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>1</RelationshipsNoncharitableEOs>
+        <RelationshipSchedule>
+          <NameOfOrganization>
+            <BusinessNameLine1>BREWER HOUSING AUTHORITY</BusinessNameLine1>
+          </NameOfOrganization>
+          <TypeOfOrganization>501(C)(1)</TypeOfOrganization>
+          <DescriptionOfRelationship>common control</DescriptionOfRelationship>
+        </RelationshipSchedule>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MABEL TYRELL TRUST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>43 THORNDIKE STREET</AddressLine1>
+          <City>CAMBRIDGE</City>
+          <State>MA</State>
+          <ZIPCode>02141</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>81955</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>SICARI TRUST</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>141 KENDALL HILL ROAD</AddressLine1>
+          <City>STERLING</City>
+          <State>MA</State>
+          <ZIPCode>01564</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>150000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>2898</Amount>
+        <NetInvestmentIncome>2898</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>INVESTMENT IN BREWER CONG CORP</NameOfStock>
+        <EOYBookValue>323780</EOYBookValue>
+        <EOYFMV>323780</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>215</Amount>
+        <NetInvestmentIncome>215</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>MISCELLANEOUS EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>123</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>123</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

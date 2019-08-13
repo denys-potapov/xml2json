@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-09T09:28:25-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>HARVEY ALTMAN &amp; CO CPA PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>131 JERICHO TPKE STE 302</AddressLine1>
+        <City>JERICHO</City>
+        <State>NY</State>
+        <ZIPCode>117531072</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010548911</EIN>
+      <Name>
+        <BusinessNameLine1>TSUNIS FAMILY FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>TSUN</NameControl>
+      <USAddress>
+        <AddressLine1>2929 EXPRESSWAY DRIVE NORTH</AddressLine1>
+        <City>ISLANDIA</City>
+        <State>NY</State>
+        <ZIPCode>11749</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN TSUNIS</Name>
+      <Title>President</Title>
+      <DateSigned>2011-11-09</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>HARVEY ALTMAN CPA</Name>
+      <Phone>5163333352</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>148604</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>3250</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">139</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>139</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>139</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>3389</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>139</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>139</TotalAdjustedNetIncome>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">50</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>50</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>50</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>50</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>50</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>50</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10350</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10350</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>10400</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>50</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>50</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>10350</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-7011</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>89</NetInvestmentIncome>
+        <AdjustedNetIncome>89</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>105</CashBOY>
+        <CashEOY>555</CashEOY>
+        <CashEOYFMV>555</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>45703</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>38242</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>38242</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>109807</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">109807</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>109807</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>155615</TotalAssetsBOY>
+        <TotalAssetsEOY>148604</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>148604</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>155615</UnrestrictedBOY>
+        <UnrestrictedEOY>148604</UnrestrictedEOY>
+        <TotalNetAssetsBOY>155615</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>148604</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>155615</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>148604</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>155615</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-7011</ExcessOfRevenueOverExpenses>
+        <Subtotal>148604</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>148604</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>2</InvestmentIncomeExciseTax>
+        <Subtotal>2</Subtotal>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TaxDue>2</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>JOHN TSUNIS</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>5163333352</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2929 EXPRESSWAY DRIVE NORTH</AddressLine1>
+          <City>ISLANDIA</City>
+          <State>NY</State>
+          <ZIPCode>11749</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARIA GASPARIS</PersonName>
+          <USAddress>
+            <AddressLine1>2929 EXPRESSWAY DRIVE NORTH</AddressLine1>
+            <City>ISLANDIA</City>
+            <State>NY</State>
+            <ZIPCode>11749</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>LAURA TSUNIS</PersonName>
+          <USAddress>
+            <AddressLine1>2929 EXPRESSWAY DRIVE NORTH</AddressLine1>
+            <City>ISLANDIA</City>
+            <State>NY</State>
+            <ZIPCode>11749</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN TSUNIS</PersonName>
+          <USAddress>
+            <AddressLine1>2929 EXPRESSWAY DRIVE NORTH</AddressLine1>
+            <City>ISLANDIA</City>
+            <State>NY</State>
+            <ZIPCode>11749</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>109807</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>8988</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>118795</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>118795</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1782</CashDeemedCharitable>
+        <NetNoncharitableAssets>117013</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>5851</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>5851</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TotalTax>2</TotalTax>
+        <DistributableAmountBeforeAdj>5849</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>5849</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>5849</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10350</ExpensesAndContributions>
+        <QualifyingDistributions>10350</QualifyingDistributions>
+        <AdjQualifyingDistributions>10350</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>5849</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear2>1425</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>3897</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>5322</TotalExcessDistriCarryover>
+        <QualifyingDistributions>10350</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>5849</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>4501</RemainingDistriFromCorpus>
+        <TotalCorpus>9823</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>9823</ExcessDistriCyovToNextYear>
+        <ExcessFromYear2>1425</ExcessFromYear2>
+        <ExcessFromYear1>3897</ExcessFromYear1>
+        <ExcessFromCurrentYear>4501</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JOHN TSUNIS</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>STONY BROOK FOUNDCHILDREN'S HOSPITA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5 MEDICAL DRIVE</AddressLine1>
+            <City>PORT JEFFERSON STAT</City>
+            <State>NY</State>
+            <ZIPCode>11776</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHILDREN'S BRAIN TUMOR FOUNDATION</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>274 MADISON AVENUE SUITE 1004</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>GREEK ORTHODOX CHURCH OF THE ASSUMP</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>430 SHEEP PASTURE ROAD</AddressLine1>
+            <City>PORT JEFFERSON</City>
+            <State>NY</State>
+            <ZIPCode>11777</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AMERICAN RED CROSS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>195 WILLIS AVENUE</AddressLine1>
+            <City>MINEOLA</City>
+            <State>NY</State>
+            <ZIPCode>11501</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>AUTISM SPEAKS</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1 EAST 33RD STREET 4TH FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>LEAGUE FOR ANIMAL PROTECT OF HUNTIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 390</AddressLine1>
+            <City>HUNTINGTON</City>
+            <State>NY</State>
+            <ZIPCode>11743</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE SMILE TRAIN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>245 5TH AVENUE SUITE 2201</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10016</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>PETA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>501 FRONT STREET</AddressLine1>
+            <City>NORFOLK</City>
+            <State>VA</State>
+            <ZIPCode>23510</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>ASPCA</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>345 PARK AVENUE SOUTH FLOOR 9</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10010</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>HUMANE SOCIETY OF UNITED STATES</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 L STREET NW</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20037</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THREE VILLAGE MEALS ON WHEELS INC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>216 CHRISTIAN AVENUE</AddressLine1>
+            <City>STONY BROOK</City>
+            <State>NY</State>
+            <ZIPCode>11790</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>NEWSDAY CHARITIES HELP A FAMILY</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>235 PINELAWN ROAD</AddressLine1>
+            <City>MELVILLE</City>
+            <State>NY</State>
+            <ZIPCode>11747</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>CHRISTMAS MAGICHOLIDAY MAGIC</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>400 TOWNLINE ROAD SUITE 170</AddressLine1>
+            <City>HAUPPAUGE</City>
+            <State>NY</State>
+            <ZIPCode>11788</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>CHARITABLE CONTRIBUTION</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10350</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <OtherRevenueDescribed>
+          <Description>INTEREST INCOME</Description>
+          <RelatedOrExemptFunctionIncome>139</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>139</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>139</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpStock>
+        <NameOfStock>SCOTTRADE STOCKS</NameOfStock>
+        <EOYBookValue>109807</EOYBookValue>
+        <EOYFMV>109807</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <AdjustedNetIncome>50</AdjustedNetIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>INTEREST INCOME</Description>
+        <RevenueAndExpensesPerBooks>139</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+  </ReturnData>
+</Return>

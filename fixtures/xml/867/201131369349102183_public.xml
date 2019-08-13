@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-16T15:12:57-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Brodie Accounting Services LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2040 Beaver Ruin Rd Ste 6</AddressLine1>
+        <City>Norcross</City>
+        <State>GA</State>
+        <ZIPCode>30071</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010867165</EIN>
+      <Name>
+        <BusinessNameLine1>Omore Taya Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>OMOR</NameControl>
+      <USAddress>
+        <AddressLine1>4297 Tucker North Court</AddressLine1>
+        <City>Tucker</City>
+        <State>GA</State>
+        <ZIPCode>30084</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Cecil Murphy</Name>
+      <Title>President</Title>
+      <DateSigned>2010-05-16</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Therese Trent Voorhees</Name>
+      <Phone>4047323216</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>134281</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">7456</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>141737</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>20953</CompOfcrDirTrstRevAndExpnss>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">30</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">5087</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">58847</OtherProfFeesRevAndExpnss>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>10213</TravConfMeetingRevAndExpnss>
+        <PrintingAndPubRevAndExpnss>1376</PrintingAndPubRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">23467</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>119973</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>164829</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>164829</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>284802</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>164829</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-143065</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>198873</CashBOY>
+        <CashEOY>112971</CashEOY>
+        <TotalAssetsBOY>198873</TotalAssetsBOY>
+        <TotalAssetsEOY>112971</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <TotalNetAssetsEOY>0</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>0</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>0</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <ExcessOfRevenueOverExpenses>-143065</ExcessOfRevenueOverExpenses>
+        <Subtotal>-143065</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>-143065</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>www.themanbehindthewords.com</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Cecil Murphey</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4297 Tucker North Court</AddressLine1>
+          <City>Tucker</City>
+          <State>GA</State>
+          <ZIPCode>30084</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Paulette White</PersonName>
+          <USAddress>
+            <AddressLine1>1315 Elk Ridge Cove</AddressLine1>
+            <City>Alpharetta</City>
+            <State>GA</State>
+            <ZIPCode>30005</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Dr David Morgan</PersonName>
+          <USAddress>
+            <AddressLine1>867 Vistavia Circle</AddressLine1>
+            <City>Decatur</City>
+            <State>GA</State>
+            <ZIPCode>30030</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Dr Samuel Chand</PersonName>
+          <USAddress>
+            <AddressLine1>246 Montrose Drive</AddressLine1>
+            <City>McDonough</City>
+            <State>GA</State>
+            <ZIPCode>30253</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Shirley Murphey</PersonName>
+          <USAddress>
+            <AddressLine1>4297 Tucker North Court</AddressLine1>
+            <City>Tucker</City>
+            <State>GA</State>
+            <ZIPCode>30084</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Cecil Murphy</PersonName>
+          <USAddress>
+            <AddressLine1>4297 Tucker North Court</AddressLine1>
+            <City>Tucker</City>
+            <State>GA</State>
+            <ZIPCode>30084</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>15000</Compensation>
+          <ExpenseAccountOtherAllowances>5953</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Scholarships</Description1>
+        <Expenses1>84689</Expenses1>
+        <Description2>Grants</Description2>
+        <Description3>Contributions</Description3>
+        <Expenses3>80140</Expenses3>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>164829</ExpensesAndContributions>
+        <QualifyingDistributions>164829</QualifyingDistributions>
+        <AdjQualifyingDistributions>164829</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>138835</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>275693</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>403663</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>247787</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1065978</TotalExcessDistriCarryover>
+        <QualifyingDistributions>164829</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <RemainingDistriFromCorpus>164829</RemainingDistriFromCorpus>
+        <TotalCorpus>1230807</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>1230807</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>138835</ExcessFromYear4>
+        <ExcessFromYear3>275693</ExcessFromYear3>
+        <ExcessFromYear2>403663</ExcessFromYear2>
+        <ExcessFromYear1>247787</ExcessFromYear1>
+        <ExcessFromCurrentYear>164829</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Wiley Drake Radio Program</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>unknown</AddressLine1>
+            <City>Visalia</City>
+            <State>CA</State>
+            <ZIPCode>93277</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>5in1org</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>website</AddressLine1>
+            <City>Tucker</City>
+            <State>GA</State>
+            <ZIPCode>30084</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Longs chapel UMC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>133 Clyde Road</AddressLine1>
+            <City>Waynesville</City>
+            <State>NC</State>
+            <ZIPCode>28785</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Mashoinda Griffin Memorial Scholars</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>815 Grandville Ave SW</AddressLine1>
+            <City>Grand Rapids</City>
+            <State>MI</State>
+            <ZIPCode>49503</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Open Hearts Ministry</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>161 E Michigan Avenue 600</AddressLine1>
+            <City>Kalamazoo</City>
+            <State>MI</State>
+            <ZIPCode>49007</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>840</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Board of Pensions Presbyterian Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2036 Ponce De Leon NE</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30306</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Carpenters Helper</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17 Dutch Creek Drive</AddressLine1>
+            <City>Littleton</City>
+            <State>CO</State>
+            <ZIPCode>80123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Tower Grove Baptist Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4257 Magnolia Drive</AddressLine1>
+            <City>St Louis</City>
+            <State>MO</State>
+            <ZIPCode>63110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Presbyterian Writers Guild</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>105 Rapid River Trail</AddressLine1>
+            <City>Greenville</City>
+            <State>SC</State>
+            <ZIPCode>29615</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Marcher Lord Press</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>website</AddressLine1>
+            <City>tucker</City>
+            <State>GA</State>
+            <ZIPCode>30084</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Daughters of Destiny</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3028 N El Paso</AddressLine1>
+            <City>Colorado Springs</City>
+            <State>CO</State>
+            <ZIPCode>80907</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Quartz Hill Community Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1051 E Palmdale Blvd</AddressLine1>
+            <City>Palmdale</City>
+            <State>CA</State>
+            <ZIPCode>93550</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Healing Trust</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2000 Warfield Drive C</AddressLine1>
+            <City>Nashville</City>
+            <State>TN</State>
+            <ZIPCode>52722</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>2700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>White Fields Mission</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3588 Hwy 138 SE</AddressLine1>
+            <City>Stockbridge</City>
+            <State>GA</State>
+            <ZIPCode>30281</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>American Cancer Society</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>unknown</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30303</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>1st Baptist Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3593 Middle Road</AddressLine1>
+            <City>Bettendorf</City>
+            <State>IA</State>
+            <ZIPCode>52722</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>St Mark Lutheran Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2363 W 3rd Street</AddressLine1>
+            <City>Davenport</City>
+            <State>IA</State>
+            <ZIPCode>52802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Trinity Lutheran Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1330 13th Street</AddressLine1>
+            <City>Moline</City>
+            <State>IL</State>
+            <ZIPCode>61205</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Network for Good Neighborhoods</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>unknown</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30307</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>700</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FL Christian Writers Conference</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2344 Armour Court</AddressLine1>
+            <City>Titusville</City>
+            <State>FL</State>
+            <ZIPCode>32780</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hope Works</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5366 Grady Street</AddressLine1>
+            <City>Douglasville</City>
+            <State>GA</State>
+            <ZIPCode>30134</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>1st Baptist Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1401 Pat Brooker Road</AddressLine1>
+            <City>Universal City</City>
+            <State>TX</State>
+            <ZIPCode>78148</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Lambs Tale Ministries</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 West Windcrest Suite 201</AddressLine1>
+            <City>Fredericksburg</City>
+            <State>TX</State>
+            <ZIPCode>78624</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NE GA Christian Writers</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>660 Crestview Terrace</AddressLine1>
+            <City>Gainesville</City>
+            <State>GA</State>
+            <ZIPCode>30501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hill County Evangelical Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>107 E Lower Crabapple</AddressLine1>
+            <City>Fredericksburg</City>
+            <State>TX</State>
+            <ZIPCode>78624</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Reconnections</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17 Dutch Creek Drive</AddressLine1>
+            <City>Littleton</City>
+            <State>CO</State>
+            <ZIPCode>80123</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Salvation Army</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>11901 W Druid Hills</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30329</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Hamburg Presbyterian Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>177 Main Street</AddressLine1>
+            <City>Hamburg</City>
+            <State>NY</State>
+            <ZIPCode>14075</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5359 Ruby Place</AddressLine1>
+            <City>Bainbridge Island</City>
+            <State>WA</State>
+            <ZIPCode>98110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Clairmont Presbyterian Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1994 Clairmont Road</AddressLine1>
+            <City>Decatur</City>
+            <State>GA</State>
+            <ZIPCode>30033</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>30100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Midwest Writing Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>401 E Second Street</AddressLine1>
+            <City>Davenport</City>
+            <State>IA</State>
+            <ZIPCode>52801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Rivers Edge Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>235 Spinnaker Court</AddressLine1>
+            <City>Davidson</City>
+            <State>NC</State>
+            <ZIPCode>28038</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contributions</PurposeOfGrantOrContribution>
+          <Amount>800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Quad Cities Christian Writers Conference</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4350 Tanglewood Road</AddressLine1>
+            <City>Bettendorf</City>
+            <State>IA</State>
+            <ZIPCode>52722</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>charitable contribution</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Wanda Sanchez</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>unknown</AddressLine1>
+            <City>Tucker</City>
+            <State>GA</State>
+            <ZIPCode>30084</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>humanitarian scholarship</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Scott Dru Kane</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>unknown</AddressLine1>
+            <City>Tucker</City>
+            <State>GA</State>
+            <ZIPCode>30084</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>humanitarian scholarship</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Susan Wilt</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1221 White Avenue</AddressLine1>
+            <City>Knoxville</City>
+            <State>TN</State>
+            <ZIPCode>37919</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>humanitarian grant</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Christian Writers Guild</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5520 Union Blvd Suite 200</AddressLine1>
+            <City>Colorado Springs</City>
+            <State>CO</State>
+            <ZIPCode>80918</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Course Scholarship</PurposeOfGrantOrContribution>
+          <Amount>2450</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Wanda Rosenberry</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2250 Old Lula Road</AddressLine1>
+            <City>Reagan</City>
+            <State>TN</State>
+            <ZIPCode>38368</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Editing Scholarship</PurposeOfGrantOrContribution>
+          <Amount>60</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Wayne Holmes</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>5499 Yellowstone Drive</AddressLine1>
+            <City>Fairfield</City>
+            <State>OH</State>
+            <ZIPCode>45014</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Editing Scholarship</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Gotta Tell Somebody</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4350 Tanglewood Road</AddressLine1>
+            <City>Bettnedorf</City>
+            <State>IA</State>
+            <ZIPCode>52722</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Editing Scholarship</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Christian PENS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>203 Panorama Court</AddressLine1>
+            <City>Brea</City>
+            <State>CA</State>
+            <ZIPCode>92821</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Editing Scholarship</PurposeOfGrantOrContribution>
+          <Amount>5670</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Tuppence Enterprises</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1551 County Road 4109</AddressLine1>
+            <City>Greenville</City>
+            <State>TX</State>
+            <ZIPCode>75401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Editing Scholarship</PurposeOfGrantOrContribution>
+          <Amount>2300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JR2 Marketing</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>19611 NE 194th St</AddressLine1>
+            <City>Woodinville</City>
+            <State>WA</State>
+            <ZIPCode>98077</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Scholarship</PurposeOfGrantOrContribution>
+          <Amount>50</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Red Couch Media</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 6806</AddressLine1>
+            <City>Colorado Springs</City>
+            <State>CO</State>
+            <ZIPCode>80934</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Scholarship</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Jonathan Friesen</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>2253 Hwy 65</AddressLine1>
+            <City>Mora</City>
+            <State>MN</State>
+            <ZIPCode>55051</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Scholarship</PurposeOfGrantOrContribution>
+          <Amount>6500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Shelly Beach</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>130 Ten Mile Road NW</AddressLine1>
+            <City>Sparta</City>
+            <State>MI</State>
+            <ZIPCode>49345</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>Promo Scholarship</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Kathy Willis Carlton Company</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1324 S 10th St</AddressLine1>
+            <City>Raymondville</City>
+            <State>TX</State>
+            <ZIPCode>78580</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>8680</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Greater Philadelphia Christian Writers C</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>951 Anders Road</AddressLine1>
+            <City>Lansdale</City>
+            <State>PA</State>
+            <ZIPCode>19446</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>2950</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Pray Foundation</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>9742 S Lakewood Ave</AddressLine1>
+            <City>Tulsa</City>
+            <State>OK</State>
+            <ZIPCode>74137</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Maine Chrisitan Writers Conference</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>180 S stanley Hill</AddressLine1>
+            <City>Vassalboro</City>
+            <State>ME</State>
+            <ZIPCode>04989</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RidgecrestLifeway Christian Writers Con</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 128</AddressLine1>
+            <City>Ridgecrest</City>
+            <State>NC</State>
+            <ZIPCode>28770</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>5112</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Advance Writers &amp; Speakers Assn</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 6421</AddressLine1>
+            <City>Longmont</City>
+            <State>CO</State>
+            <ZIPCode>80501</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>2550</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SheSpeaks Conference</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>616G Matthews-Mint Hill Road</AddressLine1>
+            <City>Matthews</City>
+            <State>NC</State>
+            <ZIPCode>28106</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>7080</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Write2Ignite Writers Conference</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1101</AddressLine1>
+            <City>Indian Trail</City>
+            <State>NC</State>
+            <ZIPCode>28079</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>1660</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Orange County Christian Writers Conf</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>320 South Clark Street</AddressLine1>
+            <City>Orange</City>
+            <State>CA</State>
+            <ZIPCode>92868</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>1250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Florida Christian Writers Conference</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2344 Armour Court</AddressLine1>
+            <City>Titusville</City>
+            <State>FL</State>
+            <ZIPCode>32780</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>10869</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Write to Publish Conference</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9118 W Elmwood Drive 1G</AddressLine1>
+            <City>Niles</City>
+            <State>IL</State>
+            <ZIPCode>60714</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <PurposeOfGrantOrContribution>scholarship</PurposeOfGrantOrContribution>
+          <Amount>11708</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>164829</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>Book Sales</Description>
+          <RelatedOrExemptFunctionIncome>7456</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>7456</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>7456</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>tax preparation</Category>
+        <Amount>2000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>bookkeeping</Category>
+        <Amount>1100</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+      <AccountingFees>
+        <Category>accounting</Category>
+        <Amount>1987</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>License</Category>
+        <Amount>30</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>web</Description>
+        <RevenueAndExpensesPerBooks>1019</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>postage</Description>
+        <RevenueAndExpensesPerBooks>1122</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>office expenses</Description>
+        <RevenueAndExpensesPerBooks>3281</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>advertising and promotion</Description>
+        <RevenueAndExpensesPerBooks>18045</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>Book Sales</Description>
+        <RevenueAndExpensesPerBooks>7456</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>transcription fees</Category>
+        <Amount>1386</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>management</Category>
+        <Amount>54719</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>editing service</Category>
+        <Amount>2742</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1046 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-06-17T08:22:50-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>SCHUBERT BELLWOAR CAHILL &amp; QUINN</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1500 JOHN F KENNEDY BLVD SUITE 1400</AddressLine1>
+        <City>PHILADELPHIA</City>
+        <State>PA</State>
+        <ZIPCode>19102</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010746539</EIN>
+      <Name>
+        <BusinessNameLine1>FRANKLIN SQUARE FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>FRAN</NameControl>
+      <Phone>8472561483</Phone>
+      <USAddress>
+        <AddressLine1>835 WESTERFIELD DR</AddressLine1>
+        <City>WILMETTE</City>
+        <State>IL</State>
+        <ZIPCode>60091</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JACQUELINE QUERN BERRY</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>8472561483</Phone>
+      <DateSigned>2011-05-18</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>KATHLEEN O'CONNELL</Name>
+      <Phone>2155693535</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1762015</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>100034</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>8400</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>8400</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>21724</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>21724</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>298</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>127817</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>298</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>130456</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>30422</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">444</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">3757</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>4201</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>151500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>151500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>155701</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>151500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-25245</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>30422</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>484147</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>375624</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>375624</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsGovtObligBOY>226863</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc2210400001">201686</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>220502</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>260721</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">270918</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>322943</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>73762</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">73762</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>75000</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>512174</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">685432</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>767946</InvestmentsOtherEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">75000</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">0</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>1632667</TotalAssetsBOY>
+        <TotalAssetsEOY>1607422</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1762015</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>1632667</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1607422</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1632667</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1607422</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1632667</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1607422</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1632667</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-25245</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>1607422</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>1607422</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>336 CADBURY PLC ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-06-30</DateAcquired>
+          <DateSold>2010-02-17</DateSold>
+          <GrossSalesPrice>17722</GrossSalesPrice>
+          <CostOrOtherBasis>15527</CostOrOtherBasis>
+          <GainOrLoss>2195</GainOrLoss>
+          <GainsMinusExcessOrLosses>2195</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ACACIA FEDERAL BANK CD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-26</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>25000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>EVANSVILLE BANK CD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-22</DateAcquired>
+          <DateSold>2010-04-07</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>50000</CostOrOtherBasis>
+          <GainOrLoss>0</GainOrLoss>
+          <GainsMinusExcessOrLosses>0</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1 CEMEX SA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-08-30</DateAcquired>
+          <DateSold>2010-06-09</DateSold>
+          <GrossSalesPrice>9</GrossSalesPrice>
+          <CostOrOtherBasis>22</CostOrOtherBasis>
+          <GainOrLoss>-13</GainOrLoss>
+          <GainsMinusExcessOrLosses>-13</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 TOYOTA MOTOR CORP ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-04-27</DateAcquired>
+          <DateSold>2010-01-28</DateSold>
+          <GrossSalesPrice>7791</GrossSalesPrice>
+          <CostOrOtherBasis>10662</CostOrOtherBasis>
+          <GainOrLoss>-2871</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2871</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>23000 US TREASURY INFLATION PROT SEC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-07</DateAcquired>
+          <DateSold>2010-04-15</DateSold>
+          <GrossSalesPrice>26310</GrossSalesPrice>
+          <CostOrOtherBasis>26308</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>985</GrossSalesPrice>
+          <GainOrLoss>985</GainOrLoss>
+          <GainsMinusExcessOrLosses>985</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>298</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>167363</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1528191</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.109517</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>170500</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1659200</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.102760</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>102637</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1668740</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.061506</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>190189</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1382262</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.137593</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>187605</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1197618</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.156648</DistributionRatioYear5>
+        <TotalDistributionRatio>0.568024</TotalDistributionRatio>
+        <AverageDistributionRatio>0.113605</AverageDistributionRatio>
+        <NetNoncharitableAssets>1656279</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>188162</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>304</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>188466</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>151500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>608</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>608</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>608</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>966</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>966</TotalCreditsAndPayments>
+        <Overpayment>358</Overpayment>
+        <AmountCreditedToNextYear>358</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>IL</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>JACQUELINE L QUERN BERRY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8472561483</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>835 WESTERFIELD DR</AddressLine1>
+          <City>WILMETTE</City>
+          <State>IL</State>
+          <ZIPCode>60091</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JACQUELINE L QUERN BERRY</PersonName>
+          <USAddress>
+            <AddressLine1>835 WESTERFIELD DR</AddressLine1>
+            <City>WILMETTE</City>
+            <State>IL</State>
+            <ZIPCode>60091</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSANNAH QUERN PRATT</PersonName>
+          <USAddress>
+            <AddressLine1>6532 N NEWGUARD</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60626</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARET QUERN ATKINS</PersonName>
+          <USAddress>
+            <AddressLine1>108 E KNIGHT AVE</AddressLine1>
+            <City>COLLINGSWOOD</City>
+            <State>NJ</State>
+            <ZIPCode>08108</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>581984</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>435443</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>664075</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1681502</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1681502</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>25223</CashDeemedCharitable>
+        <NetNoncharitableAssets>1656279</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>82814</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>82814</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>608</TaxBasedOnInvestmentIncome>
+        <TotalTax>608</TotalTax>
+        <DistributableAmountBeforeAdj>82206</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>82206</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>82206</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>151500</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>151500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>151500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>82206</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>128884</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>122498</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>20623</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>88358</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>91309</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>451672</TotalExcessDistriCarryover>
+        <QualifyingDistributions>151500</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>82206</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>69294</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>520966</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>128884</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>392082</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>122498</ExcessFromYear4>
+        <ExcessFromYear3>20623</ExcessFromYear3>
+        <ExcessFromYear2>88358</ExcessFromYear2>
+        <ExcessFromYear1>91309</ExcessFromYear1>
+        <ExcessFromCurrentYear>69294</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>JACQUELINE L QUERN BERRY</ContributingManager>
+        <ContributingManager>SUSANNAH QUERN PRATT</ContributingManager>
+        <ContributingManager>MARGARET QUERN ATKINS</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP OF DREAMS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1235 N CYBURN STE 362</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60610</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHICAGO BOTANIC GARDEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1000 LAKE COOK ROAD</AddressLine1>
+            <City>GLENCOE</City>
+            <State>IL</State>
+            <ZIPCode>60022</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHILDCARE NETWORK OF EVANSTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1426 LAKE STREET</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>LEARNING TOGETHER PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DREW UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>THE THEOLOGICAL SHOOL</AddressLine1>
+            <City>MADISON</City>
+            <State>NJ</State>
+            <ZIPCode>07940</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>COLLEGE BOUND PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>35000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAMILY MATTERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7731 N MARSHFIELD AVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60626</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT FOR PRI PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>IMMIGRANT CHILD ADVOCACY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6020 S UNIVERSITY AVENUE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60608</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>INSTITUTE OF WOMEN TODAY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7315 S YALE AVE</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60621</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PROVIDENCE ST MEL SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>119 S CENRTAL BLVD</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60624</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>INTERVENTION PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE HARBOUR INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1440 RENAISSANCE DR STE 240</AddressLine1>
+            <City>PARK RIDGE</City>
+            <State>IL</State>
+            <ZIPCode>60068</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SAFE HARBOR EMERGENCY SHELTER</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WESTMINSTER FOUNDATIONSUNCOAST MANOR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6909 DR MLK JR STREET SOUTH</AddressLine1>
+            <City>ST PETERSBURG</City>
+            <State>FL</State>
+            <ZIPCode>33705</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>IG FOSTER SCHOLARSHIP PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>8500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YWCA (MARY LOU'S PLACE)</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1215 CHURCH ST</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPPORT FOR MARY LOU'S PLACE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MARCFIRST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1606 HUNT DRIVE</AddressLine1>
+            <City>NORMAL</City>
+            <State>IL</State>
+            <ZIPCode>61761</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DEVELOPMENTAL TRAINING PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SCHOOL FOR LITTLE CHILDREN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1427 CHICAGO AVE</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60201</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE CARING CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3101 SPRING GARDEN ST</AddressLine1>
+            <City>PHILADELPHIA</City>
+            <State>PA</State>
+            <ZIPCode>19104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>RAISING A READER PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EBENEZER RETREAT &amp; CAMPING INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1901 NORTH HARDING ST</AddressLine1>
+            <City>INDIANAPOLIS</City>
+            <State>IN</State>
+            <ZIPCode>46206</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3) ORGANIZATI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL OPERATING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>151500</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>8400</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>21724</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>298</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>30422</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>30422</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO FUND GRANTS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>INVESTMENT INCOME USED TO FUND GRANTS</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>GAINS ON SALE OF INVESTMENTS AND CONTRIBUTED ASSETS USED TO FUND GRANT</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>JACQUELINE L QUERN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>835 WESTERFIELD DR</AddressLine1>
+          <City>WILMETTE</City>
+          <State>IL</State>
+          <ZIPCode>60091</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>97534</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>JACQUELINE L QUERN</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>835 WESTERFIELD DR</AddressLine1>
+          <City>WILMETTE</City>
+          <State>IL</State>
+          <ZIPCode>60091</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>2500</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>VARIOUS PUBLICLY TRADED SECURITIES</NoncashPropertyDescription>
+        <FairMarketValue>97534</FairMarketValue>
+        <DateReceived>2010-03-31</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>50000 JOHN HANCOCK VAR 3.74%</NameOfBond>
+        <EOYBookValue>50006</EOYBookValue>
+        <EOYFMV>49872</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>25000 GE CAP STP 5%</NameOfBond>
+        <EOYBookValue>23756</EOYBookValue>
+        <EOYFMV>25128</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>350 SHS AUTO DATA PROCESSING</NameOfStock>
+        <EOYBookValue>12235</EOYBookValue>
+        <EOYFMV>16198</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>575 SHS DARDEN RESTAURANTS</NameOfStock>
+        <EOYBookValue>12811</EOYBookValue>
+        <EOYFMV>26703</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>350 SHS ILLINOIS TOOL WORKS</NameOfStock>
+        <EOYBookValue>12579</EOYBookValue>
+        <EOYFMV>18690</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>450 SHS MICROSOFT CORP</NameOfStock>
+        <EOYBookValue>12798</EOYBookValue>
+        <EOYFMV>12560</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>225 SHS WALMART STORES INC</NameOfStock>
+        <EOYBookValue>13120</EOYBookValue>
+        <EOYFMV>12134</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS COLGATE-PALMOLIVE CO</NameOfStock>
+        <EOYBookValue>11350</EOYBookValue>
+        <EOYFMV>16074</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS DEVON ENERGY CORP</NameOfStock>
+        <EOYBookValue>6670</EOYBookValue>
+        <EOYFMV>15702</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>160 SHS UNITED PARCEL SERVICE</NameOfStock>
+        <EOYBookValue>11146</EOYBookValue>
+        <EOYFMV>11613</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>125 SHS MEDTRONIC INC</NameOfStock>
+        <EOYBookValue>6081</EOYBookValue>
+        <EOYFMV>4636</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>175 SHS 3 M COMPANY</NameOfStock>
+        <EOYBookValue>13026</EOYBookValue>
+        <EOYFMV>15103</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 NOVARTIS AG SPONS</NameOfStock>
+        <EOYBookValue>23359</EOYBookValue>
+        <EOYFMV>23580</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 TOYOTA MOTOR CORP (JQ)</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>180 CONOCOPHILLIPS (JQ)</NameOfStock>
+        <EOYBookValue>11257</EOYBookValue>
+        <EOYFMV>12258</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS DEVON ENERGY CORP (JQ)</NameOfStock>
+        <EOYBookValue>7831</EOYBookValue>
+        <EOYFMV>7851</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS MSC INDL DIRECT INC CL A (JQ)</NameOfStock>
+        <EOYBookValue>5162</EOYBookValue>
+        <EOYFMV>6469</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>296 SHS CEMEX SAB ADR</NameOfStock>
+        <EOYBookValue>8555</EOYBookValue>
+        <EOYFMV>3173</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS DIAGEO PLC NEW ADR (JQ)</NameOfStock>
+        <EOYBookValue>8286</EOYBookValue>
+        <EOYFMV>7433</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS WALT DISNEY CO (JQ)</NameOfStock>
+        <EOYBookValue>6840</EOYBookValue>
+        <EOYFMV>7502</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>87 SHS BROADRIDGE FINL SOLUTION</NameOfStock>
+        <EOYBookValue>1307</EOYBookValue>
+        <EOYFMV>1908</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>15 SHS CITADEL BROADCASTING (JQ)</NameOfStock>
+        <EOYBookValue>72</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS EXPEDITORS INTL WASH</NameOfStock>
+        <EOYBookValue>8725</EOYBookValue>
+        <EOYFMV>10920</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS ILLINOIS TOOL WORKS (JQ)</NameOfStock>
+        <EOYBookValue>5202</EOYBookValue>
+        <EOYFMV>5340</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS PROCTOR &amp; GAMBLE</NameOfStock>
+        <EOYBookValue>6522</EOYBookValue>
+        <EOYFMV>6433</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>10 CEMEX SAB ADR</NameOfStock>
+        <EOYBookValue>259</EOYBookValue>
+        <EOYFMV>104</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>96 CADBURY PLC ADR (JQ)</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>240 CADBURY PLC ADR</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>72 DR PEPPER SNAPPLE (JQ)</NameOfStock>
+        <EOYBookValue>2207</EOYBookValue>
+        <EOYFMV>2532</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>180 DR PEPPER SNAPPLE</NameOfStock>
+        <EOYBookValue>3602</EOYBookValue>
+        <EOYFMV>6329</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>120 COLGATE PALMOLIVE (JQ)</NameOfStock>
+        <EOYBookValue>10358</EOYBookValue>
+        <EOYFMV>9644</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>400 EQUITY RESIDENTIAL (JQ)</NameOfStock>
+        <EOYBookValue>13148</EOYBookValue>
+        <EOYFMV>20780</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS ILLINOIS TOOL WORKS (JQ)</NameOfStock>
+        <EOYBookValue>9486</EOYBookValue>
+        <EOYFMV>10680</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>100 SHS DEVON ENERGY CORP (JQ)</NameOfStock>
+        <EOYBookValue>6441</EOYBookValue>
+        <EOYFMV>7851</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>96 SHS DR PEPPER SNAPPLE (JQ)</NameOfStock>
+        <EOYBookValue>3420</EOYBookValue>
+        <EOYFMV>3375</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>200 SHS MSC INDL DIRECT INC (JQ)</NameOfStock>
+        <EOYBookValue>10226</EOYBookValue>
+        <EOYFMV>12938</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>80 SHS COLGATE PALMOLIVE (JQ)</NameOfStock>
+        <EOYBookValue>6837</EOYBookValue>
+        <EOYFMV>6430</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc2210400001">
+      <USGovtSecuritiesEOYBookValue>176686</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>195502</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>25000</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>25000</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>9276 SHS VANGUARD TOTAL STOCK</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>251608</BookValue>
+        <EOYFMV>292743</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>814 SHS FAM VALUE FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>36837</BookValue>
+        <EOYFMV>36885</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>4041 SHS ROYCE TOTAL RETURN FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>47196</BookValue>
+        <EOYFMV>53218</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>1479 SHS DODGE &amp; COX FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>40704</BookValue>
+        <EOYFMV>52814</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>1002 SHS HARBOR INTL FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>42372</BookValue>
+        <EOYFMV>60680</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>350 SHS FIRST EAGLE GLOBAL FD (JQ)</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>15687</BookValue>
+        <EOYFMV>16226</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>50 SHS FIRST EAGLE GLOBAL FD</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1928</BookValue>
+        <EOYFMV>2318</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>1162 SHS VANGUARD TOTAL STOCK (JQ)</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>37974</BookValue>
+        <EOYFMV>36673</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>769 SHS HARBOR INTL FUND (JQ)</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>46447</BookValue>
+        <EOYFMV>46563</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>952 SHS FIRST EAGLE GLOBAL (JQ)</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>39727</BookValue>
+        <EOYFMV>44135</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>1571 SHS VANGUARD DIV GROWTH (JQ)</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>21397</BookValue>
+        <EOYFMV>22591</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>32 SHS VANGUARD DIV GROWTH</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>431</BookValue>
+        <EOYFMV>462</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>4782 SHS VANGUARD GNMA</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>52094</BookValue>
+        <EOYFMV>51358</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>4761 SHS VANGUARD S/T INVESTMENT</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>51030</BookValue>
+        <EOYFMV>51280</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>ACACIA FED BK CERTIFICATE 4% 1/4/10</Description>
+        <BOYBookValue>25000</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>BANK EVANSVILLE CERTIFICATE .4% 4/7/10</Description>
+        <BOYBookValue>50000</BOYBookValue>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>JESSE WHITE - IL SECY OF STATE</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ILLINOIS ATTORNEY GENERAL - CHARITABLE REGISTRATION</Description>
+        <RevenueAndExpensesPerBooks>15</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SCHWAB MM ADVISORY FEE</Description>
+        <RevenueAndExpensesPerBooks>3193</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ASSOCIATION OF SMALL FOUNDATIONS</Description>
+        <RevenueAndExpensesPerBooks>495</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <RevenueAndExpensesPerBooks>44</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>FOREIGN TAX</Category>
+        <Amount>444</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

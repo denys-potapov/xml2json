@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-31T09:11:49-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CARD PALMER SIBBISON &amp; CO</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4545 HINCKLEY PARKWAY</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>441096009</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010739379</EIN>
+      <Name>
+        <BusinessNameLine1>Douglas E Mitchell Charitable</BusinessNameLine1>
+        <BusinessNameLine2>Foundation</BusinessNameLine2>
+      </Name>
+      <NameControl>DOUG</NameControl>
+      <Phone>2163485803</Phone>
+      <USAddress>
+        <AddressLine1>2100 BANK ONE CENTER</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>44114</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BERNARD KARR</Name>
+      <Title>Secretary</Title>
+      <DateSigned>2011-05-23</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>LEONARD SOTT JR CPA</Name>
+      <Phone>2166216100</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>757272</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>17649</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>17649</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>17649</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>166</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>329999</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>166</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>15644</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>17815</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>17815</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>33293</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">3647</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">875</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">8560</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>8560</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>8560</OtherProfFeesAdjNetIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">220</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>13302</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>8560</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>8560</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>37500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>37500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>50802</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>8560</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>8560</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>37500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-32987</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>9255</NetInvestmentIncome>
+        <AdjustedNetIncome>24733</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>208505</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>22758</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>22758</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>416841</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>447206</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>504911</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>99912</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY>222307</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>229603</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>725258</TotalAssetsBOY>
+        <TotalAssetsEOY>692271</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>757272</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>725258</UnrestrictedBOY>
+        <UnrestrictedEOY>692271</UnrestrictedEOY>
+        <TotalNetAssetsBOY>725258</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>692271</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>725258</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>692271</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>725258</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-32987</ExcessOfRevenueOverExpenses>
+        <Subtotal>692271</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>692271</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-09-16</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>75861</GrossSalesPrice>
+          <CostOrOtherBasis>65540</CostOrOtherBasis>
+          <GainOrLoss>10321</GainOrLoss>
+          <GainsMinusExcessOrLosses>10321</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-11-03</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>16572</GrossSalesPrice>
+          <CostOrOtherBasis>13969</CostOrOtherBasis>
+          <GainOrLoss>2603</GainOrLoss>
+          <GainsMinusExcessOrLosses>2603</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-11-03</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>13759</GrossSalesPrice>
+          <CostOrOtherBasis>17712</CostOrOtherBasis>
+          <GainOrLoss>-3953</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3953</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIME WARNER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2010-09-02</DateSold>
+          <GrossSalesPrice>12560</GrossSalesPrice>
+          <CostOrOtherBasis>11174</CostOrOtherBasis>
+          <GainOrLoss>1386</GainOrLoss>
+          <GainsMinusExcessOrLosses>1386</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIME WARNER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>4447</GrossSalesPrice>
+          <CostOrOtherBasis>3935</CostOrOtherBasis>
+          <GainOrLoss>512</GainOrLoss>
+          <GainsMinusExcessOrLosses>512</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PHI INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-05-16</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>12447</GrossSalesPrice>
+          <CostOrOtherBasis>21090</CostOrOtherBasis>
+          <GainOrLoss>-8643</GainOrLoss>
+          <GainsMinusExcessOrLosses>-8643</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MILLIPORE CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2010-02-24</DateSold>
+          <GrossSalesPrice>9335</GrossSalesPrice>
+          <CostOrOtherBasis>3053</CostOrOtherBasis>
+          <GainOrLoss>6282</GainOrLoss>
+          <GainsMinusExcessOrLosses>6282</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MILLIPORE CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2000-02-14</DateSold>
+          <GrossSalesPrice>21400</GrossSalesPrice>
+          <CostOrOtherBasis>6107</CostOrOtherBasis>
+          <GainOrLoss>15293</GainOrLoss>
+          <GainsMinusExcessOrLosses>15293</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>MEDICAL PROPERTIES</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-09</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>11068</GrossSalesPrice>
+          <CostOrOtherBasis>11620</CostOrOtherBasis>
+          <GainOrLoss>-552</GainOrLoss>
+          <GainsMinusExcessOrLosses>-552</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>HERSHA HOSPITALITY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-09</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>3620</GrossSalesPrice>
+          <CostOrOtherBasis>10220</CostOrOtherBasis>
+          <GainOrLoss>-6600</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6600</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FLEXTRONICS INTL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-11-09</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>7440</GrossSalesPrice>
+          <CostOrOtherBasis>12640</CostOrOtherBasis>
+          <GainOrLoss>-5200</GainOrLoss>
+          <GainsMinusExcessOrLosses>-5200</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>DUKE ENERGY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>12840</GrossSalesPrice>
+          <CostOrOtherBasis>3860</CostOrOtherBasis>
+          <GainOrLoss>8980</GainOrLoss>
+          <GainsMinusExcessOrLosses>8980</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITIGROUP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-08-20</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>1660</GrossSalesPrice>
+          <CostOrOtherBasis>8525</CostOrOtherBasis>
+          <GainOrLoss>-6865</GainOrLoss>
+          <GainsMinusExcessOrLosses>-6865</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITIGROUP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>1660</GrossSalesPrice>
+          <CostOrOtherBasis>18377</CostOrOtherBasis>
+          <GainOrLoss>-16717</GainOrLoss>
+          <GainsMinusExcessOrLosses>-16717</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>AOL INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2002-07-12</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>859</GrossSalesPrice>
+          <CostOrOtherBasis>809</CostOrOtherBasis>
+          <GainOrLoss>50</GainOrLoss>
+          <GainsMinusExcessOrLosses>50</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TIME WARNER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-12-26</DateAcquired>
+          <DateSold>2010-09-30</DateSold>
+          <GrossSalesPrice>52830</GrossSalesPrice>
+          <CostOrOtherBasis>50209</CostOrOtherBasis>
+          <GainOrLoss>2621</GainOrLoss>
+          <GainsMinusExcessOrLosses>2621</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CITIGROUP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-10-06</DateAcquired>
+          <DateSold>2010-08-03</DateSold>
+          <GrossSalesPrice>50000</GrossSalesPrice>
+          <CostOrOtherBasis>49703</CostOrOtherBasis>
+          <GainOrLoss>297</GainOrLoss>
+          <GainsMinusExcessOrLosses>297</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FINANCIAL SECTORS SPDR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-25</DateAcquired>
+          <DateSold>2010-09-02</DateSold>
+          <GrossSalesPrice>14201</GrossSalesPrice>
+          <CostOrOtherBasis>14400</CostOrOtherBasis>
+          <GainOrLoss>-199</GainOrLoss>
+          <GainsMinusExcessOrLosses>-199</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FLEXTRONICS INTL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-25</DateAcquired>
+          <DateSold>2010-03-15</DateSold>
+          <GrossSalesPrice>7440</GrossSalesPrice>
+          <CostOrOtherBasis>6890</CostOrOtherBasis>
+          <GainOrLoss>550</GainOrLoss>
+          <GainsMinusExcessOrLosses>550</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>166</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>15644</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>32000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>684724</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.04673</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>41267</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>817046</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.05051</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>47983</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>985217</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.04870</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>46000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>944451</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.04871</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>45250</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>924492</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.04895</DistributionRatioYear5>
+        <TotalDistributionRatio>0.24360</TotalDistributionRatio>
+        <AverageDistributionRatio>0.04872</AverageDistributionRatio>
+        <NetNoncharitableAssets>737125</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>35912</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>93</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>36005</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>37500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>93</InvestmentIncomeExciseTax>
+        <Subtotal>93</Subtotal>
+        <TaxBasedOnInvestmentIncome>93</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>93</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>93</TotalCreditsAndPayments>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>OH</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BERNARD L KARR</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2163485803</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>2100 BANK ONE CENTER</AddressLine1>
+          <City>CLEVELAND</City>
+          <State>OH</State>
+          <ZIPCode>44114</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BERNARD KARR</PersonName>
+          <USAddress>
+            <AddressLine1>2100 BANK ONE CENTER</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44114</ZIPCode>
+          </USAddress>
+          <Title>Sec- Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MATTHEW T MITCHELL</PersonName>
+          <USAddress>
+            <AddressLine1>8 SHANNEY BROOK COURT</AddressLine1>
+            <City>PHOENIX</City>
+            <State>MD</State>
+            <ZIPCode>21131</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARTHA M REIDEL</PersonName>
+          <USAddress>
+            <AddressLine1>495 FAR HILL ROAD</AddressLine1>
+            <City>WAYZATA</City>
+            <State>MN</State>
+            <ZIPCode>55391</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THE FOUNDATION'S LARGEST CHARITABLE ACTIVITY INVOLVES MAKING GIFTS, GRANTS, CONTRIBUTIONS AND SCHOLARSHIPS TO VARIOUS CHARITABLE ORGANIZATIONS AND EDUCATIONAL INSTITUTIONS.</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>678572</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>69778</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>748350</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>748350</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>11225</CashDeemedCharitable>
+        <NetNoncharitableAssets>737125</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>36856</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>36856</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>93</TaxBasedOnInvestmentIncome>
+        <TotalTax>93</TotalTax>
+        <DistributableAmountBeforeAdj>36763</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>36763</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>36763</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>37500</ExpensesAndContributions>
+        <QualifyingDistributions>37500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>93</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>37407</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>36763</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>613</UndistributedIncomePriorYear>
+        <QualifyingDistributions>37500</QualifyingDistributions>
+        <AppliedToYear1>613</AppliedToYear1>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>36763</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>124</RemainingDistriFromCorpus>
+        <TotalCorpus>124</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>124</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>124</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>MATTHEW T MITCHELL</ContributingManager>
+        <ContributingManager>MARTHA M REIDEL</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>Martha M Reidel</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 Bank One Center</AddressLine1>
+            <City>Cleveland</City>
+            <State>OH</State>
+            <ZIPCode>44114</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2163485803</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Written requests required.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>November 1</SubmissionDeadlines>
+          <RestrictionsOnAwards>None</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>THE HOLE IN THE WALL GANG FUND</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>555 LONG WHARF DRIVE</AddressLine1>
+            <City>NEW HAVEN</City>
+            <State>CT</State>
+            <ZIPCode>06511</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>12000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>WISHES AND MORE</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>961 HILLWIND ROAD</AddressLine1>
+            <City>FRIDLEY</City>
+            <State>MN</State>
+            <ZIPCode>55432</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>12000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>BOYS GIRLS CLUBS OF CLEVELAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>6114 BROADWAY AVE</AddressLine1>
+            <City>CLEVELAND</City>
+            <State>OH</State>
+            <ZIPCode>44127</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>13500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>37500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17649</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>166</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>17815</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>17815</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>875</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>3647</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>200</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>20</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>Investment fees</Category>
+        <Amount>8560</Amount>
+        <NetInvestmentIncome>8560</NetInvestmentIncome>
+        <AdjustedNetIncome>8560</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

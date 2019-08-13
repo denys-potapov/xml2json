@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-12T14:41:18-00:00</Timestamp>
+    <TaxPeriodEndDate>2011-03-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>COLLEEN WALSH CPA CFP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1100 NEW BRITAIN AVE</AddressLine1>
+        <City>W HARTFORD</City>
+        <State>CT</State>
+        <ZIPCode>06110</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-04-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010548049</EIN>
+      <Name>
+        <BusinessNameLine1>WILLIAM &amp; JEANNE WALSH SCHOLARSHIP FUND INC</BusinessNameLine1>
+      </Name>
+      <NameControl>WILL</NameControl>
+      <Phone>8602361020</Phone>
+      <USAddress>
+        <AddressLine1>27 MAPLE RIDGE DRIVE</AddressLine1>
+        <City>FARMINGTON</City>
+        <State>CT</State>
+        <ZIPCode>06032</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>COLLEEN WALSH</Name>
+      <Title>TREASURER</Title>
+      <DateSigned>2011-07-12</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Colleen Walsh</Name>
+      <Phone>8602361020</Phone>
+      <DatePrepared>2011-07-12</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>61080</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <DividendsRevAndExpnss>1640</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1640</DividendsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>1640</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>1640</TotalNetInvestmentIncome>
+        <PrintingAndPubRevAndExpnss>100</PrintingAndPubRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>100</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1650</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1650</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1750</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>1650</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-110</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1640</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <InvestmentsGovtObligBOY>2356</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="990PF:88">706</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>706</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>35185</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:89">39243</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>39243</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>18946</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="990PF:90">21131</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>21131</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>56487</TotalAssetsBOY>
+        <TotalAssetsEOY>61080</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>61080</TotalAssetsEOYFMV>
+        <GrantsPayableBOY>1650</GrantsPayableBOY>
+        <GrantsPayableEOY>2500</GrantsPayableEOY>
+        <TotalLiabilitiesBOY>1650</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>2500</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>54837</CapitalStockBOY>
+        <CapitalStockEOY>58580</CapitalStockEOY>
+        <TotalNetAssetsBOY>54837</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>58580</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>56487</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>61080</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>54837</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-110</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="990PF:159">3853</OtherIncreases>
+        <Subtotal>58580</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>58580</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2268</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>52474</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.043221</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>3814</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>52880</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.072126</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>3814</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>63209</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.060340</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>3806</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>60340</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.063076</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>2649</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>59887</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.044233</DistributionRatioYear5>
+        <TotalDistributionRatio>000.282996</TotalDistributionRatio>
+        <AverageDistributionRatio>000.056599</AverageDistributionRatio>
+        <NetNoncharitableAssets>55893</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>3163</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>16</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>3179</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>1650</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>33</InvestmentIncomeExciseTax>
+        <Subtotal>33</Subtotal>
+        <TaxBasedOnInvestmentIncome>33</TaxBasedOnInvestmentIncome>
+        <TaxDue>33</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CT</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>COLLEEN WALSH CPA</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8602361020</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>27 MAPLE RIDGE DRIVE</AddressLine1>
+          <City>FARMINGTON</City>
+          <State>CT</State>
+          <ZIPCode>06032</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>COLLEEN WALSH</PersonName>
+          <USAddress>
+            <AddressLine1>27 MAPLE RIDGE DR</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>CT</State>
+            <ZIPCode>06032</ZIPCode>
+          </USAddress>
+          <Title>TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOANNE FERGUSON</PersonName>
+          <USAddress>
+            <AddressLine1>6505 PARK PLACE</AddressLine1>
+            <City>CRESTWOOD</City>
+            <State>KY</State>
+            <ZIPCode>40014</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPH A WALSH</PersonName>
+          <USAddress>
+            <AddressLine1>27 MAPLE RIDGE DR</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>CT</State>
+            <ZIPCode>06032</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>N/A</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>55116</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1628</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>56744</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>56744</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">851</CashDeemedCharitable>
+        <NetNoncharitableAssets>55893</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2795</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2795</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>33</TaxBasedOnInvestmentIncome>
+        <TotalTax>33</TotalTax>
+        <DistributableAmountBeforeAdj>2762</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2762</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2762</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">1650</ExpensesAndContributions>
+        <QualifyingDistributions>1650</QualifyingDistributions>
+        <AdjQualifyingDistributions>1650</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2762</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>277</UndistributedIncomePriorYear>
+        <PriorYear1>2006</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2008</PriorYear3>
+        <TotalForPriorYears>1213</TotalForPriorYears>
+        <QualifyingDistributions>1650</QualifyingDistributions>
+        <AppliedToYear1>277</AppliedToYear1>
+        <AppliedToCurrentYear>1373</AppliedToCurrentYear>
+        <PriorYearUndistributedIncome>1213</PriorYearUndistributedIncome>
+        <TaxableAmount1>1213</TaxableAmount1>
+        <UndistributedIncomeCY>1389</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>JOANNE FERGUSON</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>6505 PARK PLACE</AddressLine1>
+            <City>CRESTWOOD</City>
+            <State>KY</State>
+            <ZIPCode>40014</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>4108124921</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICATION FORM PROVIDED BY THE SCHOLARSHIP FUND</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>SECOND WEEK OF JANUARY OF THE SCHOLARSHIP YEAR</SubmissionDeadlines>
+          <RestrictionsOnAwards>STUDENTS FROM DUNMMORE, PA TO ATTEND AN ACCREDITED COLLEGE TO BE A TEACHER, OR NURSING SCHOOL TO BE R.N.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>KAYLEEN NOTCHICK</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>1306 JEFFERSON AVE</AddressLine1>
+            <City>DUNMORE</City>
+            <State>PA</State>
+            <ZIPCode>18509</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>INDIVIDUAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>1650</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1650</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientPersonName>ANN SHEEHAN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>725 THROOP STREET</AddressLine1>
+            <City>DUNMORE</City>
+            <State>PA</State>
+            <ZIPCode>18512</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>INDIVIDUAL</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>2500</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <RelatedOrExemptFunctionIncome>1640</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>1640</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>1640</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <InvestmentsCorpBondsSchedule documentId="990PF:90" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD WELLINGTON FUND-BONDS</NameOfBond>
+        <EOYBookValue>21131</EOYBookValue>
+        <EOYFMV>21131</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD WELLINGTON FUND-STOCK</NameOfStock>
+        <EOYBookValue>39243</EOYBookValue>
+        <EOYFMV>39243</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="990PF:88" softwareId="10000149" softwareVersion="2010.2.15">
+      <USGovtSecuritiesEOYBookValue>706</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>706</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherIncreasesSchedule documentId="990PF:159" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherIncreases>
+        <Description>NET ASSET ADJUSTMENT</Description>
+        <Amount>3853</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+  </ReturnData>
+</Return>

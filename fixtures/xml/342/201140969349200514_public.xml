@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-04-06T17:17:50-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>David R Bickford</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>162 Plymouth Road</AddressLine1>
+        <City>Etna</City>
+        <State>ME</State>
+        <ZIPCode>044343134</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990EZ</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010342249</EIN>
+      <Name>
+        <BusinessNameLine1>Professional Fire Fighters of Maine</BusinessNameLine1>
+      </Name>
+      <NameControl>PROF</NameControl>
+      <Phone>2079420030</Phone>
+      <USAddress>
+        <AddressLine1>162 Plymouth Road</AddressLine1>
+        <City>Etna</City>
+        <State>ME</State>
+        <ZIPCode>044343134</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>John Martell</Name>
+      <Title>President</Title>
+      <DateSigned>2011-04-06</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>David R Bickford</Name>
+      <Phone>2079420030</Phone>
+      <DatePrepared>2011-04-06</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="2">
+    <IRS990EZ documentId="990EZ" softwareId="10000149" softwareVersion="2010.2.13">
+      <GroupExemptionNumber>0160</GroupExemptionNumber>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <ScheduleBNotRequired>X</ScheduleBNotRequired>
+      <WebSite>www.pffmaine.org</WebSite>
+      <Organization501c typeOf501cOrganization="5">X</Organization501c>
+      <GrossReceipts>158774</GrossReceipts>
+      <ContributionsGiftsGrantsEtc>23977</ContributionsGiftsGrantsEtc>
+      <MembershipDues>111395</MembershipDues>
+      <FundraisingGrossIncome referenceDocumentId="990G">23402</FundraisingGrossIncome>
+      <SpecialEventsNetIncomeLoss>23402</SpecialEventsNetIncomeLoss>
+      <TotalRevenue>158774</TotalRevenue>
+      <SalariesOtherCompEmplBenefits>19848</SalariesOtherCompEmplBenefits>
+      <FeesAndOthPymtToIndContractors>33150</FeesAndOthPymtToIndContractors>
+      <PrintingPublicationsPostage>578</PrintingPublicationsPostage>
+      <OtherExpensesTotal>104409</OtherExpensesTotal>
+      <TotalExpenses>157985</TotalExpenses>
+      <ExcessOrDeficitForYear>789</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>25109</NetAssetsOrFundBalancesBOY>
+      <OtherChangesInNetAssets>7443</OtherChangesInNetAssets>
+      <NetAssetsOrFundBalancesEOY>33341</NetAssetsOrFundBalancesEOY>
+      <CashSavingsAndInvestments>
+        <BOY>46940</BOY>
+        <EOY>47729</EOY>
+      </CashSavingsAndInvestments>
+      <OtherAssetsTotal>
+        <BOY>1780</BOY>
+        <EOY>890</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>48720</BOY>
+        <EOY>48619</EOY>
+      </TotalAssets>
+      <SumOfTotalLiabilities>
+        <BOY>23611</BOY>
+        <EOY>15278</EOY>
+      </SumOfTotalLiabilities>
+      <NetAssetsOrFundBalances>
+        <BOY>25109</BOY>
+        <EOY>33341</EOY>
+      </NetAssetsOrFundBalances>
+      <PrimaryExemptPurpose>Betterment of Wages and Benefits for Fire Fighters.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>Helped pass law requiring partial payment for retired fire fighter health insurance premiums Helped pass law requiring partial payment for retired fire fighter health insurance premiums</DescriptionProgramServiceAccom>
+      </ProgramServiceAccomplishment>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>John Martell</PersonName>
+        <AddressUS>
+          <AddressLine1>41 Brickyard Cove Road</AddressLine1>
+          <City>Harpswell</City>
+          <State>ME</State>
+          <ZIPCode>04079</ZIPCode>
+        </AddressUS>
+        <Title>President</Title>
+        <AvgHoursPerWkDevotedToPosition>020.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>5295</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>David Bickford</PersonName>
+        <AddressUS>
+          <AddressLine1>162 Plymouth Road</AddressLine1>
+          <City>Etna</City>
+          <State>ME</State>
+          <ZIPCode>04434</ZIPCode>
+        </AddressUS>
+        <Title>Secretary/Treasurer</Title>
+        <AvgHoursPerWkDevotedToPosition>010.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>2185</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>Mike Crouse</PersonName>
+        <AddressUS>
+          <AddressLine1>1 Happy Avenue</AddressLine1>
+          <City>Kittery</City>
+          <State>ME</State>
+          <ZIPCode>03904</ZIPCode>
+        </AddressUS>
+        <Title>1st District VP</Title>
+        <AvgHoursPerWkDevotedToPosition>010.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>Mike William</PersonName>
+        <AddressUS>
+          <AddressLine1>124 New York Avenue</AddressLine1>
+          <City>S Portland</City>
+          <State>ME</State>
+          <ZIPCode>04106</ZIPCode>
+        </AddressUS>
+        <Title>2nd District VP</Title>
+        <AvgHoursPerWkDevotedToPosition>010.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>1118</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>Mike Scott</PersonName>
+        <AddressUS>
+          <AddressLine1>549 S Windham Road</AddressLine1>
+          <City>Auburn</City>
+          <State>ME</State>
+          <ZIPCode>04210</ZIPCode>
+        </AddressUS>
+        <Title>3rd District VP</Title>
+        <AvgHoursPerWkDevotedToPosition>010.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>1515</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>Ron Green</PersonName>
+        <AddressUS>
+          <AddressLine1>226 Ridge Road</AddressLine1>
+          <City>Plymouth</City>
+          <State>ME</State>
+          <ZIPCode>04969</ZIPCode>
+        </AddressUS>
+        <Title>4th District VP</Title>
+        <AvgHoursPerWkDevotedToPosition>020.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>6300</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <ActivitiesNotPreviouslyRpt>false</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>false</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>false</OrganizationHadUBI>
+      <OrganizationFiled990T>false</OrganizationFiled990T>
+      <OrganizationDissolvedEtc>false</OrganizationDissolvedEtc>
+      <MadeLoansToFromOfficers>false</MadeLoansToFromOfficers>
+      <StatesWhereCopyOfReturnIsFiled>ME</StatesWhereCopyOfReturnIsFiled>
+      <TheBooksAreInCareOf>
+        <NamePerson>David R Bickford</NamePerson>
+        <AddressUS>
+          <AddressLine1>162 Plymouth Road</AddressLine1>
+          <City>Etna</City>
+          <State>ME</State>
+          <ZIPCode>044013134</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>2079420030</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ForeignOffice>false</ForeignOffice>
+      <MaintainAnyDonorAdvisedFunds>false</MaintainAnyDonorAdvisedFunds>
+      <DoesOrgHaveHospital>false</DoesOrgHaveHospital>
+      <TanningServicesProvided>false</TanningServicesProvided>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionWithControlEntity>false</TransactionWithControlEntity>
+      <EngagePoliticalCmpgnActivities>false</EngagePoliticalCmpgnActivities>
+      <PartVIOfCompOfHighestPaidEmpl>NONE</PartVIOfCompOfHighestPaidEmpl>
+      <PartVIAHghstPaidCntrctProfSer>NONE</PartVIAHghstPaidCntrctProfSer>
+      <FiledScheduleA>false</FiledScheduleA>
+    </IRS990EZ>
+    <IRS990ScheduleG documentId="990G" softwareId="10000149" softwareVersion="2010.2.13">
+      <MailSolicitations>X</MailSolicitations>
+      <PhoneSolicitations>X</PhoneSolicitations>
+      <AgreementRefFundraising>true</AgreementRefFundraising>
+      <FundraiserActivityInformation>
+        <NameOfOrganization>
+          <BusinessNameLine1>East Coast Marketing Group INC</BusinessNameLine1>
+        </NameOfOrganization>
+        <AddressUS>
+          <AddressLine1>26 Thomas Drive</AddressLine1>
+          <City>Westbrook</City>
+          <State>ME</State>
+          <ZIPCode>04092</ZIPCode>
+        </AddressUS>
+        <Activity>Comedy Show</Activity>
+        <FundraiserControlOfFunds>false</FundraiserControlOfFunds>
+        <GrossReceipts>23402</GrossReceipts>
+        <AmountRetainedByContractor>15640</AmountRetainedByContractor>
+        <NetToOrganization>7762</NetToOrganization>
+      </FundraiserActivityInformation>
+      <TotalGrossReceipts>23402</TotalGrossReceipts>
+      <TotalRetainedByContractors>15640</TotalRetainedByContractors>
+      <TotalNetToOrganization>7762</TotalNetToOrganization>
+      <LicensedStates>ME</LicensedStates>
+      <EventsInformation>
+        <NameOfEvent1>Comedy Show</NameOfEvent1>
+        <GrossReceiptsEvent1>23402</GrossReceiptsEvent1>
+        <GrossRevenueEvent1>23402</GrossRevenueEvent1>
+        <GrossReceiptsTotal>23402</GrossReceiptsTotal>
+        <GrossRevenueTotalEvents>23402</GrossRevenueTotalEvents>
+        <NetIncomeSummary>23402</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+  </ReturnData>
+</Return>

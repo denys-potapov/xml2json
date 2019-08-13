@@ -1,0 +1,1482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-10T14:11:58-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Deloitte Tax LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>50 South Sixth Street</AddressLine1>
+        <City>Minneapolis</City>
+        <State>MN</State>
+        <ZIPCode>55402</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010638901</EIN>
+      <Name>
+        <BusinessNameLine1>Park Nicollet Health Care Products</BusinessNameLine1>
+      </Name>
+      <NameControl>PARK</NameControl>
+      <Phone>9529933108</Phone>
+      <USAddress>
+        <AddressLine1>3800 Park Nicollet Boulevard</AddressLine1>
+        <City>St Louis Park</City>
+        <State>MN</State>
+        <ZIPCode>55416</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Sheila McMillan</Name>
+      <Title>CFO</Title>
+      <Phone>9529936790</Phone>
+      <DateSigned>2011-10-31</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Sarah Vogt</Name>
+      <Phone>6123974000</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Sheila McMillan</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+        <City>St Louis Park</City>
+        <State>MN</State>
+        <ZIPCode>55426</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>59538860</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>www.parknicollet.com</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2002</YearFormation>
+      <StateLegalDomicile>MN</StateLegalDomicile>
+      <ActivityOrMissionDescription>Cares for and supports the health, healing, and learning of those served.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>18</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>9</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>3721056</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-563756</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>112500</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>44000</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>59586022</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>59494860</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>-10568</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>59687954</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>59538860</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>15459542</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>15232851</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>51567556</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>52686255</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>67027098</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>67919106</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-7339144</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-8380246</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>10049003</TotalAssetsBOY>
+      <TotalAssetsEOY>11984392</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>71210619</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>81569956</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-61161616</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-69585564</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>Park Nicollet Health Care Products has a mission to care for and support the health, healing, and learning of those served. The focus is on excellent care, delivered in a caring manner, with emphasis on disease prevention and wellness education.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>39472747</Expense>
+      <Revenue>40228144</Revenue>
+      <Description>Park Nicollet Health Care Products is part of Park Nicollet Health Services, a nonprofit integrated care delivery system, staffed by nationally recognized hospital and clinic doctors, clinical professionals, nurses, researchers and other staff at Park Nicollet Methodist Hospital and Park Nicollet Clinic who help patients stay healthy and take care of patients when they are sick. Park Nicollet Health Care Products is a supporting organization to Park Nicollet Methodist Hospital and Park Nicollet Clinic, providing durable medical equipment (DME)/supplies and pharmaceuticals supporting ongoing patient care. Park Nicollet Health Care Products focus on the health, healing and learning of patients by providing easy access to products and services that support successful self-management of a health condition at home. The products support both short term acute conditions and chronic lifelong conditions, such as eyewear, hearing aids, and many products that cross into almost every medical subspecialty. The Pharmacy @ Park Nicollet, meets growing demand for self-care products and services. The Pharmacies are at these Park Nicollet Clinic locations: Bloomington, Brookdale, Burnsville, Carlson Parkway (Minnetonka), Chanhassen, Eagan, Maple Grove, Minneapolis, St. Louis Park, and Wayzata as well as the Heart and Vascular Center and Meadowbrook at the Park Nicollet Methodist Hospital.The patient care experience does not end at the hospital or clinic door. Patients have many self-care needs to manage both their acute and chronic health conditions, and Park Nicollet Health Care Products is expanding its capacity to better serve these growing needs. Major accomplishments for 2010 include:Enhanced product and pharmaceutical assortments available for patients, especially patients living with chronic health conditions such as diabetes, cancer, and bone and joint disease. Educated physicians and care provider's about Pharmacy services and products to better link solutions for patient health care needs, including smoking cessation.Developed standard work around provider referrals to Park Nicollet Pharmacies, assuring that patients have the products needed as they go home from clinic or hospital.Continue to provide customer service and sales training to all store staff and management.Expanded Pharmacy services to help bring more products directly into the care environment to assist both providers and patients alike. Update e-commerce Web site for Pharmacy @ Park Nicollet to make it easier for providers and patients to locate and purchase health care products. Worked with staff to ensure their job satisfaction and self worth so that they can, in turn, share their positive attitude with clinical team members and customers.Enhanced the focus on customer satisfaction scores to reinforce best practices and provide superior service. Enhanced tracking systems to measure and monitor customer success of sales strategies.Ensured all Pharmacy staff attended learning events to achieve their continuing education requirements.Attended major trade shows to keep current with pharmacy assortment and billing information. Held meetings and educational sessions for Pharmacy staff to learn the complexities of billing 3rd party payers to ensure compliance and accuracy of claims submission.</Description>
+      <Activity2>
+        <Expense>4346175</Expense>
+        <Revenue>6359562</Revenue>
+        <Description>The Contact Lens and Optical Store @ Park Nicollet Health Care Products, which meet growing demand for self-care products and services, are at these Park Nicollet Clinic sites: Bloomington, Brookdale, Burnsville, Carlson Parkway (Minnetonka), Chanhassen, Maple Grove, Minneapolis, Shakopee, and St. Louis Park. The patient care experience does not end at the hospital or clinic door. Patients have many self-care needs to manage both their acute and chronic health conditions, and Park Nicollet Health Care Products is expanding its capacity to better serve these growing needs.Major accomplishments for 2010 include:Enhanced optical product assortments available for patients, especially patients living with chronic health conditions affecting their vision.Established an optical benefit program for Park Nicollet employees.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>15070064</Expense>
+        <Revenue>12907154</Revenue>
+        <Description>Park Nicollet Health Care Products, branded as The Stores @ Park Nicollet, is a group of departments within Park Nicollet Health Services providing durable medical equipment (DME)/supplies and pharmaceuticals, pharmaceuticals supporting ongoing patient care. The focus is on the health, healing and learning of patients by providing easy access to products and services that support successful self-management of a health condition at home.The Health and Care Stores, which meet growing, demand for self-care products and services, and are at Park Nicollet Clinic locations, include: Health &amp; Care Store @ Park Nicollet (4 locations), Hearing Center &amp; Store @ Park Nicollet (3 locations), and Breastfeeding Center @ Park Nicollet (1 location within the Meadowbrook Health &amp; Care store)The Stores are at these Park Nicollet Clinic sites: Burnsville, St. Louis Park, as well as the Heart and Vascular Center and Meadowbrook at the Park Nicollet Methodist Hospital.The patient care experience does not end at the hospital or clinic door. Patients have many self-care needs to manage both their acute and chronic health conditions, and Park Nicollet Health Care Products is expanding its capacity to better serve these growing needs. Major accomplishments for 2010 include:Enhanced product assortments available for patients, especially patients living with chronic health conditions.Educated physicians and care provider's about Health Care Stores product offerings to better link patient health care needs to product solutions, including smoking cessation.Developed standard work for provider referrals to Health Care stores, assuring that patients have the products needed as they go home from clinic or hospital.Continued customer service and sales training to all store staff and management.Expanded point of care operation and specialty stores to help bring more products directly into the care environment to assist both providers and patients alike.</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>58888986</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039700001">0</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="RetDoc1039700001">1</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>1</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">1</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <InfoInScheduleOPartV>X</InfoInScheduleOPartV>
+      <NumberFormsTransmittedWith1096>12</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <ExcessBusinessHoldings>0</ExcessBusinessHoldings>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>18</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>9</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>1</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>1</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>MN</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Sheila McMillan</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>9529936790</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <Form990PartVIISectionA>
+        <NamePerson>David Abelson MD</NamePerson>
+        <Title>President and CEO</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>789529</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>220188</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Steven Connelly MD</NamePerson>
+        <Title>Former Exec VP &amp; CMO</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>514388</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>48590</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>David J Cooke</NamePerson>
+        <Title>Sr VP &amp; CFO (1/1-1/4)</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>699941</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>93397</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Judith Corson</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Bruce W Engelsma</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Steven Frank</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>David Homans MD</NamePerson>
+        <Title>Chief of Specialty Serv</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>476226</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>38872</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jeffrey B Husband MD</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>569522</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>49426</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ann Rockler Jackson</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Michael Johnson</NamePerson>
+        <Title>Sr VP Community Advance</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>355684</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>59876</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kathryn D Kallas</NamePerson>
+        <Title>VP Inpatient Care &amp; CNO</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>344809</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>103609</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Michael Kaupa</NamePerson>
+        <Title>Executive VP and COO</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>602417</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>137571</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jodee Kozlak</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Donald Lewis</NamePerson>
+        <Title>Vice Chair</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Charles McCoy MD</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>188968</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>32901</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheila McMillan</NamePerson>
+        <Title>Sr VP &amp; CFO (8/30-12/31)</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>147443</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>49507</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ken Melrose</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ruth Mickelsen</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Lee N Newcomer MD</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>James O Pohlad</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Janette Strathy MD</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>304114</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>36101</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Richard E Struthers</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kenneth L Thome</NamePerson>
+        <Title>Chair</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Mark Wilkowske MD</NamePerson>
+        <Title>Chief of Oncology Serv</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>609656</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>49964</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Susan Zwaschka</NamePerson>
+        <Title>VP Corp Compliance</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>319851</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>94811</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Duane Fancher</NamePerson>
+        <Title>Pharmacist</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>122831</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>23743</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>John Gustafson</NamePerson>
+        <Title>Pharmacist</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>128747</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>26465</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kim McClaron</NamePerson>
+        <Title>Pharmacist</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>122736</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>29998</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Erika Milne</NamePerson>
+        <Title>Director of Pharmacy</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>152857</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>26212</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>William Thompson</NamePerson>
+        <Title>Directory of PNHP</Title>
+        <AverageHoursPerWeek>55.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>146817</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>19227</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Samuel Carlson MD</NamePerson>
+        <Title>Former Executive VP &amp; CMO</Title>
+        <Former>X</Former>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>173093</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>79194</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>David K Wessner</NamePerson>
+        <Title>Former President &amp; CEO</Title>
+        <Former>X</Former>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>1387855</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>101086</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>673988</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>7483496</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>1320738</TotalOtherCompensation>
+      <NumberIndividualsGT100K>28</NumberIndividualsGT100K>
+      <FormersListed>1</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <RelatedOrganizations>44000</RelatedOrganizations>
+      <TotalContributions>44000</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Pharmacy Income</Description>
+        <BusinessCode>446110</BusinessCode>
+        <TotalRevenueColumn>40228144</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>36634796</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>3593348</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Health and Care Store</Description>
+        <BusinessCode>446110</BusinessCode>
+        <TotalRevenueColumn>12907154</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>12907154</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Optical Income</Description>
+        <BusinessCode>446110</BusinessCode>
+        <TotalRevenueColumn>6359562</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>6231854</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>127708</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>59494860</TotalProgramServiceRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>59538860</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>55773804</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>3721056</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>12075227</Total>
+        <ProgramServices>9585836</ProgramServices>
+        <ManagementAndGeneral>2489391</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>658504</Total>
+        <ProgramServices>522749</ProgramServices>
+        <ManagementAndGeneral>135755</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>1609032</Total>
+        <ProgramServices>1277319</ProgramServices>
+        <ManagementAndGeneral>331713</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>890088</Total>
+        <ProgramServices>706590</ProgramServices>
+        <ManagementAndGeneral>183498</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesOther>
+        <Total>362055</Total>
+        <ProgramServices>362055</ProgramServices>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>764521</Total>
+        <ProgramServices>656536</ProgramServices>
+        <ManagementAndGeneral>107985</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>268996</Total>
+        <ProgramServices>209548</ProgramServices>
+        <ManagementAndGeneral>59448</ManagementAndGeneral>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>2378826</Total>
+        <ProgramServices>1872469</ProgramServices>
+        <ManagementAndGeneral>506357</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>36043</Total>
+        <ProgramServices>36043</ProgramServices>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>2246</Total>
+        <ProgramServices>1774</ProgramServices>
+        <ManagementAndGeneral>472</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>216254</Total>
+        <ProgramServices>216254</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>14879</Total>
+        <ManagementAndGeneral>14879</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Cost of Goods Sold</Description>
+        <Total>39634173</Total>
+        <ProgramServices>39634173</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MGMT Exp to Affiliates</Description>
+        <Total>8628266</Total>
+        <ProgramServices>3437455</ProgramServices>
+        <ManagementAndGeneral>5190811</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Medical Supplies/Equip</Description>
+        <Total>180821</Total>
+        <ProgramServices>180821</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MN Care Tax Expense</Description>
+        <Total>159444</Total>
+        <ProgramServices>159444</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Corp Dues and License</Description>
+        <Total>38669</Total>
+        <ProgramServices>28858</ProgramServices>
+        <ManagementAndGeneral>9811</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>1062</Total>
+        <ProgramServices>1062</ProgramServices>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>67919106</Total>
+        <ProgramServices>58888986</ProgramServices>
+        <ManagementAndGeneral>9030120</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>8535</BOY>
+        <EOY>8637</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>3807885</BOY>
+        <EOY>4411947</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>5841512</BOY>
+        <EOY>6935871</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>3486</BOY>
+        <EOY>3998</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>4613509</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>3989570</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>387585</BOY>
+        <EOY>623939</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>10049003</BOY>
+        <EOY>11984392</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>2302758</BOY>
+        <EOY>2612892</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>1410</BOY>
+        <EOY>400</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>68906451</BOY>
+        <EOY>78956664</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>71210619</BOY>
+        <EOY>81569956</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-61161616</BOY>
+        <EOY>-69585564</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-61161616</BOY>
+        <EOY>-69585564</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>10049003</BOY>
+        <EOY>11984392</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>-8380246</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-43702</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <SupportingOrganization509a3>X</SupportingOrganization509a3>
+      <SupportingOrg509a3Type2>X</SupportingOrg509a3Type2>
+      <CertificationCheckbox>X</CertificationCheckbox>
+      <WrittenIRSDetermination>X</WrittenIRSDetermination>
+      <ContribByControllingIndividual>0</ContribByControllingIndividual>
+      <ContributionByRelatedParty>0</ContributionByRelatedParty>
+      <ContribBy35ControlledEntity>0</ContribBy35ControlledEntity>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </Name>
+        <EIN>410834920</EIN>
+        <TypeOfOrganization>3</TypeOfOrganization>
+        <ListedInGoverningDoc>1</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>1</SupportedOrganizationNotified>
+        <OrganizedInUS>1</OrganizedInUS>
+        <Amount>62623229</Amount>
+      </SupportedOrgInformation>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </Name>
+        <EIN>410132080</EIN>
+        <TypeOfOrganization>3</TypeOfOrganization>
+        <ListedInGoverningDoc>1</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>1</SupportedOrganizationNotified>
+        <OrganizedInUS>1</OrganizedInUS>
+        <Amount>5295877</Amount>
+      </SupportedOrgInformation>
+      <TotalNumberOfSupportedOrgs>2</TotalNumberOfSupportedOrgs>
+      <SumOfAmounts>67919106</SumOfAmounts>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <Volunteers>0</Volunteers>
+      <PaidStaffOrManagement>0</PaidStaffOrManagement>
+      <MediaAdvertisements>0</MediaAdvertisements>
+      <MailingsMembers>0</MailingsMembers>
+      <PublicationsOrBroadcast>0</PublicationsOrBroadcast>
+      <GrantsOtherOrganizations>0</GrantsOtherOrganizations>
+      <DirectContactLegislators>0</DirectContactLegislators>
+      <RalliesDemonstrations>0</RalliesDemonstrations>
+      <OtherActivities>1</OtherActivities>
+      <OtherActivitiesAmount>331</OtherActivitiesAmount>
+      <TotalLobbyingExpendituresIIB>331</TotalLobbyingExpendituresIIB>
+      <NotDescribedIn501c3>0</NotDescribedIn501c3>
+      <Form990ScheduleCPartIV>
+        <Identifier>Explanation of Other Lobbying Activities:</Identifier>
+        <ReturnReference>Part II-B, Line 1i:</ReturnReference>
+        <Explanation>Park Nicollet Health Care Products reimburses certain professional membership dues of employees. A portion of such membership dues are used by the professional associations for lobbying activities.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>4037</OtherCostOrOtherBasis>
+        <Depreciation>4037</Depreciation>
+        <BookValue>0</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>4609472</OtherCostOrOtherBasis>
+        <Depreciation>3985533</Depreciation>
+        <BookValue>623939</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>623939</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Due To/From Affiliates</Description>
+        <Amount>78956664</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>78956664</TotalOfAmounts>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Description of Uncertain Tax Positions Under FIN 48:</Identifier>
+        <ReturnReference>Part X:</ReturnReference>
+        <Explanation>There were no unrecognized tax benefits for the years ended December 31, 2008, 2009 and 2010.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SeverancePayment>1</SeverancePayment>
+      <SupplementalNonqualRetirePlan>1</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>David Abelson MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>593117</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>171752</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>24660</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>132000</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>88188</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>1009717</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Steven Connelly MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>423861</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>80252</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>10275</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>48590</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>562978</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>David J Cooke</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>35960</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>179487</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>484494</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>93397</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>793338</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>47333</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>David Homans MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>466334</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>4303</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>5589</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>38872</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>515098</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Jeffrey B Husband MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>545937</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>14097</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>9488</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>49426</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>618948</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Michael Johnson</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>231294</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>81203</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>43187</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>59876</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>415560</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>25300</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Kathryn D Kallas</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>246209</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>86343</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>12257</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>38405</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>65204</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>448418</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Michael Kaupa</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>384510</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>202453</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>15454</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>56390</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>81181</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>739988</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Charles McCoy MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>180229</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>5099</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>3640</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>32901</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>221869</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Sheila McMillan</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>124202</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>23241</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>30400</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>19107</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>196950</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Janette Strathy MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>217314</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>6002</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>80798</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>36101</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>340215</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Mark Wilkowske MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>564495</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>41572</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>3589</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>49964</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>659620</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Susan Zwaschka</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>226426</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>77201</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>16224</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>28200</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>66611</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>414662</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>John Gustafson</NamePerson>
+        <BaseCompensationFilingOrg>127771</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>976</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>26465</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>155212</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Kim McClaron</NamePerson>
+        <BaseCompensationFilingOrg>122398</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>338</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>29998</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>152734</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Erika Milne</NamePerson>
+        <BaseCompensationFilingOrg>123405</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>28563</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>889</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>26212</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>179069</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>William Thompson</NamePerson>
+        <BaseCompensationFilingOrg>118115</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>27060</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>1642</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>19227</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>166044</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Samuel Carlson MD</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>411</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>172682</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>79194</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>252287</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>David K Wessner</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>44990</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>367603</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>975262</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>101086</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>1488941</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>154681</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 1a</ReturnReference>
+        <Explanation>Park Nicollet Health Services pays social club dues to both the Interlachen and Minneapolis clubs in the name of David Abelson CEO, for use by all Park Nicollet Health Services officers and key employees. The facilities are used for a variety of business meetings held by key executives from Park Nicollet Health Services. Park Nicollet Health Services also pays for Rotary Club of Minneapolis dues for Michael J. Johnson, Park Nicollet Foundation President and Park Nicollet Health Services and affiliates Director. Park Nicollet Health Services considers these expenses to be business expenses of the organization; therefore these amounts are not included in taxable income for the individuals. Part I, Line 3: The Park Nicollet Health Services' Board of Directors is responsible for establishing the compensation of the organization's CEO and Executive Directors for Park Nicollet Health Care Products.</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Lines 4a-b</ReturnReference>
+        <Explanation>During 2010, Park Nicollet Health Services, a related entity, terminated without cause the employment of individuals in reportable positions. Severance payments were determined to be payable under the Park Nicollet Health Services Executive Management Group Severance Policy (the "Policy"). The policy provides that if Park Nicollet Health Services terminates a covered individual without cause, and if the individual releases all legal claims against Park Nicollet Health Services, then Park Nicollet Health Services will provide the terminated individual severance compensation for a period of one year including salary, health, life, dental and disability benefits, as well as deferred compensation, incentive compensation, and pension plan payments. Based on the foregoing, the amount of severance compensation and benefits provided to each of the individual on severance during 2010 is as follows: Samuel E. Carlson, MD $142,974 David K. Wessner, $703,040 David J. Cooke, $400,000 Part I, Line 4b: : Senior leaders of Park Nicollet Health Care Products are given the opportunity to participate in the Capital Accumulation Account Plan. The Capital Accumulation Account Plan (CAA Plan) participation is limited to senior leaders and all the vice presidents. Each participant receives an annual allowance equal to the sum of (i) a stated percent of salary, (ii) voluntary salary deferrals, and (iii) credits for exchanging up to five vacation days. The allowance is credited to a bookkeeping account. Earnings are credited to the account based on the performance of simulated investments. Benefits vest upon the earliest of remaining employed to an elective vesting date (two years to age 68), involuntary termination without cause, disability, death, or not competing for 24 months following voluntary or for-cause termination. Benefits are paid in a single lump sum upon vesting. Participants are general creditors of the employer for the payment of the benefits. The following participants received payouts from a related organization, Park Nicollet Health Services, related to CAA plan: David K. Wessner, $154,681 David J. Cooke, $47,333 Michael Johnson $25,300</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 7</ReturnReference>
+        <Explanation>All physicians employed by and seeing patients for Park Nicollet Clinic, are eligible for a 3% access incentive payout based on their department reaching certain goals including access for patients and quality initiatives. In their roles as executives employed by Park Nicollet Health Services, the executives are eligible for incentive payouts which are paid by Park Nicollet Health Services and Park Nicollet Clinic. The incentive award will be 35% of base pay compensation for the CEO, 30% for the CFO, COO, CMO and 25% for all other executives with an opportunity for incentive credit above the target level. The ultimate payout includes a reduction/increase multiplier depending on whether the consolidated Park Nicollet Health Services organization reached that year's operating margin goal as set by the Board of Directors. Each participant will be responsible for two financial goals, and not less than three and not more than five individual strategic objectives. In their roles as management employed by Park Nicollet Health Services, objective, one of which must be financial in nature.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part IV, Line 24A:</ReturnReference>
+        <Explanation>Park Nicollet Health Care Products, along with related organizations, is jointly liable for the tax exempt bonds held by Park Nicollet Health Services under a master trust agreement. The other members of the jointly liable group, which is collectively referred to as the "Obligated Group", include Park Nicollet Methodist Hospital, PNMC Holdings, Park Nicollet Institute, and Park Nicollet Clinic. In accordance with reporting requirements for Schedule K, all outstanding tax exempt bonds are reported solely on the Schedule K of Park Nicollet Health Services.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 2</Identifier>
+        <Explanation>Park Nicollet Health Services and its related entities have a common board. The following officers, board members, and key employees are employees of and paid by Park Nicollet Health Services or its related organizations. These employees serve together on the common board which serves Park Nicollet Health Services and its related entities. David Abelson David J. Cooke Steven Connelly David Homans Jeffrey B. Husband Micheal Johnson Kathryn D. Kallas Michael Kaupa Charles McCoy Janette Strathy Sheila McMillan Mark Wilkowske Susan Zwaschka</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 7a</Identifier>
+        <Explanation>The Board of Directors of Park Nicollet Health Care Products are those individuals who are contempraneously members of the Board of Directors of Park Nicollet Health Services.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 7b</Identifier>
+        <Explanation>All decisions, including dissolution of the organization, made by the governing body of Park Nicollet Health Care Products are subject to the approval of the board of directors of Park Nicollet Health Services.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>Park Nicollet Health Care Products prepares the Form 990 within the finance department with assistance from individuals in human resources, marketing, and operations. Upon completion of gathering the necessary information for the return, the form was compiled by Park Nicollet Health Care Products' accounting firm. Drafts of the form were reviewed by the Assistant Controller - Accounting Operations, Vice President of Finance, Chief Financial Officer, and the Audit and Compliance Committee. After all internal reviews were complete, the final version of the Form 990 was given to each member of the Board of Directors prior to filing the return.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 12c</ReturnReference>
+        <Explanation>At Park Nicollet Health Care Products all key employees, directors, and officers are required to fill out a conflict of interest statement each year; however the obligation to report conflicts is ongoing. The conflict of interest statements are reviewed by the Chief Compliance Officer and reported to the Park Nicollet Health Service's board's governance committee. The board ensures that any potential conflicts reported have been mitigated in an appropriate manner. When a transaction involving a potential conflict of interest is noted, the board of directors assigns a committee to review that conflict and ensure discussions related to those transactions can occur separately from those individuals with potential conflicts. All significant transactions include an analysis of fair market value.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15</ReturnReference>
+        <Explanation>The Board of Directors of Park Nicollet Health Care Products are those individuals who are contemporaneously members of the Board of Directors of Park Nicollet Health Services. The Park Nicollet Health Services' Board of Directors is responsible for the implementation and oversight of executive compensation and benefit plans for Park Nicollet Health Care Products. Park Nicollet Health Care Products uses an outside consultant to provide yearly market based indexes of salary adjustments for executives in similar leadership positions. The Board of Directors reviews the salary ranges and recommends salary increases for each executive, including the CEO, based upon the Board of Directors' evaluation of job performance and experience level of the individual within the organization. The average salary increases for all Park Nicollet Health Care Products executives cannot exceed the average market salary increase reported for executives by the consultant. The compensation committee then reviews and approves compensation adjustments based on the information provided by the outside consultants and the Board of Directors' recommendations. For certain physicians, the majority of pay disclosed is for his/her work as a physician for Park Nicollet Clinic. A small stipend is added for serving on the Board of Directors. The following is a description of how pay for physicians' patient care work is determined. The Park Nicollet Health Services' Board of Directors is responsible for the implementation and oversight of the physician compensation and benefit plans for Park Nicollet Health Care Products. The Board of Directors delegates the day-to-day administration of the physician compensation plan to the Clinical Board of Governors and the Physician Compensation and Benefits Subcommittee. The purpose of the Physician Compensation and Benefits Subcommittee is to oversee physician and other clinician compensation and benefits plans and administration within the budget to ensure fairness and alignment with Park Nicollet Health Services' goals. The responsibilities of this committee include: Recommending of compensation policies and plan designs for physicians to the clinical board and Board of Directors; Overseeing compensation plan operation and payments to clinical departments; Evaluating compensation plan for performance on a periodic basis; Serving as final appeal process for issues unresolved by individuals, department chairs and chiefs of services. Annually, information on each physician's pay and productivity is graphed against the survey results for the same year. This information is presented to the compensation committee of the Park Nicollet Health Services Board of Directors for review. Park Nicollet Health Services' physician pay program is designed to ensure market based pay for market based productivity standards. The market is determined by the American Medical Group Association (AMGA) national physician compensation survey data, which provides market data for both compensation and productivity. When appropriate, the Clinic Compensation and Benefit Subcommittee grants adjustments to these guidelines with evidence of local market data.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>Park Nicollet Health Care Products governing documents, conflict of interest policy and financial statements are available to the public upon request. Park Nicollet Health Services, as the parent organization of Park Nicollet Health Care Products, mails its consolidated audited financial statements to financial institutions, governmental institutions, board members, media representatives, vendors, and the Minnesota Hospital Association (MHA). Park Nicollet Health Services discloses quarterly financial statements to bondholders. The annual audited and quarterly financial statements are also posted at emma.msrb.org. The forms 990 are available upon request or from the State of Minnesota or at Guidestar.org. Form 990, Part VII: Certain board members for Park Nicollet Health Care Products also provide services as employees to Park Nicollet Health Services and its subsidiaries. Hours worked are an estimate and are not tracked on an entity by entity basis. Therefore, these officers, directors, and key employees hours reported on Form 990, Part VII represent aggregate hours worked per week for all Park Nicollet Health Services entities. Community board members hours reported on Form 990, Part VII are an estimate and are not tracked on an entity by entity basis. Therefore, these directors hours reported on Form 990, Part VII represent aggregate hours of service provided per week for all Park Nicollet Health Services entities.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Changes in Net Assets or Fund Balances:</Identifier>
+        <ReturnReference>Form 990, Part XI, line 5:</ReturnReference>
+        <Explanation>Expenses for Grants Paid Directly by Park Nicollet Foundation -43,702. Total to Form 990, Part XI, Line 5: -43,702.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part XII, Line 2c:</ReturnReference>
+        <Explanation>Neither the oversight process for the audit nor the auditor selection process for Park Nicollet Health Services and affiliates' financial statements have changed during the tax year.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+        <EIN>363465840</EIN>
+        <PrimaryActivities>Health Care Administration</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501 (C) 3</ExemptCodeSection>
+        <PublicCharityStatus>11, Type I</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Park Nicollet Foundation</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+        <EIN>237346465</EIN>
+        <PrimaryActivities>Grants to Serve the Community</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501 (C) 3</ExemptCodeSection>
+        <PublicCharityStatus>7</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>1</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+        <EIN>410132080</EIN>
+        <PrimaryActivities>Health Care</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501 (C) 3</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>1</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Park Nicollet Institute</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55416</ZIPCode>
+        </AddressUS>
+        <EIN>410961862</EIN>
+        <PrimaryActivities>Health Care Research</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501 (C) 3</ExemptCodeSection>
+        <PublicCharityStatus>4</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>1</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>3800 Park Nicollet Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55416</ZIPCode>
+        </AddressUS>
+        <EIN>410834920</EIN>
+        <PrimaryActivities>Health Care</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501 (C) 3</ExemptCodeSection>
+        <PublicCharityStatus>3</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>1</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>PNMC Holdings</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>3800 Park Nicollet Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55416</ZIPCode>
+        </AddressUS>
+        <EIN>411741792</EIN>
+        <PrimaryActivities>Healthcare Real Estate</PrimaryActivities>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <ExemptCodeSection>501 (C) 3</ExemptCodeSection>
+        <PublicCharityStatus>11, Type I</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>1</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartIII>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>TRIA Orthopaedic Center LLC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>8100 Northland Drive</AddressLine1>
+          <City>Bloomington</City>
+          <State>MN</State>
+          <ZIPCode>55431</ZIPCode>
+        </AddressUS>
+        <EIN>200034003</EIN>
+        <PrimaryActivity>Health Care</PrimaryActivity>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <PredominantIncomeType>N/A</PredominantIncomeType>
+        <DisproportionateAllocations>0</DisproportionateAllocations>
+        <GeneralOrManagingPartner>0</GeneralOrManagingPartner>
+      </Form990ScheduleRPartIII>
+      <Form990ScheduleRPartIII>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Methodist Brain Lab Leasing LLC</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+        <EIN>208725994</EIN>
+        <PrimaryActivity>Health Care</PrimaryActivity>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <PredominantIncomeType>N/A</PredominantIncomeType>
+        <DisproportionateAllocations>0</DisproportionateAllocations>
+        <GeneralOrManagingPartner>0</GeneralOrManagingPartner>
+      </Form990ScheduleRPartIII>
+      <Form990ScheduleRPartIII>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Park Nicollet Health Services Investment Partnership</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Blvd</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+        <EIN>411675033</EIN>
+        <PrimaryActivity>Investments</PrimaryActivity>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <PredominantIncomeType>N/A</PredominantIncomeType>
+        <DisproportionateAllocations>0</DisproportionateAllocations>
+        <GeneralOrManagingPartner>0</GeneralOrManagingPartner>
+      </Form990ScheduleRPartIII>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Park Nicollet Enterprises</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>6500 Excelsior Boulevard</AddressLine1>
+          <City>St Louis Park</City>
+          <State>MN</State>
+          <ZIPCode>55426</ZIPCode>
+        </AddressUS>
+        <EIN>411656735</EIN>
+        <PrimaryActivity>Real Estate for Related Organization</PrimaryActivity>
+        <LegalDomicileState>MN</LegalDomicileState>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Park Nicollet Health Services</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <TypeOfEntity>C</TypeOfEntity>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>1</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>1</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>1</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>1</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>1</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>1</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>J</TransactionType>
+        <AmountInvolved>869063</AmountInvolved>
+        <MethodOfAmtDetermination>Fair Market Value</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>L</TransactionType>
+        <AmountInvolved>7160159</AmountInvolved>
+        <MethodOfAmtDetermination>Cost</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>Q</TransactionType>
+        <AmountInvolved>773807</AmountInvolved>
+        <MethodOfAmtDetermination>Cost</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Methodist Hospital</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>O</TransactionType>
+        <AmountInvolved>279370</AmountInvolved>
+        <MethodOfAmtDetermination>Cost</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>P</TransactionType>
+        <AmountInvolved>43598037</AmountInvolved>
+        <MethodOfAmtDetermination>Cost</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>J</TransactionType>
+        <AmountInvolved>1506371</AmountInvolved>
+        <MethodOfAmtDetermination>Fair Market Value</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>O</TransactionType>
+        <AmountInvolved>288468</AmountInvolved>
+        <MethodOfAmtDetermination>Cost</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>Park Nicollet Clinic</BusinessNameLine1>
+        </NameOfOtherOrganization>
+        <TransactionType>Q</TransactionType>
+        <AmountInvolved>20893917</AmountInvolved>
+        <MethodOfAmtDetermination>Cost</MethodOfAmtDetermination>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

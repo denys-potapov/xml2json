@@ -1,0 +1,981 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-13T09:38:31-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>LARSONALLEN LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>600 WASHINGTON AVENUE SUITE 1800</AddressLine1>
+        <City>ST LOUIS</City>
+        <State>MO</State>
+        <ZIPCode>63101</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010729134</EIN>
+      <Name>
+        <BusinessNameLine1>CLARE OAKS</BusinessNameLine1>
+      </Name>
+      <NameControl>CLAR</NameControl>
+      <Phone>6303721983</Phone>
+      <USAddress>
+        <AddressLine1>827 CARILLON DRIVE</AddressLine1>
+        <City>BARTLETT</City>
+        <State>IL</State>
+        <ZIPCode>60103</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>PAUL CLEMENS</Name>
+      <Title>BOARD Treasurer</Title>
+      <Phone>6303721983</Phone>
+      <DateSigned>2011-05-13</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Chad D Kunze CPA</Name>
+      <Phone>3149254300</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Paul Clemens</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>827 CARILLON DRIVE</AddressLine1>
+        <City>BARTLETT</City>
+        <State>IL</State>
+        <ZIPCode>60103</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>19826294</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>WWW.CLAREOAKS.COM</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2006</YearFormation>
+      <StateLegalDomicile>IL</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO PROVIDE CONTINUING CARE AT A RETIREMENT COMMUNITY CONSISTING OF RESIDENTIAL, HEALTH, RECREATIONAL, SOCIAL, RELIGIOUS AND SPIRITUAL FACILITIES AND SERVICES, WHICH WILL SHARE, PROMOTE AND OPERATE IN ACCORDANCE WITH ETHICAL AND SPIRITUAL VALUES FOR THE ROMAN CATHOLIC RELIGIOUS INSTITUTE KNOWN AS THE SISTERS OF ST. JOSEPH OF THE THIRD ORDER OF ST. FRANCIS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>9</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>9</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>24</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>961653</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>4038347</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>11302080</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>14869035</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>374492</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>308060</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>184498</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>458028</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>12822723</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>19673470</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>6655301</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>7984083</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>17984650</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>18629164</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>24639951</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>26613247</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-11817228</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-6939777</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>121954520</TotalAssetsBOY>
+      <TotalAssetsEOY>113965034</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>138601932</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>137574117</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-16647412</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>-23609083</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>TO PROVIDE CONTINUING CARE AT A RETIREMENT COMMUNITY CONSISTING OF RESIDENTIAL, HEALTH, RECREATIONAL, SOCIAL, RELIGIOUS AND SPIRITUAL FACILITIES AND SERVICES, WHICH WILL SHARE, PROMOTE AND OPERATE IN ACCORDANCE WITH ETHICAL AND SPIRITUAL VALUES FOR THE ROMAN CATHOLIC RELIGIOUS INSTITUTE KNOWN AS THE SISTERS OF ST. JOSEPH OF THE THIRD ORDER OF ST. FRANCIS.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>22861626</Expense>
+      <Revenue>15327063</Revenue>
+      <Description>Clare Oaks provides an assisted living facility as well as memory care services to older adults. It provides housing and supportive services by certified and licensed nursing staff including support for adl's, medication administration, onsite 24 hour security, dining, wellness programs, activities, transportation, health clinic, housekeeping, and a physical fitness venue.Clare Oaks provides an independent living facility that provides housing and supportive services including onsite 24 hour security, dining, wellness programs, activities, transportation, health clinic, housekeeping, and a physical fitness venue. Clare Oaks provides a skilled nursing facility that provides a 24 hour skilled nursing service (licensed in medicare and medicaid) in a modern healthcare center. The skilled nursing facility includes support for adl's, medication administration, onsite 24 hour security, dining, wellness programs, activities, transportation, a health clinic, housekeeping, and a physical fitness venue.</Description>
+      <TotalProgramServiceExpense>22861626</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc1040000001">1</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds referenceDocumentId="RetDoc1053100001">1</TaxExemptBonds>
+      <InvestTaxExemptBonds>0</InvestTaxExemptBonds>
+      <EscrowAccount>0</EscrowAccount>
+      <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>9</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>9</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>1</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>IL</StatesWhereCopyOfReturnIsFiled>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Gigi Walker</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>6303721983</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>825 CARILLON DRIVE</AddressLine1>
+          <City>BARTLETT</City>
+          <State>IL</State>
+          <ZIPCode>60103</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>SISTER COLETTE WILCZYNSKI</NamePerson>
+        <Title>DIRECTOR EMERITUS OF THE B</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAN WALSH</NamePerson>
+        <Title>PRESIDENT OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SISTER DENISE SEYMOUR</NamePerson>
+        <Title>MEMBER OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SISTER JEANNE CONZEMIUS</NamePerson>
+        <Title>VICE PRESIDENT OF THE BOAR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL D HOVDE JR</NamePerson>
+        <Title>VP/SECRETARY OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SISTER MARCELLA NOWAKOWSKI</NamePerson>
+        <Title>MEMBER OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAUL CLEMENS</NamePerson>
+        <Title>TREASURER OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>EDWARD TED OTTO</NamePerson>
+        <Title>MEMBER OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THERESE M MALM</NamePerson>
+        <Title>MEMBER OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Renee Cisewski</NamePerson>
+        <Title>MEMBER OF THE BOARD</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PAULA BARTOLOZZI</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>122984</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>122984</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>REHAB CARE Group Inc</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO BOX 503534</AddressLine1>
+            <City>ST LOUIS</City>
+            <State>MO</State>
+            <ZIPCode>63150</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>THERAPY SERVICES</DescriptionOfServices>
+        <Compensation>1202964</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>The Weitz Company LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>5901 THORNTON AVENUE</AddressLine1>
+            <City>DES MOINES</City>
+            <State>IA</State>
+            <ZIPCode>50321</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>CONSTRUCTION SERVICES</DescriptionOfServices>
+        <Compensation>755029</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>CRSA MANAGEMENT</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>3350 PLAYERS CLUB PARKWAY STE 300</AddressLine1>
+            <City>MEMPHIS</City>
+            <State>TN</State>
+            <ZIPCode>38125</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>MANAGEMENT SERVICES</DescriptionOfServices>
+        <Compensation>544093</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>CRSA Employment Services Inc</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>3350 PLAYERS CLUB PARKWAY STE 300</AddressLine1>
+            <City>MEMPHIS</City>
+            <State>TN</State>
+            <ZIPCode>38125</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Payroll Processing</DescriptionOfServices>
+        <Compensation>215896</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Althoff Industries Inc</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>8001 S Route 31</AddressLine1>
+            <City>Crystal Lake</City>
+            <State>IL</State>
+            <ZIPCode>60014</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Mechanical, Electrical and Control Servi</DescriptionOfServices>
+        <Compensation>192689</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>10</NumberOfContractorsGT100K>
+      <AllOtherContributions>4038347</AllOtherContributions>
+      <TotalContributions>4038347</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>RESIDENT SERVICES</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>14869035</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>14869035</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>14869035</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>281708</TotalRevenueColumn>
+        <ExclusionAmount>281708</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>179176</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>152824</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>26352</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>26352</TotalRevenueColumn>
+        <ExclusionAmount>26352</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <OtherRevenueMisc>
+        <Description>Miscellaneous</Description>
+        <BusinessCode>623000</BusinessCode>
+        <TotalRevenueColumn>458028</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>458028</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>458028</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>19673470</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>15327063</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>308060</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>122984</Total>
+        <ManagementAndGeneral>122984</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>6954380</Total>
+        <ProgramServices>6382763</ProgramServices>
+        <ManagementAndGeneral>571617</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>246313</Total>
+        <ManagementAndGeneral>246313</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>660406</Total>
+        <ProgramServices>478119</ProgramServices>
+        <ManagementAndGeneral>182287</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>1320383</Total>
+        <ProgramServices>601126</ProgramServices>
+        <ManagementAndGeneral>719257</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesAccounting>
+        <Total>211074</Total>
+        <ManagementAndGeneral>211074</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>39369</Total>
+        <ProgramServices>39369</ProgramServices>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>71786</Total>
+        <ManagementAndGeneral>71786</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>242043</Total>
+        <ProgramServices>27072</ProgramServices>
+        <ManagementAndGeneral>214971</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>199002</Total>
+        <ManagementAndGeneral>199002</ManagementAndGeneral>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>713434</Total>
+        <ProgramServices>713434</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>40185</Total>
+        <ProgramServices>34134</ProgramServices>
+        <ManagementAndGeneral>6051</ManagementAndGeneral>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>18864</Total>
+        <ProgramServices>7722</ProgramServices>
+        <ManagementAndGeneral>11142</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>5897304</Total>
+        <ProgramServices>5856820</ProgramServices>
+        <ManagementAndGeneral>40484</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>4520709</Total>
+        <ProgramServices>4489675</ProgramServices>
+        <ManagementAndGeneral>31034</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>780317</Total>
+        <ManagementAndGeneral>780317</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Supplies</Description>
+        <Total>2331979</Total>
+        <ProgramServices>2330639</ProgramServices>
+        <ManagementAndGeneral>1340</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>food</Description>
+        <Total>792942</Total>
+        <ProgramServices>792942</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PHarmacy</Description>
+        <Total>546947</Total>
+        <ProgramServices>546947</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Equipment Rental &amp; Repa</Description>
+        <Total>339791</Total>
+        <ProgramServices>323202</ProgramServices>
+        <ManagementAndGeneral>16589</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bad Debt Expense</Description>
+        <Total>275209</Total>
+        <ManagementAndGeneral>275209</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>287826</Total>
+        <ProgramServices>237662</ProgramServices>
+        <ManagementAndGeneral>50164</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>26613247</Total>
+        <ProgramServices>22861626</ProgramServices>
+        <ManagementAndGeneral>3751621</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>281310</BOY>
+        <EOY>1169392</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>1017396</BOY>
+        <EOY>754648</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>2893212</BOY>
+        <EOY>2668710</EOY>
+      </AccountsReceivable>
+      <OtherNotesLoansReceivableNet>
+        <BOY>792375</BOY>
+        <EOY>598175</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>15893</BOY>
+        <EOY>20357</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>198632</BOY>
+        <EOY>170915</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>96503376</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>7367259</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>95418944</BOY>
+        <EOY>89136117</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>10148868</BOY>
+        <EOY>8709919</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>11187890</BOY>
+        <EOY>10736801</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>121954520</BOY>
+        <EOY>113965034</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>5180491</BOY>
+        <EOY>3927650</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>24322564</BOY>
+        <EOY>29918155</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>106247473</BOY>
+        <EOY>100792045</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>2851404</BOY>
+        <EOY>2936267</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>138601932</BOY>
+        <EOY>137574117</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-16647412</BOY>
+        <EOY>-23609083</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-16647412</BOY>
+        <EOY>-23609083</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>121954520</BOY>
+        <EOY>113965034</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus1Year>961653</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>4038347</CurrentTaxYear>
+        <Total>5000000</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus3Years>1331000</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>976060</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>11302080</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>14869035</CurrentTaxYear>
+        <Total>28478175</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus3Years>1331000</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>976060</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>12263733</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>18907382</CurrentTaxYear>
+        <Total>33478175</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>33478175</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus3Years>18499</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1895733</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>374492</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>308061</CurrentTaxYear>
+        <Total>2596785</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus3Years>18499</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>1895733</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>374492</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>308061</CurrentTaxYear>
+        <Total>2596785</Total>
+      </InvestmentIncomeAndUBTI>
+      <OtherIncome509>
+        <CurrentTaxYearMinus4Years>7850</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1280</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>77435</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>184498</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>458028</CurrentTaxYear>
+        <Total>729091</Total>
+      </OtherIncome509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>7850</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>1350779</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>2949228</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>12822723</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>19673471</CurrentTaxYear>
+        <Total>36804051</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.90960</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.85030</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.07060</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.13360</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>164221</OtherCostOrOtherBasis>
+        <BookValue>164221</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>92906816</OtherCostOrOtherBasis>
+        <Depreciation>6184118</Depreciation>
+        <BookValue>86722698</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>3432339</OtherCostOrOtherBasis>
+        <Depreciation>1183141</Depreciation>
+        <BookValue>2249198</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>89136117</TotalOfBookValueLandBuildings>
+      <OtherSecurities>
+        <Description>2006 AB EXTRAS DEBT SERVICE RESERV</Description>
+        <BookValue>4040845</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 AB EXTRAS PROJECT FUND</Description>
+        <BookValue>482211</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 A INTEREST ACCT - INTEREST FUND</Description>
+        <BookValue>251204</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 B INTEREST ACCT - INTEREST FUND</Description>
+        <BookValue>26500</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 A/B PROJECT FUND - EQUITY SUB</Description>
+        <BookValue>47421</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006C RESERVE ACCT - DEBT SERVICE R</Description>
+        <BookValue>2388848</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006D RESERVE ACCT - DEBT SERVICE R</Description>
+        <BookValue>732592</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 C/D PROJECT FUND</Description>
+        <BookValue>581161</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 D INTEREST ACCT - INTEREST FUND</Description>
+        <BookValue>28002</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 C/D OPTIONAL REDEMPTION FUND</Description>
+        <BookValue>100000</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <OtherSecurities>
+        <Description>2006 C/D PROJECT FUND - EQUITY SUB</Description>
+        <BookValue>31135</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <TotalOfBookValueSecurities>8709919</TotalOfBookValueSecurities>
+      <OtherAssets>
+        <Description>DEFERRED FINANCING COSTS</Description>
+        <BookValue>4929284</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ENTRANCE DEPOSITS</Description>
+        <BookValue>706628</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>DEFERRED MARKETING/SELLING COSTS</Description>
+        <BookValue>4302316</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>CONSTRUCTION IN PROGRESS</Description>
+        <BookValue>798573</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>10736801</TotalBookValueOtherAssets>
+      <OtherLiabilities>
+        <Description>DEFERRED DEVELOPMENT FEES</Description>
+        <Amount>499998</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>CURRENT DEFERRED ENTRANCE FEES</Description>
+        <Amount>1650050</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>RESERVATION DEPOSITS</Description>
+        <Amount>782219</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Deferred Management Fees</Description>
+        <Amount>4000</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>2936267</TotalOfAmounts>
+      <TotalRevenue>19673470</TotalRevenue>
+      <TotalExpenses>26613247</TotalExpenses>
+      <ExcessOrDeficitForYear>-6939777</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>3132</NetUnrealizedGLOnInvestments>
+      <PriorPeriodAdjustments>-572023</PriorPeriodAdjustments>
+      <OtherAmount>546997</OtherAmount>
+      <TotalAdjustments>-21894</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-6961671</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>20223599</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>3132</NetUnrealizedGainsInvestments>
+      <OtherRevenues>546997</OtherRevenues>
+      <RevenueNotRptdF990>550129</RevenueNotRptdF990>
+      <RevenueSubtotal>19673470</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>19673470</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>26613247</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>26613247</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>26613247</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part X:</Identifier>
+        <ReturnReference>Description of Uncertain Tax Positions Under FIN 48:</ReturnReference>
+        <Explanation>The Organization qualifies as a tax-exempt organization described in Section 501 (c)(3) of the Internal Revenue Code. Accordingly, the Organization is not subject to federal income taxes under Section 501 (c)(3) of the Code. The Organization is classified as a publicly supported charitable organization under the Code and contributions to the Project qualifies as charitable tax deductions for the contributor. The entity files as a tax-exempt organization. Should that status be challenged in the future, all years since inception could be subject to review by the IRS. The Organizations income tax returns for the years 2007 through 2010 are subject to review and examination by the IRS.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XI, Line 8 - Other Adjustments:</Identifier>
+        <Explanation>Gain ON INTEREST RATE SWAP IN THE CURRENT YEAR: 546997.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>Gain on Interest Rate Swap Agreement: 546997.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleK documentId="RetDoc1053100001">
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>ILLINOIS FINANCE AUTHORITY</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>861091967</IssuerEIN>
+        <CUSIPNumber>45200BZR2</CUSIPNumber>
+        <DateIssued>2006-07-19</DateIssued>
+        <IssuePrice>56360000</IssuePrice>
+        <DescriptionOfPurpose>CONSTRUCTION PROJECT OF CLARE OAKS</DescriptionOfPurpose>
+        <Defeased>0</Defeased>
+        <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>ILLINOIS FINANCE AUTHORITY</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>861091967</IssuerEIN>
+        <CUSIPNumber>45200BZN1</CUSIPNumber>
+        <DateIssued>2006-07-19</DateIssued>
+        <IssuePrice>55968314</IssuePrice>
+        <DescriptionOfPurpose>CONSTRUCTION PROJECT OF CLARE OAKS</DescriptionOfPurpose>
+        <Defeased>0</Defeased>
+        <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartII>
+        <TotalProceeds>56360000</TotalProceeds>
+        <AmountInReserveFund>3249442</AmountInReserveFund>
+        <AmountUnspent>612296</AmountUnspent>
+        <IssuanceCostsFromProceeds>1127200</IssuanceCostsFromProceeds>
+        <CapitalExpenditures>48832572</CapitalExpenditures>
+        <YearOfSubstCompletion>2008</YearOfSubstCompletion>
+        <CurrentRefunding>0</CurrentRefunding>
+        <AdvanceRefunding>0</AdvanceRefunding>
+        <FinalAllocationMade>1</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>1</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartII>
+        <TotalProceeds>55968314</TotalProceeds>
+        <AmountInReserveFund>5025177</AmountInReserveFund>
+        <AmountUnspent>529632</AmountUnspent>
+        <IssuanceCostsFromProceeds>1118883</IssuanceCostsFromProceeds>
+        <CapitalExpenditures>47537462</CapitalExpenditures>
+        <YearOfSubstCompletion>2008</YearOfSubstCompletion>
+        <CurrentRefunding>0</CurrentRefunding>
+        <AdvanceRefunding>0</AdvanceRefunding>
+        <FinalAllocationMade>1</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>1</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartIII>
+        <OwningBondFinancedProperty>0</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>0</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>0</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>0</AnyResearchAgreements>
+        <BondCounselRoutinelyEngaged>0</BondCounselRoutinelyEngaged>
+        <PostIssuanceComplianceProcdrs>1</PostIssuanceComplianceProcdrs>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIII>
+        <OwningBondFinancedProperty>0</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>0</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>0</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>0</AnyResearchAgreements>
+        <BondCounselRoutinelyEngaged>0</BondCounselRoutinelyEngaged>
+        <PostIssuanceComplianceProcdrs>1</PostIssuanceComplianceProcdrs>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>0</Form8038TFiled>
+        <VariableRateIssue>1</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>1</HedgeIdentifiedInBooksAndRecds>
+        <NameOfHedgeProvider>
+          <BusinessNameLine1>Sovereign Bank</BusinessNameLine1>
+          <BusinessNameLine2>Derivative</BusinessNameLine2>
+        </NameOfHedgeProvider>
+        <TermOfHedge>5.500000000000</TermOfHedge>
+        <GrossProceedsInvestedInGIC>0</GrossProceedsInvestedInGIC>
+        <GrossProceedsInvested>0</GrossProceedsInvested>
+        <ExceptionToRebate>0</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>0</Form8038TFiled>
+        <VariableRateIssue>0</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>0</HedgeIdentifiedInBooksAndRecds>
+        <GrossProceedsInvestedInGIC>0</GrossProceedsInvestedInGIC>
+        <GrossProceedsInvested>0</GrossProceedsInvested>
+        <ExceptionToRebate>0</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+    </IRS990ScheduleK>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 3</Identifier>
+        <Explanation>LCS MANAGEMENT PROVIDES OVERSIGHT AND MANAGEMENT OF THE COMMUNITY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>THE RETURN WILL BE DISTRIBUTED TO BOARD MEMBERS BY THE EXECUTIVE DIRECTOR FOR REVIEW AND COMMENTS. ANY QUESTIONS WILL BE DIRECTED TO THE FINANCE DIRECTOR AND WILL BE ADDRESSED WITH THE PREPARER.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 12c</Identifier>
+        <Explanation>ALL OFFICERS, DIRECTORS, AND KEY EMPLOYEES ARE REQUIRED TO ANNUALLY COMPLETE AND SIGN A CONFLICT OF INTEREST DISCLOSURE STATEMENT. THE DISCLOSURE INCLUDES A STATEMENT THAT THE INDIVIDUAL WILL IMMEDIATELY REPORT ANY KNOWN PERSONAL OR BUSINESS RELATIONSHIP THAT EXISTS WITH AN ORGANIZATION/INDIVIDUAL DOING BUSINESS WITH CLARE OAKS, TO THE EXECUTIVE DIRECTOR AND THE PRESIDENT OF THE BOARD. ALL CONTRACTS AND AGREEMENTS ARE REVIEWED BY THE EXECUTIVE DIRECTOR AND THE CONTROLLER TO ASCERTAIN IF ANY RELATIONSHIP EXISTS BETWEEN THE CONTRACTOR AND ANY OFFICERS, DIRECTORS, OR KEY EMPLOYEES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 15</Identifier>
+        <Explanation>CLARE OAKS HAS A PROCESS FOR DETERMINING COMPENSATION OF THE ORGANIZATION'S EXECUTIVE DIRECTOR AND OTHER KEY EMPLOYEES. IT IS DETERMINED BY THE MANAGEMENT COMPANY AND THEIR EXPERTISE. SALARY SURVEYS ARE COMPLETED TO ENSURE COMPENSATION IS IN LINE WITH THE MARKET. THE SALARIES ARE REVIEWED AND APPROVED ON AN ANNUAL BASIS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 18</Identifier>
+        <Explanation>CLARE OAKS MAKES ITS FORM 990 AND FORM 1023 AVAILABLE FOR PUBLIC INSPECTION ON ANOTHER'S WEBSITE AS WELL AS UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 19</Identifier>
+        <Explanation>CLARE OAKS MAKES ITS CONFLICT OF INTEREST POLICY AND FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC VIA EMMA, CENTERS FOR MEDICARE AND MEDICAID SERVICES, AND THE ILLINOIS DIGITAL ARCHIVES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>There were no changes to the oversight or selection processes from the prior year.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PAGE 5, LINES 1A AND 2A</Identifier>
+        <ReturnReference>FORM 1096 AND W-3 FOR EMPLOYEES</ReturnReference>
+        <Explanation>CLARE OAKS IS Managed BY A MANAGEMENT COMPANY, CRSA/LCS. ALL EMPLOYEES ARE EMPLOYEES OF CRSA/LCS; THEREFORE NO FORM 1096 AND W-3 ARE FILED THROUGH CLARE OAKS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>SCHEDULE K, PART I, LINE A, COLUMN (C)</Identifier>
+        <ReturnReference>SEVERAL CUSIP NUMBERS</ReturnReference>
+        <Explanation>THE BOND LISTED ON SCHEDULE K, LINE A INCLUDES TWO DIFFERENT BONDS WITH TWO DIFFERENT CUSIP NUMBERS. THE REVENUE BOND, SERIES 2006C'S CUSIP NUMBER IS 45200BZR2. THE REVENUE BOND, SERIES 2006D'S CUSIP NUMBER IS 45200BZS0.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>SCHEDULE K, PART I, LINE B, COLUMN (C)</Identifier>
+        <ReturnReference>SEVERAL CUSIP NUMBERS</ReturnReference>
+        <Explanation>THE BOND LISTED ON SCHEDULE K, LINE A INCLUDES THREE DIFFERENT BONDS WITH EIGHT DIFFERENT CUSIP NUMBERS. THE REVENUE BOND INCLUDES SERIES 2006A, SERIES 2006B-1, AND SERIES 2006B-2. THE BOND INCLUDES THE FOLLOWING CUSIP NUMBERS: 45200BZN1, 45200BZP6, 45200BZQ4, 45200BZK7, 45200BZK, 45200BZM, 45200BZP, AND 45200BZQ.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

@@ -1,0 +1,593 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-09T13:31:34-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Kathryn A Dunn CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 1016 10 Court St Place</AddressLine1>
+        <City>Augusta</City>
+        <State>ME</State>
+        <ZIPCode>043321016</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010463255</EIN>
+      <Name>
+        <BusinessNameLine1>Maine Sheriffs' Association</BusinessNameLine1>
+      </Name>
+      <NameControl>MAIN</NameControl>
+      <Phone>2076267695</Phone>
+      <USAddress>
+        <AddressLine1>15 Oak Grove Road</AddressLine1>
+        <City>Vassalboro</City>
+        <State>ME</State>
+        <ZIPCode>04989</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Mary-Anne LaMarre</Name>
+      <Title>Director</Title>
+      <Phone>2073145215</Phone>
+      <DateSigned>2011-11-09</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Kathryn A Dunn CPA</Name>
+      <Phone>2076263554</Phone>
+      <DatePrepared>2011-11-09</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990 documentId="990" softwareId="10000149" softwareVersion="2010.2.15">
+      <NameOfPrincipalOfficerBusiness>
+        <BusinessNameLine1>Mary-Anne Beal</BusinessNameLine1>
+      </NameOfPrincipalOfficerBusiness>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>15 Oak Grove Road</AddressLine1>
+        <City>Vassalboro</City>
+        <State>ME</State>
+        <ZIPCode>04989</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>324346</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="6">X</Organization501c>
+      <WebSite>www.MaineSheriffs.org</WebSite>
+      <TypeOfOrganizationAssociation>X</TypeOfOrganizationAssociation>
+      <YearFormation>1976</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>To improve and professionalize the sixteen County Sheriffs' Offices in Maine to assure that all citizens of the counties receive the highest quality of law enforcement and jail services in an efficient, courteous and humane manner; and to perform those duties which are necessary to inform and educate all citizens about county law inforcement and jail services in order to enhance the public's understanding, support and respect. To improve and professionalize the sixteen County Sheriffs Offices in Maine to assure that all citizens of the counties receive the highest quality of law enforcement and jail services in an efficient, courteous and humane manner and to perform those duties which are necessary to inform and educate all citizens about county law inforcement and jail services in order to enhance the publics understanding, support and respect.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>16</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>16</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>36</TotalNbrEmployees>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>25819</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>5866</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>267575</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>317576</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>306</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>904</InvestmentIncomeCurrentYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>293700</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>324346</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>115370</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>111290</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>833</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>188079</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>174184</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>303449</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>285474</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-9749</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>38872</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>42944</TotalAssetsBOY>
+      <TotalAssetsEOY>81816</TotalAssetsEOY>
+      <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>42944</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>81816</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>To provide services to improve and professionalize the sixteen County Sheriffs Offices in the State of Maine.</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>209220</Expense>
+      <Description>To perform educational services to the County Sheriffs and the public to perform Liquor Tobacco sales compliance and enforcements</Description>
+      <TotalProgramServiceExpense>209220</TotalProgramServiceExpense>
+      <DescribedIn501C3>false</DescribedIn501C3>
+      <ScheduleBRequired>false</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <SubjectToProxyTax referenceDocumentId="990C">true</SubjectToProxyTax>
+      <DonorAdvisedFunds>false</DonorAdvisedFunds>
+      <ConservationEasements>false</ConservationEasements>
+      <CollectionsOfArt>false</CollectionsOfArt>
+      <CreditCounseling>false</CreditCounseling>
+      <TermOrPermanentEndowments>false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="990D">true</ReportLandBldgEquip>
+      <ReportInvestOthSecurities>false</ReportInvestOthSecurities>
+      <ReportProgRelInvest>false</ReportProgRelInvest>
+      <ReportOtherAssets>false</ReportOtherAssets>
+      <ReportOtherLiabilities>false</ReportOtherLiabilities>
+      <ReportFin48Footnote>false</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt>false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt>false</ConsolidatedAuditFinancialStmt>
+      <School>false</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>false</ProfessionalFundraising>
+      <FundraisingActivities>false</FundraisingActivities>
+      <Gaming>false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations>false</GrantsToOrganizations>
+      <GrantsToIndividuals>false</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity>false</DisregardedEntity>
+      <RelatedEntity>false</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>false</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership>false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>1</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>36</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <QuidProQuoContributions>false</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <Form8899Filed>false</Form8899Filed>
+      <Form1098CFiled>false</Form1098CFiled>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>16</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>16</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>true</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>true</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>true</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <Form990ProvidedToGoverningBody>false</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>false</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>false</AnnualDisclosureCoveredPersons>
+      <WhistleblowerPolicy>false</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>false</DocumentRetentionPolicy>
+      <CompensationProcessCEO>false</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Mary-Anne LaMarre</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2073145215</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>15 Oak Grove Road</AddressLine1>
+          <City>Vassalboro</City>
+          <State>ME</State>
+          <ZIPCode>04989</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Todd Brackett</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>002.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Glenn Ross</NamePerson>
+        <Title>1st V.President</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Randall Liberty</NamePerson>
+        <Title>2nd V.President</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Maurice Ouellette</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Wayne Gallant</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>002.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff James P Madore</NamePerson>
+        <Title>Immediate Past Pres.</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Scott Story</NamePerson>
+        <Title>Past Pres.-at-large</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff William Clark</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Barry Delong</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Donna Dennison</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Guy Desjardin</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Mark N Dion</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff John J Goggin</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Dennis Pike</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Donald Smith</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Sheriff Brett Strout</NamePerson>
+        <Title>Board director</Title>
+        <AverageHoursPerWeek>001.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <MembershipDues>5316</MembershipDues>
+      <AllOtherContributions>550</AllOtherContributions>
+      <TotalContributions>5866</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Conf./Meeting/Training fees</Description>
+        <TotalRevenueColumn>12895</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>12895</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>State of Maine-service contract Liquor</Description>
+        <TotalRevenueColumn>159229</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>159229</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>State of Maine-service contract Tobacco</Description>
+        <TotalRevenueColumn>145452</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>145452</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>317576</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>904</TotalRevenueColumn>
+        <ExclusionAmount>904</ExclusionAmount>
+      </InvestmentIncome>
+      <TotalRevenue>
+        <TotalRevenueColumn>324346</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>317576</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>904</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>0</Total>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>0</Total>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>92644</Total>
+        <ProgramServices>92644</ProgramServices>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>0</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>0</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>18646</Total>
+        <ProgramServices>18646</ProgramServices>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>132771</Total>
+        <ProgramServices>86156</ProgramServices>
+        <ManagementAndGeneral>46615</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>1350</Total>
+        <ManagementAndGeneral>1350</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising></FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>1000</Total>
+        <ManagementAndGeneral>1000</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>833</Total>
+        <Fundraising>833</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>1526</Total>
+        <ProgramServices>379</ProgramServices>
+        <ManagementAndGeneral>1147</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>1015</Total>
+        <ProgramServices>159</ProgramServices>
+        <ManagementAndGeneral>856</ManagementAndGeneral>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>0</Total>
+      </Occupancy>
+      <Travel>
+        <Total>548</Total>
+        <ProgramServices>138</ProgramServices>
+        <ManagementAndGeneral>410</ManagementAndGeneral>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>8804</Total>
+        <ProgramServices>8804</ProgramServices>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>303</Total>
+        <ManagementAndGeneral>303</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>14530</Total>
+        <ManagementAndGeneral>14530</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Donations</Description>
+        <Total>9045</Total>
+        <ManagementAndGeneral>9045</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Dues, subscriptions, bank fees filing fees</Description>
+        <Total>165</Total>
+        <ManagementAndGeneral>165</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Photocopies</Description>
+        <Total>777</Total>
+        <ProgramServices>777</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Payroll processing fees</Description>
+        <Total>1134</Total>
+        <ProgramServices>1134</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Background checks</Description>
+        <Total>383</Total>
+        <ProgramServices>383</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>0</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>285474</Total>
+        <ProgramServices>209220</ProgramServices>
+        <ManagementAndGeneral>75421</ManagementAndGeneral>
+        <Fundraising>833</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>42944</BOY>
+        <EOY>80301</EOY>
+      </SavingsAndTempCashInvestments>
+      <LandBuildingsEquipmentBasis>1818</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>303</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <EOY>1515</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>42944</BOY>
+        <EOY>81816</EOY>
+      </TotalAssets>
+      <TotalLiabilities>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>42934</BOY>
+        <EOY>81816</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>10</BOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>42944</BOY>
+        <EOY>81816</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>42944</BOY>
+        <EOY>81816</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>38872</ReconcilationRevenueExpenses>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AccountantCompileOrReview>false</AccountantCompileOrReview>
+      <FSAudited>false</FSAudited>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>false</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleC documentId="990C" softwareId="10000149" softwareVersion="2010.2.15">
+      <SubstantiallyAllDuesNondeduct>false</SubstantiallyAllDuesNondeduct>
+      <OnlyInHouseLobbying>true</OnlyInHouseLobbying>
+      <AgreeToCarryoverPriorYear>false</AgreeToCarryoverPriorYear>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="990D" softwareId="10000149" softwareVersion="2010.2.15">
+      <IncludedOnFS>false</IncludedOnFS>
+      <Equipment>
+        <OtherCostOrOtherBasis>1818</OtherCostOrOtherBasis>
+        <Depreciation>303</Depreciation>
+        <BookValue>1515</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>1515</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Payroll liabilities</Description>
+      </OtherLiabilities>
+      <TotalRevenue>324346</TotalRevenue>
+      <TotalExpenses>285474</TotalExpenses>
+      <ExcessOrDeficitForYear>38872</ExcessOrDeficitForYear>
+      <ExcessOrDeficitPerFS>38872</ExcessOrDeficitPerFS>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="990O" softwareId="10000149" softwareVersion="2010.2.15">
+      <GeneralExplanation>
+        <Identifier>Form 990 Part VI</Identifier>
+        <ReturnReference>19</ReturnReference>
+        <Explanation>Upon request during business hours at office in Vassalboro</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990 Part VI</Identifier>
+        <ReturnReference>11b</ReturnReference>
+        <Explanation>Form 990 is available for members to reveiw upon request</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

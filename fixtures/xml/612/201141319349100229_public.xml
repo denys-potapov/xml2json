@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-11T10:32:24-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Klingbeil Capital Management Ltd</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>205 County Road H</AddressLine1>
+        <City>Elkhorn</City>
+        <State>WI</State>
+        <ZIPCode>53121</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010612073</EIN>
+      <Name>
+        <BusinessNameLine1>The Klingbeil Family Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>KLIN</NameControl>
+      <Phone>4153980106</Phone>
+      <USAddress>
+        <AddressLine1>615 Front Street</AddressLine1>
+        <City>San Francisco</City>
+        <State>CA</State>
+        <ZIPCode>94111</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>James D Klingbeil</Name>
+      <Title>President</Title>
+      <Phone>4153980106</Phone>
+      <DateSigned>2011-05-03</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Catherine L Lewis</Name>
+      <Phone>2627238331</Phone>
+      <DatePrepared>2011-05-03</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1191101</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>21</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>21</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>14780</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>14780</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>23919</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>31103</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>23919</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>38720</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>38720</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">1190</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>595</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>595</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">182</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>5</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>5</TaxesDsbrsChrtblPrps>
+        <TravConfMeetingRevAndExpnss>576</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingDsbrsChrtblPrps>576</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">110</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>110</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2058</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>710</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1176</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>41000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>41000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>43058</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>710</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>42176</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-4338</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>38010</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>17342</CashBOY>
+        <CashEOY>19566</CashEOY>
+        <CashEOYFMV>19566</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>3303</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>4540</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>4540</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>2000</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>1828</PrepaidExpensesEOY>
+        <InvestmentsCorpStockBOY>823695</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">816068</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1166995</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>846340</TotalAssetsBOY>
+        <TotalAssetsEOY>842002</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1191101</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>228483</CapitalStockBOY>
+        <CapitalStockEOY>228483</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>617857</RetainedEarningsBOY>
+        <RetainedEarningsEOY>613519</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>846340</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>842002</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>846340</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>842002</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>846340</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-4338</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>842002</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>842002</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 shares AMAT</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2004-12-22</DateAcquired>
+          <DateSold>2010-12-08</DateSold>
+          <GrossSalesPrice>31103</GrossSalesPrice>
+          <CostOrOtherBasis>7184</CostOrOtherBasis>
+          <GainOrLoss>23919</GainOrLoss>
+          <GainsMinusExcessOrLosses>23919</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>23919</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>37485</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>878512</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.042669</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>16245</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>880449</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.018451</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>81902</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1508478</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.054294</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>86327</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1410121</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.061220</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>2448</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1020048</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.002400</DistributionRatioYear5>
+        <TotalDistributionRatio>0.179034</TotalDistributionRatio>
+        <AverageDistributionRatio>0.035807</AverageDistributionRatio>
+        <NetNoncharitableAssets>1036858</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>37127</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>380</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>37507</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>42176</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>380</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>380</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>380</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>1828</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>1828</TotalCreditsAndPayments>
+        <Overpayment>1448</Overpayment>
+        <AmountCreditedToNextYear>1448</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>Paul F Montgomery</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>8597924857</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4051 Crab Orchard Road</AddressLine1>
+          <City>Lancaster</City>
+          <State>KY</State>
+          <ZIPCode>40444</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James D Klingbeil</PersonName>
+          <USAddress>
+            <AddressLine1>615 Front Street</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>94111</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Sally A Mavko Klingbeil</PersonName>
+          <USAddress>
+            <AddressLine1>615 Front Street</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>94111</ZIPCode>
+          </USAddress>
+          <Title>Secretary/CFO</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1025752</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>26896</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1052648</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1052648</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>15790</CashDeemedCharitable>
+        <NetNoncharitableAssets>1036858</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>51843</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>51843</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>380</TaxBasedOnInvestmentIncome>
+        <TotalTax>380</TotalTax>
+        <DistributableAmountBeforeAdj>51463</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>51463</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>51463</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>42176</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>42176</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>380</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>41796</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>51463</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>36088</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>42176</QualifyingDistributions>
+        <AppliedToYear1>36088</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>6088</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>45375</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>James D Klingbeil</ContributingManager>
+        <ContributingManager>Sally A Mavko Klingbeil</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>City Youth Now</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>375 Woodside Avenue</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>94127</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Support SF youth in foster care &amp; juvenile justice systems</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Megan Furth Catholic Academy</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2445 Pine Street</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>94115</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Prepare Bay Area inner city children for success in high school and life</PurposeOfGrantOrContribution>
+          <Amount>3500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PKD Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9221 Ward Pkwy 400</AddressLine1>
+            <City>Kansas City</City>
+            <State>MO</State>
+            <ZIPCode>641143367</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Polycystic kidney disease research</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Tipping Point Community</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>703 Market Street Suite 708</AddressLine1>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <ZIPCode>94103</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>Public</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Break the cycle of poverty and help area residents in need</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>41000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>21</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>14780</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>23919</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>38720</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>38720</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>25,299 sh Applied Material Inc.</NameOfStock>
+        <EOYBookValue>75731</EOYBookValue>
+        <EOYFMV>355451</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>7,506 sh JPMorgan Chase Inc.</NameOfStock>
+        <EOYBookValue>137236</EOYBookValue>
+        <EOYFMV>318405</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5000 sh Deere Co.</NameOfStock>
+        <EOYBookValue>402565</EOYBookValue>
+        <EOYFMV>415250</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>5000 =&gt; 5528 sh Developers Dvsfd Rlty Cp</NameOfStock>
+        <EOYBookValue>200536</EOYBookValue>
+        <EOYFMV>77889</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>Bank charges</Description>
+        <RevenueAndExpensesPerBooks>110</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>110</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Tax preparation</Category>
+        <Amount>1190</Amount>
+        <NetInvestmentIncome>595</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>595</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>CA FTB</Category>
+        <Amount>10</Amount>
+        <NetInvestmentIncome>5</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>5</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>Federal excise tax</Category>
+        <Amount>172</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

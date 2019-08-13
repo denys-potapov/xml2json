@@ -1,0 +1,510 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-11T10:53:52-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>RMS MANAGEMENT</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>50 PUBLIC SQUARE SUITE 1600</AddressLine1>
+        <City>CLEVELAND</City>
+        <State>OH</State>
+        <ZIPCode>44113</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010850218</EIN>
+      <Name>
+        <BusinessNameLine1>THE JOAN SHAFRAN AND ROB HAIMES FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>JOAN</NameControl>
+      <Phone>6176956326</Phone>
+      <USAddress>
+        <AddressLine1>14 LEE STREET</AddressLine1>
+        <City>CAMBRIDGE</City>
+        <State>MA</State>
+        <ZIPCode>02139</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOAN SHAFRAN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>6176956326</Phone>
+      <DateSigned>2011-03-11</DateSigned>
+    </Officer>
+    <Preparer>
+      <Phone>2164163475</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>229397</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>20</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>20</InterestOnSavingsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-56805</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>39419</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>32794</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>-56785</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>32814</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">110</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesDsbrsChrtblPrps>0</LegalFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">288</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>398</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>36500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>36500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>36898</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>36500</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-93683</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>32814</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>4286</CashBOY>
+        <CashEOY>41807</CashEOY>
+        <CashEOYFMV>41807</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>44671</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>9691</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>9691</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>34871</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">28246</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>177899</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>83828</TotalAssetsBOY>
+        <TotalAssetsEOY>79744</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>229397</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>83828</RetainedEarningsBOY>
+        <RetainedEarningsEOY>79744</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>83828</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>79744</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>83828</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>79744</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>83828</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-93683</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">89599</OtherIncreases>
+        <Subtotal>79744</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>79744</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2,500 SHARES FOREST CITY ENTERPRISES INC CLASS A</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2005-12-21</DateAcquired>
+          <DateSold>2010-12-14</DateSold>
+          <GrossSalesPrice>39419</GrossSalesPrice>
+          <CostOrOtherBasis>6625</CostOrOtherBasis>
+          <GainOrLoss>32794</GainOrLoss>
+          <GainsMinusExcessOrLosses>32794</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>32794</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>32500</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>151742</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.214179</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>47833</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>426463</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.112162</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>30633</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>578994</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.052907</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>35083</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>294139</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.119274</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>38500</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>49414</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.779131</DistributionRatioYear5>
+        <TotalDistributionRatio>1.277653</TotalDistributionRatio>
+        <AverageDistributionRatio>0.255531</AverageDistributionRatio>
+        <NetNoncharitableAssets>189392</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>48396</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>328</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>48724</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>36500</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>656</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>656</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>656</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <PenaltyForUnderpayment>6</PenaltyForUnderpayment>
+        <TaxDue>662</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>MA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>RMS MANAGEMENT COMPANY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2164163452</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>50 PUBLIC SQUARE SUITE 1600</AddressLine1>
+          <City>CLEVELAND</City>
+          <State>OH</State>
+          <ZIPCode>441132295</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOAN SHAFRAN</PersonName>
+          <USAddress>
+            <AddressLine1>14 LEE STREET</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROB HAIMES</PersonName>
+          <USAddress>
+            <AddressLine1>14 LEE STREET</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </USAddress>
+          <Title>TREASURER/DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>173270</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>19006</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>192276</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>192276</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>2884</CashDeemedCharitable>
+        <NetNoncharitableAssets>189392</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>9470</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>9470</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>656</TaxBasedOnInvestmentIncome>
+        <TotalTax>656</TotalTax>
+        <DistributableAmountBeforeAdj>8814</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>8814</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>8814</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>36500</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>36500</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>36500</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>8814</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>38500</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>22282</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>1788</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>26658</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>25151</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>114379</TotalExcessDistriCarryover>
+        <QualifyingDistributions>36500</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>8814</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>27686</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>142065</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>38500</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>103565</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>22282</ExcessFromYear4>
+        <ExcessFromYear3>1788</ExcessFromYear3>
+        <ExcessFromYear2>26658</ExcessFromYear2>
+        <ExcessFromYear1>25151</ExcessFromYear1>
+        <ExcessFromCurrentYear>27686</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AIDS PROJECT LOS ANGELES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>611 SOUTH KINGSLEY DRIVE</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90005</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>APLA WRITERS WORKSHOP</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOSTON ARCHITECTURAL COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>320 NEWBURY STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SPRING 2010 URBAN DESIGN/BUILD WORKSHOP</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GODDARD COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>123 PITKIN ROAD</AddressLine1>
+            <City>PLAINFIELD</City>
+            <State>VT</State>
+            <ZIPCode>05667</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>LEADERS AND ENTREPRENEURS PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>18000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MASSACHUSETTS INSTITUTE OF TECHNOLOGY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>77 MASSACHUSETTS AVENUE</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SUPPORT OF THE GRADUATE FELLOWSHIPS FOR THE MEDIA LA</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE CONCERT ARTISTS GUILD</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>850 SEVENTH AVENUE SUITE 1205</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10019</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE CULTURAL LANDSCAPE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1909 Q STREET NW 2ND FLOOR</AddressLine1>
+            <City>WASHINGTON</City>
+            <State>DC</State>
+            <ZIPCode>20009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MASSACHUSETTS - BOSTON</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>100 MORRISSEY BLVD</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02125</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PHOTOGRAPHIC RESOURCE CENTER - BOSTON UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>832 COMMONWEALTH AVENUE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>OTHER PUBLIC CHARITY</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>36500</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>20</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-56805</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>20</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>-56805</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-56785</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>3</LineNumber>
+          <RelationshipStatement>THE FOUNDATION MAKES DISTRIBUTIONS OF INCOME AND PRINCIPAL TO PUBLIC</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>8</LineNumber>
+          <RelationshipStatement>CHARITABLE ORGANIZATIONS TO SUPPORT UNDERSERVED COMMUNITY CHARITABLE NEEDS.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>FOREST CITY ENTERPRISES CL A</NameOfStock>
+        <EOYBookValue>28246</EOYBookValue>
+        <EOYFMV>177899</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL FEES</Category>
+        <Amount>110</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>DIFFERENCE BETWEEN FMV AND BOOK VALUE OF CONTRIBUTIONS</Description>
+        <Amount>89599</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Category>MASSACHUSETTS STATE FILING</Category>
+        <Amount>35</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>MASSACHUSETTS ANNUAL REPORT</Category>
+        <Amount>15</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+      <Taxes>
+        <Category>EXCISE TAX</Category>
+        <Amount>238</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

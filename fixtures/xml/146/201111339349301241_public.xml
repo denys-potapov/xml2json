@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-13T09:30:03-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>OUELLETTE &amp; ASSOCIATES PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1111 LISBON STREET</AddressLine1>
+        <City>LEWISTON</City>
+        <State>ME</State>
+        <ZIPCode>04240</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010146437</EIN>
+      <Name>
+        <BusinessNameLine1>COAST LINE CREDIT UNION</BusinessNameLine1>
+      </Name>
+      <NameControl>COAS</NameControl>
+      <Phone>2077997245</Phone>
+      <USAddress>
+        <AddressLine1>333 COTTAGE ROAD</AddressLine1>
+        <City>SOUTH PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MATTHEW GRIFFITHS</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2077997245</Phone>
+      <DateSigned>2011-05-13</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>C JOSEPH WOLVERTON</Name>
+      <Phone>2077860328</Phone>
+      <DatePrepared>2011-05-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>MATTHEW GRIFFITHS</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>85 GOUDY STREET</AddressLine1>
+        <City>SOUTH PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>2300322</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="14">X</Organization501c>
+      <WebSite>WWW.COASTLINECU.COM</WebSite>
+      <TypeOfOrganizationOther>X</TypeOfOrganizationOther>
+      <TypeOfOrgOtherDescription>CREDIT UNION</TypeOfOrgOtherDescription>
+      <YearFormation>1927</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>PROVIDE MEMBERS WITH SAVINGS AND AFFORDABLE LOAN PRODUCTS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>7</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>7</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>8</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>2627</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>2330800</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>2297695</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>74621</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>1863</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>2627</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>2407284</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>2300322</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>453722</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>477485</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>1628517</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1300268</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>2082239</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>1777753</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>325045</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>522569</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>45324501</TotalAssetsBOY>
+      <TotalAssetsEOY>45205875</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>39734755</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>39093560</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>5589746</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>6112315</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>NONE</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>1777753</Expense>
+      <Description>THE CREDIT UNION HAS 3,507 MEMBERS AS OF DECEMBER 31, 2010. MEMBERS HAVE ACCESS TO A VARIETY OF LOW COST FINANCIAL SERVICES.</Description>
+      <TotalProgramServiceExpense>1777753</TotalProgramServiceExpense>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">1</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>8</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>0</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>7</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>7</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>0</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>0</ConflictOfInterestPolicy>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>0</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>MATTHEW GRIFFITHS</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2077997245</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>333 COTTAGE ROAD</AddressLine1>
+          <City>SOUTH PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>04106</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>AARON CONNOLLY</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STEPHEN B RICHARD</NamePerson>
+        <Title>VICE CHAIR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THEODORE W DESVEAUX</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RITA D THOMPSON</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEAN E GILPATRICK</NamePerson>
+        <Title>BOARD CLERK</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>THERESA HESELTINE</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DOUGLAS O'DONNELL</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MATTHEW GRIFFITHS</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>115132</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TROY CHADBOURNE</NamePerson>
+        <Title>VICE PRESIDENT</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>115132</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>LOAN AND INVESTMENT IN</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>2006362</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2006362</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>FEE INCOME</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>291333</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>291333</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>2297695</TotalProgramServiceRevenue>
+      <OtherRevenueMisc>
+        <Description>INSURANCE INCOME</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>2627</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>2627</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>2627</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>2300322</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2297695</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>2627</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>381754</Total>
+        <ProgramServices>381754</ProgramServices>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>95731</Total>
+        <ProgramServices>95731</ProgramServices>
+      </OtherEmployeeBenefits>
+      <FeesForServicesLegal>
+        <Total>921</Total>
+        <ProgramServices>921</ProgramServices>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>10160</Total>
+        <ProgramServices>10160</ProgramServices>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>3465</Total>
+        <ProgramServices>3465</ProgramServices>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>55318</Total>
+        <ProgramServices>55318</ProgramServices>
+      </Advertising>
+      <Occupancy>
+        <Total>38171</Total>
+        <ProgramServices>38171</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>10522</Total>
+        <ProgramServices>10522</ProgramServices>
+      </Travel>
+      <Interest>
+        <Total>186250</Total>
+        <ProgramServices>186250</ProgramServices>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>51818</Total>
+        <ProgramServices>51818</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>86023</Total>
+        <ProgramServices>86023</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>DIVIDENDS PAID</Description>
+        <Total>443318</Total>
+        <ProgramServices>443318</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE OPERATIONS</Description>
+        <Total>285784</Total>
+        <ProgramServices>285784</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROVISION FOR LOAN LOSS</Description>
+        <Total>60000</Total>
+        <ProgramServices>60000</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LOAN SERVICING</Description>
+        <Total>31931</Total>
+        <ProgramServices>31931</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OPERATING FEE</Description>
+        <Total>20330</Total>
+        <ProgramServices>20330</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>16257</Total>
+        <ProgramServices>16257</ProgramServices>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>1777753</Total>
+        <ProgramServices>1777753</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>380150</BOY>
+        <EOY>315869</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>2902</BOY>
+        <EOY>7560</EOY>
+      </AccountsReceivable>
+      <OtherNotesLoansReceivableNet>
+        <BOY>29987488</BOY>
+        <EOY>30586981</EOY>
+      </OtherNotesLoansReceivableNet>
+      <LandBuildingsEquipmentBasis>1840085</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>302981</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>1588006</BOY>
+        <EOY>1537104</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>13365955</BOY>
+        <EOY>12758361</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>45324501</BOY>
+        <EOY>45205875</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>272771</BOY>
+        <EOY>347911</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>39461984</BOY>
+        <EOY>38745649</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>39734755</BOY>
+        <EOY>39093560</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>5589746</BOY>
+        <EOY>6112315</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>5589746</BOY>
+        <EOY>6112315</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>45324501</BOY>
+        <EOY>45205875</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>522569</ReconcilationRevenueExpenses>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>0</FSAudited>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>220000</OtherCostOrOtherBasis>
+        <BookValue>220000</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>1330040</OtherCostOrOtherBasis>
+        <Depreciation>132516</Depreciation>
+        <BookValue>1197524</BookValue>
+      </Buildings>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>290045</OtherCostOrOtherBasis>
+        <Depreciation>170465</Depreciation>
+        <BookValue>119580</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>1537104</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>PREPAID EXPENSES</Description>
+        <BookValue>12670</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ACCRUED INTEREST ON LOANS</Description>
+        <BookValue>101591</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>ACCRUED INCOME ON INVESTMENTS</Description>
+        <BookValue>13105</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>DEPOSIT IN NCUSIF</Description>
+        <BookValue>327654</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>INVESTMENT PURCHASED UNDER 457B</Description>
+        <BookValue>71093</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>FHLB IDEAL WAY ACCOUNT</Description>
+        <BookValue>67032</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>TRICORP OVERNIGHT ACCOUNT</Description>
+        <BookValue>2164487</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>CERTIFICATES OF DEPOSIT</Description>
+        <BookValue>9524000</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>FHLB CAPITAL STOCK</Description>
+        <BookValue>350200</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>TRICORP CAPITAL SHARES</Description>
+        <BookValue>76529</BookValue>
+      </OtherAssets>
+      <OtherAssets>
+        <Description>INVESTMENT IN CUSO</Description>
+        <BookValue>50000</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>12758361</TotalBookValueOtherAssets>
+      <OtherLiabilities>
+        <Description>MEMBER DEPOSITS</Description>
+        <Amount>33987665</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>FHLB ADVANCES</Description>
+        <Amount>4757984</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>38745649</TotalOfAmounts>
+      <TotalRevenue>2300322</TotalRevenue>
+      <TotalExpenses>1777753</TotalExpenses>
+      <ExcessOrDeficitForYear>522569</ExcessOrDeficitForYear>
+      <ExcessOrDeficitPerFS>522569</ExcessOrDeficitPerFS>
+    </IRS990ScheduleD>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <LoanTable>
+        <NamePerson>MATTHEW GRIFFITHS</NamePerson>
+        <PurposeOfLoan>CAR LOAN</PurposeOfLoan>
+        <LoanFromOrganization>X</LoanFromOrganization>
+        <Default>0</Default>
+        <ApprovedByBoard>1</ApprovedByBoard>
+        <WrittenAgreement>1</WrittenAgreement>
+      </LoanTable>
+      <LoanTable>
+        <NamePerson>TROY CHADBOURNE</NamePerson>
+        <PurposeOfLoan>CAR LOAN</PurposeOfLoan>
+        <LoanFromOrganization>X</LoanFromOrganization>
+        <OriginalPrincipalAmount>24160</OriginalPrincipalAmount>
+        <Default>0</Default>
+        <ApprovedByBoard>1</ApprovedByBoard>
+        <WrittenAgreement>1</WrittenAgreement>
+      </LoanTable>
+      <LoanTable>
+        <NameBusiness>
+          <BusinessNameLine1>THERESA DIFFIN</BusinessNameLine1>
+        </NameBusiness>
+        <PurposeOfLoan>FINANCIAL</PurposeOfLoan>
+        <LoanFromOrganization>X</LoanFromOrganization>
+        <Default>0</Default>
+        <ApprovedByBoard>1</ApprovedByBoard>
+        <WrittenAgreement>1</WrittenAgreement>
+      </LoanTable>
+      <LoanTable>
+        <NameBusiness>
+          <BusinessNameLine1>THERESA HESELTINE</BusinessNameLine1>
+        </NameBusiness>
+        <PurposeOfLoan>FINANCIAL</PurposeOfLoan>
+        <LoanFromOrganization>X</LoanFromOrganization>
+        <Default>0</Default>
+        <ApprovedByBoard>1</ApprovedByBoard>
+        <WrittenAgreement>1</WrittenAgreement>
+      </LoanTable>
+      <LoanTable>
+        <NameBusiness>
+          <BusinessNameLine1>AARON CONNOLLY</BusinessNameLine1>
+        </NameBusiness>
+        <PurposeOfLoan>FINANCIAL</PurposeOfLoan>
+        <LoanFromOrganization>X</LoanFromOrganization>
+        <Default>0</Default>
+        <ApprovedByBoard>1</ApprovedByBoard>
+        <WrittenAgreement>1</WrittenAgreement>
+      </LoanTable>
+      <LoanTable>
+        <NameBusiness>
+          <BusinessNameLine1>STEPHEN RICHARD</BusinessNameLine1>
+        </NameBusiness>
+        <PurposeOfLoan>FINANCIAL</PurposeOfLoan>
+        <LoanFromOrganization>X</LoanFromOrganization>
+        <OriginalPrincipalAmount>87088</OriginalPrincipalAmount>
+        <Default>0</Default>
+        <ApprovedByBoard>1</ApprovedByBoard>
+        <WrittenAgreement>1</WrittenAgreement>
+      </LoanTable>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 8B</Identifier>
+        <Explanation>THERE WERE NO SUBCOMMITTEES AND, THEREFORE, THERE WERE NO REPORTS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE BOARD OF DIRECTORS REVIEWS THE 990 PRIOR TO FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE ORGANIZATIONS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS ARE AVAILABLE TO THE PUBLIC UPON REQUEST</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

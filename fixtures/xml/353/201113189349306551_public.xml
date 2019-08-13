@@ -1,0 +1,1434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-14T15:51:20-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BAKER NEWMAN &amp; NOYES</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 507</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04112</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010353275</EIN>
+      <Name>
+        <BusinessNameLine1>Martin's Point Health Care Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>MART</NameControl>
+      <Phone>2077745801</Phone>
+      <USAddress>
+        <AddressLine1>331 Veranda Street</AddressLine1>
+        <City>Portland</City>
+        <State>ME</State>
+        <ZIPCode>041035545</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>David H Howes MD</Name>
+      <Title>President &amp; CEO</Title>
+      <Phone>2077745801</Phone>
+      <DateSigned>2011-11-14</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Nicholas E Porto</Name>
+      <Phone>2078792100</Phone>
+      <DatePrepared>2011-11-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>David H Howes MD</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>331 Veranda Street</AddressLine1>
+        <City>Portland</City>
+        <State>ME</State>
+        <ZIPCode>041035545</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>347024748</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>www.martinspoint.com</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1971</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>The mission of Martin's Point Health Care is to exemplify and inspire health care and service excellence through leadership, education, and innovation.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>11</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>10</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>885</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>59873</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>267166255</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>323848683</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>232029</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>4523570</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>267398284</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>328372253</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>387118</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>303545</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>46202478</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>60450425</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>190683391</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>244157883</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>237272987</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>304911853</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>30125297</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>23460400</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>247015717</TotalAssetsBOY>
+      <TotalAssetsEOY>310401904</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>50823831</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>79400684</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>196191886</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>231001220</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>Mission - The mission of Martin's Point Health Care is to exemplify and inspire health care and service excellence through leadership, education, and innovation.VISION - By the year 2012, Martin's Point has achieved the highest level of trust and distinction in the communities we serve because our people, practices, plans and technologies are models in the health care industry, making us the most influential organization in creating measurable health care excellence.VALUES - Our business strategy is guided by our values of customer centricity, quality of care, innovation and the creation of social benefit, and our personal conduct is guided by our values of integrity, respect, courtesy and excellence.REASON FOR BEING - Martin's Point, a not-for-profit entity, exists to deliver innovative, high quality health care systems to defined patient populations where we create demonstrably superior value.See below for statement of program service accomplishments.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>178890656</Expense>
+      <Grants>303545</Grants>
+      <Revenue>252782691</Revenue>
+      <Description>Uniform Services Family Health Plan - Please see not-for-profit narrative statement for Martin's Point on Schedule O</Description>
+      <Activity2>
+        <Expense>48455125</Expense>
+        <Revenue>43018629</Revenue>
+        <Description>Generations Advantage - Please see not-for-profit narrative statement for Martin's Point on Schedule O</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>35435426</Expense>
+        <Revenue>28047363</Revenue>
+        <Description>Physician Practices - Please see not-for-profit narrative statement for Martin's Point on Schedule O</Description>
+      </Activity3>
+      <TotalProgramServiceExpense>262781207</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039700001">0</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="RetDoc1039700001">1</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">1</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds referenceDocumentId="RetDoc1053100001">1</TaxExemptBonds>
+      <InvestTaxExemptBonds>0</InvestTaxExemptBonds>
+      <EscrowAccount>0</EscrowAccount>
+      <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">1</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>1</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>2090</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>885</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>11</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>10</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>NH</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>MA</StatesWhereCopyOfReturnIsFiled>
+      <StatesWhereCopyOfReturnIsFiled>VT</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Daniel Chojnowski</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2072536115</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>27 Northport Drive</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>Alpern MD Warren D</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>12500</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Buyse MD Marylou</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>10000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Dupont Edward C</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Durkee Raymond E</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>10000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Hester Jr PhD James A</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>5000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Onion MD Daniel K</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>2500</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Loeb Lifford MD Karen</NamePerson>
+        <Title>Board Member - Chair</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>15000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Thomas Michael E</NamePerson>
+        <Title>Board Member - Vice Chair</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>15000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Moore Robert A</NamePerson>
+        <Title>Board Member - Secretary</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>15000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Campbell Jr George N</NamePerson>
+        <Title>Board Member - Treasurer</Title>
+        <AverageHoursPerWeek>1.80</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>20000</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Howes MD David H</NamePerson>
+        <Title>President &amp; CEO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>521781</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>536828</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Reese Dennis J</NamePerson>
+        <Title>Chief Financial Officer</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>400382</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>21427</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Johnson MD Elizabeth</NamePerson>
+        <Title>Chief Medical Officer</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>291954</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>26332</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Dufresne W J Duke</NamePerson>
+        <Title>VP of Medical Management</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>282710</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>17490</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Aranson MD Mark</NamePerson>
+        <Title>Physician</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>268699</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>27918</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Freedman MD Sara</NamePerson>
+        <Title>Physician</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>263465</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>29310</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Inger MD David B</NamePerson>
+        <Title>Physician</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>253690</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>14573</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>2392681</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>673878</TotalOtherCompensation>
+      <NumberIndividualsGT100K>104</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Maine Medical Center</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>22 Bramhall Street</AddressLine1>
+            <City>Portland</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>11753779</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Pizzagalli Construction Co</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>50 Joy Drive</AddressLine1>
+            <City>South Burlington</City>
+            <State>VT</State>
+            <ZIPCode>05403</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Construction Services</DescriptionOfServices>
+        <Compensation>10543419</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Eastern Maine Medical Center</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO Box 404</AddressLine1>
+            <City>Bangor</City>
+            <State>ME</State>
+            <ZIPCode>04402</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>7116690</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Portsmouth Regional Hospital</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO Box 7004</AddressLine1>
+            <City>Portsmouth</City>
+            <State>NH</State>
+            <ZIPCode>03802</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical Services</DescriptionOfServices>
+        <Compensation>6530525</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Mary Hitchcock Memorial Hospital</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>One Medical Center Drive</AddressLine1>
+            <City>Lebanon</City>
+            <State>NH</State>
+            <ZIPCode>04011</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Medical services</DescriptionOfServices>
+        <Compensation>4484680</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>246</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>US Family Health Plan</Description>
+        <BusinessCode>524114</BusinessCode>
+        <TotalRevenueColumn>252722547</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>252722547</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Generations Advantage</Description>
+        <BusinessCode>524114</BusinessCode>
+        <TotalRevenueColumn>43018629</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>43018629</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Physician Practices</Description>
+        <BusinessCode>621110</BusinessCode>
+        <TotalRevenueColumn>28047363</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>28047363</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>OTC Patient Revenue</Description>
+        <BusinessCode>446110</BusinessCode>
+        <TotalRevenueColumn>46599</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>46599</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Purchase Discounts</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>13545</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>13545</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>323848683</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>4028169</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>59873</UnrelatedBusinessRevenue>
+        <ExclusionAmount>3968296</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>19147896</Securities>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>18652495</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>495401</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>495401</TotalRevenueColumn>
+        <ExclusionAmount>495401</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <TotalRevenue>
+        <TotalRevenueColumn>328372253</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>323848683</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>59873</UnrelatedBusinessRevenue>
+        <ExclusionAmount>4463697</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>303545</Total>
+        <ProgramServices>303545</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <CompCurrentOfficersDirectors>
+        <Total>1590418</Total>
+        <ProgramServices>1168609</ProgramServices>
+        <ManagementAndGeneral>421809</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>48107083</Total>
+        <ProgramServices>32725769</ProgramServices>
+        <ManagementAndGeneral>15381314</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>1902311</Total>
+        <ProgramServices>1100118</ProgramServices>
+        <ManagementAndGeneral>802193</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>6283511</Total>
+        <ProgramServices>4211618</ProgramServices>
+        <ManagementAndGeneral>2071893</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>2567102</Total>
+        <ProgramServices>1566959</ProgramServices>
+        <ManagementAndGeneral>1000143</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>4775117</Total>
+        <ProgramServices>661103</ProgramServices>
+        <ManagementAndGeneral>4114014</ManagementAndGeneral>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>663253</Total>
+        <ProgramServices>299180</ProgramServices>
+        <ManagementAndGeneral>364073</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>389246</Total>
+        <ProgramServices>259326</ProgramServices>
+        <ManagementAndGeneral>129920</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>133678</Total>
+        <ManagementAndGeneral>133678</ManagementAndGeneral>
+      </FeesForServicesLobbying>
+      <FeesForServicesInvstMgmntFees>
+        <Total>626632</Total>
+        <ManagementAndGeneral>626632</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>942478</Total>
+        <ProgramServices>507988</ProgramServices>
+        <ManagementAndGeneral>434490</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>2852602</Total>
+        <ProgramServices>1727681</ProgramServices>
+        <ManagementAndGeneral>1124921</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>2939290</Total>
+        <ProgramServices>1703028</ProgramServices>
+        <ManagementAndGeneral>1236262</ManagementAndGeneral>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>2609070</Total>
+        <ProgramServices>474935</ProgramServices>
+        <ManagementAndGeneral>2134135</ManagementAndGeneral>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>4087293</Total>
+        <ProgramServices>129139</ProgramServices>
+        <ManagementAndGeneral>3958154</ManagementAndGeneral>
+      </Occupancy>
+      <ConferencesMeetings>
+        <Total>2490175</Total>
+        <ProgramServices>1139835</ProgramServices>
+        <ManagementAndGeneral>1350340</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>105702</Total>
+        <ManagementAndGeneral>105702</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>3821518</Total>
+        <ProgramServices>303660</ProgramServices>
+        <ManagementAndGeneral>3517858</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>732446</Total>
+        <ProgramServices>389068</ProgramServices>
+        <ManagementAndGeneral>343378</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Medical Services</Description>
+        <Total>207172870</Total>
+        <ProgramServices>207172870</ProgramServices>
+        <ManagementAndGeneral>0</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Maintenance Contracts</Description>
+        <Total>1913517</Total>
+        <ProgramServices>55053</ProgramServices>
+        <ManagementAndGeneral>1858464</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Sales Tax</Description>
+        <Total>316184</Total>
+        <ProgramServices>33715</ProgramServices>
+        <ManagementAndGeneral>282469</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>7586812</Total>
+        <ProgramServices>6848008</ProgramServices>
+        <ManagementAndGeneral>738804</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>304911853</Total>
+        <ProgramServices>262781207</ProgramServices>
+        <ManagementAndGeneral>42130646</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>2007170</BOY>
+        <EOY>2007220</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>61475075</BOY>
+        <EOY>78212954</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>5671637</BOY>
+        <EOY>7262578</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>821277</BOY>
+        <EOY>790512</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>1157836</BOY>
+        <EOY>1595889</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>79726916</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>26053929</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>34401085</BOY>
+        <EOY>53672987</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>95592044</BOY>
+        <EOY>115373175</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <BOY>44347101</BOY>
+        <EOY>50360272</EOY>
+      </InvestmentsOtherSecurities>
+      <IntangibleAssets>
+        <BOY>895762</BOY>
+        <EOY>763056</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <BOY>646730</BOY>
+        <EOY>363261</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>247015717</BOY>
+        <EOY>310401904</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>41633265</BOY>
+        <EOY>70506297</EOY>
+      </AccountsPayableAccruedExpenses>
+      <TaxExemptBondLiabilities>
+        <BOY>9190566</BOY>
+        <EOY>8894387</EOY>
+      </TaxExemptBondLiabilities>
+      <TotalLiabilities>
+        <BOY>50823831</BOY>
+        <EOY>79400684</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>196191886</BOY>
+        <EOY>231001220</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>196191886</BOY>
+        <EOY>231001220</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>247015717</BOY>
+        <EOY>310401904</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>23460400</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>11348934</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>166543741</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>200713850</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>235473754</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>267166255</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>323848683</CurrentTaxYear>
+        <Total>1193746283</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>166543741</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>200713850</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>235473754</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>267166255</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>323848683</CurrentTaxYear>
+        <Total>1193746283</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>1193746283</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>3201558</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>7237315</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>4252066</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>3728506</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3968296</CurrentTaxYear>
+        <Total>22387741</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>3201558</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>7237315</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>4252066</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>3728506</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>3968296</CurrentTaxYear>
+        <Total>22387741</Total>
+      </InvestmentIncomeAndUBTI>
+      <NetIncomeFromOtherUBI>
+        <CurrentTaxYearMinus4Years>34708</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>43965</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>-55888</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>-34526</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>59873</CurrentTaxYear>
+        <Total>48132</Total>
+      </NetIncomeFromOtherUBI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>169780007</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>207995130</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>239669932</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>270860235</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>327876852</CurrentTaxYear>
+        <Total>1216182156</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.98160</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.98490</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.01840</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.01520</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <Volunteers>0</Volunteers>
+      <PaidStaffOrManagement>1</PaidStaffOrManagement>
+      <MediaAdvertisements>0</MediaAdvertisements>
+      <MailingsMembers>0</MailingsMembers>
+      <PublicationsOrBroadcast>0</PublicationsOrBroadcast>
+      <GrantsOtherOrganizations>1</GrantsOtherOrganizations>
+      <GrantsOtherOrganizationsAmount>121678</GrantsOtherOrganizationsAmount>
+      <DirectContactLegislators>1</DirectContactLegislators>
+      <DirectContactLegislatorsAmount>12000</DirectContactLegislatorsAmount>
+      <RalliesDemonstrations>0</RalliesDemonstrations>
+      <OtherActivities>0</OtherActivities>
+      <TotalLobbyingExpendituresIIB>133678</TotalLobbyingExpendituresIIB>
+      <NotDescribedIn501c3>0</NotDescribedIn501c3>
+      <Form990ScheduleCPartIV>
+        <Identifier>Part IV, Supplemental Information:</Identifier>
+        <Explanation>Part II-B, Lines 1b &amp; 1g: Dr. David Howes, president and CEO, spends time with Maine members of Congress and their staff educating them about the need for health care reform and the implications of the legislative provisions being discussed. Part II-B, Line 1f: Martin's Point engages a consulting firm to provide support and occasional lobbying services to Martin's Point officials. Part II-B, Line 1i: Martin's Point also pays the cost of the lobbying portion of dues to trade associations. These expenses are incurred to help track and discuss legislation affecting health care policy, striving to create policy which will drive a system to improve health outcomes, improve the experience of care, and reduce the overall costs of care.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>3715618</OtherCostOrOtherBasis>
+        <BookValue>3715618</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>41019363</OtherCostOrOtherBasis>
+        <Depreciation>7349761</Depreciation>
+        <BookValue>33669602</BookValue>
+      </Buildings>
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>1735619</OtherCostOrOtherBasis>
+        <Depreciation>1063857</Depreciation>
+        <BookValue>671762</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>30579574</OtherCostOrOtherBasis>
+        <Depreciation>17154807</Depreciation>
+        <BookValue>13424767</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>2676742</OtherCostOrOtherBasis>
+        <Depreciation>485504</Depreciation>
+        <BookValue>2191238</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>53672987</TotalOfBookValueLandBuildings>
+      <OtherSecurities>
+        <Description>Alternative Investments</Description>
+        <BookValue>50360272</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <TotalOfBookValueSecurities>50360272</TotalOfBookValueSecurities>
+      <TotalRevenue>328372253</TotalRevenue>
+      <TotalExpenses>304911853</TotalExpenses>
+      <ExcessOrDeficitForYear>23460400</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>11348934</NetUnrealizedGLOnInvestments>
+      <TotalAdjustments>11348934</TotalAdjustments>
+      <ExcessOrDeficitPerFS>34809334</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>339094555</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>11348934</NetUnrealizedGainsInvestments>
+      <RevenueNotRptdF990>11348934</RevenueNotRptdF990>
+      <RevenueSubtotal>327745621</RevenueSubtotal>
+      <InvestmentExpensesNotIncluded>626632</InvestmentExpensesNotIncluded>
+      <RevenueNotRptdOnFinStmt>626632</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>328372253</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>304285221</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>304285221</ExpensesSubtotal>
+      <InvestmentExpensesNotIncluded2>626632</InvestmentExpensesNotIncluded2>
+      <ExpensesNotRptdOnFinStmt>626632</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>304911853</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Description of Uncertain Tax Positions Under FIN 48:</Identifier>
+        <ReturnReference>Part X:</ReturnReference>
+        <Explanation>Martin's Point (the Company) is exempt from income taxes on related business income under Section 501(c)(3) of the Internal Revenue Code. Generations, Evergreen, MPMG, and BMG are treated as pass-through entities for tax purposes. Accordingly, there is no provision for income taxes within the consolidated financial statements. Tax-exempt organizations could be required to record an obligation for income taxes as the result of a tax position they have historically taken on various tax exposure items including unrelated business income or tax status. Under guidance issued by the Financial Accounting Standards Board, assets and liabilities are established for uncertain tax positions taken or positions expected to be taken in income tax returns when such positions are judged to not meet the "more-likely-than-not" threshold, based upon the technical merits of the position. Estimated interest and penalties, if applicable, related to uncertain tax positions are included as a component of income tax expense. The Company has evaluated the position taken on its filed tax returns. The Company has concluded no uncertain income tax positions exist at December 31, 2010. The Company's tax years from 2007 through 2010 are open and subject to examination.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Portland Regional Chamber</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>60 Pearl Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04101</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010043280</EINOfRecipient>
+        <IRCSection>501(C)6</IRCSection>
+        <AmountOfCashGrant>22500</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Southern Maine Agency on Aging</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>136 US Route 1</AddressLine1>
+          <City>Scarborough</City>
+          <State>ME</State>
+          <ZIPCode>04074</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010360259</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>15000</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>United Way of Greater Portland</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>One Canal Plaza Suite 300</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04101</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010241767</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>30278</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Diabetes Association</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>1701 N Beauregard Street</AddressLine1>
+          <City>Alexandria</City>
+          <State>VA</State>
+          <ZIPCode>22311</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>131623888</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Community Health Charities of Maine</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>39 Mechanic Street Suite 100</AddressLine1>
+          <City>Westbrook</City>
+          <State>ME</State>
+          <ZIPCode>04092</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>222478946</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>11665</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>MaineShare</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 2095</AddressLine1>
+          <City>Augusta</City>
+          <State>ME</State>
+          <ZIPCode>04338</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010444245</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>15614</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Muskie Fund for Legal Services</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>PO Box 547</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>041120547</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010505878</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>6500</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American Heart Association</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>7272 Greenville Avenue</AddressLine1>
+          <City>Dalas</City>
+          <State>TX</State>
+          <ZIPCode>75231</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>135613797</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>40000</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Northeast Passage</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>107 Hewitt Hall 4 Liberty Way</AddressLine1>
+          <City>Durham</City>
+          <State>NH</State>
+          <ZIPCode>03824</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>020448237</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>12500</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Spurwink Services</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>899 Riverside Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>010319802</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>Friends of the Music Hall</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>104 Congress Street</AddressLine1>
+          <City>Portsmouth</City>
+          <State>NH</State>
+          <ZIPCode>03801</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>020403452</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>10000</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>American National Red Cross</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>2025 E Street NW</AddressLine1>
+          <City>Washington</City>
+          <State>DC</State>
+          <ZIPCode>200065009</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>530196605</EINOfRecipient>
+        <IRCSection>501(C)3</IRCSection>
+        <AmountOfCashGrant>6545</AmountOfCashGrant>
+        <PurposeOfGrant>General Support</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>11</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>1</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIV>
+        <Identifier>Procedure for Monitoring Grants in the U.S.:</Identifier>
+        <ReturnReference>Part I, Line 2:</ReturnReference>
+        <Explanation>Schedule I, Part I, Line 2: All requests, solicited or unsolicited, are reviewed by MPHC charitable contributions committee (CCC). The vice president of corporate affairs provides oversight to the CCC to ensure continuity and consistency with the Organization's stated objective. The CCC meets monthly. Relationships with health care non-profits are overseen by the committee with proper "assignments" made internally as needed (i.e. board seats, program participants). The CCC also reviews program results and the financial health of the organizations. A charitable contributions/sponsorship application must be submitted via mail, fax, or email with the applicant's IRS 501(c)(3) designation and any additional program details for funds requested.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <ClubDuesOrFees>X</ClubDuesOrFees>
+      <WrittenPolicyReTAndEExpenses>1</WrittenPolicyReTAndEExpenses>
+      <SubstantiationRequired>1</SubstantiationRequired>
+      <CompensationCommittee>X</CompensationCommittee>
+      <IndependentConsultant>X</IndependentConsultant>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>1</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>1</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>Howes MD David H</NamePerson>
+        <BaseCompensationFilingOrg>436399</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>38531</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>46851</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>511643</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>25185</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>1058609</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Reese Dennis J</NamePerson>
+        <BaseCompensationFilingOrg>277024</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>120000</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>3358</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>21427</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>421809</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Johnson MD Elizabeth</NamePerson>
+        <BaseCompensationFilingOrg>275459</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>14387</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>2108</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>26332</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>318286</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Dufresne W J Duke</NamePerson>
+        <BaseCompensationFilingOrg>270027</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>10813</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>1870</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>17490</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>300200</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Aranson MD Mark</NamePerson>
+        <BaseCompensationFilingOrg>170828</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>74762</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>23109</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>7350</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>20568</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>296617</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Freedman MD Sara</NamePerson>
+        <BaseCompensationFilingOrg>177691</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>69129</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>16645</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>12000</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>17310</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>292775</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Inger MD David B</NamePerson>
+        <BaseCompensationFilingOrg>184402</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>53462</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>15826</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>12000</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>2573</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>268263</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 1a</ReturnReference>
+        <Explanation>Cumberland Club membership with costs of $1,500 for David H Howes, President &amp; CEO. This is a business club, the membership to which is used exclusively for business purposes.</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 4b</ReturnReference>
+        <Explanation>457(f) plan in which David H Howes, CEO, participates. Allocated funds (not paid out)- $437,460</Explanation>
+      </Form990ScheduleJPartIII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 7</ReturnReference>
+        <Explanation>Some of our compensation, the Achievement Plan, is an earned bonus which is variable based on obtaining a combination of corporate and department goals. The goal of the Achievement Plan is to focus employees on meeting critical performance measures. The Plan funds are based on the contribution margin which is tied to the annual budget.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleK documentId="RetDoc1053100001">
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>MHHEFA</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>010314384</IssuerEIN>
+        <CUSIPNumber>560425L40</CUSIPNumber>
+        <DateIssued>2007-07-18</DateIssued>
+        <IssuePrice>10395000</IssuePrice>
+        <DescriptionOfPurpose>Provide funds to refund 2000 issue</DescriptionOfPurpose>
+        <Defeased>0</Defeased>
+        <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+        <PoolFinancing>1</PoolFinancing>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartII>
+        <AmountRetired>290000</AmountRetired>
+        <TotalProceeds>10537113</TotalProceeds>
+        <AmountInReserveFund>756100</AmountInReserveFund>
+        <RefundingEscrow>1614</RefundingEscrow>
+        <IssuanceCostsFromProceeds>129918</IssuanceCostsFromProceeds>
+        <YearOfSubstCompletion>2007</YearOfSubstCompletion>
+        <CurrentRefunding>1</CurrentRefunding>
+        <AdvanceRefunding>0</AdvanceRefunding>
+        <FinalAllocationMade>1</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>1</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartIII>
+        <OwningBondFinancedProperty>0</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>0</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>0</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>0</AnyResearchAgreements>
+        <BondCounselRoutinelyEngaged>0</BondCounselRoutinelyEngaged>
+        <PostIssuanceComplianceProcdrs>1</PostIssuanceComplianceProcdrs>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>0</Form8038TFiled>
+        <VariableRateIssue>0</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>0</HedgeIdentifiedInBooksAndRecds>
+        <GrossProceedsInvestedInGIC>1</GrossProceedsInvestedInGIC>
+        <NameOfGICProvider>
+          <BusinessNameLine1>TransAmerica</BusinessNameLine1>
+        </NameOfGICProvider>
+        <TermOfGIC>23.000000000000</TermOfGIC>
+        <RegulatorySafeHarborSatisfied>1</RegulatorySafeHarborSatisfied>
+        <GrossProceedsInvested>0</GrossProceedsInvested>
+        <ExceptionToRebate>0</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+      <Form990ScheduleKPartV>
+        <Identifier>Schedule K, Part I, Line 1, Column e:</Identifier>
+        <Explanation>The issue price listed differs from the amount reported on Form 8038, Part III of $97,716,087. This is due to the bond issuance being made as part of a pooled financing issue. The amount reported by the Organization on Schedule K is representative of the amount of the issue allocated to the Organization.</Explanation>
+      </Form990ScheduleKPartV>
+    </IRS990ScheduleK>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Program Service Accomplishments For Tax Year 2010</Identifier>
+        <ReturnReference>Form 990, Part III, Line 4a-d</ReturnReference>
+        <Explanation>Martin's Point Health Care is a progressive not-for-profit health care organization, based in Portland, Maine, that is leading the way in providing better care at lower cost in the communities we serve. The primary goal of Martin's Point is to help our patients and members live healthier lives. We achieve this through our commitment to provide the best possible health care experience to those we serve, offering clinical excellence in care, and treating them with warmth and concern. Working in partnership with our patients and members, we help them take an active role in making good health choices and ultimately living happier and healthier lives. More specifically, we care for our communities in three primary ways: 1.) by providing high-quality primary care and selected specialty and ancillary services to patients at 8 locations throughout Maine and 1 location in New Hampshire, including onsite pharmacy, radiology, and lab services at many locations; 2.) by administering Military and Medicare Advantage health insurance plans; and 3.) by making positive improvements that help transform the health care system in the communities we serve and that can also serve as models of improved care beyond our communities, statewide and nationally. PROVIDING HIGH-QUALITY PRIMARY CARE In 2010, Martin's Point Health Care: - Finished construction of a new state-of-the-art health care center at our flagship location in Portland, ME. The new health center is a LEED certified building and was opened to the public on November 15, 2010. - Expanded health care access through the addition of 10 primary care and specialty providers. In this year, over 65,000 patients received care in the areas of family medicine, pediatrics, internal medicine, cardiology, general surgery, sports medicine, cosmetic dermatology, physical therapy, and more. Many patients were also able to take advantage of onsite radiology, pharmacy, and laboratory services. - Provided more than $225,000 of medical services free-of-charge to patients with insufficient coverage. - Offered health education programs on a broad range of topics including smoking cessation, diabetes control, and weight management to the public, often free of charge. - Began piloting a new model of care where physicians and other medical staff are grouped into "care teams". Through this team set-up, they are able to more effectively work together to anticipate patients' needs, better coordinate their care, and help create better health outcomes and experiences. PROVIDING HEALTH AND WELLNESS PLANS FOR MEMBERS Martin's Point offers health care plans for select groups throughout the Northeast. Our plan members receive comprehensive benefits and quality care, and they consistently give us high ratings for exemplary service and satisfaction. In 2010, Martin's Point Health Care: - Served as one of six contracted health plan administrators to the Department of Defense of the US Family Health Plan for military beneficiaries. Through this plan, Martin's Point serves families of active-duty personnel, including activated National Guard and Reserve, military retirees and their families across northern New England, Upstate New York and northern Pennsylvania. In 2010, our US Family Health Plan served over 33,000 members. In our 30 years of providing this TRICARE Prime option, we consistently have earned high marks for customer service and member satisfaction. - Provided a Medicare Advantage insurance plan, which served close to 7,000 Maine residents in all 16 counties in 2010. This plan was recognized as being among a select group of plans nationally that earned a 4 or 5 star rating from the Centers of Medicare and Medicaid Services (CMS). Martin's Point rating of 4.5 stars put our plan in the top 6% of Medicare plans nationwide. 2010 marked the second year in a row that Martin's Point had the highest rated Medicare Advantage plan in Maine. - Provided a suite of wellness, care management, and plan administrative services to self-insured employers throughout the state of Maine. COMMITTED TO TRANSFORMING THE HEALTH CARE SYSTEM Martin's Point is leading the way to transforming the health care system in the communities we serve and beyond. We are dedicated to participating in and creating opportunities to share innovative solutions with others towards our common goal of creating a sustainable, quality health care delivery system, both in Maine and throughout the nation. Our work is driven by three principles: 1) to improve the experience of care, 2) to improve health outcomes, and 3) to reduce overall costs. To achieve these goals, we are working to make systemic changes to the way primary care is delivered and coordinated. In 2010, Martin's Point Health Care: - Served as an active participant in the Maine State Regional Health Information Exchange, HealthInfoNet, which holds vital patient information on over 50% of the State's population. - Continued to enhance our primary care comprehensive payment model to encourage and reward quality care and a better health care experience. - Served as one of the first 40 international prototyping organizations for the Institute for Healthcare Improvement's Triple Aim Initiative. - Participated as a member of the national Alliance of Community Health Plans, comprised of 20 of the top performing community and regional non-profit health plans. MARTIN'S POINT - MAKING A DIFFERENCE IN OUR COMMUNITY Martin's Point is committed to making a difference and improving lives in the communities we serve. In addition to doing this through our services for patients and members, the organization also serves as a leader in the philanthropic community. In 2010, Martin's Point Health Care: - Contributed $300,000 in financial support to more than 90 health care and community nonprofit organizations, agencies, and groups throughout Maine, New Hampshire, and New York. - Hosted three health care education events called the Martin's Point Innovators Series. These events attract hundreds of health care leaders and professionals throughout Maine and New England to interact with and listen to nationally recognized health care experts who share and discuss ideas, cutting-edge practices, and health care trends. - Employees personally and collectively contributed over $55,000 of their wages to their local United Ways and other charities. - Employees from across the organization also actively volunteered their own time to represent Martin's Point Health Care in significant fundraising events for the American Diabetes Association, American Heart Association, Maine Cancer Foundation, Maine Lung Association, Northeast Passage, and many more. Martin's Point is proud to support our employees in their efforts and ability to make a difference in our communities. Thus, Martin's Point provides a volunteer time-off policy which makes it easier for our employees to do direct volunteer service and serve on community boards and committees. In addition, Martin's Point donates monetary support to charitable organizations and efforts in which our employees are engaged.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>The Form 990 is prepared internally with assistance from an outside CPA firm. The return is reviewed in detail by the controller, CFO, and president. A copy of the 990 is provided to the board of directors before filing.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 12c</ReturnReference>
+        <Explanation>The conflict of interest policy is reviewed and given to all new hires during the day-one orientation. Each new hire attests to having received the policy and to have not engaged in any activities that are a conflict of interest to the Organization as defined in the policy. All employees, as a condition of employment, take the annual compliance training which includes conflict of interest training. Questions specific to identifying conflicts of interest are answered by each employee. The responses are monitored for conflict of interest indicators. All board directors receive conflict of interest training and must attest to no conflicts.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15</ReturnReference>
+        <Explanation>Each year, Martin's Point Health Care's (MPHC's) compensation committee, which is comprised of independent board members, works with an independent health care compensation consulting firm to obtain third-party market data for positions that are functionally comparable to those held by MPHC executives in organizations of comparable size based on net revenue and/or health plan membership. This data, as well as the consultant's report showing where MPHC executives fall in relation to the market data, is reviewed by the committee prior to determining compensation adjustments for MPHC's chief executive officer and other executives. The committee's deliberations in this regard are documented in its meeting minutes.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>The organization makes its governing documents, conflict of interest policy, and audited financial statements available to the general public upon request.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Changes in Net Assets or Fund Balances:</Identifier>
+        <ReturnReference>Form 990, Part XI, line 5:</ReturnReference>
+        <Explanation>Net unrealized gains on investments: 11,348,934.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Oversight of Audit</Identifier>
+        <ReturnReference>Form 990, Part XI, Line 2c:</ReturnReference>
+        <Explanation>The audit process has not changed from the prior year.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Unrelated Business Income</Identifier>
+        <ReturnReference>Form 990, Part III, Line 4a-d:</ReturnReference>
+        <Explanation>The Organization's 990-T filing is related to the Schedule K-1 received from Nyes Ledge Capital Partners, LP for investment-related income of $59,873.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Martin's Point Generations LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>331 Veranda Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+        <EIN>204505084</EIN>
+        <PrimaryActivities>Medicare Limited HMO</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>43018629</TotalIncome>
+        <EOYAssets>17580979</EOYAssets>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Evergreen Woods Primary Care LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>700 Mount Hope Avenue</AddressLine1>
+          <City>Bangor</City>
+          <State>ME</State>
+          <ZIPCode>04401</ZIPCode>
+        </AddressUS>
+        <EIN>260449335</EIN>
+        <PrimaryActivities>Physician Practices</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>1181666</TotalIncome>
+        <EOYAssets>244887</EOYAssets>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Martin's Point Medical Group LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>331 Veranda Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+        <EIN>263756814</EIN>
+        <PrimaryActivities>Physician Practices</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>14689895</TotalIncome>
+        <EOYAssets>1451877</EOYAssets>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Bowdoin Medical Group LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>331 Veranda Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+        <EIN>270221611</EIN>
+        <PrimaryActivities>Physician Practices</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>12081280</TotalIncome>
+        <EOYAssets>1830667</EOYAssets>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>Martin's Point Community Health Administrators LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>331 Veranda Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+        <EIN>800647782</EIN>
+        <PrimaryActivities>Third Party Administration</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>0</TotalIncome>
+        <EOYAssets>0</EOYAssets>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartIV>
+        <NameOfRelatedOrg>
+          <BusinessNameLine1>Martin's Point Community Health Plan Inc</BusinessNameLine1>
+        </NameOfRelatedOrg>
+        <AddressUS>
+          <AddressLine1>331 Veranda Street</AddressLine1>
+          <City>Portland</City>
+          <State>ME</State>
+          <ZIPCode>04103</ZIPCode>
+        </AddressUS>
+        <EIN>800647785</EIN>
+        <PrimaryActivity>Reinsurance</PrimaryActivity>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <TypeOfEntity>C</TypeOfEntity>
+        <ShareOfEOYAssets>1000</ShareOfEOYAssets>
+        <PercentageOwnership>1.00000</PercentageOwnership>
+      </Form990ScheduleRPartIV>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

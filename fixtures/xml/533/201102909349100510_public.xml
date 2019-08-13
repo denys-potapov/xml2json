@@ -1,0 +1,550 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-10-17T15:26:24-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CLARK FRIEL AND JOYCE PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>128 AUBURN ST</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04103</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010533527</EIN>
+      <Name>
+        <BusinessNameLine1>PORTLAND ESL SCHOLARSHIP FUND</BusinessNameLine1>
+      </Name>
+      <NameControl>PORT</NameControl>
+      <Phone>2077744728</Phone>
+      <USAddress>
+        <AddressLine1>C/O SOLANGE KELLERMAN P O BOX 281</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041120281</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SOLONGE KELLERMAN</Name>
+      <Title>TREASURER</Title>
+      <Phone>2077744728</Phone>
+      <DateSigned>2011-10-12</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>DANA C CLARK</Name>
+      <Phone>2077972746</Phone>
+      <DatePrepared>2011-10-17</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>18972</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>8774</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>5</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>5</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>5</InterestOnSavingsAdjNetIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="00000005" referenceDocumentName="OtherIncomeSchedule2">1985</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>10764</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>5</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>5</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId="00000003" referenceDocumentName="LegalFeesSchedule">310</LegalFeesRevAndExpnss>
+        <AccountingFeesRevAndExpnss referenceDocumentId="00000002" referenceDocumentName="AccountingFeesSchedule">435</AccountingFeesRevAndExpnss>
+        <TaxesRevAndExpnss referenceDocumentId="00000006" referenceDocumentName="TaxesSchedule">2</TaxesRevAndExpnss>
+        <PrintingAndPubRevAndExpnss>82</PrintingAndPubRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">2005</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>2834</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>4870</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>4870</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>7704</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>4870</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>3060</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5</NetInvestmentIncome>
+        <AdjustedNetIncome>5</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>7170</CashBOY>
+        <CashEOY>16222</CashEOY>
+        <CashEOYFMV>16222</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>8742</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>2750</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>2750</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>15912</TotalAssetsBOY>
+        <TotalAssetsEOY>18972</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>18972</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>15912</RetainedEarningsBOY>
+        <RetainedEarningsEOY>18972</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>15912</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>18972</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>15912</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>18972</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>15912</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>3060</ExcessOfRevenueOverExpenses>
+        <Subtotal>18972</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>18972</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <QualifyingDistributionsYear1>4694</QualifyingDistributionsYear1>
+        <DistributionRatioYear1>0.000000</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>3598</QualifyingDistributionsYear2>
+        <DistributionRatioYear2>0.000000</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>3898</QualifyingDistributionsYear3>
+        <QualifyingDistributionsYear4>3999</QualifyingDistributionsYear4>
+        <QualifyingDistributionsYear5>6000</QualifyingDistributionsYear5>
+        <TotalDistributionRatio>0.000000</TotalDistributionRatio>
+        <AverageDistributionRatio>0.000000</AverageDistributionRatio>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>4870</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>SOLANGE KELLERMAN</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2077744728</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>48 HOWARD ST</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>04101</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SOLANGE KELLERMAN</PersonName>
+          <USAddress>
+            <AddressLine1>48 HOWARD STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VALERIE DEVUYST</PersonName>
+          <USAddress>
+            <AddressLine1>305 WINDHAM CENTER ROAD</AddressLine1>
+            <City>WINDHAM</City>
+            <State>ME</State>
+            <ZIPCode>04062</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>E'NKUL KANAKAN</PersonName>
+          <USAddress>
+            <AddressLine1>9 BAILEY AVENUE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04103</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DEBBY MURRAY</PersonName>
+          <USAddress>
+            <AddressLine1>89 WEST STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>M BRIDGET CHASE</PersonName>
+          <USAddress>
+            <AddressLine1>197 PINE ST 17</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ANNE GRIMES</PersonName>
+          <USAddress>
+            <AddressLine1>1731 ROYALSBOROUGH RD</AddressLine1>
+            <City>DURHAM</City>
+            <State>ME</State>
+            <ZIPCode>04222</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELLEN MUGAR</PersonName>
+          <USAddress>
+            <AddressLine1>77 WELLS ROAD</AddressLine1>
+            <City>CAPE ELIZABETH</City>
+            <State>ME</State>
+            <ZIPCode>04107</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN MARTENS</PersonName>
+          <USAddress>
+            <AddressLine1>188 MERRILL ROAD</AddressLine1>
+            <City>POWNAL</City>
+            <State>ME</State>
+            <ZIPCode>04069</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MATT TARASEVICH</PersonName>
+          <USAddress>
+            <AddressLine1>144 HILLIS STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04103</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ELEANOR GOLDBERG</PersonName>
+          <USAddress>
+            <AddressLine1>146 WHITNEY AVENUE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CLAUDE KIRONGOZI</PersonName>
+          <USAddress>
+            <AddressLine1>44 MUNJOY SOUTH</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALISON BROWN</PersonName>
+          <USAddress>
+            <AddressLine1>125 NEWBURY STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MARGARITA IVANOVA</PersonName>
+          <USAddress>
+            <AddressLine1>79 BRAMHALL ST APT 6C</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>University of Southern Maine - scholarships</Description1>
+        <Expenses1>3600</Expenses1>
+        <Description2>PW - scholarships</Description2>
+        <Expenses2>600</Expenses2>
+        <Description3>LANA United Way - scholarship</Description3>
+        <Expenses3>670</Expenses3>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>4870</ExpensesAndContributions>
+        <QualifyingDistributions>4870</QualifyingDistributions>
+        <AdjQualifyingDistributions>4870</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>6000</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>4000</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>3900</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>3600</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4695</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>22195</TotalExcessDistriCarryover>
+        <QualifyingDistributions>4870</QualifyingDistributions>
+        <RemainingDistriFromCorpus>4870</RemainingDistriFromCorpus>
+        <TotalCorpus>27065</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>6000</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>21065</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>4000</ExcessFromYear4>
+        <ExcessFromYear3>3900</ExcessFromYear3>
+        <ExcessFromYear2>3600</ExcessFromYear2>
+        <ExcessFromYear1>4695</ExcessFromYear1>
+        <ExcessFromCurrentYear>4870</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>HAROLD ZAGORIN</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>ALL APPLICATIONS ARE SUBMITTED DIRE</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>MAINE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2077804141</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO SPECIFIC FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>RESTRICTED TO SOUTHERN MAINE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF SOUTHERN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>MAINE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>scholarships</PurposeOfGrantOrContribution>
+          <Amount>3600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LANA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>UNITED WAY</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>scholarships</PurposeOfGrantOrContribution>
+          <Amount>670</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>P W</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PORTLAND</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501c3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>scholarships</PurposeOfGrantOrContribution>
+          <Amount>600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>4870</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <BusinessCode>611710</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>5</UnrelatedBusinessIncomeAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>5</UnrelatedBusinessIncomeAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="00000002">
+      <AccountingFees>
+        <Category>Clark, Friel &amp; Joyce, PA tax return preparation</Category>
+        <Amount>435</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="00000003">
+      <LegalFees>
+        <Category>Pierce Atwood Annual filing</Category>
+        <Amount>310</Amount>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherExpensesSchedule documentId="00000004">
+      <OtherExpenses>
+        <Description>Bank fee</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>879</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Membership fee</Description>
+        <RevenueAndExpensesPerBooks>50</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>266</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Post office box rental</Description>
+        <RevenueAndExpensesPerBooks>72</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>128</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Website development</Description>
+        <RevenueAndExpensesPerBooks>600</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="00000005">
+      <OtherIncome>
+        <Description>Raffle</Description>
+        <RevenueAndExpensesPerBooks>1785</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Honey</Description>
+        <RevenueAndExpensesPerBooks>200</RevenueAndExpensesPerBooks>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <TaxesSchedule documentId="00000006">
+      <Taxes>
+        <Category>Income tax</Category>
+        <Amount>2</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-13T11:04:29-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>MARK R SMITH CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>8 SORRENTO DRIVE</AddressLine1>
+        <City>OSPREY</City>
+        <State>FL</State>
+        <ZIPCode>34229</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010788764</EIN>
+      <Name>
+        <BusinessNameLine1>WINDHORSE SANCTUARY INC</BusinessNameLine1>
+      </Name>
+      <NameControl>WIND</NameControl>
+      <Phone>3525291007</Phone>
+      <USAddress>
+        <AddressLine1>18400 NW 150TH AVE</AddressLine1>
+        <City>WILLISTON</City>
+        <State>FL</State>
+        <ZIPCode>32696</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID FERGUSON</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>3525291007</Phone>
+      <DateSigned>2011-05-13</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MARK R SMITH</Name>
+      <Phone>9413754118</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="00000001" referenceDocumentName="ReasonableCauseExplanation GeneralExplanationAttachment">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>6758</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>95547</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>95547</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <OthEmplSlrsWgsRevAndExpnss>35300</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>35300</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="00000007" referenceDocumentName="OtherProfessionalFeesSchedule">12424</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>12424</OtherProfFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="00000004" referenceDocumentName="DepreciationSchedule">1686</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="00000006" referenceDocumentName="AmortizationSchedule OtherExpensesSchedule">43654</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>43654</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>93064</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>91378</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>93064</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>91378</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2483</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>250</CashBOY>
+        <CashEOY>3562</CashEOY>
+        <CashEOYFMV>3562</CashEOYFMV>
+        <InvestmentsLandEtcBasis>30893</InvestmentsLandEtcBasis>
+        <AccumDeprecInvestmentsLandEtc>28526</AccumDeprecInvestmentsLandEtc>
+        <InvestmentsLandEtcBOY>7773</InvestmentsLandEtcBOY>
+        <InvestmentsLandEtcEOY referenceDocumentId="00000005" referenceDocumentName="InvestmentsLandSchedule2">2367</InvestmentsLandEtcEOY>
+        <InvestmentsLandEtcEOYFMV>3196</InvestmentsLandEtcEOYFMV>
+        <TotalAssetsBOY>8023</TotalAssetsBOY>
+        <TotalAssetsEOY>5929</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>6758</TotalAssetsEOYFMV>
+        <MortgagesAndNotesPayableBOY>7773</MortgagesAndNotesPayableBOY>
+        <MortgagesAndNotesPayableEOY>3196</MortgagesAndNotesPayableEOY>
+        <TotalLiabilitiesBOY>7773</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>3196</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>250</UnrestrictedBOY>
+        <UnrestrictedEOY>2733</UnrestrictedEOY>
+        <TotalNetAssetsBOY>250</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>2733</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8023</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>5929</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>250</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2483</ExcessOfRevenueOverExpenses>
+        <Subtotal>2733</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>2733</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <DistributionRatioYear1>0.000000</DistributionRatioYear1>
+        <DistributionRatioYear2>0.000000</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>97802</QualifyingDistributionsYear3>
+        <QualifyingDistributionsYear4>104089</QualifyingDistributionsYear4>
+        <DistributionRatioYear4>0.000000</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>100851</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>664</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>151.884036</DistributionRatioYear5>
+        <TotalDistributionRatio>151.884036</TotalDistributionRatio>
+        <AverageDistributionRatio>37.971009</AverageDistributionRatio>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>91378</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DateOfRulingLetter>2004-06-10</DateOfRulingLetter>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>false</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>BOBBIE BURNES</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3525291007</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>18400 NW 150TH</AddressLine1>
+          <City>WILLISTON</City>
+          <State>FL</State>
+          <ZIPCode>32696</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>true</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DAVID L FERGUSON</PersonName>
+          <USAddress>
+            <AddressLine1>18400 NW 150TH AVE</AddressLine1>
+            <City>WILLISTON</City>
+            <State>FL</State>
+            <ZIPCode>32696</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>20.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BOBBIE BURNES</PersonName>
+          <USAddress>
+            <AddressLine1>18400 NW 150TH AVE</AddressLine1>
+            <City>WILLISTON</City>
+            <State>FL</State>
+            <ZIPCode>32696</ZIPCode>
+          </USAddress>
+          <Title>VICE PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>70.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>RICHARD KRACKE</PersonName>
+          <USAddress>
+            <AddressLine1>601 N HERCULES AVE 1306</AddressLine1>
+            <City>CLEARWATER</City>
+            <State>FL</State>
+            <ZIPCode>33765</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>VICKIE ORR</PersonName>
+          <USAddress>
+            <AddressLine1>21260 NW 6TH ST</AddressLine1>
+            <City>DUNNELLON</City>
+            <State>FL</State>
+            <ZIPCode>34432</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>10.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>PREVENTION OF CRUELTY TO ANIMALS THROUGH CARE, REHABILITATION AND PLACEMENT OFPREVIOUS NEGLECTED AND/OR ABUSED ANIMAL AND THROUGH EDUCATION OF THEGENERAL PUBLIC</Description1>
+        <Expenses1>95547</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>91378</ExpensesAndContributions>
+        <QualifyingDistributions>91378</QualifyingDistributions>
+        <AdjQualifyingDistributions>91378</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <QualifyingDistributions>91378</QualifyingDistributions>
+        <RemainingDistriFromCorpus>91378</RemainingDistriFromCorpus>
+        <TotalCorpus>91378</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>91378</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>91378</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2004-06-10</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <QualifyingDistributions>
+          <CurrentYear>91378</CurrentYear>
+          <Year1>102409</Year1>
+          <Year2>99076</Year2>
+          <Year3>97802</Year3>
+          <Total>390665</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>91378</CurrentYear>
+          <Year1>102409</Year1>
+          <Year2>99076</Year2>
+          <Year3>97802</Year3>
+          <Total>390665</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Total>0</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Total>0</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Total>0</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Total>0</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>DAVID L FERGUSON</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="00000002">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>DAVID FERGUSON</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>18400 NW 150TH AVE</AddressLine1>
+          <City>WILLISTON</City>
+          <State>FL</State>
+          <ZIPCode>32696</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>58389</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="00000004">
+      <Depreciation>
+        <DescriptionOfProperty>HORSE TRAILER</DescriptionOfProperty>
+        <DateAcquired>2004-04-20</DateAcquired>
+        <CostOrOtherBasis>18893</CostOrOtherBasis>
+        <PriorYearsDepreciation>16364</PriorYearsDepreciation>
+        <ComputationMethod>200DB</ComputationMethod>
+        <Life>7.00</Life>
+        <CurrentYearExpense>1686</CurrentYearExpense>
+      </Depreciation>
+    </DepreciationSchedule>
+    <InvestmentsLandSchedule2 documentId="00000005">
+      <InvestmentLand>
+        <CategoryOrItem>HORSE TRAILER</CategoryOrItem>
+        <CostOrOtherBasis>18893</CostOrOtherBasis>
+        <AccumulatedDepreciation>18879</AccumulatedDepreciation>
+        <BookValue>14</BookValue>
+      </InvestmentLand>
+      <InvestmentLand>
+        <CategoryOrItem>UTILITY TRAILER</CategoryOrItem>
+        <CostOrOtherBasis>12000</CostOrOtherBasis>
+        <AccumulatedDepreciation>9647</AccumulatedDepreciation>
+        <BookValue>2353</BookValue>
+      </InvestmentLand>
+    </InvestmentsLandSchedule2>
+    <OtherExpensesSchedule documentId="00000006">
+      <OtherExpenses>
+        <Description>FEED</Description>
+        <RevenueAndExpensesPerBooks>25049</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25049</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS</Description>
+        <RevenueAndExpensesPerBooks>1000</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FUEL</Description>
+        <RevenueAndExpensesPerBooks>536</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>536</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ANIMAL SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>11719</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>11719</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OFFICE SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>170</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>170</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FARM SUPPLIES</Description>
+        <RevenueAndExpensesPerBooks>1705</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1705</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>ELECTRIC</Description>
+        <RevenueAndExpensesPerBooks>897</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>897</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>2078</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2078</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER ADMIN</Description>
+        <RevenueAndExpensesPerBooks>500</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>500</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="00000007">
+      <OtherProfessionalFees>
+        <Category>VETERNINARY VET</Category>
+        <Amount>9202</Amount>
+        <DisbursementsCharitablePrps>9202</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>BLACKSMITH BLACKSMITH</Category>
+        <Amount>3222</Amount>
+        <DisbursementsCharitablePrps>3222</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

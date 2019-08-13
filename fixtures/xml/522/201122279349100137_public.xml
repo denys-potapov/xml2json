@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-15T12:18:45-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Macdonald Page &amp; Co LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>30 Long Creek Dr</AddressLine1>
+        <City>South Portland</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010522137</EIN>
+      <Name>
+        <BusinessNameLine1>Magnuson Technical Heritage Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>MAGN</NameControl>
+      <Phone>2073241300</Phone>
+      <USAddress>
+        <AddressLine1>659 Williams Road</AddressLine1>
+        <City>Lyman</City>
+        <State>ME</State>
+        <ZIPCode>04002</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Geoffrey Magnuson</Name>
+      <Title>President</Title>
+      <DateSigned>2011-08-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Peter A Dufour</Name>
+      <Phone>2077745701</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>222</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>222</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>222</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>222</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>222</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>222</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">135</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>135</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">475</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>475</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">7</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>7</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>617</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>617</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>617</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>617</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-395</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>222</NetInvestmentIncome>
+        <AdjustedNetIncome>222</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1574</CashBOY>
+        <CashEOY>958</CashEOY>
+        <SavingsAndTempCashInvstBOY>26538</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>26759</SavingsAndTempCashInvstEOY>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">13400</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">5000</OtherAssetsEOY>
+        <TotalAssetsBOY>41512</TotalAssetsBOY>
+        <TotalAssetsEOY>32717</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>41512</RetainedEarningsBOY>
+        <RetainedEarningsEOY>32717</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>41512</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>32717</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>41512</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>32717</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>41512</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-395</ExcessOfRevenueOverExpenses>
+        <Subtotal>41117</Subtotal>
+        <OtherDecreases referenceDocumentId=" OtherDecreasesSchedule">8400</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>32717</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>986</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>2040</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.48333</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>1458</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>2152</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.67751</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>2049</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2897</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.70728</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>1063</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2430</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.43745</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>735</QualifyingDistributionsYear5>
+        <TotalDistributionRatio>2.30557</TotalDistributionRatio>
+        <AverageDistributionRatio>0.46112</AverageDistributionRatio>
+        <OnePercentNetInvestmentIncome>2</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>2</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>617</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2</InvestmentIncomeExciseTax>
+        <Subtotal>2</Subtotal>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TaxDue>2</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Geoffrey Magnuson</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2073243962</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>659 Williams Rd</AddressLine1>
+          <City>Lyman</City>
+          <State>ME</State>
+          <ZIPCode>04002</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Michelle Sherman</PersonName>
+          <USAddress>
+            <AddressLine1>43 Community Drive</AddressLine1>
+            <City>Sanford</City>
+            <State>ME</State>
+            <ZIPCode>04073</ZIPCode>
+          </USAddress>
+          <Title>Treasurer</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Timothy Anast</PersonName>
+          <USAddress>
+            <AddressLine1>8 Just-a-mere Rd</AddressLine1>
+            <City>Falmouth</City>
+            <State>ME</State>
+            <ZIPCode>04105</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Barbara Magnuson</PersonName>
+          <USAddress>
+            <AddressLine1>659 Williams Rd</AddressLine1>
+            <City>Lyman</City>
+            <State>ME</State>
+            <ZIPCode>04002</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Geoffrey Magnuson</PersonName>
+          <USAddress>
+            <AddressLine1>659 Williams Rd</AddressLine1>
+            <City>Lyman</City>
+            <State>ME</State>
+            <ZIPCode>04002</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Publications and Foundation Promotion Expenses</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>617</ExpensesAndContributions>
+        <QualifyingDistributions>617</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>615</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2003-02-21</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year1>102</Year1>
+          <Year2>108</Year2>
+          <Year3>145</Year3>
+          <Total>355</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <Year1>87</Year1>
+          <Year2>92</Year2>
+          <Year3>123</Year3>
+          <Total>302</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>617</CurrentYear>
+          <Year1>993</Year1>
+          <Year2>1468</Year2>
+          <Year3>2063</Year3>
+          <Total>5141</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>617</CurrentYear>
+          <Year1>993</Year1>
+          <Year2>1468</Year2>
+          <Year3>2063</Year3>
+          <Total>5141</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <Year1>41512</Year1>
+          <Year2>41803</Year2>
+          <Year3>42256</Year3>
+          <Total>125571</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <Year1>41512</Year1>
+          <Year2>41803</Year2>
+          <Year3>42256</Year3>
+          <Total>125571</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>Barbara Magnuson</ContributingManager>
+        <ContributingManager>Geoffrey Magnuson</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>222</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>222</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>222</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>annual prep of 990PF</Category>
+        <Amount>475</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>475</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Amount>135</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>135</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>1948 ventnor style cricket II-G-44 Gold</Description>
+        <BOYBookValue>5000</BOYBookValue>
+        <EOYBookValue>5000</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherDecreasesSchedule documentId="OtherDecreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherDecreases>
+        <Description>assets disposed in 2004</Description>
+        <Amount>8400</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Amount>7</Amount>
+        <DisbursementsCharitablePrps>7</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

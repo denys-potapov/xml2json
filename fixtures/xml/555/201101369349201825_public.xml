@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-16T10:12:23-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>STEVE RICHARDSON &amp; COMPANY PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 2250</AddressLine1>
+        <City>TUSCALOOSA</City>
+        <State>AL</State>
+        <ZIPCode>354032250</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990EZ</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010555813</EIN>
+      <Name>
+        <BusinessNameLine1>JEFF SPOONEYBARGER MINISTRIES</BusinessNameLine1>
+      </Name>
+      <NameControl>JEFF</NameControl>
+      <Phone>8509321247</Phone>
+      <USAddress>
+        <AddressLine1>203 CORDOBA STREET</AddressLine1>
+        <City>GULF BREEZE</City>
+        <State>FL</State>
+        <ZIPCode>32561</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JEFFREY SPOONEYBARGER</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>8509321247</Phone>
+      <DateSigned>2011-05-11</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>STEVE RICHARDSON</Name>
+      <Phone>2053493580</Phone>
+      <DatePrepared>2011-05-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990EZ documentId="RetDoc5" referenceDocumentId="RetDoc4">
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <ScheduleBNotRequired>X</ScheduleBNotRequired>
+      <WebSite>WWW.JEFFSPOON.COM</WebSite>
+      <Organization501c3 referenceDocumentId="RetDoc3">X</Organization501c3>
+      <GrossReceipts>76454</GrossReceipts>
+      <InfoInScheduleOPartI>X</InfoInScheduleOPartI>
+      <ContributionsGiftsGrantsEtc>60246</ContributionsGiftsGrantsEtc>
+      <ProgramServiceRevenue>16208</ProgramServiceRevenue>
+      <TotalRevenue>76454</TotalRevenue>
+      <BenefitsPaidToOrForMembers>49399</BenefitsPaidToOrForMembers>
+      <FeesAndOthPymtToIndContractors>776</FeesAndOthPymtToIndContractors>
+      <OccupancyRentUtilitiesAndMaint>3346</OccupancyRentUtilitiesAndMaint>
+      <PrintingPublicationsPostage>27</PrintingPublicationsPostage>
+      <OtherExpensesTotal>24492</OtherExpensesTotal>
+      <TotalExpenses>78040</TotalExpenses>
+      <ExcessOrDeficitForYear>-1586</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>17692</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>16106</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartII>X</InfoInScheduleOPartII>
+      <CashSavingsAndInvestments>
+        <BOY>13165</BOY>
+        <EOY>13736</EOY>
+      </CashSavingsAndInvestments>
+      <OtherAssetsTotal>
+        <BOY>4527</BOY>
+        <EOY>2370</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>17692</BOY>
+        <EOY>16106</EOY>
+      </TotalAssets>
+      <NetAssetsOrFundBalances>
+        <BOY>17692</BOY>
+        <EOY>16106</EOY>
+      </NetAssetsOrFundBalances>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <PrimaryExemptPurpose>PROGRAM FOR TEENAGERS TO ATTEND RELIGIOUS RETREATS AND CAMPS FOR WORSHIP SERVICES.</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>THE MINISTRY CONDUCTS RETREATS FOR RELIGIOUS ORGANIZATIONS SO THAT YOUNG ADULTS MAY HAVE A SAFE PLACE IN WHICH TO WORSHIP. THIS PROVIDES KNOWLEDGE OF THE GOSPEL TO INNER CITY AND RURAL LOCATIONS. ENABLING ADULTS AND TEENAGERS TO BUILD CHARACTER AND INTEGRITY THROUGH PRAISE AND WORSHIP.</DescriptionProgramServiceAccom>
+        <ProgramServiceExpenses>78040</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <TotalProgramServiceExpenses>78040</TotalProgramServiceExpenses>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc2">JEFFREY SPOONEYBARGER</PersonName>
+        <AddressUS>
+          <AddressLine1>203 CORDOBA STREET</AddressLine1>
+          <AddressLine2>203 CORDOBA STREET</AddressLine2>
+          <City>GULF BREEZE</City>
+          <State>FL</State>
+          <ZIPCode>32561</ZIPCode>
+        </AddressUS>
+        <Title>EX DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>40.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>40090</Compensation>
+        <ContriToEmplBenefitPlansEtc>9309</ContriToEmplBenefitPlansEtc>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc2">JOHN PORTER</PersonName>
+        <AddressUS>
+          <AddressLine1>1333 UPLAND CREST CT</AddressLine1>
+          <AddressLine2>1333 UPLAND CREST CT</AddressLine2>
+          <City>GULF BREEZE</City>
+          <State>FL</State>
+          <ZIPCode>32563</ZIPCode>
+        </AddressUS>
+        <Title>CHAIRMAN</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc2">TIM FURCHES</PersonName>
+        <AddressUS>
+          <AddressLine1>6649 KLONDIKE ROAD</AddressLine1>
+          <AddressLine2>6649 KLONDIKE ROAD</AddressLine2>
+          <City>PENSACOLA</City>
+          <State>FL</State>
+          <ZIPCode>32526</ZIPCode>
+        </AddressUS>
+        <Title>DIRECTOR</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc2">CHRIS BELL</PersonName>
+        <AddressUS>
+          <AddressLine1>2555 PINE FOREST ROAD</AddressLine1>
+          <AddressLine2>2555 PINE FOREST ROAD</AddressLine2>
+          <City>CANTONMENT</City>
+          <State>FL</State>
+          <ZIPCode>32533</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName referenceDocumentId="RetDoc2">CHAD GILLILAND</PersonName>
+        <AddressUS>
+          <AddressLine1>959 OSPREY CT</AddressLine1>
+          <AddressLine2>959 OSPREY CT</AddressLine2>
+          <City>PENSACOLA</City>
+          <State>FL</State>
+          <ZIPCode>32507</ZIPCode>
+        </AddressUS>
+        <Title>MEMBER</Title>
+        <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <ActivitiesNotPreviouslyRpt>false</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>false</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>false</OrganizationHadUBI>
+      <OrganizationDissolvedEtc>false</OrganizationDissolvedEtc>
+      <DidOrgFileForm1120POLThisYear>false</DidOrgFileForm1120POLThisYear>
+      <MadeLoansToFromOfficers>false</MadeLoansToFromOfficers>
+      <EngagedInExcessBenefitTrans>false</EngagedInExcessBenefitTrans>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TheBooksAreInCareOf>
+        <NamePerson>SHANNON SPOONEYBARGER</NamePerson>
+        <AddressUS>
+          <AddressLine1>203 CORDOBA STREET</AddressLine1>
+          <City>GULF BREEZE</City>
+          <State>FL</State>
+          <ZIPCode>32561</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>8509321247</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ForeignOffice>false</ForeignOffice>
+      <MaintainAnyDonorAdvisedFunds>false</MaintainAnyDonorAdvisedFunds>
+      <DoesOrgHaveHospital>false</DoesOrgHaveHospital>
+      <TanningServicesProvided>false</TanningServicesProvided>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionWithControlEntity>false</TransactionWithControlEntity>
+      <EngagePoliticalCmpgnActivities>false</EngagePoliticalCmpgnActivities>
+      <EngageInLobbyingActivities>false</EngageInLobbyingActivities>
+      <OperatingSchool>false</OperatingSchool>
+      <TrnsfrsExemptNonCharRelatedOrg>false</TrnsfrsExemptNonCharRelatedOrg>
+      <PartVIOfCompOfHighestPaidEmpl>NONE</PartVIOfCompOfHighestPaidEmpl>
+      <PartVIAHghstPaidCntrctProfSer>NONE</PartVIAHghstPaidCntrctProfSer>
+      <FiledScheduleA>true</FiledScheduleA>
+    </IRS990EZ>
+    <IRS990ScheduleA documentId="RetDoc3">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>82263</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>78405</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>68414</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>62704</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>60246</CurrentTaxYear>
+        <Total>352032</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>24146</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>30886</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>24264</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>18224</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>16208</CurrentTaxYear>
+        <Total>113728</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>106409</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>109291</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>92678</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>80928</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>76454</CurrentTaxYear>
+        <Total>465760</Total>
+      </Total509>
+      <AmtsFromSubstContributors>
+        <CurrentTaxYearMinus4Years>19146</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>25886</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>19264</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>13224</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>11208</CurrentTaxYear>
+        <Total>88728</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus4Years>19146</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>25886</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>19264</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>13224</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>11208</CurrentTaxYear>
+        <Total>88728</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>377032</PublicSupportTotal509>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>106409</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>109291</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>92678</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>80928</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>76454</CurrentTaxYear>
+        <Total>465760</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.80950</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.80360</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00000</InvestmentIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleO documentId="RetDoc4">
+      <GeneralExplanation>
+        <Identifier>OTHER EXPENSES</Identifier>
+        <ReturnReference>FORM 990-EZ, PART I, LINE 16</ReturnReference>
+        <Explanation>EXPENSES 119 OFFICE EQPT 283 FEES 176 OUT OF TOWN/MISSIONS TRAVEL 5,925 FUEL 3,036 REPAIRS &amp; MAINT 1,980 TRANSPORTATION 1,548 CONTRACT LABOR 4,600 CAMP FEES 2,204 CONTINUING EDUCATION 3,479 1,142 TOTAL 24,492</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OTHER ASSETS</Identifier>
+        <ReturnReference>FORM 990-EZ, PART II, LINE 24</ReturnReference>
+        <Explanation>28,905 28,905 LESS ACCUMULATED DEPRECIATION 24,378 26,535 269 269 LESS ACCUMULATED AMORTIZATION 269 269 TOTAL 4,527 2,370</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OTHER LIABILITIES</Identifier>
+        <ReturnReference>FORM 990-EZ, PART II, LINE 26</ReturnReference>
+        <Explanation>VEHICLE LOAN 0 0</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>PRIMARY EXEMPT PURPOSE</Identifier>
+        <ReturnReference>FORM 990-EZ, PART III</ReturnReference>
+        <Explanation>PROGRAM FOR TEENAGERS TO ATTEND RELIGIOUS RETREATS AND CAMPS FOR WORSHIP SERVICES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FIRST ACHIEVEMENT</Identifier>
+        <ReturnReference>FORM 990-EZ, PART III, LINE 28</ReturnReference>
+        <Explanation>THE MINISTRY CONDUCTS RETREATS FOR RELIGIOUS ORGANIZATIONS SO THAT YOUNG ADULTS MAY HAVE A SAFE PLACE IN WHICH TO WORSHIP. THIS PROVIDES KNOWLEDGE OF THE GOSPEL TO INNER CITY AND RURAL LOCATIONS. ENABLING ADULTS AND TEENAGERS TO BUILD CHARACTER AND INTEGRITY THROUGH PRAISE AND WORSHIP.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>JEFFREY SPOONEYBARGER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>JOHN PORTER</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>TIM FURCHES</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CHRIS BELL</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>CHAD GILLILAND</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+  </ReturnData>
+</Return>

@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-16T17:39:32-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ASPIRIANT LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>11100 SANTA MONICA BLVD STE 600</AddressLine1>
+        <City>LOS ANGELES</City>
+        <State>CA</State>
+        <ZIPCode>900253392</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010557719</EIN>
+      <Name>
+        <BusinessNameLine1>THE MACNEAL FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>MACN</NameControl>
+      <Phone>3108064000</Phone>
+      <USAddress>
+        <AddressLine1>11100 SANTA MONICA BLVD</AddressLine1>
+        <AddressLine2>ROOM/SUITE 600</AddressLine2>
+        <City>LOS ANGELES</City>
+        <State>CA</State>
+        <ZIPCode>90025</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>RICHARD M MCNEAL</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>3108064000</Phone>
+      <DateSigned>2011-05-13</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>MICHAEL S ANGELL</Name>
+      <Phone>3108064000</Phone>
+      <DatePrepared>2011-05-16</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1904507</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>35</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>2</InterestOnSavingsRevAndExpnss>
+        <DividendsRevAndExpnss>41547</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>41547</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>5331</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>60338</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>5331</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>46915</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>46878</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc6">7176</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>7176</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">1308</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>489</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>35</TaxesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>8484</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7665</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>35</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>50000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>50000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>58484</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7665</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>50035</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-11569</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>39213</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>31496</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>12262</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>12262</SavingsAndTempCashInvstEOYFMV>
+        <PrepaidExpensesBOY>963</PrepaidExpensesBOY>
+        <PrepaidExpensesEOY>179</PrepaidExpensesEOY>
+        <PrepaidExpensesEOYFMV>179</PrepaidExpensesEOYFMV>
+        <InvestmentsCorpStockBOY>1259358</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">1271740</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1546241</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>165554</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc3">152747</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>152992</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>166071</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">174945</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>192833</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>1623442</TotalAssetsBOY>
+        <TotalAssetsEOY>1611873</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1904507</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>1623442</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1611873</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>1623442</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1611873</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1623442</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1611873</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>1623442</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-11569</ExcessOfRevenueOverExpenses>
+        <Subtotal>1611873</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1611873</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1659.398-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-24</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>16857</GrossSalesPrice>
+          <CostOrOtherBasis>16000</CostOrOtherBasis>
+          <GainOrLoss>857</GainOrLoss>
+          <GainsMinusExcessOrLosses>857</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2.582-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-30</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>26</GrossSalesPrice>
+          <CostOrOtherBasis>25</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>0.884-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-31</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>9</GrossSalesPrice>
+          <CostOrOtherBasis>9</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.503-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-29</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>66</GrossSalesPrice>
+          <CostOrOtherBasis>64</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.386-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-26</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>65</GrossSalesPrice>
+          <CostOrOtherBasis>63</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.181-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-29</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>63</GrossSalesPrice>
+          <CostOrOtherBasis>60</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7.076-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-31</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>72</GrossSalesPrice>
+          <CostOrOtherBasis>69</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.757-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-30</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>69</GrossSalesPrice>
+          <CostOrOtherBasis>67</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7.011-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-28</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>71</GrossSalesPrice>
+          <CostOrOtherBasis>69</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.71-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-30</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>68</GrossSalesPrice>
+          <CostOrOtherBasis>67</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>6.808-SHS-VANGUARD F/I INT. CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-07-30</DateAcquired>
+          <DateSold>2010-08-04</DateSold>
+          <GrossSalesPrice>69</GrossSalesPrice>
+          <CostOrOtherBasis>69</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2186.463-SHS-PIMCO TOTAL RETURN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-08-30</DateAcquired>
+          <DateSold>2010-08-12</DateSold>
+          <GrossSalesPrice>25000</GrossSalesPrice>
+          <CostOrOtherBasis>23847</CostOrOtherBasis>
+          <GainOrLoss>1153</GainOrLoss>
+          <GainsMinusExcessOrLosses>1153</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>294-SHS-KAYNE ANDERSON MLP INVT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-24</DateAcquired>
+          <DateSold>2010-09-27</DateSold>
+          <GrossSalesPrice>7606</GrossSalesPrice>
+          <CostOrOtherBasis>7114</CostOrOtherBasis>
+          <GainOrLoss>492</GainOrLoss>
+          <GainsMinusExcessOrLosses>492</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>290-SHS-KAYNE ANDERSON MLP INVT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-24</DateAcquired>
+          <DateSold>2010-09-29</DateSold>
+          <GrossSalesPrice>7491</GrossSalesPrice>
+          <CostOrOtherBasis>7484</CostOrOtherBasis>
+          <GainOrLoss>7</GainOrLoss>
+          <GainsMinusExcessOrLosses>7</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>5331</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>1372</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>118213</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>1525499</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.077491</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>126354</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1919619</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.065822</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>130344</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>2307412</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.056489</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>131466</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>2124241</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.061888</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>116243</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>1922154</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.060475</DistributionRatioYear5>
+        <TotalDistributionRatio>0.322165</TotalDistributionRatio>
+        <AverageDistributionRatio>0.064433</AverageDistributionRatio>
+        <NetNoncharitableAssets>1678448</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>108147</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>392</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>108539</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>50035</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>784</InvestmentIncomeExciseTax>
+        <Subtotal>784</Subtotal>
+        <TaxBasedOnInvestmentIncome>784</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>963</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>963</TotalCreditsAndPayments>
+        <Overpayment>179</Overpayment>
+        <AmountCreditedToNextYear>179</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>CA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ASPIRIANT</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3108064000</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>11100 SANTA MONICA BLVD 600</AddressLine1>
+          <City>LOS ANGELES</City>
+          <State>CA</State>
+          <ZIPCode>90025</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">RICHARD M MACNEAL</PersonName>
+          <USAddress>
+            <AddressLine1>11100 SANTA MONICA BLVD 600</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90025</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">PAUL MACNEAL</PersonName>
+          <USAddress>
+            <AddressLine1>11100 SANTA MONICA BLVD 600</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90025</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">BRUCE MACNEAL</PersonName>
+          <USAddress>
+            <AddressLine1>11100 SANTA MONICA BLVD 600</AddressLine1>
+            <City>LOS ANGELES</City>
+            <State>CA</State>
+            <ZIPCode>90025</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>1687277</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>16731</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1704008</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>1704008</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>25560</CashDeemedCharitable>
+        <NetNoncharitableAssets>1678448</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>83922</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>83922</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>784</TaxBasedOnInvestmentIncome>
+        <TotalTax>784</TotalTax>
+        <DistributableAmountBeforeAdj>83138</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>83138</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>83138</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>50035</ExpensesAndContributions>
+        <QualifyingDistributions>50035</QualifyingDistributions>
+        <AdjQualifyingDistributions>50035</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>83138</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>21649</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>27322</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>16851</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>31785</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>43012</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>140619</TotalExcessDistriCarryover>
+        <QualifyingDistributions>50035</QualifyingDistributions>
+        <AppliedToCurrentYear>50035</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>33103</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>33103</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>107516</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>107516</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>15868</ExcessFromYear4>
+        <ExcessFromYear3>16851</ExcessFromYear3>
+        <ExcessFromYear2>31785</ExcessFromYear2>
+        <ExcessFromYear1>43012</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>RICHARD M MACNEAL</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WARM &amp; LOVING COUSELING M</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3800 LA CRESCENTA AVE</AddressLine1>
+            <City>LA CRESCENTA</City>
+            <State>CA</State>
+            <ZIPCode>91214</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL USE/NON-RESTRICTIVE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>50000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <RelatedOrExemptFunctionIncome>2</RelatedOrExemptFunctionIncome>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>41547</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>5331</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>46878</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>2</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>46880</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>RICHARD M MACNEAL</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>PAUL MACNEAL</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>BRUCE MACNEAL</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc3">
+      <InvestmentsCorpBonds>
+        <NameOfBond>PIMCO TOTAL RETURN</NameOfBond>
+        <EOYBookValue>127109</EOYBookValue>
+        <EOYFMV>126371</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD F/I INT CORP</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>VANGUARD INFLATION</NameOfBond>
+        <EOYBookValue>25638</EOYBookValue>
+        <EOYFMV>26621</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD TOTAL STOCK MKT</NameOfStock>
+        <EOYBookValue>438294</EOYBookValue>
+        <EOYFMV>537091</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BERKSHIRE HATHAWAY CL B</NameOfStock>
+        <EOYBookValue>32943</EOYBookValue>
+        <EOYFMV>40055</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA US LARGE CAP VALUE</NameOfStock>
+        <EOYBookValue>109107</EOYBookValue>
+        <EOYFMV>126907</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD TOTAL INTL STOCK MKT</NameOfStock>
+        <EOYBookValue>136527</EOYBookValue>
+        <EOYFMV>171129</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA INTERNATIONAL VALUE</NameOfStock>
+        <EOYBookValue>102347</EOYBookValue>
+        <EOYFMV>110533</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA US SMALL CAP</NameOfStock>
+        <EOYBookValue>57544</EOYBookValue>
+        <EOYFMV>73518</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA TAX MANAGED US T</NameOfStock>
+        <EOYBookValue>110912</EOYBookValue>
+        <EOYFMV>141634</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES RUSSELL MIRCOCAP</NameOfStock>
+        <EOYBookValue>29026</EOYBookValue>
+        <EOYFMV>37031</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA INTL SMALL COMPAN</NameOfStock>
+        <EOYBookValue>36611</EOYBookValue>
+        <EOYFMV>50561</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA INTL SMALL CAP VALUE</NameOfStock>
+        <EOYBookValue>41902</EOYBookValue>
+        <EOYFMV>49532</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>DFA EMERGING MARKETS</NameOfStock>
+        <EOYBookValue>88548</EOYBookValue>
+        <EOYFMV>108999</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GS CONNECT S&amp;P GSCI</NameOfStock>
+        <EOYBookValue>87979</EOYBookValue>
+        <EOYFMV>99251</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>DWS RREEF GLOBAL REAL</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>174945</BookValue>
+        <EOYFMV>192833</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>KAYNE ANDERSON MLP INV</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>7176</Amount>
+        <NetInvestmentIncome>7176</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>EXCISE TAXES</Category>
+        <Amount>784</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+        <Amount>489</Amount>
+        <NetInvestmentIncome>489</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>CA FILING FEES</Category>
+        <Amount>35</Amount>
+        <DisbursementsCharitablePrps>35</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

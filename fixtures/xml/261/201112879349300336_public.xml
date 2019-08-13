@@ -1,0 +1,654 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-10-14T14:49:16-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Berry Dunn McNeil &amp; Parker LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 1100</AddressLine1>
+        <City>Portland</City>
+        <State>ME</State>
+        <ZIPCode>041041100</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010261795</EIN>
+      <Name>
+        <BusinessNameLine1>Five County Credit Union</BusinessNameLine1>
+      </Name>
+      <NameControl>FIVE</NameControl>
+      <Phone>2074433528</Phone>
+      <USAddress>
+        <AddressLine1>765 Washington Street</AddressLine1>
+        <City>Bath</City>
+        <State>ME</State>
+        <ZIPCode>04530</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Richard B Dupuis</Name>
+      <Title>CEO</Title>
+      <Phone>2074433528</Phone>
+      <DateSigned>2011-10-13</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Barbara J McGuan CPA</Name>
+      <Phone>2077752387</Phone>
+      <DatePrepared>2011-10-13</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Richard B Dupuis</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>765 Washington Street</AddressLine1>
+        <City>Bath</City>
+        <State>ME</State>
+        <ZIPCode>04530</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>13285504</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="14">X</Organization501c>
+      <WebSite>www.fivecounty.com</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1956</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>Delivering relationship services with trusted solutions.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>7</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>6</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>131</TotalNbrEmployees>
+      <TotalNbrVolunteers>9</TotalNbrVolunteers>
+      <TotalGrossUBI>280992</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-68849</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>12756132</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>11939348</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>997318</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>1346156</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>13753450</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>13285504</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>4450758</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>4989682</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>8465492</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>7464549</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>12916250</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>12454231</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>837200</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>831273</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>177023352</TotalAssetsBOY>
+      <TotalAssetsEOY>184007613</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>163694174</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>169847162</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>13329178</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>14160451</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>Provide savings accounts, loans, and other financial services to members who may not otherwise be served by banks in a non-profit and mutual manner.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>Five County Credit Union's field of membership includes persons who live or work in the counties of Androscoggin, Cumberland, Lincoln, Kennebec, Sagadahoc, Waldo, Somerset, and Knox, Maine, all active and retired employees of Bath Iron Works, and relatives of eligible members. The Credit Union's primary activity is providing loans to members and their families. As of 12/31/10, Five County Credit Union serves 22,764 members and has total deposits of $158,733,450. Additionally, the Credit Union services 10,583 loans with a total value of $120,996,425 at 12/31/10.</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039700001">0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">1</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>4183</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>131</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>7</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>6</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>1</LocalChapters>
+      <PoliciesReferenceChapters>1</PoliciesReferenceChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>0</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>0</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Kenneth H Stockford</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2074433528</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>765 Washington St</AddressLine1>
+          <City>Bath</City>
+          <State>ME</State>
+          <ZIPCode>04530</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <InfoInScheduleOPartVII>X</InfoInScheduleOPartVII>
+      <Form990PartVIISectionA>
+        <NamePerson>Robert Brewer</NamePerson>
+        <Title>Board Chairman</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Evelyn Desmond</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Bruce Wilson</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Gerald Dunlap</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Merlin Suggs</NamePerson>
+        <Title>Board Vice Chairman</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Richard B Dupuis</NamePerson>
+        <Title>President/CEO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>1</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Jeff Parker</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Julie A Marquis</NamePerson>
+        <Title>VP Operations/COO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kenneth H Stockford</NamePerson>
+        <Title>VP Finance/CFO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>1</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>3</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Synergent</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>2 Ledgeview Dr</AddressLine1>
+            <City>Westbrook</City>
+            <State>ME</State>
+            <ZIPCode>04092</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Data processing, card services, print &amp;</DescriptionOfServices>
+        <Compensation>901458</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>1</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>Interest Income</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>7982160</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>7982160</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Fee Revenue</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>3142777</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>3142777</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>ATM Revenue</Description>
+        <BusinessCode>525990</BusinessCode>
+        <TotalRevenueColumn>724075</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>533419</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>190656</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Insurance Revenue</Description>
+        <BusinessCode>524113</BusinessCode>
+        <TotalRevenueColumn>90336</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>90336</UnrelatedBusinessRevenue>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>11939348</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>1346156</TotalRevenueColumn>
+        <ExclusionAmount>1346156</ExclusionAmount>
+      </InvestmentIncome>
+      <TotalRevenue>
+        <TotalRevenueColumn>13285504</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>11658356</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>280992</UnrelatedBusinessRevenue>
+        <ExclusionAmount>1346156</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>3957606</Total>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>323098</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>397363</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>311615</Total>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>112197</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>647902</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>200099</Total>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>156953</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>330758</Total>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>575514</Total>
+      </Occupancy>
+      <Travel>
+        <Total>52985</Total>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>53400</Total>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>1767431</Total>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>413014</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>684047</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Operations Expense</Description>
+        <Total>1605692</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Loan Losses</Description>
+        <Total>397885</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Loan Servicing</Description>
+        <Total>196892</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Fraud Losses</Description>
+        <Total>148450</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Service Charges</Description>
+        <Total>101073</Total>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>20257</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>12454231</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>7020357</BOY>
+        <EOY>6235929</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>43286051</BOY>
+        <EOY>43419051</EOY>
+      </SavingsAndTempCashInvestments>
+      <OtherNotesLoansReceivableNet>
+        <BOY>115340568</BOY>
+        <EOY>119534163</EOY>
+      </OtherNotesLoansReceivableNet>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>190793</BOY>
+        <EOY>1213610</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>10953543</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>3791463</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>5998623</BOY>
+        <EOY>7162080</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>2345668</BOY>
+        <EOY>1839755</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>2841292</BOY>
+        <EOY>4603025</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>177023352</BOY>
+        <EOY>184007613</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>511352</BOY>
+        <EOY>873771</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>10470778</BOY>
+        <EOY>10239941</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>152712044</BOY>
+        <EOY>158733450</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>163694174</BOY>
+        <EOY>169847162</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <CapStckTrstPrinCurrentFunds>
+        <BOY>2525000</BOY>
+        <EOY>7256450</EOY>
+      </CapStckTrstPrinCurrentFunds>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>10804178</BOY>
+        <EOY>6904001</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>13329178</BOY>
+        <EOY>14160451</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>177023352</BOY>
+        <EOY>184007613</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>831273</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <Form990ScheduleCPartIV>
+        <Identifier>Part IV, Supplemental Information:</Identifier>
+        <Explanation>$2,829 of the dues Five County Credit Union paid to the Maine Credit Union League in 2010 went towards Legislative Action.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>1368653</OtherCostOrOtherBasis>
+        <BookValue>1368653</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>5891615</OtherCostOrOtherBasis>
+        <Depreciation>1251588</Depreciation>
+        <BookValue>4640027</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>3693275</OtherCostOrOtherBasis>
+        <Depreciation>2539875</Depreciation>
+        <BookValue>1153400</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>7162080</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Deposits</Description>
+        <Amount>158733450</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>158733450</TotalOfAmounts>
+      <TotalRevenue>13285504</TotalRevenue>
+      <TotalExpenses>12454231</TotalExpenses>
+      <ExcessOrDeficitForYear>831273</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>831273</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>13285504</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>13285504</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>13285504</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>12454231</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>12454231</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>12454231</TotalExpensesPerForm990>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <IndependentConsultant>X</IndependentConsultant>
+      <WrittenEmploymentContract>X</WrittenEmploymentContract>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <Form990ScheduleJPartII>
+        <NamePerson>Richard B Dupuis</NamePerson>
+        <BaseCompensationFilingOrg>1</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>1</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Julie A Marquis</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>Kenneth H Stockford</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>Supplemental Information</Identifier>
+        <ReturnReference>Part III</ReturnReference>
+        <Explanation>Five County Credit Union's officers' and key employee compensation information is available upon request.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 6</Identifier>
+        <Explanation>Five County Credit Union offers membership eligibility to anyone who works, resides or worships in Androscoggin, Cumberland, Lincoln, Kennebec, Knox, Sagadahoc, Somerset or Waldo County. Eligibility is also available to employees of Bath Iron Works, employees of Five County Credit Union and relatives of existing members.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section A, line 7a</Identifier>
+        <Explanation>Five County Credit Union members own the credit union. Members are entitled to elect, and be elected to, the volunteer Board of Directors, which is composed of fellow members and sets policies for the operation of the credit union based on the needs and wishes of the members. The Board of Directors sets dividend rates, loan interest rates, and fees, among other things, and also determines credit union policy.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>Upon completion of Form 990 by the credit union's tax return preparers the governing body reviews the return before it is filed.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15</ReturnReference>
+        <Explanation>Five County Credit Union uses Compease Salary Administration Program to determine compensation of the credit union's officers and key employees. Additionally, yearly compensation reviews are performed for all employees.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>Five County Credit Union's governing documents, conflict of interest policy and financial statements are available to the public upon request.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VII</ReturnReference>
+        <Explanation>Officer and key employee compensation is available upon request.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Oversight of Audit</Identifier>
+        <ReturnReference>Form 990, Part XI, Line 2c:</ReturnReference>
+        <Explanation>The process in place for oversight of the audit of the financial statements and selection of an independent accountant have not changed from prior year.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>FiveCo Solutions LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>765 Washington Street</AddressLine1>
+          <City>Bath</City>
+          <State>ME</State>
+          <ZIPCode>04530</ZIPCode>
+        </AddressUS>
+        <EIN>203634600</EIN>
+        <PrimaryActivities>Info. Technology Consulting Services</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>0</TotalIncome>
+        <EOYAssets>25</EOYAssets>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>Five County Credit Union</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartI>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

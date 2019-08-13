@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-18T13:29:24-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>DARYL J HILL CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1008 LIVE OAK ST</AddressLine1>
+        <City>COLUMBUS</City>
+        <State>TX</State>
+        <ZIPCode>78934</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010838695</EIN>
+      <Name>
+        <BusinessNameLine1>CHRISTOPHER KILPATRICK MEMORIAL SCHOLARSHIP INC</BusinessNameLine1>
+      </Name>
+      <NameControl>CHRI</NameControl>
+      <Phone>9797325934</Phone>
+      <USAddress>
+        <AddressLine1>P O BOX 632</AddressLine1>
+        <City>COLUMBUS</City>
+        <State>TX</State>
+        <ZIPCode>78934</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>SCOTT KILPATRICK</Name>
+      <Title>PRESIDENT</Title>
+      <DateSigned>2011-05-18</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DARYL HILL</Name>
+      <Phone>9797325774</Phone>
+      <DatePrepared>2011-05-18</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="3">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>76432</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>4800</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>595</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>595</InterestOnSavingsNetInvstIncm>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>5395</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>595</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="990PF:76">150</AccountingFeesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>150</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>2000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>2000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>2150</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>2000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>3245</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>595</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>73187</CashBOY>
+        <CashEOY>25002</CashEOY>
+        <CashEOYFMV>25002</CashEOYFMV>
+        <SavingsAndTempCashInvstEOY>51430</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>51430</SavingsAndTempCashInvstEOYFMV>
+        <TotalAssetsBOY>73187</TotalAssetsBOY>
+        <TotalAssetsEOY>76432</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>76432</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>73187</RetainedEarningsBOY>
+        <RetainedEarningsEOY>76432</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>73187</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>76432</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>73187</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>76432</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>73187</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>3245</ExcessOfRevenueOverExpenses>
+        <Subtotal>76432</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>76432</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <QualifyingDistributionsYear1>4000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>49820</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.080289</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>48267</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.041436</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>2000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>50114</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.039909</DistributionRatioYear3>
+        <TotalDistributionRatio>000.161634</TotalDistributionRatio>
+        <AverageDistributionRatio>000.053878</AverageDistributionRatio>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>12</InvestmentIncomeExciseTax>
+        <Subtotal>12</Subtotal>
+        <TaxBasedOnInvestmentIncome>12</TaxBasedOnInvestmentIncome>
+        <TaxDue>12</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>TX</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>SCOTT KILPATRICK</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9797325934</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>P O BOX 632 HWY 71 NORTH</AddressLine1>
+          <City>COLUMBUS</City>
+          <State>TX</State>
+          <ZIPCode>78934</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SCOTT KILPATRICK</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 632</AddressLine1>
+            <City>COLUMBUS</City>
+            <State>TX</State>
+            <ZIPCode>78934</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TRACY HANAK</PersonName>
+          <USAddress>
+            <AddressLine1>1119 FANNIN</AddressLine1>
+            <City>COLUMBUS</City>
+            <State>TX</State>
+            <ZIPCode>78934</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>MELISSA KILPATRICK</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 632</AddressLine1>
+            <City>COLUMBUS</City>
+            <State>TX</State>
+            <ZIPCode>78934</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>000.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>COLUMBUS IND SCHOOL DISTRICT TRUST</Description1>
+        <Expenses1>2000</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>51430</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>51430</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>51430</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">771</CashDeemedCharitable>
+        <NetNoncharitableAssets>50659</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2533</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2533</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>12</TaxBasedOnInvestmentIncome>
+        <TotalTax>12</TotalTax>
+        <DistributableAmountBeforeAdj>2521</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2521</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2521</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">2000</ExpensesAndContributions>
+        <QualifyingDistributions>2000</QualifyingDistributions>
+        <AdjQualifyingDistributions>2000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2521</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear1>735</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>735</TotalExcessDistriCarryover>
+        <QualifyingDistributions>2000</QualifyingDistributions>
+        <AppliedToCurrentYear>2000</AppliedToCurrentYear>
+        <ExcessDistriCyovAppCYCorpus>521</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>521</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>214</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>214</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>214</ExcessFromYear1>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>NONE</ContributingManager>
+        <ShareholderManager>NONE</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLUMBUS ISD TRUST</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>105 CARDINAL LANE</AddressLine1>
+            <City>COLUMBUS</City>
+            <State>TX</State>
+            <ZIPCode>78934</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>2000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>595</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <NetIncomeLossFromSpecialEvents>
+          <ExclusionCode>02</ExclusionCode>
+        </NetIncomeLossFromSpecialEvents>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>595</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>595</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="990PF:76" softwareId="10000149" softwareVersion="2010.2.15">
+      <AccountingFees>
+        <Category>DARYL J HILL, CPA</Category>
+        <Amount>150</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+  </ReturnData>
+</Return>

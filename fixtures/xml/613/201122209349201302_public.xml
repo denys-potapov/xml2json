@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return returnVersion="2010v3.2" xmlns="http://www.irs.gov/efile" xmlns:mef="http://www.taxwise.com/efile/mef" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T18:31:31-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>My Office Tax and Business Servic</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>6659 Belair Road</AddressLine1>
+        <City>BALTIMORE</City>
+        <State>MD</State>
+        <ZIPCode>21206</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990EZ</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010613166</EIN>
+      <Name>
+        <BusinessNameLine1>Bring It To Life Ministries Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>BRIN</NameControl>
+      <Phone>4438650487</Phone>
+      <USAddress>
+        <AddressLine1>6649 Belair Road</AddressLine1>
+        <City>BALTIMORE</City>
+        <State>MD</State>
+        <ZIPCode>21206</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Authur Robinson</Name>
+      <Title>Pastor</Title>
+      <DateSigned>2011-07-23</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Fred Williams</Name>
+      <Phone>4104261644</Phone>
+      <DatePrepared>2011-07-23</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990EZ softwareId="10000108" documentId="1" referenceDocumentId="4">
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <Organization501c3 referenceDocumentId="2">X</Organization501c3>
+      <GrossReceiptsLessThan25000>X</GrossReceiptsLessThan25000>
+      <GrossReceipts>41381</GrossReceipts>
+      <InfoInScheduleOPartI>X</InfoInScheduleOPartI>
+      <ContributionsGiftsGrantsEtc>41380</ContributionsGiftsGrantsEtc>
+      <InvestmentIncome>1</InvestmentIncome>
+      <TotalRevenue>41381</TotalRevenue>
+      <BenefitsPaidToOrForMembers>900</BenefitsPaidToOrForMembers>
+      <FeesAndOthPymtToIndContractors>7925</FeesAndOthPymtToIndContractors>
+      <OccupancyRentUtilitiesAndMaint>26038</OccupancyRentUtilitiesAndMaint>
+      <PrintingPublicationsPostage>4135</PrintingPublicationsPostage>
+      <OtherExpensesTotal>1419</OtherExpensesTotal>
+      <TotalExpenses>40417</TotalExpenses>
+      <ExcessOrDeficitForYear>964</ExcessOrDeficitForYear>
+      <NetAssetsOrFundBalancesBOY>28186</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>29150</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartII>X</InfoInScheduleOPartII>
+      <CashSavingsAndInvestments>
+        <BOY>1176</BOY>
+        <EOY>1340</EOY>
+      </CashSavingsAndInvestments>
+      <OtherAssetsTotal>
+        <BOY>27010</BOY>
+        <EOY>27810</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>28186</BOY>
+        <EOY>29150</EOY>
+      </TotalAssets>
+      <NetAssetsOrFundBalances>
+        <BOY>28186</BOY>
+        <EOY>29150</EOY>
+      </NetAssetsOrFundBalances>
+      <PrimaryExemptPurpose>Religious Outreach</PrimaryExemptPurpose>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>Senior Outreach Ministry-Provided food/personal items to over 100 persons, Womens Ministry provided food and counseling to an average of 150/month</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>350</GrantsAndAllocations>
+        <ProgramServiceExpenses>10224</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <ProgramServiceAccomplishment>
+        <DescriptionProgramServiceAccom>Benevlence Fund to over 50 recipients</DescriptionProgramServiceAccom>
+        <GrantsAndAllocations>100</GrantsAndAllocations>
+        <ProgramServiceExpenses>1392</ProgramServiceExpenses>
+      </ProgramServiceAccomplishment>
+      <TotalProgramServiceExpenses>11616</TotalProgramServiceExpenses>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>Authur Robinson</PersonName>
+        <AddressUS>
+          <AddressLine1>4401 Silver Spring RD</AddressLine1>
+          <City>PERRY HALL</City>
+          <State>MD</State>
+          <ZIPCode>21128</ZIPCode>
+        </AddressUS>
+        <Title>Pastor</Title>
+        <AvgHoursPerWkDevotedToPosition>40</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <OfficerDirectorTrusteeKeyEmpl>
+        <PersonName>Rose Robinson</PersonName>
+        <AddressUS>
+          <AddressLine1>4401 Silver Spring Road</AddressLine1>
+          <City>PERRY HALL</City>
+          <State>MD</State>
+          <ZIPCode>21128</ZIPCode>
+        </AddressUS>
+        <Title>Asst Pasto</Title>
+        <AvgHoursPerWkDevotedToPosition>30</AvgHoursPerWkDevotedToPosition>
+        <Compensation>0</Compensation>
+      </OfficerDirectorTrusteeKeyEmpl>
+      <ActivitiesNotPreviouslyRpt>0</ActivitiesNotPreviouslyRpt>
+      <MadeChangesToOrgnzngEtcDoc>0</MadeChangesToOrgnzngEtcDoc>
+      <OrganizationHadUBI>0</OrganizationHadUBI>
+      <OrganizationFiled990T>0</OrganizationFiled990T>
+      <OrganizationDissolvedEtc>0</OrganizationDissolvedEtc>
+      <DidOrgFileForm1120POLThisYear>0</DidOrgFileForm1120POLThisYear>
+      <MadeLoansToFromOfficers>0</MadeLoansToFromOfficers>
+      <EngagedInExcessBenefitTrans>0</EngagedInExcessBenefitTrans>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TheBooksAreInCareOf>
+        <NamePerson>Fred Williams</NamePerson>
+        <AddressUS>
+          <AddressLine1>6659 Belair Road</AddressLine1>
+          <City>BALTIMORE</City>
+          <State>MD</State>
+          <ZIPCode>21206</ZIPCode>
+        </AddressUS>
+        <TelephoneNumber>4104261644</TelephoneNumber>
+      </TheBooksAreInCareOf>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ForeignOffice>0</ForeignOffice>
+      <MaintainAnyDonorAdvisedFunds>0</MaintainAnyDonorAdvisedFunds>
+      <DoesOrgHaveHospital>0</DoesOrgHaveHospital>
+      <TanningServicesProvided>0</TanningServicesProvided>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <EngagePoliticalCmpgnActivities>0</EngagePoliticalCmpgnActivities>
+      <EngageInLobbyingActivities>0</EngageInLobbyingActivities>
+      <OperatingSchool>0</OperatingSchool>
+      <TrnsfrsExemptNonCharRelatedOrg>0</TrnsfrsExemptNonCharRelatedOrg>
+      <RelatedOrgSection527Org>0</RelatedOrgSection527Org>
+      <PartVIOfCompOfHighestPaidEmpl>NONE</PartVIOfCompOfHighestPaidEmpl>
+      <PartVIAHghstPaidCntrctProfSer>NONE</PartVIAHghstPaidCntrctProfSer>
+      <FiledScheduleA>1</FiledScheduleA>
+    </IRS990EZ>
+    <IRS990ScheduleA softwareId="10000108" documentId="2">
+      <Church170b1Ai>X</Church170b1Ai>
+      <PrivateFoundation170>X</PrivateFoundation170>
+      <PrivateFoundation509>X</PrivateFoundation509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB softwareId="10000108" documentId="3">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleO softwareId="10000108" documentId="4">
+      <GeneralExplanation>
+        <Explanation>Other Expenses</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Bank Fees</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Insurance</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Meals</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Office Supplies</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>General Supplies</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>Auto Travel</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

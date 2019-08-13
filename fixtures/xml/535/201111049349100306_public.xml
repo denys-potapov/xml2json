@@ -1,0 +1,1273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-04-14T15:05:27-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-05-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BELL &amp; COMPANY LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>350 FIFTH AVE STE 7412</AddressLine1>
+        <City>NEW YORK</City>
+        <State>NY</State>
+        <ZIPCode>101187412</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2009-06-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010535353</EIN>
+      <Name>
+        <BusinessNameLine1>EASTERN FRONTIER EDUCATIONAL FOUNDATION INC</BusinessNameLine1>
+      </Name>
+      <NameControl>EAST</NameControl>
+      <Phone>8452781209</Phone>
+      <USAddress>
+        <AddressLine1>C/O STEPHEN DUNN PO BOX 472</AddressLine1>
+        <City>JONESPORT</City>
+        <State>ME</State>
+        <ZIPCode>04649</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>STEPHEN T DUNN</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>8462781209</Phone>
+      <DateSigned>2011-04-14</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MARTIN BELL CPA</Name>
+      <Phone>2126836111</Phone>
+      <DatePrepared>2011-04-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="13">
+    <IRS990PF documentId="RetDoc1235000001" referenceDocumentId="RetDoc2258700001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>730812</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>31425</ContriReceivedRevAndExpnss>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>0</NetSTCGAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">17376</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>0</OtherIncomeNetInvstIncm>
+        <OtherIncomeAdjNetIncm>17376</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>48801</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>17376</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstAdjNetIncm>0</CompOfcrDirTrstAdjNetIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <OthEmplSlrsWgsRevAndExpnss>20800</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsNetInvstIncm>0</OthEmplSlrsWgsNetInvstIncm>
+        <OthEmplSlrsWgsAdjNetIncm>0</OthEmplSlrsWgsAdjNetIncm>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>20800</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <LegalFeesRevAndExpnss referenceDocumentId="RetDoc2002100001">500</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>0</LegalFeesNetInvstIncm>
+        <LegalFeesAdjNetIncm>0</LegalFeesAdjNetIncm>
+        <LegalFeesDsbrsChrtblPrps>500</LegalFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">92</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesAdjNetIncm>0</OtherProfFeesAdjNetIncm>
+        <OtherProfFeesDsbrsChrtblPrps>92</OtherProfFeesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId="RetDoc2203000001">49722</DeprecAndDepletionRevAndExpnss>
+        <DeprecAndDepletionNetInvstIncm>0</DeprecAndDepletionNetInvstIncm>
+        <DeprecAndDepletionAdjNetIncm>49722</DeprecAndDepletionAdjNetIncm>
+        <TravConfMeetingRevAndExpnss>374</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingNetInvstIncm>0</TravConfMeetingNetInvstIncm>
+        <TravConfMeetingAdjNetIncm>0</TravConfMeetingAdjNetIncm>
+        <TravConfMeetingDsbrsChrtblPrps>374</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">33512</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>0</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>0</OtherExpensesAdjNetIncm>
+        <OtherExpensesDsbrsChrtblPrps>33512</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>105000</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>49722</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>55278</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>105000</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>49722</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>55278</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-56199</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>3347</CashBOY>
+        <OtherNotesAndLoansRcvblBOY>6000</OtherNotesAndLoansRcvblBOY>
+        <LandBuildingAndEquipmentBasis>1112595</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>389348</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>772969</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId="RetDoc2059000001">723247</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>723247</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId="RetDoc2046600001">0</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId="RetDoc2046600001">7565</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId="RetDoc2046600001">7565</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>782316</TotalAssetsBOY>
+        <TotalAssetsEOY>730812</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>730812</TotalAssetsEOYFMV>
+        <OtherLiabilitiesBOY referenceDocumentId="RetDoc2065700001">0</OtherLiabilitiesBOY>
+        <OtherLiabilitiesEOY referenceDocumentId="RetDoc2065700001">4695</OtherLiabilitiesEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>4695</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>782316</RetainedEarningsBOY>
+        <RetainedEarningsEOY>726117</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>782316</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>726117</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>782316</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>730812</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>782316</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-56199</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>726117</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>726117</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>88866</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>4774</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>18.614579</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>65912</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>7404</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>8.902215</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>102651</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>12730</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>8.063708</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>140789</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>6770</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>20.796012</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>192757</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>864</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>223.098380</DistributionRatioYear5>
+        <TotalDistributionRatio>279.474894</TotalDistributionRatio>
+        <AverageDistributionRatio>55.894979</AverageDistributionRatio>
+        <NetNoncharitableAssets>1648</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>92115</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>92115</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>55278</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG referenceDocumentId="RetDoc2210600001">0</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>1</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId="RetDoc2089200001">1</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>WWW.EASTERNFRONTIER.COM</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>STEPHEN T DUNN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8452781209</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>C/O DUNN DATACO INC 2022 ROUTE 22</AddressLine1>
+          <City>BREWSTER</City>
+          <State>NY</State>
+          <ZIPCode>10509</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>1</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>1</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEPHEN T DUNN</PersonName>
+          <USAddress>
+            <AddressLine1>C/O DUNN DATACO INC 2022 ROUTE 22</AddressLine1>
+            <City>BREWSTER</City>
+            <State>NY</State>
+            <ZIPCode>10509</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR/PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROSY FAVER</PersonName>
+          <USAddress>
+            <AddressLine1>C/O DUNN DATACO INC 2022 ROUTE 22</AddressLine1>
+            <City>BREWSTER</City>
+            <State>NY</State>
+            <ZIPCode>10509</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR/TREASURER</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ALISON GRIFFIN</PersonName>
+          <USAddress>
+            <AddressLine1>4410 W PRIVATE ROAD</AddressLine1>
+            <City>BRAZIL</City>
+            <State>IN</State>
+            <ZIPCode>47834</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TOM DEHAVEN</PersonName>
+          <USAddress>
+            <AddressLine1>14106 HUNT GATE WOODS ROAD</AddressLine1>
+            <City>MIDLOTHIAN</City>
+            <State>VA</State>
+            <ZIPCode>23112</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN BECKMAN</PersonName>
+          <USAddress>
+            <AddressLine1>922 JACKSON STREET</AddressLine1>
+            <City>ANNAPOLIS</City>
+            <State>MD</State>
+            <ZIPCode>21403</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>CHRIS CROWLEY</PersonName>
+          <USAddress>
+            <AddressLine1>100 EAST 19TH STREET SUITE 400</AddressLine1>
+            <City>VANCOUVER</City>
+            <State>WA</State>
+            <ZIPCode>98663</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRIAN BOULDREY</PersonName>
+          <USAddress>
+            <AddressLine1>1897 SHERIDAN ROAD</AddressLine1>
+            <City>EVANSTON</City>
+            <State>IL</State>
+            <ZIPCode>60208</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>THIS OPERATING PRIVATE FOUNDATION HAS PROVIDED ROOM AND BOARD TO QUALIFYING ARTISTS AND WRITERS ON AN ISLAND IN MAINE, INSPIRING THEIR ARTISTIC ENDEAVORS.</Description1>
+        <Expenses1>55278</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1673</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>1673</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>1673</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>25</CashDeemedCharitable>
+        <NetNoncharitableAssets>1648</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>82</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>55278</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>55278</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>55278</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>0</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>55278</CurrentYear>
+          <Year1>88866</Year1>
+          <Year2>65912</Year2>
+          <Year3>102651</Year3>
+          <Total>312707</Total>
+        </QualifyingDistributions>
+        <QlfyDistriNotUsedDirectly>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </QlfyDistriNotUsedDirectly>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>55278</CurrentYear>
+          <Year1>88866</Year1>
+          <Year2>65912</Year2>
+          <Year3>102651</Year3>
+          <Total>312707</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>730812</CurrentYear>
+          <Year1>782315</Year1>
+          <Year2>823039</Year2>
+          <Year3>887099</Year3>
+          <Total>3223265</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>730812</CurrentYear>
+          <Year1>782315</Year1>
+          <Year2>823039</Year2>
+          <Year3>887099</Year3>
+          <Total>3223265</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+        <TotalSupport>
+          <Total>0</Total>
+        </TotalSupport>
+        <PublicSupport>
+          <Total>0</Total>
+        </PublicSupport>
+        <LargestSupportFromEO>
+          <Total>0</Total>
+        </LargestSupportFromEO>
+        <GrossInvestmentIncome>
+          <CurrentYear>0</CurrentYear>
+          <Year1>0</Year1>
+          <Year2>0</Year2>
+          <Year3>0</Year3>
+          <Total>0</Total>
+        </GrossInvestmentIncome>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>STEPHEN T DUNN</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>STEPHEN DUNN</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>2022 RTE 22</AddressLine1>
+            <City>BREWSTER</City>
+            <State>NY</State>
+            <ZIPCode>10509</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>8452781211</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A COMPLETED APPLICATION AND SAMPLES OF WORK ARE TO BE SUBMITTED. THERE IS A $25 APPLICATION FEE.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>FEBRUARY 1ST OF EACH YEAR.</SubmissionDeadlines>
+          <RestrictionsOnAwards>THE AWARD IS AN OFFER OF A RETREAT TO WRITERS, VISUAL ARTISTS, AND COMPOSERS FOR A RESIDENCY PROGRAM WHEREBY THEY ARE TO DEVOTE EIGHT HOURS A DAY, FIVE DAYS A WEEK TO THE PROGRAM.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <TotGrantOrContriPaidDuringYear>0</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>APPLICATION FEES</Description>
+          <RelatedOrExemptFunctionIncome>3100</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <OtherRevenueDescribed>
+          <Description>CASUALTY INSURANCE RECOVERIES</Description>
+          <RelatedOrExemptFunctionIncome>14276</RelatedOrExemptFunctionIncome>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>0</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>17376</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>17376</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>THERE IS A CHARGE OF $25 FOR APPLICANTS WANTING TO PARTICIPATE.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>11A</LineNumber>
+          <RelationshipStatement>THERE WAS TWO INSURANCE RECOVERIES FOR FACILITY CASUALTIES.</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MAINE ARTS COMMISSION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>193 STATE STREET</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>043330025</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>25000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="RetDoc2203000001">
+      <Depreciation>
+        <DescriptionOfProperty>BUILDINGS</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>297269</CostOrOtherBasis>
+        <PriorYearsDepreciation>59146</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>7432</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>7432</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDINGS ADDITIONS</DescriptionOfProperty>
+        <DateAcquired>2001-12-01</DateAcquired>
+        <CostOrOtherBasis>159933</CostOrOtherBasis>
+        <PriorYearsDepreciation>29818</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>3998</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>3998</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BOAT - 2480 CAROLINA W/F</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>51689</CostOrOtherBasis>
+        <PriorYearsDepreciation>32303</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>4307</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>4307</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BOAT - MONTAUK WHALER</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>6089</CostOrOtherBasis>
+        <PriorYearsDepreciation>3803</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>507</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>507</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>MONTAUK WHALER IMPROVEMENTS</DescriptionOfProperty>
+        <DateAcquired>2001-12-01</DateAcquired>
+        <CostOrOtherBasis>11799</CostOrOtherBasis>
+        <PriorYearsDepreciation>7373</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>983</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>983</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>CHIPPER/MIGHTY MAC MOD 12PT</DescriptionOfProperty>
+        <DateAcquired>2002-02-01</DateAcquired>
+        <CostOrOtherBasis>1853</CostOrOtherBasis>
+        <PriorYearsDepreciation>1155</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>154</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>154</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DIESEL MULE - KAWASAKI 2510</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>13792</CostOrOtherBasis>
+        <PriorYearsDepreciation>8044</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>1149</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>1149</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>KUBOTA EXCAVATOR</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>48654</CostOrOtherBasis>
+        <PriorYearsDepreciation>30413</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>4055</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>4055</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>RAMP</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>5644</CostOrOtherBasis>
+        <PriorYearsDepreciation>3525</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>470</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>470</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>SAWMILL</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>6553</CostOrOtherBasis>
+        <PriorYearsDepreciation>4095</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>546</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>546</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>V23 CC "SHOWBOAT"</DescriptionOfProperty>
+        <DateAcquired>2002-02-01</DateAcquired>
+        <CostOrOtherBasis>10000</CostOrOtherBasis>
+        <PriorYearsDepreciation>6248</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>833</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>833</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WINDMILL</DescriptionOfProperty>
+        <DateAcquired>2002-05-01</DateAcquired>
+        <CostOrOtherBasis>69938</CostOrOtherBasis>
+        <PriorYearsDepreciation>43710</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>5828</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>5828</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2001-06-01</DateAcquired>
+        <CostOrOtherBasis>7516</CostOrOtherBasis>
+        <PriorYearsDepreciation>4695</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>626</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>626</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WOODSTOVE</DescriptionOfProperty>
+        <DateAcquired>2001-06-15</DateAcquired>
+        <CostOrOtherBasis>2132</CostOrOtherBasis>
+        <PriorYearsDepreciation>1335</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>178</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>178</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>MISC FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2001-07-06</DateAcquired>
+        <CostOrOtherBasis>7049</CostOrOtherBasis>
+        <PriorYearsDepreciation>4403</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>587</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>587</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDINGS ADDITIONS</DescriptionOfProperty>
+        <DateAcquired>2002-12-01</DateAcquired>
+        <CostOrOtherBasis>214473</CostOrOtherBasis>
+        <PriorYearsDepreciation>34630</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>5362</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>5362</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WINDMILL</DescriptionOfProperty>
+        <DateAcquired>2002-12-01</DateAcquired>
+        <CostOrOtherBasis>63848</CostOrOtherBasis>
+        <PriorYearsDepreciation>34586</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>5321</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>5321</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE</DescriptionOfProperty>
+        <DateAcquired>2002-12-01</DateAcquired>
+        <CostOrOtherBasis>4915</CostOrOtherBasis>
+        <PriorYearsDepreciation>2665</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>410</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>410</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>TOOLS</DescriptionOfProperty>
+        <DateAcquired>2003-08-05</DateAcquired>
+        <CostOrOtherBasis>180</CostOrOtherBasis>
+        <PriorYearsDepreciation>83</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>15</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>15</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>FURNITURE &amp; FIXTURES</DescriptionOfProperty>
+        <DateAcquired>2003-11-30</DateAcquired>
+        <CostOrOtherBasis>768</CostOrOtherBasis>
+        <PriorYearsDepreciation>352</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>64</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>64</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BRUSH HOG</DescriptionOfProperty>
+        <DateAcquired>2003-11-20</DateAcquired>
+        <CostOrOtherBasis>2498</CostOrOtherBasis>
+        <PriorYearsDepreciation>1144</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>208</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>208</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DIESEL GENERATOR</DescriptionOfProperty>
+        <DateAcquired>2003-06-19</DateAcquired>
+        <CostOrOtherBasis>6440</CostOrOtherBasis>
+        <PriorYearsDepreciation>2953</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>537</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>537</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BLDG IMPROVEMENTS - LABOR &amp; MATERIALS</DescriptionOfProperty>
+        <DateAcquired>2003-11-30</DateAcquired>
+        <CostOrOtherBasis>25296</CostOrOtherBasis>
+        <PriorYearsDepreciation>3503</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>632</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>632</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING IMPROVEMENTS</DescriptionOfProperty>
+        <DateAcquired>2004-11-30</DateAcquired>
+        <CostOrOtherBasis>33531</CostOrOtherBasis>
+        <PriorYearsDepreciation>3771</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>838</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>838</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BOAT</DescriptionOfProperty>
+        <DateAcquired>2004-08-11</DateAcquired>
+        <CostOrOtherBasis>8208</CostOrOtherBasis>
+        <PriorYearsDepreciation>3420</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>684</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>684</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>RAMP</DescriptionOfProperty>
+        <DateAcquired>2004-11-30</DateAcquired>
+        <CostOrOtherBasis>17646</CostOrOtherBasis>
+        <PriorYearsDepreciation>7355</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>1471</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>1471</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WINDMILL</DescriptionOfProperty>
+        <DateAcquired>2005-01-21</DateAcquired>
+        <CostOrOtherBasis>2834</CostOrOtherBasis>
+        <PriorYearsDepreciation>1180</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>236</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>236</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>BUILDING IMPROVEMENTS</DescriptionOfProperty>
+        <DateAcquired>2005-12-01</DateAcquired>
+        <CostOrOtherBasis>5851</CostOrOtherBasis>
+        <PriorYearsDepreciation>505</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>40.000000000000</Life>
+        <CurrentYearExpense>146</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>146</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>WELL DRILLER</DescriptionOfProperty>
+        <DateAcquired>2006-05-30</DateAcquired>
+        <CostOrOtherBasis>2372</CostOrOtherBasis>
+        <PriorYearsDepreciation>619</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>198</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>198</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DINGHY</DescriptionOfProperty>
+        <DateAcquired>2005-06-17</DateAcquired>
+        <CostOrOtherBasis>839</CostOrOtherBasis>
+        <PriorYearsDepreciation>271</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>70</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>70</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>DIESEL MULE</DescriptionOfProperty>
+        <DateAcquired>2006-03-08</DateAcquired>
+        <CostOrOtherBasis>10882</CostOrOtherBasis>
+        <PriorYearsDepreciation>2834</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>907</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>907</AdjustedNetIncome>
+      </Depreciation>
+      <Depreciation>
+        <DescriptionOfProperty>PIER &amp; RAMP</DescriptionOfProperty>
+        <DateAcquired>2005-12-01</DateAcquired>
+        <CostOrOtherBasis>11640</CostOrOtherBasis>
+        <PriorYearsDepreciation>3274</PriorYearsDepreciation>
+        <ComputationMethod>ADS</ComputationMethod>
+        <Life>12.000000000000</Life>
+        <CurrentYearExpense>970</CurrentYearExpense>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>970</AdjustedNetIncome>
+      </Depreciation>
+    </DepreciationSchedule>
+    <ExplnOfNonFilingWithAGStmt documentId="RetDoc2210600001">
+      <Statement>NON-PROFIT CORPORATIONS NEED NOT FILE TAX FORMS WITH THE STATE OF MAINE, MAINE BEING THE DOMICILIARY STATE, THE STATE OF INCORPORATION, AND THE LOCATION OF THE CORPORATION. HOWEVER, THERE IS A REQUIREMENT TO FILE AN ANNUAL REGISTRATION FORM (MNPCA 13) EACH YEAR AND THAT HAS BEEN COMPLIED WITH.</Statement>
+    </ExplnOfNonFilingWithAGStmt>
+    <GeneralExplanationAttachment documentId="RetDoc2258700001">
+      <GeneralExplanation>
+        <Identifier>EXPLANATION OF THE ACTIVITIES STATED ABOVE AND OF DIRECT PROGRAM EXPENSES.</Identifier>
+        <ReturnReference>PAGE 5, PART VII-B, LINES 1A(1)(2); PAGE 1, LINE 23, COLUMNS A &amp; D</ReturnReference>
+        <Explanation>THE LEASE BETWEEN THIS ENTITY AND A DISQUALIFIED PERSON IS WITHOUT A RENTAL PAYMENT REQUIREMENT. THEREFORE, THERE IS NO SELF-DEALING [IRC SEC 4941(D)(2)(C)]; THE LENDING OF MONEY BY A DISQUALIFIED PERSON, AS DEFINED IN IRC SEC 4946(A)(1)(C), IS NOT AN ACT OF SELF-DEALING, AS HERE, WERE THERE IS NO INTEREST OR OTHER CHARGE AND THE FUNDS ARE USED EXCLUSIVELY FOR THE CHARITABLE PURPOSES [IRC SEC 4941(D)(2)(B)].PROGRAM EXPENSE (DIRECT) DETAILS:PROGRAM REPAIRS &amp; MAINTENANCE 1425PROGRAM TRANSPORTATION 922PROGRAM SUPPLIES 656PROGRAM BOAT GAS 350PROGRAM CHEF 2500PROGRAM DIESEL FUEL 1603PROGRAM FOOD 7711PROGRAM GROUNDS MAINTENANCE 241PROGRAM PROPANE FUEL 1017PROGRAM MAINLAND ELECTRICITY 98 TOTAL PROGRAM EXPENSES 16523</Explanation>
+      </GeneralExplanation>
+    </GeneralExplanationAttachment>
+    <LandEtcSchedule2 documentId="RetDoc2059000001">
+      <LandEtc>
+        <CategoryOrItem>BUILDINGS</CategoryOrItem>
+        <CostOrOtherBasis>297269</CostOrOtherBasis>
+        <AccumulatedDepreciation>66578</AccumulatedDepreciation>
+        <BookValue>230691</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDINGS ADDITIONS</CategoryOrItem>
+        <CostOrOtherBasis>159933</CostOrOtherBasis>
+        <AccumulatedDepreciation>33816</AccumulatedDepreciation>
+        <BookValue>126117</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BOAT - 2480 CAROLINA W/F</CategoryOrItem>
+        <CostOrOtherBasis>51689</CostOrOtherBasis>
+        <AccumulatedDepreciation>36610</AccumulatedDepreciation>
+        <BookValue>15079</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BOAT - MONTAUK WHALER</CategoryOrItem>
+        <CostOrOtherBasis>6089</CostOrOtherBasis>
+        <AccumulatedDepreciation>4310</AccumulatedDepreciation>
+        <BookValue>1779</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>MONTAUK WHALER IMPROVEMENTS</CategoryOrItem>
+        <CostOrOtherBasis>11799</CostOrOtherBasis>
+        <AccumulatedDepreciation>8356</AccumulatedDepreciation>
+        <BookValue>3443</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>CHIPPER/MIGHTY MAC MOD 12PT</CategoryOrItem>
+        <CostOrOtherBasis>1853</CostOrOtherBasis>
+        <AccumulatedDepreciation>1309</AccumulatedDepreciation>
+        <BookValue>544</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DIESEL MULE - KAWASAKI 2510</CategoryOrItem>
+        <CostOrOtherBasis>13792</CostOrOtherBasis>
+        <AccumulatedDepreciation>9193</AccumulatedDepreciation>
+        <BookValue>4599</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>KUBOTA EXCAVATOR</CategoryOrItem>
+        <CostOrOtherBasis>48654</CostOrOtherBasis>
+        <AccumulatedDepreciation>34468</AccumulatedDepreciation>
+        <BookValue>14186</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>RAMP</CategoryOrItem>
+        <CostOrOtherBasis>5644</CostOrOtherBasis>
+        <AccumulatedDepreciation>3995</AccumulatedDepreciation>
+        <BookValue>1649</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>SAWMILL</CategoryOrItem>
+        <CostOrOtherBasis>6553</CostOrOtherBasis>
+        <AccumulatedDepreciation>4641</AccumulatedDepreciation>
+        <BookValue>1912</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>V23 CC "SHOWBOAT"</CategoryOrItem>
+        <CostOrOtherBasis>10000</CostOrOtherBasis>
+        <AccumulatedDepreciation>7081</AccumulatedDepreciation>
+        <BookValue>2919</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WINDMILL</CategoryOrItem>
+        <CostOrOtherBasis>69938</CostOrOtherBasis>
+        <AccumulatedDepreciation>49538</AccumulatedDepreciation>
+        <BookValue>20400</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>7516</CostOrOtherBasis>
+        <AccumulatedDepreciation>5321</AccumulatedDepreciation>
+        <BookValue>2195</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WOODSTOVE</CategoryOrItem>
+        <CostOrOtherBasis>2132</CostOrOtherBasis>
+        <AccumulatedDepreciation>1513</AccumulatedDepreciation>
+        <BookValue>619</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>MISC FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>7049</CostOrOtherBasis>
+        <AccumulatedDepreciation>4990</AccumulatedDepreciation>
+        <BookValue>2059</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDINGS ADDITIONS</CategoryOrItem>
+        <CostOrOtherBasis>214473</CostOrOtherBasis>
+        <AccumulatedDepreciation>39992</AccumulatedDepreciation>
+        <BookValue>174481</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WINDMILL</CategoryOrItem>
+        <CostOrOtherBasis>63848</CostOrOtherBasis>
+        <AccumulatedDepreciation>39907</AccumulatedDepreciation>
+        <BookValue>23941</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FURNITURE</CategoryOrItem>
+        <CostOrOtherBasis>4915</CostOrOtherBasis>
+        <AccumulatedDepreciation>3075</AccumulatedDepreciation>
+        <BookValue>1840</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>TOOLS</CategoryOrItem>
+        <CostOrOtherBasis>180</CostOrOtherBasis>
+        <AccumulatedDepreciation>98</AccumulatedDepreciation>
+        <BookValue>82</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>FURNITURE &amp; FIXTURES</CategoryOrItem>
+        <CostOrOtherBasis>768</CostOrOtherBasis>
+        <AccumulatedDepreciation>416</AccumulatedDepreciation>
+        <BookValue>352</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BRUSH HOG</CategoryOrItem>
+        <CostOrOtherBasis>2498</CostOrOtherBasis>
+        <AccumulatedDepreciation>1352</AccumulatedDepreciation>
+        <BookValue>1146</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DIESEL GENERATOR</CategoryOrItem>
+        <CostOrOtherBasis>6440</CostOrOtherBasis>
+        <AccumulatedDepreciation>3490</AccumulatedDepreciation>
+        <BookValue>2950</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BLDG IMPROVEMENTS - LABOR &amp; MATERIALS</CategoryOrItem>
+        <CostOrOtherBasis>25296</CostOrOtherBasis>
+        <AccumulatedDepreciation>4135</AccumulatedDepreciation>
+        <BookValue>21161</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING IMPROVEMENTS</CategoryOrItem>
+        <CostOrOtherBasis>33531</CostOrOtherBasis>
+        <AccumulatedDepreciation>4609</AccumulatedDepreciation>
+        <BookValue>28922</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BOAT</CategoryOrItem>
+        <CostOrOtherBasis>8208</CostOrOtherBasis>
+        <AccumulatedDepreciation>4104</AccumulatedDepreciation>
+        <BookValue>4104</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>RAMP</CategoryOrItem>
+        <CostOrOtherBasis>17646</CostOrOtherBasis>
+        <AccumulatedDepreciation>8826</AccumulatedDepreciation>
+        <BookValue>8820</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WINDMILL</CategoryOrItem>
+        <CostOrOtherBasis>2834</CostOrOtherBasis>
+        <AccumulatedDepreciation>1416</AccumulatedDepreciation>
+        <BookValue>1418</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>BUILDING IMPROVEMENTS</CategoryOrItem>
+        <CostOrOtherBasis>5851</CostOrOtherBasis>
+        <AccumulatedDepreciation>651</AccumulatedDepreciation>
+        <BookValue>5200</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>WELL DRILLER</CategoryOrItem>
+        <CostOrOtherBasis>2372</CostOrOtherBasis>
+        <AccumulatedDepreciation>817</AccumulatedDepreciation>
+        <BookValue>1555</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DINGHY</CategoryOrItem>
+        <CostOrOtherBasis>839</CostOrOtherBasis>
+        <AccumulatedDepreciation>341</AccumulatedDepreciation>
+        <BookValue>498</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>DIESEL MULE</CategoryOrItem>
+        <CostOrOtherBasis>10882</CostOrOtherBasis>
+        <AccumulatedDepreciation>3741</AccumulatedDepreciation>
+        <BookValue>7141</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>PIER &amp; RAMP</CategoryOrItem>
+        <CostOrOtherBasis>11640</CostOrOtherBasis>
+        <AccumulatedDepreciation>4244</AccumulatedDepreciation>
+        <BookValue>7396</BookValue>
+        <EOYFMV>0</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="RetDoc2002100001">
+      <LegalFees>
+        <Category>LEGAL</Category>
+        <Amount>500</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>500</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="RetDoc2046600001">
+      <OtherAssets>
+        <Description>LOAN: ISLAND DEVELOPMENT COMPANY</Description>
+        <EOYBookValue>7565</EOYBookValue>
+        <EOYFMV>7565</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>BANK SERVICE CHARGES</Description>
+        <RevenueAndExpensesPerBooks>325</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>325</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <RevenueAndExpensesPerBooks>432</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>432</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>LICENSES &amp; PERMITS</Description>
+        <RevenueAndExpensesPerBooks>10</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>10</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FUEL</Description>
+        <RevenueAndExpensesPerBooks>911</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>911</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER UTILITIES</Description>
+        <RevenueAndExpensesPerBooks>112</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>112</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>8736</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>8736</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL TAXES</Description>
+        <RevenueAndExpensesPerBooks>1782</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1782</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYROLL PROCESSING FEES</Description>
+        <RevenueAndExpensesPerBooks>832</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>832</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>3554</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3554</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>POSTAGE &amp; DELIVERY</Description>
+        <RevenueAndExpensesPerBooks>70</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>70</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROGRAM EXPENSES INCLUDING FOOD &amp; FURNISHINGS</Description>
+        <RevenueAndExpensesPerBooks>16523</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>16523</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>WEBSITE EXPENSES</Description>
+        <RevenueAndExpensesPerBooks>225</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>225</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>APPLICATION FEES</Description>
+        <RevenueAndExpensesPerBooks>3100</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>3100</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>CASUALTY INSURANCE RECOVERIES</Description>
+        <RevenueAndExpensesPerBooks>14276</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>14276</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherLiabilitiesSchedule documentId="RetDoc2065700001">
+      <OtherLiabilities>
+        <Description>DUE BANK NORTH</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>10</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>LOANS PAYABLE MILLWORKS</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>395</EOYBookValue>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>LOANS PAYABLE DUNN DATACO</Description>
+        <BOYBookValue>0</BOYBookValue>
+        <EOYBookValue>4290</EOYBookValue>
+      </OtherLiabilities>
+    </OtherLiabilitiesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>CONSULTING</Category>
+        <Amount>92</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>92</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="RetDoc2089200001">
+      <SubstantialContributor>
+        <BusinessName>
+          <BusinessNameLine1>MAINE ARTS COMMISSION</BusinessNameLine1>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1>193 STATE STREET</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>043330025</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+  </ReturnData>
+</Return>

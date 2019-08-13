@@ -1,0 +1,971 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-06-24T09:42:35-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BRAD BORBIDGE PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>197 LOUDON ROAD STE 350</AddressLine1>
+        <City>CONCORD</City>
+        <State>NH</State>
+        <ZIPCode>03301</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010227184</EIN>
+      <Name>
+        <BusinessNameLine1>ANDROSCOGGIN HOME HEALTH SERVICES INC</BusinessNameLine1>
+      </Name>
+      <NameControl>ANDR</NameControl>
+      <Phone>2077777740</Phone>
+      <USAddress>
+        <AddressLine1>15 STRAWBERRY AVE</AddressLine1>
+        <City>LEWISTON</City>
+        <State>ME</State>
+        <ZIPCode>042430819</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>KATHLEEN APPLIN</Name>
+      <Title>CHIEF FINANCIAL OFFICER</Title>
+      <Phone>2077777740</Phone>
+      <DateSigned>2011-06-17</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DIMITRIOS PANACOPOULOS CPA</Name>
+      <Phone>6032240849</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <DoingBusinessAs>
+        <BusinessNameLine1>ANDROSCOGGIN HOME CARE &amp; HOSPICE</BusinessNameLine1>
+      </DoingBusinessAs>
+      <NameOfPrincipalOfficerPerson>KATHLEEN APPLIN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>15 STRAWBERRY AVE</AddressLine1>
+        <City>LEWISTON</City>
+        <State>ME</State>
+        <ZIPCode>042430819</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>28819913</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.AHCH.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1966</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>ANDROSCOGGIN HOME CARE &amp; HOSPICE IS COMMITTED TO CARING FOR THE HEALTH, INDEPENDENCE, AND QUALITY OF LIFE OF RESIDENTS IN CENTRAL AND WESTERN MAINE IN THE COMFORT OF THEIR HOME AND COMMUNITY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>14</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>11</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>456</TotalNbrEmployees>
+      <TotalNbrVolunteers>300</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>598702</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>572062</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>27566265</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>27382113</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>765035</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>814556</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>25562</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>39623</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>28955564</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>28808354</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>21000733</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>20198837</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>137262</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>5437358</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>5530143</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>26438091</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>25728980</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>2517473</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>3079374</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>21586767</TotalAssetsBOY>
+      <TotalAssetsEOY>24508706</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>3306914</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>3149479</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>18279853</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>21359227</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>ANDROSCOGGIN HOME CARE &amp; HOSPICE IS COMMITTED TO CARING FOR THE HEALTH, INDEPENDENCE AND QUALITY OF LIFE OF RESIDENTS IN CENTRAL AND WESTERN MAINE IN THE COMFORT OF THEIR HOME AND COMMUNITY.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>23074604</Expense>
+      <Revenue>27382113</Revenue>
+      <Description>HOME CARE SERVICES- PROVIDES HEALTH, HOSPICE AND SUPPORTIVE SERVICES TO INDIVIDUALS AT THEIR HOMES OR IN A HEALTH CARE CLINIC.</Description>
+      <TotalProgramServiceExpense>23074604</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">1</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>1</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">1</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>148</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>456</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>1</QuidProQuoContributions>
+      <QuidProQuoDisclosure>1</QuidProQuoDisclosure>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>14</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>11</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>KATHLEEN APPLIN</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2077777740</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>15 STRAWBERRY AVE PO BOX 819</AddressLine1>
+          <City>LEWISTON</City>
+          <State>ME</State>
+          <ZIPCode>042430819</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>STEVE COSTELLO</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEFFERY BROWN MD</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRUCE COOK</NamePerson>
+        <Title>VICE CHAIR</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRYAN DENCH</NamePerson>
+        <Title>SECRETARY</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LAIRD P COVEY</NamePerson>
+        <Title>BOARD CHAIR</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RENE L DUMONT</NamePerson>
+        <Title>TREASURER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL D MCCLELLAN</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MILES HUNT</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>J MARY MACMAHON</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SHARON CULLENBERG</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CINDY GIROUX</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHIP LIVERSIDGE</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CYNDI ROBBINS</NamePerson>
+        <Title>MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DON MAYBERRY</NamePerson>
+        <Title>MED DIR.</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JULIE SHACKLEY</NamePerson>
+        <Title>PRESIDENT/CEO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>179773</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>15239</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATHLEEN APPLIN</NamePerson>
+        <Title>CFO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>121642</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>19756</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROGER N AUSTIN MD</NamePerson>
+        <Title>MED DIR.</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <ReportableCompFromOrganization>267594</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>24196</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANDREA LABLANC</NamePerson>
+        <Title>COO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>118345</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16771</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ARTHUR WING</NamePerson>
+        <Title>DIR. OF FINANCE</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>105162</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>13033</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ANN M WEAVER</NamePerson>
+        <Title>DIR. OF HR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>109904</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>12128</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRENDA CZADO</NamePerson>
+        <Title>DIR. OF HOMECARE</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>106347</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>11945</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LAURIE WINSOR</NamePerson>
+        <Title>DIR. OF DEVELOPMENT</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>112967</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>5804</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>1121734</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>118872</TotalOtherCompensation>
+      <NumberIndividualsGT100K>8</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>HEALTHWYSE LLC</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>60 CONCORD STREET</AddressLine1>
+            <City>WILMINGTON</City>
+            <State>MA</State>
+            <ZIPCode>01887</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>SOFTWARE MAINTENANCE</DescriptionOfServices>
+        <Compensation>290477</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>COMPHEALTH MEDICAL STAFFING</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>10 NORDEN PLACE SUITE 200</AddressLine1>
+            <City>NORWALK</City>
+            <State>CT</State>
+            <ZIPCode>06855</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>NURSING AND THERAPY STAFFING</DescriptionOfServices>
+        <Compensation>143406</Compensation>
+      </ContractorCompensation>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>FRANKLIN MEMORIAL HOSPITAL</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>111 FRANKLIN HEALTH COMMONS</AddressLine1>
+            <City>FARMINGTON</City>
+            <State>ME</State>
+            <ZIPCode>04938</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>NURSING/MSW/OUTPATIENT/HOSPICE</DescriptionOfServices>
+        <Compensation>103384</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>3</NumberOfContractorsGT100K>
+      <GovernmentGrants>146906</GovernmentGrants>
+      <AllOtherContributions>425156</AllOtherContributions>
+      <TotalContributions>572062</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>HOME CARE SERVICES</Description>
+        <BusinessCode>621610</BusinessCode>
+        <TotalRevenueColumn>27382113</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>27382113</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>27382113</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>358013</TotalRevenueColumn>
+        <ExclusionAmount>358013</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Securities>456543</Securities>
+      </GrossAmountSalesAssets>
+      <GainOrLoss>
+        <Securities>456543</Securities>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>456543</TotalRevenueColumn>
+        <ExclusionAmount>456543</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <GrossIncomeFundraisingEvents>51182</GrossIncomeFundraisingEvents>
+      <FundraisingDirectExpenses>11559</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>39623</TotalRevenueColumn>
+        <ExclusionAmount>39623</ExclusionAmount>
+      </NetIncomeFromFundraisingEvents>
+      <TotalRevenue>
+        <TotalRevenueColumn>28808354</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>27382113</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>854179</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>628200</Total>
+        <ProgramServices>291790</ProgramServices>
+        <ManagementAndGeneral>336410</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>15549430</Total>
+        <ProgramServices>14167335</ProgramServices>
+        <ManagementAndGeneral>1294772</ManagementAndGeneral>
+        <Fundraising>87323</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>455556</Total>
+        <ProgramServices>407996</ProgramServices>
+        <ManagementAndGeneral>45100</ManagementAndGeneral>
+        <Fundraising>2460</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>2276176</Total>
+        <ProgramServices>2038543</ProgramServices>
+        <ManagementAndGeneral>225342</ManagementAndGeneral>
+        <Fundraising>12291</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>1289475</Total>
+        <ProgramServices>1154854</ProgramServices>
+        <ManagementAndGeneral>127658</ManagementAndGeneral>
+        <Fundraising>6963</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>14789</Total>
+        <ManagementAndGeneral>14789</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>89700</Total>
+        <ManagementAndGeneral>89700</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesInvstMgmntFees>
+        <Total>8728</Total>
+        <ManagementAndGeneral>8728</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>617730</Total>
+        <ProgramServices>537458</ProgramServices>
+        <ManagementAndGeneral>80272</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>37302</Total>
+        <ProgramServices>33408</ProgramServices>
+        <ManagementAndGeneral>3693</ManagementAndGeneral>
+        <Fundraising>201</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>151375</Total>
+        <ProgramServices>135571</ProgramServices>
+        <ManagementAndGeneral>14987</ManagementAndGeneral>
+        <Fundraising>817</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>327248</Total>
+        <ProgramServices>293083</ProgramServices>
+        <ManagementAndGeneral>32398</ManagementAndGeneral>
+        <Fundraising>1767</Fundraising>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>361715</Total>
+        <ProgramServices>323952</ProgramServices>
+        <ManagementAndGeneral>35810</ManagementAndGeneral>
+        <Fundraising>1953</Fundraising>
+      </Occupancy>
+      <Travel>
+        <Total>776147</Total>
+        <ProgramServices>695117</ProgramServices>
+        <ManagementAndGeneral>76839</ManagementAndGeneral>
+        <Fundraising>4191</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>80589</Total>
+        <ProgramServices>72176</ProgramServices>
+        <ManagementAndGeneral>7978</ManagementAndGeneral>
+        <Fundraising>435</Fundraising>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>351045</Total>
+        <ProgramServices>314396</ProgramServices>
+        <ManagementAndGeneral>34753</ManagementAndGeneral>
+        <Fundraising>1896</Fundraising>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>125868</Total>
+        <ProgramServices>112727</ProgramServices>
+        <ManagementAndGeneral>12461</ManagementAndGeneral>
+        <Fundraising>680</Fundraising>
+      </Insurance>
+      <OtherExpenses>
+        <Description>PROGRAM SUPPLIES</Description>
+        <Total>1713869</Total>
+        <ProgramServices>1713869</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OTHER EXPENSES</Description>
+        <Total>324562</Total>
+        <ProgramServices>290678</ProgramServices>
+        <ManagementAndGeneral>32131</ManagementAndGeneral>
+        <Fundraising>1753</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <Total>141358</Total>
+        <ProgramServices>126600</ProgramServices>
+        <ManagementAndGeneral>13995</ManagementAndGeneral>
+        <Fundraising>763</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PRINTING AND PUBLICATIO</Description>
+        <Total>131044</Total>
+        <ProgramServices>117363</ProgramServices>
+        <ManagementAndGeneral>12973</ManagementAndGeneral>
+        <Fundraising>708</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBTS</Description>
+        <Total>100000</Total>
+        <ProgramServices>100000</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>177074</Total>
+        <ProgramServices>147688</ProgramServices>
+        <ManagementAndGeneral>16325</ManagementAndGeneral>
+        <Fundraising>13061</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>25728980</Total>
+        <ProgramServices>23074604</ProgramServices>
+        <ManagementAndGeneral>2517114</ManagementAndGeneral>
+        <Fundraising>137262</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>5394288</BOY>
+        <EOY>5672990</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>58422</BOY>
+        <EOY>61540</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>2164895</BOY>
+        <EOY>2204746</EOY>
+      </AccountsReceivable>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>258182</BOY>
+        <EOY>334821</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>7456091</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>3628634</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>3899616</BOY>
+        <EOY>3827457</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>7691591</BOY>
+        <EOY>9920394</EOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>2119773</BOY>
+        <EOY>2486758</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>21586767</BOY>
+        <EOY>24508706</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>2502297</BOY>
+        <EOY>2388964</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>112372</BOY>
+        <EOY>68270</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>692245</BOY>
+        <EOY>692245</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>3306914</BOY>
+        <EOY>3149479</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>18269853</BOY>
+        <EOY>21349227</EOY>
+      </UnrestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>10000</BOY>
+        <EOY>10000</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>18279853</BOY>
+        <EOY>21359227</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>21586767</BOY>
+        <EOY>24508706</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>3079374</ReconcilationRevenueExpenses>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>339981</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>564025</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>497333</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>598702</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>572062</CurrentTaxYear>
+        <Total>2572103</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>26348114</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>27872047</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>27284082</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>27566265</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>27382113</CurrentTaxYear>
+        <Total>136452621</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>26688095</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>28436072</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>27781415</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>28164967</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>27954175</CurrentTaxYear>
+        <Total>139024724</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <CurrentTaxYearMinus2Years>5000</CurrentTaxYearMinus2Years>
+        <Total>5000</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <CurrentTaxYearMinus2Years>5000</CurrentTaxYearMinus2Years>
+        <Total>5000</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>139019724</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>310339</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>379238</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>277027</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>268388</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>358013</CurrentTaxYear>
+        <Total>1593005</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>310339</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>379238</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>277027</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>268388</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>358013</CurrentTaxYear>
+        <Total>1593005</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>26998434</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>28815310</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>28058442</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>28433355</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>28312188</CurrentTaxYear>
+        <Total>140617729</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.98860</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.98970</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.01130</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00990</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>10000</BeginningOfYearBalance>
+        <EndOfYearBalance>10000</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>10000</BeginningOfYearBalance>
+        <EndOfYearBalance>10000</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <CurrentYearMinus2Years>
+        <BeginningOfYearBalance>10000</BeginningOfYearBalance>
+        <EndOfYearBalance>10000</EndOfYearBalance>
+      </CurrentYearMinus2Years>
+      <PermanentEndowmentEOYBalance>1.00000</PermanentEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Land>
+        <OtherCostOrOtherBasis>1170836</OtherCostOrOtherBasis>
+        <BookValue>1170836</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>5444240</OtherCostOrOtherBasis>
+        <Depreciation>3178738</Depreciation>
+        <BookValue>2265502</BookValue>
+      </Buildings>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>841015</OtherCostOrOtherBasis>
+        <Depreciation>449896</Depreciation>
+        <BookValue>391119</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>3827457</TotalOfBookValueLandBuildings>
+      <OtherAssets>
+        <Description>ASSETS LIMITED AS TO USE</Description>
+        <BookValue>2486758</BookValue>
+      </OtherAssets>
+      <TotalBookValueOtherAssets>2486758</TotalBookValueOtherAssets>
+      <OtherLiabilities>
+        <Description>DUE TO THIRD PARTY PAYOR</Description>
+        <Amount>692245</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>692245</TotalOfAmounts>
+      <TotalRevenue>28808354</TotalRevenue>
+      <TotalExpenses>25728980</TotalExpenses>
+      <ExcessOrDeficitForYear>3079374</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>3079374</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>28799626</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>28799626</RevenueSubtotal>
+      <InvestmentExpensesNotIncluded>8728</InvestmentExpensesNotIncluded>
+      <RevenueNotRptdOnFinStmt>8728</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>28808354</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>25720252</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>25720252</ExpensesSubtotal>
+      <InvestmentExpensesNotIncluded2>8728</InvestmentExpensesNotIncluded2>
+      <ExpensesNotRptdOnFinStmt>8728</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>25728980</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF INTENDED USE OF ENDOWMENT FUNDS:</Identifier>
+        <ReturnReference>PART V, LINE 4:</ReturnReference>
+        <Explanation>RESTRICTED BY DONORS TO BE MAINTAINED BY THE ASSOCIATION IN PERPETUITY.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041300001">
+      <EventsInformation>
+        <NameOfEvent1>AUTUMN NIGHT OUT</NameOfEvent1>
+        <GrossReceiptsEvent1>37068</GrossReceiptsEvent1>
+        <GrossRevenueEvent1>37068</GrossRevenueEvent1>
+        <RentFacilityCostsEvent1>1835</RentFacilityCostsEvent1>
+        <OtherDirectExpensesEvent1>3051</OtherDirectExpensesEvent1>
+        <NameOfEvent2>BUTTERFLY RELEASE</NameOfEvent2>
+        <GrossReceiptsEvent2>14114</GrossReceiptsEvent2>
+        <GrossRevenueEvent2>14114</GrossRevenueEvent2>
+        <OtherDirectExpensesEvent2>6673</OtherDirectExpensesEvent2>
+        <GrossReceiptsTotal>51182</GrossReceiptsTotal>
+        <GrossRevenueTotalEvents>51182</GrossRevenueTotalEvents>
+        <RentFacilityCostsTotalEvents>1835</RentFacilityCostsTotalEvents>
+        <OtherDirectExpensesTotalEvents>9724</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>11559</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>39623</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SubstantiationRequired>1</SubstantiationRequired>
+      <IndependentConsultant>X</IndependentConsultant>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>JULIE SHACKLEY</NamePerson>
+        <BaseCompensationFilingOrg>179773</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>15239</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>195012</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartII>
+        <NamePerson>ROGER N AUSTIN MD</NamePerson>
+        <BaseCompensationFilingOrg>267594</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>24196</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>291790</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>STEVE COSTELLO</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>BOARD MEMBER</Relationship>
+        <AmountOfTransaction>30173</AmountOfTransaction>
+        <DescriptionOfTransaction>TRANSACTION AMOUNT REPRESENTS ADVERTISING AND MARKETING COSTS PAID TO LEWISTON SUN.</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>LAIRD COVEY</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>BOARD MEMBER &amp; CHAIR</Relationship>
+        <AmountOfTransaction>43108</AmountOfTransaction>
+        <DescriptionOfTransaction>TRANSACTION AMOUNT REPRESENTS PAYMENTS TO THE MEDICAL CENTER FOR HOSPICE RELATED SERVICES AND OUTPATIENT PHYSICAL THERAPY.</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>RENE DUMONT</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>BOARD MEMBER &amp; TREASURER</Relationship>
+        <AmountOfTransaction>9019</AmountOfTransaction>
+        <DescriptionOfTransaction>TRANSACTION AMOUNT REPRESENTS PAYMENTS FOR HOSPICE RELATED SERVICES, OUTPATIENT PHYSICAL THERAPY AND EMPLOYEE PHYSICAL EXAMS.</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>CFO AND DIRECTOR OF FINANCE REVIEW THE 990.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>POLICY IS REVIEWED ANNUALLY WITH THE BOARD OF DIRECTORS. EACH MEMBER IS ASKED TO SIGN AN AFFIDAVIT ACKNOWLEDGING THEY HAVE READ THE POLICY, UNDERSTAND THE POLICY, AND ARE IN COMPLIANCE WITH THE POLICY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>THE CEO IS REVIEWED ANNUALLY BY THE EXECUTIVE COMMITTEE OF THE BOARD OF DIRECTORS USING EXTERNAL BENCHMARKS. OFFICERS ARE REVIEWED ANNUALLY BY THE CEO.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>INFORMATION IS MADE AVAILABLE TO THE PUBLIC WITH THE PUBLICATION OF THE ANNUAL REPORT, FILING OF THE IRS FORM 990 AND UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990. PART XII, LINE 2C.</ReturnReference>
+        <Explanation>NO CHANGE FROM PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

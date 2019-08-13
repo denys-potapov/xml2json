@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-08T07:54:03-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Macdonald Page &amp; Co LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>30 Long Creek Dr</AddressLine1>
+        <City>South Portland</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010493563</EIN>
+      <Name>
+        <BusinessNameLine1>Maine Foundation for Cardiac Surgery</BusinessNameLine1>
+      </Name>
+      <NameControl>MAIN</NameControl>
+      <Phone>2077738162</Phone>
+      <USAddress>
+        <AddressLine1>818 Congress St</AddressLine1>
+        <City>Portland</City>
+        <State>ME</State>
+        <ZIPCode>04102</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Reed Quinn MD</Name>
+      <Title>President</Title>
+      <DateSigned>2011-08-08</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Constance Bingham</Name>
+      <Phone>2077745701</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>91523</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>6220</ContriReceivedRevAndExpnss>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>2982</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2982</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>2982</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>9202</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2982</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>2982</TotalAdjustedNetIncome>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">27</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>27</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">6443</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>6443</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>6470</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>27</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>6443</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>6470</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>27</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>6443</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>2732</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>2955</NetInvestmentIncome>
+        <AdjustedNetIncome>2982</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>8138</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>7908</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>7908</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsOtherBOY>76344</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId=" InvestmentsOtherSchedule2">79306</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>80154</InvestmentsOtherEOYFMV>
+        <LandBuildingAndEquipmentBasis>3461</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>3461</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">3461</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>3461</LandBuildingAndEquipmentEOYFMV>
+        <TotalAssetsBOY>87943</TotalAssetsBOY>
+        <TotalAssetsEOY>90675</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>91523</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>87943</UnrestrictedBOY>
+        <UnrestrictedEOY>90675</UnrestrictedEOY>
+        <TotalNetAssetsBOY>87943</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>90675</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>87943</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>90675</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>87943</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>2732</ExcessOfRevenueOverExpenses>
+        <Subtotal>90675</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>90675</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>14324</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>82608</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.17340</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>45777</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>118280</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.38702</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>1650</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>123075</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.01341</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>6624</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>131580</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.05034</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>10456</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>123633</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.08457</DistributionRatioYear5>
+        <TotalDistributionRatio>0.70874</TotalDistributionRatio>
+        <AverageDistributionRatio>0.14175</AverageDistributionRatio>
+        <NetNoncharitableAssets>86458</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12255</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>30</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12285</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>6443</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>59</InvestmentIncomeExciseTax>
+        <Subtotal>59</Subtotal>
+        <TaxBasedOnInvestmentIncome>59</TaxBasedOnInvestmentIncome>
+        <TaxDue>59</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Reed Quinn</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2077738162</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>818 Congress St</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>04102</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>John D Gleason Esq</PersonName>
+          <USAddress>
+            <AddressLine1>818 Congress Street</AddressLine1>
+            <City>Portland</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>Clerk</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Rick Morrone</PersonName>
+          <USAddress>
+            <AddressLine1>818 Congress Street</AddressLine1>
+            <City>Portland</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>V. Pres. &amp; Dir.</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Seth Blank MD</PersonName>
+          <USAddress>
+            <AddressLine1>818 Congress Street</AddressLine1>
+            <City>Portland</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>Treasurer &amp; Dir</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Reed Quinn MD</PersonName>
+          <USAddress>
+            <AddressLine1>818 Congress Street</AddressLine1>
+            <City>Portland</City>
+            <State>ME</State>
+            <ZIPCode>04102</ZIPCode>
+          </USAddress>
+          <Title>President &amp; Dir</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>73744</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>10570</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>3461</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>87775</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>87775</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1317</CashDeemedCharitable>
+        <NetNoncharitableAssets>86458</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>4323</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>4323</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>59</TaxBasedOnInvestmentIncome>
+        <TotalTax>59</TotalTax>
+        <DistributableAmountBeforeAdj>4264</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>4264</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>4264</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>6443</ExpensesAndContributions>
+        <QualifyingDistributions>6443</QualifyingDistributions>
+        <AdjQualifyingDistributions>6443</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>4264</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>4376</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>182</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear2>39949</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>10248</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>54755</TotalExcessDistriCarryover>
+        <QualifyingDistributions>6443</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>4264</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>2179</RemainingDistriFromCorpus>
+        <TotalCorpus>56934</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>4376</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>52558</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>182</ExcessFromYear4>
+        <ExcessFromYear2>39949</ExcessFromYear2>
+        <ExcessFromYear1>10248</ExcessFromYear1>
+        <ExcessFromCurrentYear>2179</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2982</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>2982</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2982</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsOtherSchedule2 documentId="InvestmentsOtherSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsOther>
+        <CategoryOrItem>Mutual Funds-Income Fund of America</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>79306</BookValue>
+        <EOYFMV>80154</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>3461</CostOrOtherBasis>
+        <BookValue>3461</BookValue>
+        <EOYFMV>3461</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Afghanistan Child Costs</Description>
+        <RevenueAndExpensesPerBooks>6443</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6443</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Taxes-IRS</Category>
+        <Amount>27</Amount>
+        <NetInvestmentIncome>27</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

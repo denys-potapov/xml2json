@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-09-15T07:49:30-04:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ACCREDITED BUSINESS CONSULTANTSINC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2572 ERIE BLVD EAST</AddressLine1>
+        <City>Syracuse</City>
+        <State>NY</State>
+        <ZIPCode>13224</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010839510</EIN>
+      <Name>
+        <BusinessNameLine1>THE HARRIS FAMILY FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>HARR</NameControl>
+      <USAddress>
+        <AddressLine1>4606 WATERGAP</AddressLine1>
+        <City>Manlius</City>
+        <State>NY</State>
+        <ZIPCode>131049327</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT J HARRIS</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>3154156195</Phone>
+      <DateSigned>2011-08-17</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>NICK A KOUSMANIDIS ABAATACFEEA</Name>
+      <Phone>3154465087</Phone>
+      <DatePrepared>2011-09-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>76778</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>122</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>122</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>122</InterestOnSavingsAdjNetIncm>
+        <DividendsRevAndExpnss>4641</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4641</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>4641</DividendsAdjNetIncm>
+        <TotalRevenueAndExpenses>4763</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4763</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>4763</TotalAdjustedNetIncome>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">405</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>105</OtherExpensesNetInvstIncm>
+        <OtherExpensesAdjNetIncm>405</OtherExpensesAdjNetIncm>
+        <TotOprExpensesRevAndExpnss>405</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>105</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>405</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>15235</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>15235</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>15640</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>105</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>405</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>15235</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-10877</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4658</NetInvestmentIncome>
+        <AdjustedNetIncome>4358</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1807</CashBOY>
+        <CashEOY>1807</CashEOY>
+        <CashEOYFMV>468</CashEOYFMV>
+        <InvestmentsCorpStockBOY>66393</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="STM137">76310</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>76310</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>68200</TotalAssetsBOY>
+        <TotalAssetsEOY>78117</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>76778</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>68200</RetainedEarningsBOY>
+        <RetainedEarningsEOY>78117</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>68200</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>78117</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>68200</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>78117</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>68200</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-10877</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="STM115">20794</OtherIncreases>
+        <Subtotal>78117</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>78117</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>7901</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>65581</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.120477</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>3725</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>75385</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.049413</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>7107</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>84564</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.084043</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>20850</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>125548</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.166072</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>7995</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>102149</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.078268</DistributionRatioYear5>
+        <TotalDistributionRatio>0.498273</TotalDistributionRatio>
+        <AverageDistributionRatio>0.099655</AverageDistributionRatio>
+        <NetNoncharitableAssets>71403</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>7116</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>47</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>7163</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>15235</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>47</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>47</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>47</TaxBasedOnInvestmentIncome>
+        <TaxDue>47</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>NY</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfPersonName>ROBERT J HARRIS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>3154156195</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>4606 WATER GAP</AddressLine1>
+          <City>MANLIUS</City>
+          <State>NY</State>
+          <ZIPCode>13104</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT J HARRIS</PersonName>
+          <USAddress>
+            <AddressLine1>4606 WATER GAP</AddressLine1>
+            <City>MANLIUS</City>
+            <State>NY</State>
+            <ZIPCode>13104</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOSEPHINE Y HARRIS</PersonName>
+          <USAddress>
+            <AddressLine1>4606 WATER GAP</AddressLine1>
+            <City>MANLIUS</City>
+            <State>NY</State>
+            <ZIPCode>13104</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KATHRYN HARRIS MORAMARCCO</PersonName>
+          <USAddress>
+            <AddressLine1>20 CARTER LANE</AddressLine1>
+            <City>ANDOVER</City>
+            <State>MA</State>
+            <ZIPCode>01810</ZIPCode>
+          </USAddress>
+          <Title>SUCCESSOR TRT</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JAMES R HARRIS</PersonName>
+          <USAddress>
+            <AddressLine1>4421 SILKWOOD CIRCLE</AddressLine1>
+            <City>MANLIUS</City>
+            <State>NY</State>
+            <ZIPCode>13104</ZIPCode>
+          </USAddress>
+          <Title>SUCCESSSOR TR</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>St Katherine Greek Orthodox Church 7100 Airport Rd North Naples FL 341093</Description1>
+        <Expenses1>1650</Expenses1>
+        <Description2>Brigham Womens Hospital 116 Huntington Ave5th Floor Boston MA 02116</Description2>
+        <Expenses2>2000</Expenses2>
+        <Description3>Upstate Medical University 750 East Adams St Syracuse Ny 13210</Description3>
+        <Expenses3>1000</Expenses3>
+        <Description4>Multiple MyelomaJourney of Hope for Mass General Hospital 34 Apple Hill LaneLynnfield MA 01940</Description4>
+        <Expenses4>5000</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>71352</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1138</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>72490</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>72490</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1087</CashDeemedCharitable>
+        <NetNoncharitableAssets>71403</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3570</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3570</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>47</TaxBasedOnInvestmentIncome>
+        <TotalTax>47</TotalTax>
+        <DistributableAmountBeforeAdj>3523</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3523</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>3523</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>15235</ExpensesAndContributions>
+        <QualifyingDistributions>15235</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>47</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>15188</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3523</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>3279</UndistributedIncomePriorYear>
+        <ExcessDistriCarryoverYear5>5851</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>7601</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>7160</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>13452</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>4622</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>38686</TotalExcessDistriCarryover>
+        <QualifyingDistributions>15235</QualifyingDistributions>
+        <AppliedToYear1>3279</AppliedToYear1>
+        <AppliedToCurrentYear>3523</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>11712</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>5851</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>5851</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>44547</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>44547</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>7601</ExcessFromYear4>
+        <ExcessFromYear3>7160</ExcessFromYear3>
+        <ExcessFromYear2>13452</ExcessFromYear2>
+        <ExcessFromYear1>4622</ExcessFromYear1>
+        <ExcessFromCurrentYear>11712</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>4763</CurrentYear>
+          <Year1>6538</Year1>
+          <Year2>2920</Year2>
+          <Year3>2978</Year3>
+          <Total>17199</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>4049</CurrentYear>
+          <Year1>5557</Year1>
+          <Year2>2482</Year2>
+          <Year3>2531</Year3>
+          <Total>14619</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>15235</CurrentYear>
+          <Year1>7901</Year1>
+          <Year2>3725</Year2>
+          <Year3>7107</Year3>
+          <Total>33968</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>15235</CurrentYear>
+          <Year1>7901</Year1>
+          <Year2>3725</Year2>
+          <Year3>7107</Year3>
+          <Total>33968</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>76310</CurrentYear>
+          <Year1>66393</Year1>
+          <Year2>62953</Year2>
+          <Year3>83383</Year3>
+          <Total>289039</Total>
+        </TotalAssets>
+        <TwoThirdsMinInvstReturn>
+          <CurrentYear>2380</CurrentYear>
+          <Total>2380</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Robert Harris</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>4606 Watergap</AddressLine1>
+            <City>Manlius</City>
+            <State>NY</State>
+            <ZIPCode>13104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3154156195</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>A letter requesting the need or purpose of the grant</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>None</SubmissionDeadlines>
+          <RestrictionsOnAwards>501c3 Exempt Organizations</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>Upstate University</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>750 East Adams St</AddressLine1>
+            <City>Syracuse</City>
+            <State>NY</State>
+            <ZIPCode>13210</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Researcch</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>To fund medicalstudents educatio</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <BusinessCode>523000</BusinessCode>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <BusinessCode>523000</BusinessCode>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>18</ExclusionCode>
+        </OtherInvestmentIncomePartVII>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>4</LineNumber>
+          <RelationshipStatement>To benefit religious and educational organizations etc</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorpStock>
+        <NameOfStock>Various Publicly Traded Securi</NameOfStock>
+        <EOYBookValue>76310</EOYBookValue>
+        <EOYFMV>76310</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherDecreasesSchedule documentId="STM115">
+      <OtherDecreases>
+        <Description>Interest</Description>
+        <Amount>122</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>Dividens</Description>
+        <Amount>4641</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>Unrealized Gain</Description>
+        <Amount>78</Amount>
+      </OtherDecreases>
+      <OtherDecreases>
+        <Description>contributions</Description>
+        <Amount>15953</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>ACCOUNTING FEES</Description>
+        <RevenueAndExpensesPerBooks>300</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>300</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MANAGEMENT FEES AND SERVICES</Description>
+        <RevenueAndExpensesPerBooks>105</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>105</NetInvestmentIncome>
+        <AdjustedNetIncome>105</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+  </ReturnData>
+</Return>

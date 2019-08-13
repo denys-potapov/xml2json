@@ -1,0 +1,837 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-11T12:32:49-08:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>G Michael Smith &amp; Assoc PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>1551 Jennings Mill Rd 900-A</AddressLine1>
+        <City>Bogart</City>
+        <State>GA</State>
+        <ZIPCode>30622</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010548823</EIN>
+      <Name>
+        <BusinessNameLine1>PRINCE AVENUE CHRISTIAN SCHOOL INC</BusinessNameLine1>
+      </Name>
+      <NameControl>PRIN</NameControl>
+      <Phone>6787533000</Phone>
+      <USAddress>
+        <AddressLine1>2201 RUTH JACKSON ROAD</AddressLine1>
+        <City>BOGART</City>
+        <State>GA</State>
+        <ZIPCode>30622</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DANNY HOWELL</Name>
+      <Title>President</Title>
+      <DateSigned>2011-11-11</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>G MICHAEL SMITH CPA</Name>
+      <Phone>7063532016</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990 documentId="IRS990" referenceDocumentId=" IRS990ScheduleO" softwareId="10000105" softwareVersion="2010v3.2">
+      <GrossReceipts>5645390</GrossReceipts>
+      <GroupReturnForAffiliates>false</GroupReturnForAffiliates>
+      <AllAffiliatesIncluded>false</AllAffiliatesIncluded>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>www.princeave.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2004</YearFormation>
+      <StateLegalDomicile>GA</StateLegalDomicile>
+      <ActivityOrMissionDescription>PRINCE AVENUE CHRISITAN SCHOOL EXISTS TO INFUSE OUR SCHOOL COMMUNITY WITH A BIBLICAL WORLDVIEW BY EFFECTIVELY SHARING THE GOSPEL AND DEVELOPING FULLY DEVOTED FOLLOWERS OF JESUS CHRIST THROUGH SCRIPTURALLY BASED DISCIPLESHIP, ACADEMICS, FINE ARTS, AND ATHELETICS.Situated on 40 acres in Oconee County, Prince Avenue Christian School is a magnificent example of what love for the Lord, dedication to prayer, and perseverance can create. Founded in 1978, Prince Avenue has been recognized in the Athens area for its academic distinction in Christian education. With a challenging college prep curriculum, students from preschool through twelfth grade learn the knowledge and skills to succeed academically. Accredited by ACSI and SACS, Prince Avenue Christian School's primary goal is to inspire young men and women to become fully devoted followers of Jesus Christ and to challenge them to achieve their highest academic, creative, and athletic potential.These past four years have seen major transitio</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>9</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>9</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>156</TotalNbrEmployees>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <ContributionsGrantsPriorYear>543786</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>389560</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>4162801</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>5139989</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>2343</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>2407</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>55012</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>55393</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>4763942</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>5587349</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>131018</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>114988</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>2916573</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>3436794</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>45240</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>1635140</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1840341</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>4682731</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>5392123</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>81211</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>195226</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>1605208</TotalAssetsBOY>
+      <TotalAssetsEOY>1847259</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>994696</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>1076760</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>610512</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>770499</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>PRINCE AVENUE CHRISITAN SCHOOL EXISTS TO INFUSE OUR SCHOOL COMMUNITY WITH A BIBLICAL WORLDVIEW BY EFFECTIVELY SHARING THE GOSPEL AND DEVELOPING FULLY DEVOTED FOLLOWERS OF JESUS CHRIST THROUGH SCRIPTURALLY BASED DISCIPLESHIP, ACADEMICS, FINE ARTS, AND ATHELETICS.Situated on 40 acres in Oconee County, Prince Avenue Christian School is a magnificent example of what love for the Lord, dedication to prayer, and perseverance can create. Founded in 1978, Prince Avenue has been recognized in the Athens area for its academic distinction in Christian education. With a challenging college prep curriculum, students from preschool through twelfth grade learn the knowledge and skills to succeed academically. Accredited by ACSI and SACS, Prince Avenue Christian School's primary goal is to inspire young men and women to become fully devoted followers of Jesus Christ and to challenge them to achieve their highest academic, creative, and athletic potential.These past four years have seen major transitio</MissionDescription>
+      <SignificantNewProgramServices>false</SignificantNewProgramServices>
+      <SignificantChange>false</SignificantChange>
+      <Expense>4941068</Expense>
+      <Revenue>5195382</Revenue>
+      <Description>Expenses relating to the education of elementary and high school students.</Description>
+      <TotalProgramServiceExpense>4941068</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId=" IRS990ScheduleA">true</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId=" IRS990ScheduleB">true</ScheduleBRequired>
+      <PoliticalActivities>false</PoliticalActivities>
+      <LobbyingActivities>false</LobbyingActivities>
+      <SubjectToProxyTax>false</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId=" IRS990ScheduleD">false</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId=" IRS990ScheduleD">false</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId=" IRS990ScheduleD">false</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId=" IRS990ScheduleD">false</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId=" IRS990ScheduleD">false</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId=" IRS990ScheduleD">true</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId=" IRS990ScheduleD">false</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId=" IRS990ScheduleD">false</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId=" IRS990ScheduleD">false</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId=" IRS990ScheduleD">true</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId=" IRS990ScheduleD">false</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId=" IRS990ScheduleD">false</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId=" IRS990ScheduleD">false</ConsolidatedAuditFinancialStmt>
+      <School referenceDocumentId=" IRS990ScheduleE">true</School>
+      <ForeignOffice>false</ForeignOffice>
+      <ForeignActivities>false</ForeignActivities>
+      <MoreThan5000KToOrganizations>false</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>false</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising referenceDocumentId=" IRS990ScheduleG">false</ProfessionalFundraising>
+      <FundraisingActivities referenceDocumentId=" IRS990ScheduleG">true</FundraisingActivities>
+      <Gaming referenceDocumentId=" IRS990ScheduleG">false</Gaming>
+      <Hospital>false</Hospital>
+      <GrantsToOrganizations referenceDocumentId=" IRS990ScheduleI">false</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId=" IRS990ScheduleI">true</GrantsToIndividuals>
+      <ScheduleJRequired>false</ScheduleJRequired>
+      <TaxExemptBonds>false</TaxExemptBonds>
+      <InvestTaxExemptBonds>false</InvestTaxExemptBonds>
+      <EscrowAccount>false</EscrowAccount>
+      <OnBehalfOfIssuer>false</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction>false</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>false</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>false</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>false</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>false</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>false</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>false</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>false</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>false</DeductibleContributionsOfArt>
+      <Terminated>false</Terminated>
+      <PartialLiquidation>false</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId=" IRS990ScheduleR">false</DisregardedEntity>
+      <RelatedEntity referenceDocumentId=" IRS990ScheduleR">true</RelatedEntity>
+      <RelatedOrgControlledEntity>false</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId=" IRS990ScheduleR">false</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId=" IRS990ScheduleR">false</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId=" IRS990ScheduleR">false</ActivitiesConductedPartnership>
+      <ScheduleORequired>true</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>60</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>true</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>156</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>true</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>false</UnrelatedBusinessIncome>
+      <Form990-TFiled>false</Form990-TFiled>
+      <ForeignFinancialAccount>false</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>false</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>false</TaxablePartyNotification>
+      <Form8886TFiled>false</Form8886TFiled>
+      <NonDeductibleContributions>false</NonDeductibleContributions>
+      <NonDeductibleDisclosure>false</NonDeductibleDisclosure>
+      <QuidProQuoContributions>true</QuidProQuoContributions>
+      <QuidProQuoDisclosure>true</QuidProQuoDisclosure>
+      <Form8282PropertyDisposedOf>false</Form8282PropertyDisposedOf>
+      <NumberOf8282Filed>0</NumberOf8282Filed>
+      <FundsToPayPremiums>false</FundsToPayPremiums>
+      <PremiumsPaid>false</PremiumsPaid>
+      <Form8899Filed>false</Form8899Filed>
+      <Form1098CFiled>false</Form1098CFiled>
+      <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+      <TaxableDistributions>false</TaxableDistributions>
+      <DistributionToDonor>false</DistributionToDonor>
+      <FiledLieu1041>false</FiledLieu1041>
+      <LicensedMoreThanOneState>false</LicensedMoreThanOneState>
+      <IndoorTanningServices>false</IndoorTanningServices>
+      <Form720Filed>false</Form720Filed>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>9</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>9</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>false</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>false</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>false</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>false</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>false</MembersOrStockholders>
+      <ElectionOfBoardMembers>true</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>false</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>true</MinutesOfGoverningBody>
+      <MinutesOfCommittees>true</MinutesOfCommittees>
+      <OfficerMailingAddress>false</OfficerMailingAddress>
+      <LocalChapters>false</LocalChapters>
+      <PoliciesReferenceChapters>false</PoliciesReferenceChapters>
+      <Form990ProvidedToGoverningBody>true</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>true</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>false</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>false</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>false</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>false</DocumentRetentionPolicy>
+      <CompensationProcessCEO>false</CompensationProcessCEO>
+      <CompensationProcessOther>false</CompensationProcessOther>
+      <InvestmentInJointVenture>false</InvestmentInJointVenture>
+      <WrittenPolicyOrProcedure>false</WrittenPolicyOrProcedure>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NamePerson>RENAY ARMIT</NamePerson>
+        <TelephoneNumber>6787533000</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2201 RUTH JACKSON ROAD</AddressLine1>
+          <City>BOGART</City>
+          <State>GA</State>
+          <ZIPCode>30622</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>SHANE TODD</NamePerson>
+        <Title>Chairman</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD FRIERSON</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RENAY ARMIT</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>18452</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>NIKKI JOHNSON</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>LISA WOMMACK</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>0.00</AverageHoursPerWeek>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN MCCALL</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEFF INGRAM</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DANNY HOWELL</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>60.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>96946</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHAD CLEVELAND</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BARBARA POWER</NamePerson>
+        <Title>VICE CHAIRMAN</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>AARON MEYERS</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>115398</TotalReportableCompFromOrg>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>false</FormersListed>
+      <TotalCompGT150K>false</TotalCompGT150K>
+      <CompensationFromOtherSources>false</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <FundraisingEvents>12634</FundraisingEvents>
+      <AllOtherContributions>376926</AllOtherContributions>
+      <TotalContributions>389560</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>TUITION</Description>
+        <TotalRevenueColumn>4125029</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>4125029</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Other Income</Description>
+        <TotalRevenueColumn>221692</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>221692</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>LUNCH RECEIPTS</Description>
+        <TotalRevenueColumn>276134</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>276134</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Class &amp; Clubs</Description>
+        <TotalRevenueColumn>252360</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>252360</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Athletic Fees</Description>
+        <TotalRevenueColumn>88033</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>88033</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalOthProgramServiceRevenue>
+        <TotalRevenueColumn>176741</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>176741</RelatedOrExemptFunctionIncome>
+      </TotalOthProgramServiceRevenue>
+      <TotalProgramServiceRevenue>5139989</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>2407</TotalRevenueColumn>
+        <ExclusionAmount>2407</ExclusionAmount>
+      </InvestmentIncome>
+      <IncomeFromInvestBondProceeds>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </IncomeFromInvestBondProceeds>
+      <RoyaltiesRevenue>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </RoyaltiesRevenue>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetRentalIncomeOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetGainOrLossInvestments>
+      <GrossIncomeFundraisingEvents>113434</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>12634</CntrbtnsRprtdFundraisingEvents>
+      <FundraisingDirectExpenses>58041</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>55393</TotalRevenueColumn>
+        <ExclusionAmount>55393</ExclusionAmount>
+      </NetIncomeFromFundraisingEvents>
+      <NetIncomeFromGaming>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromGaming>
+      <NetIncomeOrLoss>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeOrLoss>
+      <TotalOtherRevenue>0</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>5587349</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5139989</RelatedOrExemptFunctionIncome>
+        <ExclusionAmount>57800</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>0</Total>
+      </GrantsToDomesticOrgs>
+      <GrantsToDomesticIndividuals>
+        <Total>114988</Total>
+        <ProgramServices>114988</ProgramServices>
+      </GrantsToDomesticIndividuals>
+      <ForeignGrants>
+        <Total>0</Total>
+      </ForeignGrants>
+      <BenefitsToMembers>
+        <Total>0</Total>
+      </BenefitsToMembers>
+      <CompCurrentOfficersDirectors>
+        <Total>145875</Total>
+        <ProgramServices>109406</ProgramServices>
+        <ManagementAndGeneral>36469</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>0</Total>
+      </CompDisqualPersons>
+      <OtherSalariesAndWages>
+        <Total>2684106</Total>
+        <ProgramServices>2597093</ProgramServices>
+        <ManagementAndGeneral>59540</ManagementAndGeneral>
+        <Fundraising>27473</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>46674</Total>
+        <ProgramServices>41264</ProgramServices>
+        <ManagementAndGeneral>5410</ManagementAndGeneral>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>349272</Total>
+        <ProgramServices>319626</ProgramServices>
+        <ManagementAndGeneral>22054</ManagementAndGeneral>
+        <Fundraising>7592</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>210867</Total>
+        <ProgramServices>201345</ProgramServices>
+        <ManagementAndGeneral>7446</ManagementAndGeneral>
+        <Fundraising>2076</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>0</Total>
+      </FeesForServicesManagement>
+      <FeesForServicesLegal>
+        <Total>0</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>0</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>0</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesProfFundraising>
+        <Total>0</Total>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>0</Total>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>0</Total>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>42015</Total>
+        <ManagementAndGeneral>40244</ManagementAndGeneral>
+        <Fundraising>1771</Fundraising>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>7893</Total>
+        <ManagementAndGeneral>7418</ManagementAndGeneral>
+        <Fundraising>475</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>33181</Total>
+        <ProgramServices>14273</ProgramServices>
+        <ManagementAndGeneral>18908</ManagementAndGeneral>
+      </InformationTechnology>
+      <Royalties>
+        <Total>0</Total>
+      </Royalties>
+      <Occupancy>
+        <Total>132770</Total>
+        <ProgramServices>132770</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>7479</Total>
+        <ManagementAndGeneral>7173</ManagementAndGeneral>
+        <Fundraising>306</Fundraising>
+      </Travel>
+      <TravelEntrtnmntPublicOfficials>
+        <Total>0</Total>
+      </TravelEntrtnmntPublicOfficials>
+      <ConferencesMeetings>
+        <Total>14766</Total>
+        <ProgramServices>14766</ProgramServices>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>0</Total>
+      </Interest>
+      <PaymentsToAffiliates>
+        <Total>0</Total>
+      </PaymentsToAffiliates>
+      <DepreciationDepletion>
+        <Total>135947</Total>
+        <ProgramServices>135947</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>30568</Total>
+        <ProgramServices>10154</ProgramServices>
+        <ManagementAndGeneral>20414</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>LUNCH PROGRAM</Description>
+        <Total>195736</Total>
+        <ProgramServices>195736</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Janitorial Services</Description>
+        <Total>127987</Total>
+        <ProgramServices>127987</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Educational Expenses</Description>
+        <Total>365454</Total>
+        <ProgramServices>365454</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Classes &amp; Clubs</Description>
+        <Total>210151</Total>
+        <ProgramServices>210151</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Athletic expenses</Description>
+        <Total>136862</Total>
+        <ProgramServices>136862</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>399532</Total>
+        <ProgramServices>213246</ProgramServices>
+        <ManagementAndGeneral>180739</ManagementAndGeneral>
+        <Fundraising>5547</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>5392123</Total>
+        <ProgramServices>4941068</ProgramServices>
+        <ManagementAndGeneral>405815</ManagementAndGeneral>
+        <Fundraising>45240</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>643820</BOY>
+        <EOY>953234</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>422887</BOY>
+        <EOY>293543</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <EOY>0</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <EOY>0</EOY>
+      </AccountsReceivable>
+      <ReceivablesFromOfficersEtc>
+        <EOY>0</EOY>
+      </ReceivablesFromOfficersEtc>
+      <ReceivablesFromDisqualPersons>
+        <EOY>0</EOY>
+      </ReceivablesFromDisqualPersons>
+      <OtherNotesLoansReceivableNet>
+        <EOY>0</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <EOY>0</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>16354</BOY>
+        <EOY>7396</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>1328994</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>735908</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>522147</BOY>
+        <EOY>593086</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <EOY>0</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <EOY>0</EOY>
+      </InvestmentsOtherSecurities>
+      <InvestmentsProgramRelated>
+        <EOY>0</EOY>
+      </InvestmentsProgramRelated>
+      <IntangibleAssets>
+        <EOY>0</EOY>
+      </IntangibleAssets>
+      <OtherAssetsTotal>
+        <EOY>0</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>1605208</BOY>
+        <EOY>1847259</EOY>
+      </TotalAssets>
+      <DeferredRevenue>
+        <BOY>946412</BOY>
+        <EOY>979615</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>48284</BOY>
+        <EOY>97145</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>994696</BOY>
+        <EOY>1076760</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>443038</BOY>
+        <EOY>622261</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>123767</BOY>
+        <EOY>148238</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>43707</BOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>610512</BOY>
+        <EOY>770499</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>1605208</BOY>
+        <EOY>1847259</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <InfoInScheduleOPartXI>X</InfoInScheduleOPartXI>
+      <ReconcilationRevenueExpenses>195226</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>-35239</ReconcilationOtherChanges>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AccountantCompileOrReview>true</AccountantCompileOrReview>
+      <FSAudited>false</FSAudited>
+      <AuditCommittee>false</AuditCommittee>
+      <FederalGrantAuditRequired>false</FederalGrantAuditRequired>
+      <FederalGrantAuditPerformed>false</FederalGrantAuditPerformed>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA" softwareId="10000105" softwareVersion="2010v3.2">
+      <School170b1Aii>X</School170b1Aii>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="IRS990ScheduleD" softwareId="10000105" softwareVersion="2010v3.2">
+      <Equipment>
+        <OtherCostOrOtherBasis>1328994</OtherCostOrOtherBasis>
+        <Depreciation>735908</Depreciation>
+        <BookValue>593086</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>593086</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>SBC ANNUITY</Description>
+        <Amount>4743</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>PAYROLL LIABILITIES -TAX &amp; INSURANCE</Description>
+        <Amount>-13581</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>AGENCY FUNDS</Description>
+        <Amount>105983</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>97145</TotalOfAmounts>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XI, Line 8</Identifier>
+        <ReturnReference>Part XI, Line 8: Other Changes in Net Assets or Fund Balances</ReturnReference>
+        <Explanation>NET EXPENDITURES BY CLASSES, CLUBS &amp; DESIGNATED FUNDS $ -35239 . $ -0</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleE documentId="IRS990ScheduleE" softwareId="10000105" softwareVersion="2010v3.2">
+      <NondiscriminatoryPolicyStmt>true</NondiscriminatoryPolicyStmt>
+      <PolicyStatementInBrochuresEtc>true</PolicyStatementInBrochuresEtc>
+      <PolicyPublViaBroadcastMedia>true</PolicyPublViaBroadcastMedia>
+      <MaintRacialCompositionRecords>true</MaintRacialCompositionRecords>
+      <MaintScholarshipsRecords>true</MaintScholarshipsRecords>
+      <MaintCopiesOfBrochuresEtc>true</MaintCopiesOfBrochuresEtc>
+      <MaintCopiesOfAllSolicitations>true</MaintCopiesOfAllSolicitations>
+      <DiscriminateRaceStudentsRights>false</DiscriminateRaceStudentsRights>
+      <DiscriminateRaceAdmissPolicies>false</DiscriminateRaceAdmissPolicies>
+      <DiscriminateRaceEmplmnFaculty>false</DiscriminateRaceEmplmnFaculty>
+      <DiscriminateRaceScholarships>false</DiscriminateRaceScholarships>
+      <DiscriminateRaceEducPolicies>false</DiscriminateRaceEducPolicies>
+      <DiscriminateRaceUseOfFclts>false</DiscriminateRaceUseOfFclts>
+      <DiscriminateRaceAthleticProg>false</DiscriminateRaceAthleticProg>
+      <DiscriminateRaceOtherActy>false</DiscriminateRaceOtherActy>
+      <GovernmentFinancialAidReceived>false</GovernmentFinancialAidReceived>
+      <GovernmentFinancialAidRevoked>false</GovernmentFinancialAidRevoked>
+      <ComplianceWithRevProc7550>true</ComplianceWithRevProc7550>
+      <Form990ScheduleEPartII>
+        <Identifier>Schedule E, Line 3 - Racially Nondiscriminatory Policy Publicized</Identifier>
+        <Explanation>PRINCE AVENUE CHRISTIAN SCHOOL PUBLICIZES ITS RACIALLY NONDISCRIMINATIORY POLICY IN ITS SCHOOL HANDBOOK, WEBSITE, AS PART OF ITS APPLICATION AND IN NEWSPAPAER ADVERTISEMENTS.</Explanation>
+      </Form990ScheduleEPartII>
+    </IRS990ScheduleE>
+    <IRS990ScheduleG documentId="IRS990ScheduleG" softwareId="10000105" softwareVersion="2010v3.2">
+      <MailSolicitations>X</MailSolicitations>
+      <EmailSolicitations>X</EmailSolicitations>
+      <PhoneSolicitations>X</PhoneSolicitations>
+      <InPersonSolicitations>X</InPersonSolicitations>
+      <SpecialFundraisingEvents>X</SpecialFundraisingEvents>
+      <AgreementRefFundraising>true</AgreementRefFundraising>
+      <FundraiserActivityInformation>
+        <NameOfOrganization>
+          <BusinessNameLine1>BOOSTER ENTERPR</BusinessNameLine1>
+        </NameOfOrganization>
+        <AddressUS>
+          <AddressLine1>1000 EXC W STE</AddressLine1>
+          <City>ALPHARETTA</City>
+          <State>GA</State>
+          <ZIPCode>30022</ZIPCode>
+        </AddressUS>
+        <Activity>FITNESS, LEADER</Activity>
+        <FundraiserControlOfFunds>false</FundraiserControlOfFunds>
+        <GrossReceipts>67481</GrossReceipts>
+        <AmountRetainedByContractor>32293</AmountRetainedByContractor>
+        <NetToOrganization>35188</NetToOrganization>
+      </FundraiserActivityInformation>
+      <TotalGrossReceipts>67481</TotalGrossReceipts>
+      <TotalRetainedByContractors>32293</TotalRetainedByContractors>
+      <TotalNetToOrganization>35188</TotalNetToOrganization>
+      <EventsInformation>
+        <NameOfEvent1>BOOSTERTHON</NameOfEvent1>
+        <GrossReceiptsEvent1>67481</GrossReceiptsEvent1>
+        <GrossRevenueEvent1>67481</GrossRevenueEvent1>
+        <OtherDirectExpensesEvent1>32779</OtherDirectExpensesEvent1>
+        <NameOfEvent2>SPRING GALA</NameOfEvent2>
+        <GrossReceiptsEvent2>38555</GrossReceiptsEvent2>
+        <CharitableContributionsEvent2>12634</CharitableContributionsEvent2>
+        <GrossRevenueEvent2>25921</GrossRevenueEvent2>
+        <NonCashPrizesEvent2>1250</NonCashPrizesEvent2>
+        <FoodAndBeverageEvent2>8694</FoodAndBeverageEvent2>
+        <OtherDirectExpensesEvent2>2184</OtherDirectExpensesEvent2>
+        <TotalNumberOfOtherEvents>3</TotalNumberOfOtherEvents>
+        <GrossReceiptsOtherEvents>20032</GrossReceiptsOtherEvents>
+        <GrossRevenueOtherEvents>20032</GrossRevenueOtherEvents>
+        <RentFacilityCostsOtherEvents>1599</RentFacilityCostsOtherEvents>
+        <FoodAndBeverageOtherEvents>8217</FoodAndBeverageOtherEvents>
+        <OtherDirectExpensesOtherEvents>3318</OtherDirectExpensesOtherEvents>
+        <GrossReceiptsTotal>126068</GrossReceiptsTotal>
+        <CharitableContributionsTotal>12634</CharitableContributionsTotal>
+        <GrossRevenueTotalEvents>113434</GrossRevenueTotalEvents>
+        <NonCashPrizesTotalEvents>1250</NonCashPrizesTotalEvents>
+        <RentFacilityCostsTotalEvents>1599</RentFacilityCostsTotalEvents>
+        <FoodAndBeverageTotalEvents>16911</FoodAndBeverageTotalEvents>
+        <OtherDirectExpensesTotalEvents>38281</OtherDirectExpensesTotalEvents>
+        <DirectExpenseSummaryEvents>58041</DirectExpenseSummaryEvents>
+        <NetIncomeSummary>55393</NetIncomeSummary>
+      </EventsInformation>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="IRS990ScheduleI" softwareId="10000105" softwareVersion="2010v3.2">
+      <RecordsMaintained>true</RecordsMaintained>
+      <NoGrantMoreThan5000>X</NoGrantMoreThan5000>
+      <TotalNbrOf501C3AndGovtGrants>0</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>0</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>TUITION FINANCIAL AID</TypeOfGrant>
+        <NumberOfRecipients>42</NumberOfRecipients>
+        <AmountOfNonCashAssistance>93019</AmountOfNonCashAssistance>
+        <MethodOfValuation>SPECIFIC DOLLAR AMOUNTS</MethodOfValuation>
+        <DescriptionOfNonCashAssistance>TUITION</DescriptionOfNonCashAssistance>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>SCHOLARSHIPS</TypeOfGrant>
+        <NumberOfRecipients>7</NumberOfRecipients>
+        <AmountOfCashGrant>21469</AmountOfCashGrant>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>PACS WOLVERINE PRIDE</TypeOfGrant>
+        <NumberOfRecipients>1</NumberOfRecipients>
+        <AmountOfCashGrant>500</AmountOfCashGrant>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIV>
+        <Identifier>Grantmaker's Description of How Grants are Used</Identifier>
+        <Explanation>(1) THE WOLVERINE PRIDE SCHOLARSHIP IS THE ONLY CASH GRANT GIVEN TO A FAMILY WHO DEMONSTRATES EXTRAORDINALY LEVELS OF WOLVERINE PRIDE. (2) ALL OTHER SCHOLARSHIPS ARE UTILIZED TO PAY THE TUITION AT PRINCE AVENUE CHRISTIAN SCHO0L. THE UNIDENTIFIED APPLICATIONS ARE SUBMITTED TO THE APPROPRITE COMMITTEE FOR REVIEW AND DETERMINATION.(3) FINANCIAL AID IS UTILIZED TO PAY THE TUITION AT PRINCE AVENUE CHRISTIAN SCHO0L. APPLICATIONS ARE SUBMITTED TO THE SCHOOL AND STUDENT SERVICE FOR FINANCIAL AID(SSS). SSS CALCULATES THE AMOUNT OF DEMONSTRATED NEED AND FILES A REPORT WITH PRINCE AVENUE CHRISTIAN SCHOOL.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleO documentId="IRS990ScheduleO" softwareId="10000105" softwareVersion="2010v3.2">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 19</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 19: Other Organization Documents Publicly Available</ReturnReference>
+        <Explanation>THE SCHOOL DOES NOT MAKE ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY OR FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Line 11</Identifier>
+        <ReturnReference>Form 990, Part VI, Line 11: Form 990 Review Process</ReturnReference>
+        <Explanation>THE FORM 990 IS PRESENTED BY THE TREASURER TO THE FULL BOARD FOR REVIEW.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR" softwareId="10000105" softwareVersion="2010v3.2">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>PRINCE AVENUE BAPTIST CHURCH</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>2201 RUTH JACKSON ROAD</AddressLine1>
+          <City>BOGART</City>
+          <State>GA</State>
+          <ZIPCode>30622</ZIPCode>
+        </AddressUS>
+        <EIN>580637021</EIN>
+        <PrimaryActivities>CHURCH</PrimaryActivities>
+        <LegalDomicileState>GA</LegalDomicileState>
+        <ExemptCodeSection>501(c)(3)</ExemptCodeSection>
+        <PublicCharityStatus>1</PublicCharityStatus>
+        <DirectControllingEntityNA>N/A</DirectControllingEntityNA>
+        <ControlledOrg>false</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>false</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>false</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>true</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>false</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>false</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>false</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>false</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>false</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>false</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>true</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>false</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>false</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>true</SharingOfFacilities>
+      <SharingOfPaidEmployees>true</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>true</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>true</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>false</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>false</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

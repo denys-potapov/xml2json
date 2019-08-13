@@ -1,0 +1,706 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-05T13:02:22-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>55 Walls Drive</AddressLine1>
+        <City>Fairfield</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010791880</EIN>
+      <Name>
+        <BusinessNameLine1>The Alvin Marley Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>ALVI</NameControl>
+      <Phone>8008391754</Phone>
+      <USAddress>
+        <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+        <City>Wilmington</City>
+        <State>DE</State>
+        <ZIPCode>198091377</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Alvin W Marley</Name>
+      <Title>President</Title>
+      <DateSigned>2011-08-05</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey D Haskell</Name>
+      <Phone>8008391754</Phone>
+      <DatePrepared>2011-08-05</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1000875</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <InterestOnSavingsRevAndExpnss>12</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>12</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>17294</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>17294</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:72">40258</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>436720</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>40258</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="990PF:74">18</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>18</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>57582</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>57582</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="990PF:77">6877</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>6877</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:78">145</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">5248</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>129</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>5119</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>12270</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>7006</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5119</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>35100</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>35100</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>47370</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>7006</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>40219</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>10212</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>50576</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>37283</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>42628</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>42628</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>829229</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:89">832959</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>947034</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>9281</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="990PF:156">10418</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>11213</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>875793</TotalAssetsBOY>
+        <TotalAssetsEOY>886005</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1000875</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>875793</RetainedEarningsBOY>
+        <RetainedEarningsEOY>886005</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>875793</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>886005</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>875793</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>886005</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>875793</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>10212</ExcessOfRevenueOverExpenses>
+        <Subtotal>886005</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>886005</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Publicly-traded Securities</DescriptionOfAsset>
+          <GrossSalesPrice>436720</GrossSalesPrice>
+          <CostOrOtherBasis>397461</CostOrOtherBasis>
+          <GainOrLoss>39259</GainOrLoss>
+          <GainsMinusExcessOrLosses>39259</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Passthrough K1 Capital Gain</DescriptionOfAsset>
+          <GainOrLoss>999</GainOrLoss>
+          <GainsMinusExcessOrLosses>999</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>40258</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>55218</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>865665</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.063787</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>57827</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1045757</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.055297</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>49092</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1185285</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.041418</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>37093</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1014434</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.036565</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>23671</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>776191</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>000.030496</DistributionRatioYear5>
+        <TotalDistributionRatio>000.227563</TotalDistributionRatio>
+        <AverageDistributionRatio>000.045513</AverageDistributionRatio>
+        <NetNoncharitableAssets>938699</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>42723</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>506</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>43229</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>40219</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1012</InvestmentIncomeExciseTax>
+        <Subtotal>1012</Subtotal>
+        <TaxBasedOnInvestmentIncome>1012</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>4</EstTaxPaymentsAndOverpayment>
+        <TaxPaidWithExtension>1033</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>1037</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>1037</TaxPaidOriginalReturn>
+        <Form2220Attached referenceDocumentId="2220">X</Form2220Attached>
+        <Overpayment>25</Overpayment>
+        <AmountCreditedToNextYear>25</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>co Foundation Source</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8008391754</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>501 Silverside Road Suite 123</AddressLine1>
+          <City>Wilmington</City>
+          <State>DE</State>
+          <ZIPCode>198091377</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>true</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Alvin W Marley</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>President / Director / Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Lisa Rochelle Marley Prince</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>916520</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>36474</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>952994</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>952994</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">14295</CashDeemedCharitable>
+        <NetNoncharitableAssets>938699</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>46935</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>46935</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>1012</TaxBasedOnInvestmentIncome>
+        <TotalTax>1012</TotalTax>
+        <DistributableAmountBeforeAdj>45923</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>45923</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>45923</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">40219</ExpensesAndContributions>
+        <QualifyingDistributions>40219</QualifyingDistributions>
+        <AdjQualifyingDistributions>40219</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>45923</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>39663</UndistributedIncomePriorYear>
+        <QualifyingDistributions>40219</QualifyingDistributions>
+        <AppliedToYear1>39663</AppliedToYear1>
+        <AppliedToCurrentYear>556</AppliedToCurrentYear>
+        <UndistributedIncomeCY>45367</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>Alvin W Marley</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BLACK ENSEMBLE THEATER CORPORATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4520 N BEACON ST</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60640</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(2)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BLACK ENSEMBLE THEATER CORPORATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4520 N BEACON ST</AddressLine1>
+            <City>CHICAGO</City>
+            <State>IL</State>
+            <ZIPCode>60640</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(2)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Black Ensemble Theater Cultural Center Capital Campaign</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONSORTIUM FOR GRADUATE STUDY IN MA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5585 PERSHING AVE STE 240</AddressLine1>
+            <City>SAINT LOUIS</City>
+            <State>MO</State>
+            <ZIPCode>63112</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Alumni Annual Fund</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONSORTIUM FOR GRADUATE STUDY IN MA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5585 PERSHING AVE STE 240</AddressLine1>
+            <City>SAINT LOUIS</City>
+            <State>MO</State>
+            <ZIPCode>63112</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Wallace L. Jones Endowment Fund</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COOPERATIVE FOR ASSISTANCE AND RELI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>INC - CARE PO BOX 1871</AddressLine1>
+            <City>MERRIFIELD</City>
+            <State>VA</State>
+            <ZIPCode>22116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Earthquake Relief in Haiti Initiative</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOCTORS WITHOUT BORDERS USA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>333 7TH AVE FL 2</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Haiti Relief Initiative</PurposeOfGrantOrContribution>
+          <Amount>2600</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DOCTORS WITHOUT BORDERS USA INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>333 7TH AVE FL 2</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Haiti Relief Initiative</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KING SOLOMON BAPTIST CHURCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 1115</AddressLine1>
+            <City>VICKSBURG</City>
+            <State>MS</State>
+            <ZIPCode>39181</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>New Church Building Fund</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MISSISSIPPI YOUTH SPORTS ASSOCIATIO</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 12312</AddressLine1>
+            <City>JACKSON</City>
+            <State>MS</State>
+            <ZIPCode>39236</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Panthers Sports Club Division</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OPERATION USA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3617 HAYDEN AVE A</AddressLine1>
+            <City>CULVER CITY</City>
+            <State>CA</State>
+            <ZIPCode>90232</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Haiti Relief Initiative</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TENNESSEE STATE UNIVERSITY FOUNDATI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3500 JOHN MERRITT BLVD BOX 9542</AddressLine1>
+            <City>NASHVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37209</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Alpha Phi Alpha Beta Omicron Monument and Scholarship Fund</PurposeOfGrantOrContribution>
+          <Amount>6000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TENNESSEE STATE UNIVERSITY FOUNDATI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3500 JOHN MERRITT BLVD BOX 9542</AddressLine1>
+            <City>NASHVILLE</City>
+            <State>TN</State>
+            <ZIPCode>37209</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Chicago Chapter and Alvin Marley Scholarship Endowment Fund</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>35100</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>12</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17294</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>40258</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <OtherRevenueDescribed>
+          <Description>K-1 Pass-Through Income</Description>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>18</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>57582</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>57582</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsCorpStock>
+        <NameOfStock>1687 shares of ARTIO INTERNATIONAL II - I JETIX</NameOfStock>
+        <EOYBookValue>15131</EOYBookValue>
+        <EOYFMV>21018</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>407 shares of ARTISAN INTERNATIONAL VALUE FUND INVESTOR SHS ARTKX</NameOfStock>
+        <EOYBookValue>9815</EOYBookValue>
+        <EOYFMV>11041</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1389 shares of DREYFUS PREMIER EMERGING MARKETS DEBT LOCAL CURREN DDBIX</NameOfStock>
+        <EOYBookValue>19221</EOYBookValue>
+        <EOYFMV>20084</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>3087 shares of EATON VANCE FLOATING RATE FUND INSTI SHARE EIBLX</NameOfStock>
+        <EOYBookValue>22985</EOYBookValue>
+        <EOYFMV>27658</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1809 shares of EATON VANCE GLOBAL MACRO FD CL I EIGMX</NameOfStock>
+        <EOYBookValue>18808</EOYBookValue>
+        <EOYFMV>18581</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1324 shares of FMI LARGE CAP FUND FMIHX</NameOfStock>
+        <EOYBookValue>18077</EOYBookValue>
+        <EOYFMV>20673</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>362 shares of GATEWAY FUND CLASS Y GTEYX</NameOfStock>
+        <EOYBookValue>9420</EOYBookValue>
+        <EOYFMV>9434</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2711 shares of GOLDMAN SACHS HIGH YIELD FUND INSTITUTIONAL SHARES GSHIX</NameOfStock>
+        <EOYBookValue>19517</EOYBookValue>
+        <EOYFMV>19788</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>663 shares of HIGHBRIDGE DYNAMIC COMMOD STRATEGY FUND - SEL HDCSX</NameOfStock>
+        <EOYBookValue>9736</EOYBookValue>
+        <EOYFMV>12847</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>279 shares of ISHARES BARCLAYS TIPS BOND FUND TIP</NameOfStock>
+        <EOYBookValue>28340</EOYBookValue>
+        <EOYFMV>29998</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>122 shares of ISHARES TR S P MIDCAP 400 INDEX FD IJH</NameOfStock>
+        <EOYBookValue>8324</EOYBookValue>
+        <EOYFMV>11064</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2008 shares of JP MORGAN EXPANSION INDEX SELECT FUND PGMIX</NameOfStock>
+        <EOYBookValue>17680</EOYBookValue>
+        <EOYFMV>21605</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>18571 shares of JP MORGAN SHORT DURATION BOND SELECT FUND HLLVX</NameOfStock>
+        <EOYBookValue>197073</EOYBookValue>
+        <EOYFMV>203723</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1616 shares of JP MORGAN STRATEGIC INCOME OPPORTUNIEIS FD SELECT JSOSX</NameOfStock>
+        <EOYBookValue>16386</EOYBookValue>
+        <EOYFMV>19120</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2112 shares of JP MORGAN US EQUITY FUND JUESX</NameOfStock>
+        <EOYBookValue>19517</EOYBookValue>
+        <EOYFMV>21630</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1508 shares of JP MORGAN US LARGE CAP CORE PLUS FUND JLPSX</NameOfStock>
+        <EOYBookValue>24410</EOYBookValue>
+        <EOYFMV>31163</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>689 shares of JP MORGAN US REAL ESTATE FD SELECT SHS SUIEX</NameOfStock>
+        <EOYBookValue>11304</EOYBookValue>
+        <EOYFMV>10729</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>6034 shares of JPMORGAN HIGH YIELD BOND FUND SELECT OHYFX</NameOfStock>
+        <EOYBookValue>45044</EOYBookValue>
+        <EOYFMV>49179</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1599 shares of JPMORGAN INTERNATIONAL VALUE SELECT JIESX</NameOfStock>
+        <EOYBookValue>20621</EOYBookValue>
+        <EOYFMV>21420</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>446 shares of JPMORGAN INTREPID AMERICA FUND JPIAX</NameOfStock>
+        <EOYBookValue>10779</EOYBookValue>
+        <EOYFMV>10238</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1242 shares of JPMORGAN MARKET NEUTRAL FUND SELECT JMNSX</NameOfStock>
+        <EOYBookValue>19425</EOYBookValue>
+        <EOYFMV>19169</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1095 shares of JPMORGAN REALTY INCOME FUND URTLX</NameOfStock>
+        <EOYBookValue>9759</EOYBookValue>
+        <EOYFMV>10295</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1189 shares of JPMORGAN TR I ASIA EQT SEL JPASX</NameOfStock>
+        <EOYBookValue>25911</EOYBookValue>
+        <EOYFMV>45045</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>876 shares of JPMORGN INTERNATIONAL CURRENCY JCISX</NameOfStock>
+        <EOYBookValue>9518</EOYBookValue>
+        <EOYFMV>9851</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2007 shares of MANNING NAPIER FD, INC. EQUITY SRS EXEYX</NameOfStock>
+        <EOYBookValue>32881</EOYBookValue>
+        <EOYFMV>38682</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1426 shares of MATTHEWS PACIFIC TIGER FUND MAPTX</NameOfStock>
+        <EOYBookValue>24886</EOYBookValue>
+        <EOYFMV>33431</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>337 shares of SPDR SP 500 ETF TRUST SPY</NameOfStock>
+        <EOYBookValue>38310</EOYBookValue>
+        <EOYFMV>42378</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>88 shares of STREETTRACKS GOLD SHARES GLD</NameOfStock>
+        <EOYBookValue>7898</EOYBookValue>
+        <EOYFMV>12207</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1519 shares of THE ARBITRAGE FUND CLASS I ARBNX</NameOfStock>
+        <EOYBookValue>19923</EOYBookValue>
+        <EOYFMV>19432</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1259 shares of THE HARTFORD CAPITAL APPRECIATION FUND CLASS I ITHIX</NameOfStock>
+        <EOYBookValue>27868</EOYBookValue>
+        <EOYFMV>43602</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>981 shares of THE HARTFORD MIDCAP FUND CLASS I HFMIX</NameOfStock>
+        <EOYBookValue>19157</EOYBookValue>
+        <EOYFMV>21727</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>647 shares of VANGUARD EMERGING MARKETS STOCK INDEX VIPERS VWO</NameOfStock>
+        <EOYBookValue>29831</EOYBookValue>
+        <EOYFMV>31153</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2930 shares of VANGUARD INTERMEDIATE-TERM CORPORATE FUND VFICX</NameOfStock>
+        <EOYBookValue>25404</EOYBookValue>
+        <EOYFMV>29069</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="990PF:156" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsOther>
+        <CategoryOrItem>DB COMMODITY INDEX TRACKING FUND DBC</CategoryOrItem>
+        <BookValue>10418</BookValue>
+        <EOYFMV>11213</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>Administrative Fees</Description>
+        <RevenueAndExpensesPerBooks>5094</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>5094</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>K1 passthrough DB COMMODITY INDEX TRACKING FUND</Description>
+        <RevenueAndExpensesPerBooks>129</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>129</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>State or Local Filing Fees</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="990PF:74" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherIncome>
+        <Description>DB COMMODITY INDEX TRACKING FUND K-1 Pass-Through Share of Partnership Income/Loss</Description>
+        <RevenueAndExpensesPerBooks>18</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>18</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="990PF:77" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherProfessionalFees>
+        <Category>Investment Management Services</Category>
+        <Amount>6877</Amount>
+        <NetInvestmentIncome>6877</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="10000149" softwareVersion="2010.2.15">
+      <Taxes>
+        <Category>IRS Excise Tax Payment with 1st ext 990PF</Category>
+        <Amount>145</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-16T09:04:15-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>CLARENCE WHITE CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 5389</AddressLine1>
+        <City>OAKLAND</City>
+        <State>CA</State>
+        <ZIPCode>946050389</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010793830</EIN>
+      <Name>
+        <BusinessNameLine1>The Stroud Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>STRO</NameControl>
+      <Phone>6303680511</Phone>
+      <USAddress>
+        <AddressLine1>1900 Spring Road</AddressLine1>
+        <City>Oak Brook</City>
+        <State>IL</State>
+        <ZIPCode>60523</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Joseph A Stroud</Name>
+      <Title>President</Title>
+      <DateSigned>2011-07-16</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Clarence White CPA</Name>
+      <Phone>5103768346</Phone>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1631056</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>81165</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>81165</DividendsNetInvstIncm>
+        <DividendsAdjNetIncm>81165</DividendsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>26560</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>217609</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>26560</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>107725</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>107725</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>81165</TotalAdjustedNetIncome>
+        <InterestRevAndExpnss>23402</InterestRevAndExpnss>
+        <InterestNetInvstIncm>23402</InterestNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">898</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>898</TaxesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">356</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>24656</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>24300</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>10000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>10000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>34656</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>24300</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>10000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>73069</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>83425</NetInvestmentIncome>
+        <AdjustedNetIncome>81165</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>34161</CashBOY>
+        <CashEOY>34161</CashEOY>
+        <CashEOYFMV>34161</CashEOYFMV>
+        <InvestmentsCorpStockBOY>1628824</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY>1596895</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>1596895</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>1662985</TotalAssetsBOY>
+        <TotalAssetsEOY>1631056</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1631056</TotalAssetsEOYFMV>
+        <AccountsPayableEOY>1254</AccountsPayableEOY>
+        <MortgagesAndNotesPayableBOY>674391</MortgagesAndNotesPayableBOY>
+        <MortgagesAndNotesPayableEOY referenceDocumentId=" MortgagesAndNotesPayableSchedu">409692</MortgagesAndNotesPayableEOY>
+        <TotalLiabilitiesBOY>674391</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>410946</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>988594</UnrestrictedBOY>
+        <UnrestrictedEOY>1069479</UnrestrictedEOY>
+        <TemporarilyRestrictedEOY>150631</TemporarilyRestrictedEOY>
+        <TotalNetAssetsBOY>988594</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1220110</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>1662985</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1631056</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>988594</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>73069</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId=" OtherIncreasesSchedule">158447</OtherIncreases>
+        <Subtotal>1220110</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1220110</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainNetIncome>26560</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>1669</InvestmentIncomeExciseTax>
+        <Subtotal>1669</Subtotal>
+        <TaxBasedOnInvestmentIncome>1669</TaxBasedOnInvestmentIncome>
+        <Form2220Attached referenceDocumentId=" IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>24</PenaltyForUnderpayment>
+        <TaxDue>1693</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>IL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Organization</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>6303680511</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>1900 Spring Road Suite 330</AddressLine1>
+          <City>Oak Brook</City>
+          <State>IL</State>
+          <ZIPCode>60523</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Amber Stroud</PersonName>
+          <USAddress>
+            <AddressLine1>109 Indian Trail Road</AddressLine1>
+            <City>Oak Brook</City>
+            <State>IL</State>
+            <ZIPCode>60523</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Vonesca Stroud</PersonName>
+          <USAddress>
+            <AddressLine1>460 McGraw Street</AddressLine1>
+            <City>Seattle</City>
+            <State>WA</State>
+            <ZIPCode>98109</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Yvonne M Stroud</PersonName>
+          <USAddress>
+            <AddressLine1>109 Indian Trail Road</AddressLine1>
+            <City>Oak Brook</City>
+            <State>IL</State>
+            <ZIPCode>60523</ZIPCode>
+          </USAddress>
+          <Title>Secretary/Trea.</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Joseph A Stroud</PersonName>
+          <USAddress>
+            <AddressLine1>109 Indian Trail Road</AddressLine1>
+            <City>Oak Brook</City>
+            <State>IL</State>
+            <ZIPCode>60523</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <TaxBasedOnInvestmentIncome>1669</TaxBasedOnInvestmentIncome>
+        <TotalTax>1669</TotalTax>
+        <DistributableAmountBeforeAdj>1669</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>1669</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>10000</ExpensesAndContributions>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <AdjQualifyingDistributions>10000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear4>169900</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>550000</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>515565</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>163500</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1398965</TotalExcessDistriCarryover>
+        <QualifyingDistributions>10000</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <RemainingDistriFromCorpus>10000</RemainingDistriFromCorpus>
+        <TotalCorpus>1408965</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>1408965</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>169900</ExcessFromYear4>
+        <ExcessFromYear3>550000</ExcessFromYear3>
+        <ExcessFromYear2>515565</ExcessFromYear2>
+        <ExcessFromYear1>163500</ExcessFromYear1>
+        <ExcessFromCurrentYear>10000</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>Joseph A Stroud President</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>1900 Spring Road Suite 330</AddressLine1>
+            <City>Oak Brook</City>
+            <State>IL</State>
+            <ZIPCode>60523</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>6303680511</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>No Formal Application Required. A Request in Letter Form Setting Forth Details of Funds Requested Is Accetable.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>(none)</SubmissionDeadlines>
+          <RestrictionsOnAwards>None</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Chicago Jazz Philharmonic</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 805330</AddressLine1>
+            <City>Chicago</City>
+            <State>IL</State>
+            <ZIPCode>60680</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>None</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Support</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>10000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>81165</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>1</ExclusionCode>
+          <ExclusionAmount>26560</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>107725</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>107725</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSchedu" softwareId="10000105" softwareVersion="2010v3.2">
+      <TotalMortgageAmount>409692</TotalMortgageAmount>
+      <NotePayable>
+        <LendersName>
+          <Individual>Charles Schwab Co Inc</Individual>
+        </LendersName>
+        <RelationshipToInsider>None</RelationshipToInsider>
+        <OriginalAmountOfLoan>100000</OriginalAmountOfLoan>
+        <BalanceDue>409692</BalanceDue>
+        <RepaymentTerms>None</RepaymentTerms>
+        <InterestRate>4.5000</InterestRate>
+        <SecurityProvidedByBorrower>Investments</SecurityProvidedByBorrower>
+        <PurposeOfLoan>To Purchase Securities</PurposeOfLoan>
+        <DescOfLenderConsideration>Margin Loan</DescOfLenderConsideration>
+        <ConsiderationFmv>1596895</ConsiderationFmv>
+      </NotePayable>
+    </MortgagesAndNotesPayableSch>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Licenses &amp; Fees</Description>
+        <RevenueAndExpensesPerBooks>356</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncreases>
+        <Description>Unrealized Gains on Investments</Description>
+        <Amount>158447</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Federal Income</Category>
+        <Amount>898</Amount>
+        <NetInvestmentIncome>898</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

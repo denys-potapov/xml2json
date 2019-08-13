@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-14T08:30:58-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>PFBFCPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>46 FIRSTPARK DRIVE</AddressLine1>
+        <City>OAKLAND</City>
+        <State>ME</State>
+        <ZIPCode>049635362</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010539747</EIN>
+      <Name>
+        <BusinessNameLine1>CONNIE &amp; PAUL ROSS CHARITABLE</BusinessNameLine1>
+        <BusinessNameLine2>FOUNDATION</BusinessNameLine2>
+      </Name>
+      <NameControl>CONN</NameControl>
+      <Phone>2074749841</Phone>
+      <USAddress>
+        <AddressLine1>241 EASY STREET</AddressLine1>
+        <City>CANAAN</City>
+        <State>ME</State>
+        <ZIPCode>04924</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LARRY C ROSS</Name>
+      <Title>SECRETARY</Title>
+      <Phone>2074749841</Phone>
+      <DateSigned>2011-10-28</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>GARY W SMITH CPA</Name>
+      <Phone>2078731603</Phone>
+      <DatePrepared>2011-11-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>39913</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>513</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>513</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc3">-2756</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>2354</GrossSalesPrice>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc5">61</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>61</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>-2182</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>574</TotalNetInvestmentIncome>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc6">296</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>296</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">109</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>109</TaxesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>405</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>405</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3850</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3850</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>4255</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>405</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>3850</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-6437</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>169</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>240</CashBOY>
+        <CashEOY>140</CashEOY>
+        <CashEOYFMV>140</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>1698</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>470</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>470</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>33306</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc4">28197</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>39303</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>35244</TotalAssetsBOY>
+        <TotalAssetsEOY>28807</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>39913</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>35244</UnrestrictedBOY>
+        <UnrestrictedEOY>28807</UnrestrictedEOY>
+        <TotalNetAssetsBOY>35244</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>28807</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>35244</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>28807</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>35244</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-6437</ExcessOfRevenueOverExpenses>
+        <Subtotal>28807</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>28807</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>2498</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>36201</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.069004</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>2289</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>45801</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.049977</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>3566</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>54046</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.065981</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>1000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>48851</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.020470</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>1000</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>47115</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.021225</DistributionRatioYear5>
+        <TotalDistributionRatio>0.226657</TotalDistributionRatio>
+        <AverageDistributionRatio>0.045331</AverageDistributionRatio>
+        <NetNoncharitableAssets>38387</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>1740</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>2</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>1742</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>3850</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>2</InvestmentIncomeExciseTax>
+        <Subtotal>2</Subtotal>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>100</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>100</TotalCreditsAndPayments>
+        <Overpayment>98</Overpayment>
+        <AmountCreditedToNextYear>4</AmountCreditedToNextYear>
+        <AmountToBeRefunded>94</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LARRY C ROSS</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2074749841</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>241 EASY STREET</AddressLine1>
+          <City>CANAAN</City>
+          <State>ME</State>
+          <ZIPCode>04924</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">PAUL C ROSS</PersonName>
+          <USAddress>
+            <AddressLine1>280 PARK FOREST</AddressLine1>
+            <City>ENGLEWOOD</City>
+            <State>FL</State>
+            <ZIPCode>34223</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">EARL C ROSS</PersonName>
+          <USAddress>
+            <AddressLine1>TUTTLE ROAD</AddressLine1>
+            <City>DETROIT</City>
+            <State>ME</State>
+            <ZIPCode>04929</ZIPCode>
+          </USAddress>
+          <Title>TRESURER</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc2">LARRY C ROSS</PersonName>
+          <USAddress>
+            <AddressLine1>241 EASY STREET</AddressLine1>
+            <City>CANAAN</City>
+            <State>ME</State>
+            <ZIPCode>04924</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SUNCOAST HUMANE SOCIETY</Description1>
+        <Expenses1>1100</Expenses1>
+        <Description2>DETROIT VOLUNTEER FIRE DEPT</Description2>
+        <Expenses2>1000</Expenses2>
+        <Description3>SALVATION ARMY</Description3>
+        <Expenses3>1000</Expenses3>
+        <Description4>LEMON BAY SUNRISE ROTARY</Description4>
+        <Expenses4>500</Expenses4>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>37524</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>1448</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>38972</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>38972</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>585</CashDeemedCharitable>
+        <NetNoncharitableAssets>38387</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>1919</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>1919</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>2</TaxBasedOnInvestmentIncome>
+        <TotalTax>2</TotalTax>
+        <DistributableAmountBeforeAdj>1917</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>1917</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>1917</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3850</ExpensesAndContributions>
+        <QualifyingDistributions>3850</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>2</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>3848</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>1917</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear3>932</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>21</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>692</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>1645</TotalExcessDistriCarryover>
+        <QualifyingDistributions>3850</QualifyingDistributions>
+        <AppliedToCurrentYear>1917</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>1933</RemainingDistriFromCorpus>
+        <TotalCorpus>3578</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>3578</ExcessDistriCyovToNextYear>
+        <ExcessFromYear3>932</ExcessFromYear3>
+        <ExcessFromYear2>21</ExcessFromYear2>
+        <ExcessFromYear1>692</ExcessFromYear1>
+        <ExcessFromCurrentYear>1933</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>LARRY C ROSS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>241 EASY STREET</AddressLine1>
+            <City>CANAAN</City>
+            <State>ME</State>
+            <ZIPCode>04924</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2074749841</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>LETTER OF INQUIRY WITH NARRATIVE OUTLINING REQUESTS</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>ONGOING</SubmissionDeadlines>
+          <RestrictionsOnAwards>501(C)(3) ENTITIES, PRIMARILY MAINE, EDUCATION, ENVIRONMENT, YOUTH, AND COMMUNITY DEVELOPMENT</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>225 MAIN STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL USE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DETROIT VOL FIRE DEPT</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>35 S MAIN STREET</AddressLine1>
+            <City>DETROIT</City>
+            <State>ME</State>
+            <ZIPCode>04929</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL USE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SUNCOAST HUMANE SOCIETY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6781 SAN CASA DRIVE</AddressLine1>
+            <City>ENGLEWOOD</City>
+            <State>FL</State>
+            <ZIPCode>34224</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL USE</PurposeOfGrantOrContribution>
+          <Amount>1100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>LEMON BAY SUNRISE ROTARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>SUNCOAST AUDITORIUM</AddressLine1>
+            <City>ENGLEWOOD</City>
+            <State>FL</State>
+            <ZIPCode>34223</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL USE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PITTSFIELD FOOD PANTRY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>128 CONNORS STREET</AddressLine1>
+            <City>PITTSFIELD</City>
+            <State>ME</State>
+            <ZIPCode>04967</ZIPCode>
+          </RecipientUSAddress>
+          <PurposeOfGrantOrContribution>GENERAL USE</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3850</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <RelatedOrExemptFunctionIncome>513</RelatedOrExemptFunctionIncome>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <RelatedOrExemptFunctionIncome>61</RelatedOrExemptFunctionIncome>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <RelatedOrExemptFunctionIncome>-2756</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <RelatedOrExemptFunctionIncome>-2182</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-2182</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <CompensationExplanation documentId="RetDoc2">
+      <Compensation>
+        <PersonName>PAUL C ROSS</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>EARL C ROSS</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>LARRY C ROSS</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc3">
+      <GainLossSaleOtherAsset>
+        <HowAcquired>PURCHASE</HowAcquired>
+        <GrossSalesPrice>2354</GrossSalesPrice>
+        <Basis>5110</Basis>
+        <TotalNet>-2756</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <EOYBookValue>28197</EOYBookValue>
+        <EOYFMV>39303</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc5">
+      <OtherIncome>
+        <Description>CLASS ACTION SETTLEMENT</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>61</NetInvestmentIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc6">
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>296</Amount>
+        <NetInvestmentIncome>296</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>9</Amount>
+        <NetInvestmentIncome>9</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>PAID WITH EXTENSION</Category>
+        <Amount>100</Amount>
+        <NetInvestmentIncome>100</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

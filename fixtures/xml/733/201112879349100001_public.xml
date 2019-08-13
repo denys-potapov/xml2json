@@ -1,0 +1,1646 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-10-14T08:36:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Metcalf Davis CPAs</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>3340 Peachtree Road NE Suite 2600</AddressLine1>
+        <City>Atlanta</City>
+        <State>GA</State>
+        <ZIPCode>303261089</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010733593</EIN>
+      <Name>
+        <BusinessNameLine1>Twelve Labours Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>TWEL</NameControl>
+      <Phone>9709274206</Phone>
+      <USAddress>
+        <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+        <City>Carbondale</City>
+        <State>CO</State>
+        <ZIPCode>81623</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>J Alston Gardner</Name>
+      <Title>President and Treasurer</Title>
+      <Phone>9709274206</Phone>
+      <DateSigned>2011-10-04</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Susan Hill</Name>
+      <Phone>4042641700</Phone>
+      <DatePrepared>2011-10-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>85385</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>50000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>6791</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>6791</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>2217</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2217</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>28785</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>769025</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>28785</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>87793</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>37793</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">8480</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>8480</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc2002500001">50</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>0</TaxesNetInvstIncm>
+        <TaxesDsbrsChrtblPrps>0</TaxesDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">-5010</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>1437</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>0</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>3520</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>9917</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>653000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>653000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>656520</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>9917</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>653000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-568727</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>27876</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>19072</CashBOY>
+        <CashEOY>25945</CashEOY>
+        <CashEOYFMV>25845</CashEOYFMV>
+        <InvestmentsCorpStockBOY>483418</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">17227</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>15030</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>148164</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc2044400001">38755</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>44510</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>650654</TotalAssetsBOY>
+        <TotalAssetsEOY>81927</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>85385</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>650654</RetainedEarningsBOY>
+        <RetainedEarningsEOY>81927</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>650654</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>81927</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>650654</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>81927</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>650654</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-568727</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>81927</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>81927</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>863.558 shs MERK HARD CURRENCY FUND INVESTOR CLASS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-28</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>10441</GrossSalesPrice>
+          <CostOrOtherBasis>10008</CostOrOtherBasis>
+          <GainOrLoss>433</GainOrLoss>
+          <GainsMinusExcessOrLosses>433</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1387.137 shs PIMCO HIGH YIELD FUND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-30</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>12240</GrossSalesPrice>
+          <CostOrOtherBasis>11008</CostOrOtherBasis>
+          <GainOrLoss>1232</GainOrLoss>
+          <GainsMinusExcessOrLosses>1232</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>160 shs BRITISH AMERN TOB PLC SPONSORED ADR ISIN#U</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>10411</GrossSalesPrice>
+          <CostOrOtherBasis>7360</CostOrOtherBasis>
+          <GainOrLoss>3051</GainOrLoss>
+          <GainsMinusExcessOrLosses>3051</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120 shs PHILIP MORRIS INTL INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>5927</GrossSalesPrice>
+          <CostOrOtherBasis>4535</CostOrOtherBasis>
+          <GainOrLoss>1392</GainOrLoss>
+          <GainsMinusExcessOrLosses>1392</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>160 shs CONOCOPHILLIPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>8389</GrossSalesPrice>
+          <CostOrOtherBasis>6418</CostOrOtherBasis>
+          <GainOrLoss>1971</GainOrLoss>
+          <GainsMinusExcessOrLosses>1971</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 shs CONOCOPHILLIPS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-21</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>2622</GrossSalesPrice>
+          <CostOrOtherBasis>2167</CostOrOtherBasis>
+          <GainOrLoss>455</GainOrLoss>
+          <GainsMinusExcessOrLosses>455</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>330 shs CONSOLIDATED EDISON INC COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>15004</GrossSalesPrice>
+          <CostOrOtherBasis>12743</CostOrOtherBasis>
+          <GainOrLoss>2261</GainOrLoss>
+          <GainsMinusExcessOrLosses>2261</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>560 shs DTE ENERGY CO COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>24347</GrossSalesPrice>
+          <CostOrOtherBasis>16242</CostOrOtherBasis>
+          <GainOrLoss>8105</GainOrLoss>
+          <GainsMinusExcessOrLosses>8105</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260 shs DEUTSCHE TELEKOM AG SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-10</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>3939</GrossSalesPrice>
+          <CostOrOtherBasis>3753</CostOrOtherBasis>
+          <GainOrLoss>186</GainOrLoss>
+          <GainsMinusExcessOrLosses>186</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1150 shs DUKE ENERGY CORP NEW COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>19495</GrossSalesPrice>
+          <CostOrOtherBasis>15832</CostOrOtherBasis>
+          <GainOrLoss>3663</GainOrLoss>
+          <GainsMinusExcessOrLosses>3663</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>430 shs ENERSIS S A SPON ADR ISIN#US29274F1049</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-10</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9753</GrossSalesPrice>
+          <CostOrOtherBasis>8322</CostOrOtherBasis>
+          <GainOrLoss>1431</GainOrLoss>
+          <GainsMinusExcessOrLosses>1431</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140 shs ENTERGY CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-12</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>11469</GrossSalesPrice>
+          <CostOrOtherBasis>10835</CostOrOtherBasis>
+          <GainOrLoss>634</GainOrLoss>
+          <GainsMinusExcessOrLosses>634</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>230 shs EXELON CORP COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-05</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>11248</GrossSalesPrice>
+          <CostOrOtherBasis>10945</CostOrOtherBasis>
+          <GainOrLoss>303</GainOrLoss>
+          <GainsMinusExcessOrLosses>303</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>260 shs VERIZON COMMUNICATIONS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>8635</GrossSalesPrice>
+          <CostOrOtherBasis>8354</CostOrOtherBasis>
+          <GainOrLoss>281</GainOrLoss>
+          <GainsMinusExcessOrLosses>281</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 shs GLAXOSMITHKLINE PLC SP ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-21</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>8584</GrossSalesPrice>
+          <CostOrOtherBasis>7615</CostOrOtherBasis>
+          <GainOrLoss>969</GainOrLoss>
+          <GainsMinusExcessOrLosses>969</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120 shs ISHARES TR NASDAQ BIOTECHNOLOGY INDEX FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9921</GrossSalesPrice>
+          <CostOrOtherBasis>7882</CostOrOtherBasis>
+          <GainOrLoss>2039</GainOrLoss>
+          <GainsMinusExcessOrLosses>2039</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 shs KIMBERLY CLARK CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-21</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>6417</GrossSalesPrice>
+          <CostOrOtherBasis>5418</CostOrOtherBasis>
+          <GainOrLoss>999</GainOrLoss>
+          <GainsMinusExcessOrLosses>999</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120 shs LOCKHEED MARTIN CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-19</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9198</GrossSalesPrice>
+          <CostOrOtherBasis>8888</CostOrOtherBasis>
+          <GainOrLoss>310</GainOrLoss>
+          <GainsMinusExcessOrLosses>310</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>510 shs POWERSHARES EXCHANGE TRADED FD TR WATER RE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-17</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>8743</GrossSalesPrice>
+          <CostOrOtherBasis>6874</CostOrOtherBasis>
+          <GainOrLoss>1869</GainOrLoss>
+          <GainsMinusExcessOrLosses>1869</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2150 shs PROSHARES ULTRASHORT LEHMAN BROS 20 YR TRE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>107933</GrossSalesPrice>
+          <CostOrOtherBasis>98757</CostOrOtherBasis>
+          <GainOrLoss>9176</GainOrLoss>
+          <GainsMinusExcessOrLosses>9176</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1070 shs PROSHARES TR ULTRASHORT FTSE/XINHUA CHINA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>8640</GrossSalesPrice>
+          <CostOrOtherBasis>22692</CostOrOtherBasis>
+          <GainOrLoss>-14052</GainOrLoss>
+          <GainsMinusExcessOrLosses>-14052</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>150 shs PROSHARES TR ULTRASHORT FTSE/XINHUA CHINA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-04</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>1211</GrossSalesPrice>
+          <CostOrOtherBasis>2442</CostOrOtherBasis>
+          <GainOrLoss>-1231</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1231</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>420 shs PROSHARES TR ULTRASHORT FTSE/XINHUA CHINA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-21</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>3391</GrossSalesPrice>
+          <CostOrOtherBasis>4543</CostOrOtherBasis>
+          <GainOrLoss>-1152</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1152</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>314 shs PROSHARES ULTRA SHORT MSCI EAFE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-28</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>11424</GrossSalesPrice>
+          <CostOrOtherBasis>13329</CostOrOtherBasis>
+          <GainOrLoss>-1905</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1905</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>106 shs PROSHARES ULTRA SHORT MSCI EAFE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-29</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>3856</GrossSalesPrice>
+          <CostOrOtherBasis>4299</CostOrOtherBasis>
+          <GainOrLoss>-443</GainOrLoss>
+          <GainsMinusExcessOrLosses>-443</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1190 shs PROSHARES ULTRASHORT REAL ESTATE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-28</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9024</GrossSalesPrice>
+          <CostOrOtherBasis>12494</CostOrOtherBasis>
+          <GainOrLoss>-3470</GainOrLoss>
+          <GainsMinusExcessOrLosses>-3470</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>490 shs PROSHARES ULTRASHORT FINLS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-10-26</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>11536</GrossSalesPrice>
+          <CostOrOtherBasis>12140</CostOrOtherBasis>
+          <GainOrLoss>-604</GainOrLoss>
+          <GainsMinusExcessOrLosses>-604</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>400 shs PROSHARES ULTRASHORT RUSSELL 2000</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-04</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9648</GrossSalesPrice>
+          <CostOrOtherBasis>12471</CostOrOtherBasis>
+          <GainOrLoss>-2823</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2823</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>120 shs PROSHARES ULTRASHORT 500</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>4073</GrossSalesPrice>
+          <CostOrOtherBasis>8309</CostOrOtherBasis>
+          <GainOrLoss>-4236</GainOrLoss>
+          <GainsMinusExcessOrLosses>-4236</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>270 shs PROSHARES ULTRASHORT 500</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-08-21</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9163</GrossSalesPrice>
+          <CostOrOtherBasis>11741</CostOrOtherBasis>
+          <GainOrLoss>-2578</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2578</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>220 shs ROYAL DUTCH SHELL PLC SPONSORED ADR RESPTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-28</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>13702</GrossSalesPrice>
+          <CostOrOtherBasis>11514</CostOrOtherBasis>
+          <GainOrLoss>2188</GainOrLoss>
+          <GainsMinusExcessOrLosses>2188</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>390 shs SPDR GOLD TR GOLD SHS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-09</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>42723</GrossSalesPrice>
+          <CostOrOtherBasis>33753</CostOrOtherBasis>
+          <GainOrLoss>8970</GainOrLoss>
+          <GainsMinusExcessOrLosses>8970</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>180 shs WAL MART STORES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-11-24</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>9807</GrossSalesPrice>
+          <CostOrOtherBasis>9873</CostOrOtherBasis>
+          <GainOrLoss>-66</GainOrLoss>
+          <GainsMinusExcessOrLosses>-66</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1305.069 shs AQR DIVERSIFIED ARBITRAGE FUND CLASS I</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-09-11</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>14061</GrossSalesPrice>
+          <CostOrOtherBasis>14168</CostOrOtherBasis>
+          <GainOrLoss>-107</GainOrLoss>
+          <GainsMinusExcessOrLosses>-107</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>4570 shs CMG ABSOLUTE RETURN STRATEGIES FUND CLASS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-05</DateAcquired>
+          <DateSold>2010-01-04</DateSold>
+          <GrossSalesPrice>44101</GrossSalesPrice>
+          <CostOrOtherBasis>45700</CostOrOtherBasis>
+          <GainOrLoss>-1599</GainOrLoss>
+          <GainsMinusExcessOrLosses>-1599</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>272.471 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-01-26</DateSold>
+          <GrossSalesPrice>272</GrossSalesPrice>
+          <CostOrOtherBasis>169</CostOrOtherBasis>
+          <GainOrLoss>103</GainOrLoss>
+          <GainsMinusExcessOrLosses>103</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>2656.913 shs MASTR ASSET BACKED SECS TR 2006-WMC2 MTG PASSTHRU CTF CL A-3 FL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-29</DateAcquired>
+          <DateSold>2010-01-26</DateSold>
+          <GrossSalesPrice>2657</GrossSalesPrice>
+          <CostOrOtherBasis>2599</CostOrOtherBasis>
+          <GainOrLoss>58</GainOrLoss>
+          <GainsMinusExcessOrLosses>58</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>252.276 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-02-25</DateSold>
+          <GrossSalesPrice>252</GrossSalesPrice>
+          <CostOrOtherBasis>156</CostOrOtherBasis>
+          <GainOrLoss>96</GainOrLoss>
+          <GainsMinusExcessOrLosses>96</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>181.678 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-03-25</DateSold>
+          <GrossSalesPrice>182</GrossSalesPrice>
+          <CostOrOtherBasis>112</CostOrOtherBasis>
+          <GainOrLoss>70</GainOrLoss>
+          <GainsMinusExcessOrLosses>70</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>200 shs UNITED STS NAT GAS FD LP UNIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-04-08</DateSold>
+          <GrossSalesPrice>1384</GrossSalesPrice>
+          <CostOrOtherBasis>1559</CostOrOtherBasis>
+          <GainOrLoss>-175</GainOrLoss>
+          <GainsMinusExcessOrLosses>-175</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>300 shs ISHARES INC MSCI CDA INDEX FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-04-16</DateSold>
+          <GrossSalesPrice>8092</GrossSalesPrice>
+          <CostOrOtherBasis>7415</CostOrOtherBasis>
+          <GainOrLoss>677</GainOrLoss>
+          <GainsMinusExcessOrLosses>677</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>-3 shs CALL ISHARES INC MSCI 04-17-10@27.000</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-23</DateAcquired>
+          <DateSold>2010-04-19</DateSold>
+          <GrossSalesPrice>112</GrossSalesPrice>
+          <GainOrLoss>112</GainOrLoss>
+          <GainsMinusExcessOrLosses>112</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>509.53 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-04-28</DateSold>
+          <GrossSalesPrice>510</GrossSalesPrice>
+          <CostOrOtherBasis>315</CostOrOtherBasis>
+          <GainOrLoss>195</GainOrLoss>
+          <GainsMinusExcessOrLosses>195</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 shs PROSHARES TR ULTRASHORT FTSE/XINHUA CHINA</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-05-19</DateSold>
+          <GrossSalesPrice>2240</GrossSalesPrice>
+          <CostOrOtherBasis>2548</CostOrOtherBasis>
+          <GainOrLoss>-308</GainOrLoss>
+          <GainsMinusExcessOrLosses>-308</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90 shs PROSHARES ULTRASHORT FINLS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>1938</GrossSalesPrice>
+          <CostOrOtherBasis>2294</CostOrOtherBasis>
+          <GainOrLoss>-356</GainOrLoss>
+          <GainsMinusExcessOrLosses>-356</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70 shs PROSHARES ULTRASHORT FINLS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>1507</GrossSalesPrice>
+          <CostOrOtherBasis>1784</CostOrOtherBasis>
+          <GainOrLoss>-277</GainOrLoss>
+          <GainsMinusExcessOrLosses>-277</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>420 shs CMG ABSOLUTE RETURN STRATEGIES FUND CLASS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-09</DateAcquired>
+          <DateSold>2010-05-24</DateSold>
+          <GrossSalesPrice>4057</GrossSalesPrice>
+          <CostOrOtherBasis>4028</CostOrOtherBasis>
+          <GainOrLoss>29</GainOrLoss>
+          <GainsMinusExcessOrLosses>29</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>24.87 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-05-25</DateSold>
+          <GrossSalesPrice>25</GrossSalesPrice>
+          <CostOrOtherBasis>15</CostOrOtherBasis>
+          <GainOrLoss>10</GainOrLoss>
+          <GainsMinusExcessOrLosses>10</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50000 shs ROHM &amp; HAAS CO SR NT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-01</DateAcquired>
+          <DateSold>2010-05-25</DateSold>
+          <GrossSalesPrice>52988</GrossSalesPrice>
+          <CostOrOtherBasis>48512</CostOrOtherBasis>
+          <GainOrLoss>4476</GainOrLoss>
+          <GainsMinusExcessOrLosses>4476</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60000 shs TESORO CORP SR NT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-04-29</DateAcquired>
+          <DateSold>2010-05-25</DateSold>
+          <GrossSalesPrice>59313</GrossSalesPrice>
+          <CostOrOtherBasis>54912</CostOrOtherBasis>
+          <GainOrLoss>4401</GainOrLoss>
+          <GainsMinusExcessOrLosses>4401</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>860 shs PIMCO FOREIGN BOND (UNHEDGED) FUND INSTIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-18</DateAcquired>
+          <DateSold>2010-06-02</DateSold>
+          <GrossSalesPrice>8420</GrossSalesPrice>
+          <CostOrOtherBasis>8631</CostOrOtherBasis>
+          <GainOrLoss>-211</GainOrLoss>
+          <GainsMinusExcessOrLosses>-211</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1219.773 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-06-25</DateSold>
+          <GrossSalesPrice>1220</GrossSalesPrice>
+          <CostOrOtherBasis>755</CostOrOtherBasis>
+          <GainOrLoss>465</GainOrLoss>
+          <GainsMinusExcessOrLosses>465</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 shs GOLDMAN SACHS GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-22</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>653</GrossSalesPrice>
+          <CostOrOtherBasis>798</CostOrOtherBasis>
+          <GainOrLoss>-145</GainOrLoss>
+          <GainsMinusExcessOrLosses>-145</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 shs GOLDMAN SACHS GROUP INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-04-30</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>653</GrossSalesPrice>
+          <CostOrOtherBasis>744</CostOrOtherBasis>
+          <GainOrLoss>-91</GainOrLoss>
+          <GainsMinusExcessOrLosses>-91</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>27.097 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-07-26</DateSold>
+          <GrossSalesPrice>27</GrossSalesPrice>
+          <CostOrOtherBasis>17</CostOrOtherBasis>
+          <GainOrLoss>10</GainOrLoss>
+          <GainsMinusExcessOrLosses>10</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90 shs PROSHARES ULTRASHORT LEHMAN BROS 20 YR TRE</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-07-26</DateSold>
+          <GrossSalesPrice>3269</GrossSalesPrice>
+          <CostOrOtherBasis>4256</CostOrOtherBasis>
+          <GainOrLoss>-987</GainOrLoss>
+          <GainsMinusExcessOrLosses>-987</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>9.474 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-08-25</DateSold>
+          <GrossSalesPrice>9</GrossSalesPrice>
+          <CostOrOtherBasis>6</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 shs PUTISHARES TR MSCI 09-18-10@50.000</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-01</DateAcquired>
+          <DateSold>2010-09-20</DateSold>
+          <CostOrOtherBasis>2433</CostOrOtherBasis>
+          <GainOrLoss>-2433</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2433</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7 shs PUTSPDR SER TR 09-18-10 @ 40</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-01</DateAcquired>
+          <DateSold>2010-09-20</DateSold>
+          <CostOrOtherBasis>2318</CostOrOtherBasis>
+          <GainOrLoss>-2318</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2318</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>-1 shs CALL SPDR GOLD TR 09-18-10@126.000</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-07-13</DateAcquired>
+          <DateSold>2010-09-20</DateSold>
+          <GrossSalesPrice>131</GrossSalesPrice>
+          <GainOrLoss>131</GainOrLoss>
+          <GainsMinusExcessOrLosses>131</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>185.828 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-09-28</DateSold>
+          <GrossSalesPrice>186</GrossSalesPrice>
+          <CostOrOtherBasis>115</CostOrOtherBasis>
+          <GainOrLoss>71</GainOrLoss>
+          <GainsMinusExcessOrLosses>71</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>10000 shs GOODYEAR TIRE &amp; RUBR CO NT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-12-08</DateAcquired>
+          <DateSold>2010-09-29</DateSold>
+          <GrossSalesPrice>10638</GrossSalesPrice>
+          <CostOrOtherBasis>10350</CostOrOtherBasis>
+          <GainOrLoss>288</GainOrLoss>
+          <GainsMinusExcessOrLosses>288</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>48.324 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-10-26</DateSold>
+          <GrossSalesPrice>48</GrossSalesPrice>
+          <CostOrOtherBasis>30</CostOrOtherBasis>
+          <GainOrLoss>18</GainOrLoss>
+          <GainsMinusExcessOrLosses>18</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>460.854 shs AQR DIVERSIFIED ARBITRAGE FUND CLASS I</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-24</DateAcquired>
+          <DateSold>2010-10-27</DateSold>
+          <GrossSalesPrice>5158</GrossSalesPrice>
+          <CostOrOtherBasis>4971</CostOrOtherBasis>
+          <GainOrLoss>187</GainOrLoss>
+          <GainsMinusExcessOrLosses>187</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>-1 shs CALL SPDR GOLD TR 11-20-10@134.000</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-09-23</DateAcquired>
+          <DateSold>2010-11-12</DateSold>
+          <GrossSalesPrice>92</GrossSalesPrice>
+          <CostOrOtherBasis>298</CostOrOtherBasis>
+          <GainOrLoss>-206</GainOrLoss>
+          <GainsMinusExcessOrLosses>-206</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>3 shs CALL CBOE VOLATILITY 11-17-10@25.000</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-01</DateAcquired>
+          <DateSold>2010-11-18</DateSold>
+          <CostOrOtherBasis>2558</CostOrOtherBasis>
+          <GainOrLoss>-2558</GainOrLoss>
+          <GainsMinusExcessOrLosses>-2558</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>208.084 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-11-26</DateSold>
+          <GrossSalesPrice>208</GrossSalesPrice>
+          <CostOrOtherBasis>129</CostOrOtherBasis>
+          <GainOrLoss>79</GainOrLoss>
+          <GainsMinusExcessOrLosses>79</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90 shs ORACLE CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-07</DateAcquired>
+          <DateSold>2010-12-21</DateSold>
+          <GrossSalesPrice>2851</GrossSalesPrice>
+          <CostOrOtherBasis>1988</CostOrOtherBasis>
+          <GainOrLoss>863</GainOrLoss>
+          <GainsMinusExcessOrLosses>863</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>380.877 shs PIMCO FOREIGN BOND (UNHEDGED) FUND INSTIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-18</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>4074</GrossSalesPrice>
+          <CostOrOtherBasis>3823</CostOrOtherBasis>
+          <GainOrLoss>251</GainOrLoss>
+          <GainsMinusExcessOrLosses>251</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1226.212 shs PIMCO FOREIGN BOND (UNHEDGED) FUND INSTIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-10</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>13116</GrossSalesPrice>
+          <CostOrOtherBasis>12405</CostOrOtherBasis>
+          <GainOrLoss>711</GainOrLoss>
+          <GainsMinusExcessOrLosses>711</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>463.706 shs PIMCO FOREIGN BOND (UNHEDGED) FUND INSTIT</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-24</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>4960</GrossSalesPrice>
+          <CostOrOtherBasis>4613</CostOrOtherBasis>
+          <GainOrLoss>347</GainOrLoss>
+          <GainsMinusExcessOrLosses>347</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90 shs BRITISH AMERN TOB PLC SPONSORED ADR ISIN#U</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-25</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>6916</GrossSalesPrice>
+          <CostOrOtherBasis>5112</CostOrOtherBasis>
+          <GainOrLoss>1804</GainOrLoss>
+          <GainsMinusExcessOrLosses>1804</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>55 shs CISCO SYS INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-24</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1066</GrossSalesPrice>
+          <CostOrOtherBasis>1246</CostOrOtherBasis>
+          <GainOrLoss>-180</GainOrLoss>
+          <GainsMinusExcessOrLosses>-180</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140 shs DEUTSCHE TELEKOM AG SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-21</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1760</GrossSalesPrice>
+          <CostOrOtherBasis>1555</CostOrOtherBasis>
+          <GainOrLoss>205</GainOrLoss>
+          <GainsMinusExcessOrLosses>205</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>140 shs DEUTSCHE TELEKOM AG SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-27</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1760</GrossSalesPrice>
+          <CostOrOtherBasis>1557</CostOrOtherBasis>
+          <GainOrLoss>203</GainOrLoss>
+          <GainsMinusExcessOrLosses>203</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110 shs GLAXOSMITHKLINE PLC SP ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-24</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>4288</GrossSalesPrice>
+          <CostOrOtherBasis>3631</CostOrOtherBasis>
+          <GainOrLoss>657</GainOrLoss>
+          <GainsMinusExcessOrLosses>657</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>20 shs ISHARES INC MSCI CDA INDEX FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>606</GrossSalesPrice>
+          <CostOrOtherBasis>494</CostOrOtherBasis>
+          <GainOrLoss>112</GainOrLoss>
+          <GainsMinusExcessOrLosses>112</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>110 shs ISHARES INC MSCI CDA INDEX FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-16</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>3331</GrossSalesPrice>
+          <CostOrOtherBasis>3087</CostOrOtherBasis>
+          <GainOrLoss>244</GainOrLoss>
+          <GainsMinusExcessOrLosses>244</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 shs ISHARES TR JPMORGAN USD EMERGING MKTS BD F</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-08</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>2679</GrossSalesPrice>
+          <CostOrOtherBasis>2496</CostOrOtherBasis>
+          <GainOrLoss>183</GainOrLoss>
+          <GainsMinusExcessOrLosses>183</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>25 shs ISHARES TR JPMORGAN USD EMERGING MKTS BD F</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-04</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>2679</GrossSalesPrice>
+          <CostOrOtherBasis>2570</CostOrOtherBasis>
+          <GainOrLoss>109</GainOrLoss>
+          <GainsMinusExcessOrLosses>109</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>50 shs ISHARES TR JPMORGAN USD EMERGING MKTS BD F</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-24</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>5358</GrossSalesPrice>
+          <CostOrOtherBasis>5066</CostOrOtherBasis>
+          <GainOrLoss>292</GainOrLoss>
+          <GainsMinusExcessOrLosses>292</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>60 shs JOHNSON &amp; JOHNSON</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-04</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>3715</GrossSalesPrice>
+          <CostOrOtherBasis>3488</CostOrOtherBasis>
+          <GainOrLoss>227</GainOrLoss>
+          <GainsMinusExcessOrLosses>227</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 shs MERCK &amp; CO INC NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-21</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1263</GrossSalesPrice>
+          <CostOrOtherBasis>1113</CostOrOtherBasis>
+          <GainOrLoss>150</GainOrLoss>
+          <GainsMinusExcessOrLosses>150</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 shs MERCK &amp; CO INC NEW</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-26</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1263</GrossSalesPrice>
+          <CostOrOtherBasis>1137</CostOrOtherBasis>
+          <GainOrLoss>126</GainOrLoss>
+          <GainsMinusExcessOrLosses>126</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>75 shs MICROSOFT CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-08</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>2110</GrossSalesPrice>
+          <CostOrOtherBasis>1883</CostOrOtherBasis>
+          <GainOrLoss>227</GainOrLoss>
+          <GainsMinusExcessOrLosses>227</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>30 shs NESTLE S A SPONSORED ADR</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-27</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1757</GrossSalesPrice>
+          <CostOrOtherBasis>1356</CostOrOtherBasis>
+          <GainOrLoss>401</GainOrLoss>
+          <GainsMinusExcessOrLosses>401</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90 shs PFIZER INC COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-21</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1565</GrossSalesPrice>
+          <CostOrOtherBasis>1371</CostOrOtherBasis>
+          <GainOrLoss>194</GainOrLoss>
+          <GainsMinusExcessOrLosses>194</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>90 shs PFIZER INC COM</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-27</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1565</GrossSalesPrice>
+          <CostOrOtherBasis>1391</CostOrOtherBasis>
+          <GainOrLoss>174</GainOrLoss>
+          <GainsMinusExcessOrLosses>174</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>100 shs ROYAL DUTCH SHELL PLC SPONSORED ADR RESPTG</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-27</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>6535</GrossSalesPrice>
+          <CostOrOtherBasis>5203</CostOrOtherBasis>
+          <GainOrLoss>1332</GainOrLoss>
+          <GainsMinusExcessOrLosses>1332</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>70 shs WAL MART STORES INC</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-21</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>3722</GrossSalesPrice>
+          <CostOrOtherBasis>3578</CostOrOtherBasis>
+          <GainOrLoss>144</GainOrLoss>
+          <GainsMinusExcessOrLosses>144</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>35 shs WISDOMTREE TR INDIA EARNINGS FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-26</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>900</GrossSalesPrice>
+          <CostOrOtherBasis>755</CostOrOtherBasis>
+          <GainOrLoss>145</GainOrLoss>
+          <GainsMinusExcessOrLosses>145</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>45 shs WISDOMTREE TR INDIA EARNINGS FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-24</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>1157</GrossSalesPrice>
+          <CostOrOtherBasis>953</CostOrOtherBasis>
+          <GainOrLoss>204</GainOrLoss>
+          <GainsMinusExcessOrLosses>204</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>507.901 shs AQR MANAGED FUTURES STRATEGY FUND CLASS I</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-05-24</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>5198</GrossSalesPrice>
+          <CostOrOtherBasis>4945</CostOrOtherBasis>
+          <GainOrLoss>253</GainOrLoss>
+          <GainsMinusExcessOrLosses>253</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>1577.914 shs CMG ABSOLUTE RETURN STRATEGIES FUND CLASS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-02-09</DateAcquired>
+          <DateSold>2010-12-22</DateSold>
+          <GrossSalesPrice>15448</GrossSalesPrice>
+          <CostOrOtherBasis>15132</CostOrOtherBasis>
+          <GainOrLoss>316</GainOrLoss>
+          <GainsMinusExcessOrLosses>316</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>66.272 shs BEAR STERNS ALT A TR 2005-2 MTG PASSTHRU CTF CL V A</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-05-26</DateAcquired>
+          <DateSold>2010-12-28</DateSold>
+          <GrossSalesPrice>66</GrossSalesPrice>
+          <CostOrOtherBasis>41</CostOrOtherBasis>
+          <GainOrLoss>25</GainOrLoss>
+          <GainsMinusExcessOrLosses>25</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>28785</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>448797</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>790598</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.567668</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>240663</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1750973</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.137445</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>1254849</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>3026096</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.414676</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>643340</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>3086809</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.208416</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>793111</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>3318847</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.238972</DistributionRatioYear5>
+        <TotalDistributionRatio>1.567177</TotalDistributionRatio>
+        <AverageDistributionRatio>0.313435</AverageDistributionRatio>
+        <NetNoncharitableAssets>239608</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>75102</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>279</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>75381</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>653000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>279</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>279</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>279</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>279</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>J Alston Gardner</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>9709274206</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+          <City>Carbondale</City>
+          <State>CO</State>
+          <ZIPCode>81623</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>J Alston Gardner</PersonName>
+          <USAddress>
+            <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+            <City>Carbondale</City>
+            <State>CO</State>
+            <ZIPCode>81623</ZIPCode>
+          </USAddress>
+          <Title>President &amp; Treasurer, Boa</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Barbara Lee</PersonName>
+          <USAddress>
+            <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+            <City>Carbondale</City>
+            <State>CO</State>
+            <ZIPCode>81623</ZIPCode>
+          </USAddress>
+          <Title>VP &amp; Secretary, Board Memb</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Emma Gardner</PersonName>
+          <USAddress>
+            <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+            <City>Carbondale</City>
+            <State>CO</State>
+            <ZIPCode>81623</ZIPCode>
+          </USAddress>
+          <Title>Board Member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Lucy Stokes</PersonName>
+          <USAddress>
+            <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+            <City>Carbondale</City>
+            <State>CO</State>
+            <ZIPCode>81623</ZIPCode>
+          </USAddress>
+          <Title>Board Member</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>196857</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>46400</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>243257</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>243257</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>3649</CashDeemedCharitable>
+        <NetNoncharitableAssets>239608</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>11980</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>11980</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>279</TaxBasedOnInvestmentIncome>
+        <TotalTax>279</TotalTax>
+        <DistributableAmountBeforeAdj>11701</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>11701</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>11701</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>653000</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>653000</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>279</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>652721</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>11701</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>629001</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>495010</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>1116546</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>153171</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>409367</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>2803095</TotalExcessDistriCarryover>
+        <QualifyingDistributions>653000</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>11701</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>641299</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>3444394</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>629001</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>2815393</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>495010</ExcessFromYear4>
+        <ExcessFromYear3>1116546</ExcessFromYear3>
+        <ExcessFromYear2>153171</ExcessFromYear2>
+        <ExcessFromYear1>409367</ExcessFromYear1>
+        <ExcessFromCurrentYear>641299</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>J Alston Gardner</ContributingManager>
+        <ContributingManager>Barbara Lee</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>J Alston Gardner</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>218 E Valley Road 104-335</AddressLine1>
+            <City>Carbondale</City>
+            <State>CO</State>
+            <ZIPCode>81623</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>9709274206</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>Requests should be in letter form explaining the nature of the request, the purpose of the grant and any other pertinent information that should be considered. Sufficient detail should be presented to adequately position the grant request in a manner that can be easily implicit from the request.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>NONE</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Keenan Flagler Business School University of North Carolina</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>208 West Franklin Street CB 6100</AddressLine1>
+            <City>Chapel Hill</City>
+            <State>NC</State>
+            <ZIPCode>27599</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Aspen Cancer Survivors Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1450 Cancer Survivor Center</AddressLine1>
+            <City>Aspen</City>
+            <State>CO</State>
+            <ZIPCode>81611</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Durham Economic Resources Center</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>18 Hunt Street</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>27701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Durham Nativity School</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 3537</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>17702</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>none</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>132500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Durham Cares</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>801 Gilbert Street Suite 213</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>27701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Habitat for Humanity of Durham</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>215 N Church Street</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>27701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the program</PurposeOfGrantOrContribution>
+          <Amount>61000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Human Rights First</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>333 Seventh Avenue 13th Fllor</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10001</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KFBS-Glimpse Program University of North Carolina</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>208 West Franklin StreetCB 6100</AddressLine1>
+            <City>Chapel Hill</City>
+            <State>NC</State>
+            <ZIPCode>27599</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>65000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Partners for Youth</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1309 Halley Street</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>27707</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Preservation Society of Chapel Hill</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>610 East Rosemary Street</AddressLine1>
+            <City>Chapel Hill</City>
+            <State>NC</State>
+            <ZIPCode>27514</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Educational Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>The Williamson Athletics Center 450</AddressLine1>
+            <AddressLine2>Skipper Bowles Drive</AddressLine2>
+            <City>Chapel Hill</City>
+            <State>NC</State>
+            <ZIPCode>275996100</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>University of North Carolina-Chapel Hill</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>208 West Franklin Street</AddressLine1>
+            <City>Chapel Hill</City>
+            <State>NC</State>
+            <ZIPCode>27599</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the program</PurposeOfGrantOrContribution>
+          <Amount>200000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>YMCA of Durham</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>218 Morgan Street</AddressLine1>
+            <City>Durham</City>
+            <State>NC</State>
+            <ZIPCode>27701</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Roundabout Theatre Company</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>231 West 39th Street Suite 1200</AddressLine1>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10018</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Ram's Club The University of North Carolina Educational Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 2446</AddressLine1>
+            <City>Chapel Hill</City>
+            <State>NC</State>
+            <ZIPCode>27515</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Provide operating funds for the organization</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>653000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6791</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2217</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>28785</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>37793</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>37793</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>J Alston Gardner</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>218 E Valley Road Suite 104-335</AddressLine1>
+          <City>Carbondale</City>
+          <State>CO</State>
+          <ZIPCode>81623</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>50000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>8480</Amount>
+        <NetInvestmentIncome>8480</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc2044400001">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Fixed Income Securities</NameOfBond>
+        <EOYBookValue>38755</EOYBookValue>
+        <EOYFMV>44510</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Common Stocks</NameOfStock>
+        <EOYBookValue>17227</EOYBookValue>
+        <EOYFMV>15030</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>Foreign Tax Withheld</Description>
+        <RevenueAndExpensesPerBooks>74</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>74</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Investment Expenses</Description>
+        <RevenueAndExpensesPerBooks>32</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>32</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Management Fees</Description>
+        <RevenueAndExpensesPerBooks>925</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>925</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>-57</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>-57</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Refund of 2008 tax paid</Description>
+        <RevenueAndExpensesPerBooks>-6447</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>US Natural Gas</Description>
+        <RevenueAndExpensesPerBooks>463</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>463</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc2002500001">
+      <Taxes>
+        <Amount>50</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

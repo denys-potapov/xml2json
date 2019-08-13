@@ -1,0 +1,853 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-15T14:48:43-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ALBIN RANDALL &amp; BENNETT</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 445 130 MIDDLE STREET</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041120445</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010275734</EIN>
+      <Name>
+        <BusinessNameLine1>ASSOCIATED GENERAL CONTRACTORS OF MAINE INC</BusinessNameLine1>
+      </Name>
+      <NameControl>ASSO</NameControl>
+      <Phone>2076224741</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 5519</AddressLine1>
+        <City>AUGUSTA</City>
+        <State>ME</State>
+        <ZIPCode>04332</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>JOHN O'DEA</Name>
+      <Title>CHIEF EXECUTIVE OFFICER</Title>
+      <Phone>2076224741</Phone>
+      <DateSigned>2011-11-14</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DAVID R WHITE</Name>
+      <Phone>2077721981</Phone>
+      <DatePrepared>2011-11-14</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>JOHN O'DEA</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 5519</AddressLine1>
+        <City>AUGUSTA</City>
+        <State>ME</State>
+        <ZIPCode>04332</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>742702</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="6">X</Organization501c>
+      <WebSite>WWW.AGCMAINE.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1951</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO BE AN ASSOCIATION OF CONSTRUCTORS AND RELATED BUSINESSES COMMITTED TO PROMOTING THE BALANCED INTERESTS OF ITS MEMBERS AND ADVOCATING THE HIGHEST STANDARDS OF QUALITY, PROFESSIONALISM AND ETHICS. THIS IS ACHIEVED THROUGH THE PROVIDING OF TRAINING, THE DISSEMINATION OF INFORMATION AND ACTING AS A REPRESENTATIVE AT THE STATE LEVEL.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>27</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>27</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>4</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>19750</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>474923</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>415294</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>276553</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>287942</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>866</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>-1724</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>35950</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>38950</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>788292</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>740462</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>283793</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>306917</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>439024</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>449552</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>722817</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>756469</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>65475</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-16007</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>438295</TotalAssetsBOY>
+      <TotalAssetsEOY>471410</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>17018</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>66140</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>421277</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>405270</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>TO BE AN ASSOCIATION OF CONSTRUCTORS AND RELATED BUSINESSES COMMITTED TO PROMOTING THE BALANCED INTERESTS OF ITS MEMBERS AND ADVOCATING THE HIGHEST STANDARDS OF QUALITY, PROFESSIONALISM AND ETHICS. THIS IS ACHIEVED THROUGH THE PROVIDING OF TRAINING, THE DISSEMINATION OF INFORMATION AND ACTING AS A REPRESENTATIVE AT THE STATE LEVEL.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>PROVIDE INDUSTRY TRAINING, INFORMATION AND ADVOCACY</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039500001">1</PoliticalActivities>
+      <SubjectToProxyTax referenceDocumentId="RetDoc1039500001">1</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">1</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>2</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>4</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>27</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>27</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>1</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>0</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>JOHN O'DEA</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2076224741</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>188 WHITTEN ROAD</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>04332</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>ARTHUR DUDLEY</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KENNETH GRONDIN</NamePerson>
+        <Title>SENIOR VICE PRESIDENT</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID NAZAROFF</NamePerson>
+        <Title>VICE PRESIDENT</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BETH STURTEVANT</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEVIN REILLEY</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KEVIN BOWMAN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHARLES CIANCHETTE</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KENDALL PORTER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KARL WARD</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PATRICK JORDAN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JONATHAN OLSON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TIMOTHY FOLSTER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PETER MERFELD</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRENT CROSS</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DEBORAH DUNLAP AVASTHI</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PETER LABBE</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DENIS LANDRY</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TIMOTHY OUELLETTE</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>STUART WELCH</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ELDON MORRISON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RANDY POULTON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>HERB SARGENT</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JIM SARGENT</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RANDY GARDNER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOEL WARDWELL</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRUCE BROWN</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ABBIE PARKER</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN J O'DEA</NamePerson>
+        <Title>CHIEF EXECUTIVE OFFICER</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>110039</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>12529</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>110039</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>12529</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <MembershipDues>415294</MembershipDues>
+      <TotalContributions>415294</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>SEMINARS &amp; TRAINING</Description>
+        <BusinessCode>611430</BusinessCode>
+        <TotalRevenueColumn>133450</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>133450</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>OUTINGS AND SOCIALS</Description>
+        <BusinessCode>611710</BusinessCode>
+        <TotalRevenueColumn>88405</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>88405</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>MONTHLY MEETINGS</Description>
+        <BusinessCode>611710</BusinessCode>
+        <TotalRevenueColumn>59020</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>59020</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>611710</BusinessCode>
+        <TotalRevenueColumn>7067</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>7067</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>287942</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>516</TotalRevenueColumn>
+        <ExclusionAmount>516</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>19200</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>19200</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>19200</TotalRevenueColumn>
+        <ExclusionAmount>19200</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <LessCostOthBasisSalesExpenses>
+        <Other>2240</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Other>-2240</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>-2240</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-2240</RelatedOrExemptFunctionIncome>
+      </NetGainOrLossInvestments>
+      <OtherRevenueMisc>
+        <Description>ADVERTISING</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>19750</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>19750</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>19750</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>740462</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>285702</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>19750</UnrelatedBusinessRevenue>
+        <ExclusionAmount>19716</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>122568</Total>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>137339</Total>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>5566</Total>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>22409</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>19035</Total>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>3425</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>6500</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesLobbying>
+        <Total>21086</Total>
+      </FeesForServicesLobbying>
+      <FeesForServicesOther>
+        <Total>16252</Total>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>13664</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>35537</Total>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>52381</Total>
+      </Occupancy>
+      <ConferencesMeetings>
+        <Total>7906</Total>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>13766</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>7815</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>SEMINARS AND TRAINING</Description>
+        <Total>78710</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>OUTINGS AND SOCIALS</Description>
+        <Total>63797</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES AND SUBSCRIPTIONS</Description>
+        <Total>59601</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MEMBERSHIP MEETINGS</Description>
+        <Total>57739</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BAD DEBT EXPENSE</Description>
+        <Total>6551</Total>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>4822</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>756469</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>59771</BOY>
+        <EOY>77219</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>93643</BOY>
+        <EOY>125788</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>68256</BOY>
+        <EOY>50015</EOY>
+      </AccountsReceivable>
+      <LandBuildingsEquipmentBasis>500983</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>284882</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>214338</BOY>
+        <EOY>216101</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>2287</BOY>
+        <EOY>2287</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>438295</BOY>
+        <EOY>471410</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>15540</BOY>
+        <EOY>44980</EOY>
+      </AccountsPayableAccruedExpenses>
+      <UnsecuredNotesLoansPayable>
+        <EOY>16319</EOY>
+      </UnsecuredNotesLoansPayable>
+      <OtherLiabilities>
+        <BOY>1478</BOY>
+        <EOY>4841</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>17018</BOY>
+        <EOY>66140</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>394630</BOY>
+        <EOY>378629</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>26647</BOY>
+        <EOY>26641</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>421277</BOY>
+        <EOY>405270</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>438295</BOY>
+        <EOY>471410</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>-16007</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>1</AccountantCompileOrReview>
+      <FSAudited>0</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleC documentId="RetDoc1039500001">
+      <Sec527PolOrgs>
+        <NameOf527Organization>
+          <BusinessNameLine1>BUILD MAINE POLITICAL ACTION COMMITTEE</BusinessNameLine1>
+        </NameOf527Organization>
+        <AddressUS>
+          <AddressLine1>188 WHITTEN ROAD</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>04332</ZIPCode>
+        </AddressUS>
+        <AmtOfContribsRecdDelivered>144150</AmtOfContribsRecdDelivered>
+      </Sec527PolOrgs>
+      <SubstantiallyAllDuesNondeduct>0</SubstantiallyAllDuesNondeduct>
+      <OnlyInHouseLobbying>0</OnlyInHouseLobbying>
+      <AgreeToCarryoverPriorYear>0</AgreeToCarryoverPriorYear>
+      <DuesAssessments>414469</DuesAssessments>
+      <NonDedLobbyPoliticalCurrent>21086</NonDedLobbyPoliticalCurrent>
+      <NonDedLobbyPoliticalTotal>21086</NonDedLobbyPoliticalTotal>
+      <AggrAmtReportedInDuesNotices>24868</AggrAmtReportedInDuesNotices>
+      <TaxableAmount>-3782</TaxableAmount>
+      <Form990ScheduleCPartIV>
+        <Identifier>PART IV, SUPPLEMENTAL INFORMATION:</Identifier>
+        <Explanation>THE ASSOCIATED GENERAL CONTRACTORS OF MAINE, INC. (AGC) ADVANCES THE LEGISLATIVE AGENDA BY WORKING WITH ELECTED OFFICIALS AT THE LOCAL LEVELS. THE GOAL IS TO PROTECT AND DEFEND THE INTERESTS OF THE CONSTRUCTION INDUSTRY BY ENSURING FAIR PROCUREMENT PROCEDURES, TO MAKING SURE THERE IS ADEQUATE FUNDING FOR ROADS, BRIDGES AND SCHOOLAS, TO REGUALTORY ISSUES OF THE AGC MEMBER COMPANIES.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>15000</OtherCostOrOtherBasis>
+        <BookValue>15000</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>374876</OtherCostOrOtherBasis>
+        <Depreciation>220635</Depreciation>
+        <BookValue>154241</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>27495</OtherCostOrOtherBasis>
+        <Depreciation>9807</Depreciation>
+        <BookValue>17688</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>83612</OtherCostOrOtherBasis>
+        <Depreciation>54440</Depreciation>
+        <BookValue>29172</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>216101</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>DUE TO AFFILIATES</Description>
+        <Amount>3375</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>SECURITY DEPOSIT</Description>
+        <Amount>1466</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>4841</TotalOfAmounts>
+    </IRS990ScheduleD>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NameBusiness>
+            <BusinessNameLine1>MARK BANCROFT</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfInterestedPerson>
+        <Relationship>MARK BANCROFT WAS THE PRESIDENT OF THE AGC IN 2009</Relationship>
+        <AmountOfTransaction>29805</AmountOfTransaction>
+        <DescriptionOfTransaction>BANCROFT CONTRACTING CORPORATION, OWNED BY MARK BANCROFT, PROVIDED SAFETY AND CONSULTING SERVICES.</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 2</Identifier>
+        <Explanation>THE FOLLOWING ARE RELATED THROUGH FAMILY RELATIONSHIPS: JIM SARGENT (BOARD MEMBER) AND HERB SARGENT (BOARD MEMBER) THE FOLLOWING ARE RELATED THROUGH EMPLOYMENT RELATIONSHIPS: TIM OUELLETTE (BOARD MEMBER) AND ELDON MORRISON (BOARD MEMBER)</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>THE ASSOCIATION IS A MEMBERSHIP ORGANIZATION THAT INCLUDES MEMBERS WHO HAVE THE RIGHT UNDER THE ORGANIZING DOCUMENTS TO PARTICPATE IN THE ORGANIZATION'S GOVERANCE. THE MEMBERS HAVE THE RIGHT TO ELECT MEMBERS OF THE GOVERNING BODY</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>A NOMINATING COMMITTEE SHALL BE APPOINTED BY THE PRESIDENT. THIS COMMITTEE SHALL CONSIST OF THE THEN INCUMBENT PRESIDENT AND TWO IMMEDIATE PAST PRESIDENTS (AVAILABLE TO SERVE) OR TWO OTHER MEMBERS. THE IMMEDIATE PAST PRESIDENT SHALL SERVE AS THE CHAIRMAN. THE COMMITTEE SHALL RECOMMEND TO THE BOARD, AT OR PRIOR TO THE NOVEMBER MEMBER MEETING, A CANDIDATE FOR EACH OF THE OFFICES OF PRESIDENT, SENIOR VICE PRESIDENT, VICE PRESIDENT AND TREASURER FOR THE SUCCEEDING YEAR. IF THE RECOMMENDATION OF THE NOMINATING COMMITTEE IS APPROVED BY THE BOARD OF DIRECTORS, THE CANDIDATES SO NOMINATED SHALL BE THE OFFICAL NOMINEES. ADDITIONAL NOMINATIONS MAY BE MADE BY DECLARATION, PROVIDED SUCH DECLARATION IS SIGNED BY ATLEAST TWENTY MEMBERS, ACCOMPANIED BY THE WRITTEN ACCEPTANCE OF THE NOMINEE AND FILED WITH THE OFFICE OF THE ASSOCIATION BY NOVEMBER 15TH. ALL NOMINATIONS ARE TO BE SUBMITTED TO THE MEMBERSHIP BY LETTER BALLOT FOR ELECTION. EACH MEMBER IN GOOD STANDING MAY VOTE FOR EACH OFFICE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>JOHN J. O'DEA (CHIEF EXECUTIVE OFFICER) AND MATTHEW MARKS (CHIEF OPERATIONS OFFICER) REVIEW A COPY OF THE 990 BEFORE IT IS FILED WITH THE IRS. A COPY WILL BE E-MAILED TO THE EXECUTIVE COMMITTEE SUBSEQUENT TO FILING WITH THE IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>THE CONFLICT OF INTEREST POLICY IS READ AT THE ANNUAL MEETING AND A FORM IS HANDED TO BOARD MEMBERS FOR SIGNATURE THAT THEY ARE IN COMPLIANCE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>THE BOARD OF DIRECTORS IS RESPONSIBLE FOR APPROVING COMPENSATION FOR THE CHIEF EXECUTIVE OFFICER. THE EXECUTIVE COMMITTEE WILL REVIEW AND DISCUSS THE COMPENSATION AND PRESENT TO THE FULL BOARD FOR APPROVAL ANNUALLY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>UPON REQUEST, AGC MAINE WOULD MAKE GOVERNING DOCUMENTS AND POLICIES AVAILABLE TO THE PUBLIC.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART XII, LINE 2C</ReturnReference>
+        <Explanation>THE PROCESS FOR INDEPENDENT AUDITOR SELECTION AND OVERSIGHT OF THE REVIEW DID NOT CHANGE FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>ASSOCIATED GENERAL CONTRACTORS OF MAINE EDUCATION FOUNDATION</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>188 WHITTEN ROAD</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>04332</ZIPCode>
+        </AddressUS>
+        <EIN>010445998</EIN>
+        <PrimaryActivities>AWARDING SCHOLARSHIPS</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>60-MONTH ADVANCE RUL</PublicCharityStatus>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>ASSOCIATED GENERAL CONTRACTORS OF MAINE</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>MAINE TRANSPORTATION TRUST</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>188 WHITTEN ROAD</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>04332</ZIPCode>
+        </AddressUS>
+        <PrimaryActivities>PUBLIC EDUCATION AND HIGHWAY PROGRAM PROMOTION.</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>501(C)(6)</ExemptCodeSection>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>ASSOCIATED GENERAL CONTRACTORS OF MAINE</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>BUILD MAINE POLITICAL ACTION COMMITTEE</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>188 WHITTEN ROAD</AddressLine1>
+          <City>AUGUSTA</City>
+          <State>ME</State>
+          <ZIPCode>04332</ZIPCode>
+        </AddressUS>
+        <PrimaryActivities>ADVOCATE FOR THE CONSTRUCTION INDUSTRY'S BUSINESS AND REGULATORY ISSUES</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <ExemptCodeSection>527</ExemptCodeSection>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>ASSOCIATED GENERAL CONTRACTORS OF MAINE</BusinessNameLine1>
+        </DirectControllingEntityName>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>0</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>0</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>0</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>0</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>0</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+      <TransactionsRelatedOrgsTable>
+        <NameOfOtherOrganization>
+          <BusinessNameLine1>DOES NOT APPLY</BusinessNameLine1>
+        </NameOfOtherOrganization>
+      </TransactionsRelatedOrgsTable>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

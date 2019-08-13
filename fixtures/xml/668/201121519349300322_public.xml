@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-31T11:14:34-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FRIEDBERG SMITH &amp; CO PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>855 MAIN STREET 6TH FLOOR</AddressLine1>
+        <City>BRIDGEPORT</City>
+        <State>CT</State>
+        <ZIPCode>066044915</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010668736</EIN>
+      <Name>
+        <BusinessNameLine1>THE WITNESS PROJECT OF CONNECTICUT INC</BusinessNameLine1>
+      </Name>
+      <NameControl>WITN</NameControl>
+      <Phone>2033674432</Phone>
+      <USAddress>
+        <AddressLine1>2470 FAIRFIELD AVENUE</AddressLine1>
+        <City>BRIDGEPORT</City>
+        <State>CT</State>
+        <ZIPCode>06605</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MARILYN MOORE</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2033674432</Phone>
+      <DateSigned>2011-05-04</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DAVID ZIEFF</Name>
+      <Phone>2033665876</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="4">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>MARILYN MOORE</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>2470 FAIRFIELD AVE</AddressLine1>
+        <City>BRIDGEPORT</City>
+        <State>CT</State>
+        <ZIPCode>06605</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>186279</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.WITNESSPROJECTCT.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2002</YearFormation>
+      <StateLegalDomicile>CT</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE WITNESS PROJECT OF CONNECTICUT SEEKS TO REDUCE THE NUMBER OF AFRICAN AMERICAN WOMEN DIAGNOSED WITH LATER STAGE BREAST CANCER. TO ADDRESS THIS DISEASE AND THE DISPARITY OF BREAST CANCER AMONG AFRICAN AMERICAN WOMEN THE WITNESS PROJECT TRAINED 25 WOMEN AS LAY HEALTH ADVISORS ON BREAST CANCER, CONDUCTED 47 BREAST HEALTH EDUCATION PROGRAMS IN 18 CITIES AND TOWNS IN CONNECTICUT, RECRUITED 98 VOLUNTEERS TO CONDUCT COMMUNITY OUTREACH, CONNECTED WITH 40 ORGANIZATIONS TO BUILD COLLABORATIVE PARTNERSHIPS, REFERRED OVER 1,000 UNINSURED WOMEN TO THE CT BREAST AND CERVICAL CANCER EARLY DETECTION PROGRAMS THROUGHOUT CT, FACILITATED MAMMOGRAPHY SCREENINGS FOR 450 WOMEN AND HOSTED 12 MAMMOGRAPHY SCREENING DAYS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>12</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>12</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>5</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>339325</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>181858</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>0</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>2900</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>0</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>0</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>0</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>339325</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>184758</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>172488</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>133149</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>158865</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>36643</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>331353</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>169792</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>7972</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>14966</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>78644</TotalAssetsBOY>
+      <TotalAssetsEOY>24027</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>93580</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>23997</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>-14936</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>30</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>THE WITNESS PROJECT OF CONNECTICUT SEEKS TO REDUCE THE NUMBER OF AFRICAN AMERICAN WOMEN DIAGNOSED WITH LATER STAGE BREAST CANCER. TO ADDRESS THIS DISEASE AND THE DISPARITY OF BREAST CANCER AMONG AFRICAN AMERICAN WOMEN THE WITNESS PROJECT TRAINED 25 WOMEN AS LAY HEALTH ADVISORS ON BREAST CANCER, CONDUCTED 47 BREAST HEALTH EDUCATION PROGRAMS IN CITIES AND TOWNS IN CT,RECRUITED 98 VOLUNTEERS TO CONDUCT COMMUNITY OUTREACH, CONNECTED WITH 40 ORGANIZATIONS TO BUILD COLLABORATIVE PARTNERSHIPS, REFERRED OVER 1,000 UNINSURED WOMEN TO THE CT BREAST AND CERVICAL CANCER EARLY DETECTION PROGRAMS THROUGHOUT CT, FACILITATED MAMMOGRAPHY SCREENINGS FOR 450 WOMEN AND HOSTED 12 MAMMOGRAPHY SCREENING DAYS.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>153559</Expense>
+      <Description>BREAST AND CERVICAL CANCER EDUCATION</Description>
+      <TotalProgramServiceExpense>153559</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>2</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>5</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>12</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>12</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>0</MinutesOfGoverningBody>
+      <MinutesOfCommittees>0</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>CT</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>MARILYN MOORE</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2033674432</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>2470 FAIRFIELD AVE</AddressLine1>
+          <City>BRIDGEPORT</City>
+          <State>CT</State>
+          <ZIPCode>06605</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>MARILYN MOORE</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>69231</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DR MARION EVANS</NamePerson>
+        <Title>PRESIDENT</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SALONA WILLIAMS</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHARLES TISDALE</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BARBARA CLEMONS</NamePerson>
+        <Title>SECRETARY</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JUANITA LEE</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CARMEN MCPHERSON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RAMSEY WILLIAMS</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>AGNES WILSON</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARSHA WILLIAMS</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEAN REXFORD</NamePerson>
+        <Title>BOARD MEMBER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>VALERIE QUARLES-WALKER</NamePerson>
+        <Title>TREASURER</Title>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>69231</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <FundraisingEvents>8886</FundraisingEvents>
+      <AllOtherContributions>172972</AllOtherContributions>
+      <TotalContributions>181858</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>CONTRACT INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>2500</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2500</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>FEES AND OTHER</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>400</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>400</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>2900</TotalProgramServiceRevenue>
+      <GrossIncomeFundraisingEvents>1521</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>8886</CntrbtnsRprtdFundraisingEvents>
+      <FundraisingDirectExpenses>1521</FundraisingDirectExpenses>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <TotalRevenue>
+        <TotalRevenueColumn>184758</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>2900</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>69231</Total>
+        <ProgramServices>62308</ProgramServices>
+        <ManagementAndGeneral>6923</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>48053</Total>
+        <ProgramServices>43248</ProgramServices>
+        <ManagementAndGeneral>4805</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>5953</Total>
+        <ProgramServices>5358</ProgramServices>
+        <ManagementAndGeneral>595</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>9912</Total>
+        <ProgramServices>8921</ProgramServices>
+        <ManagementAndGeneral>991</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesOther>
+        <Total>2800</Total>
+        <ProgramServices>2520</ProgramServices>
+        <ManagementAndGeneral>280</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>4493</Total>
+        <ProgramServices>4044</ProgramServices>
+        <ManagementAndGeneral>449</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>8356</Total>
+        <ProgramServices>7521</ProgramServices>
+        <ManagementAndGeneral>835</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>1255</Total>
+        <ProgramServices>1255</ProgramServices>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>597</Total>
+        <ProgramServices>537</ProgramServices>
+        <ManagementAndGeneral>60</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <DepreciationDepletion>
+        <Total>1732</Total>
+        <ProgramServices>1559</ProgramServices>
+        <ManagementAndGeneral>173</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>2448</Total>
+        <ProgramServices>2203</ProgramServices>
+        <ManagementAndGeneral>245</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>TELEPHONE</Description>
+        <Total>4510</Total>
+        <ProgramServices>4059</ProgramServices>
+        <ManagementAndGeneral>451</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>STIPENDS</Description>
+        <Total>4163</Total>
+        <ProgramServices>4163</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PUBLIC ASSISTANCE</Description>
+        <Total>955</Total>
+        <ProgramServices>955</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROGRAM PUBLICATIONS, M</Description>
+        <Total>872</Total>
+        <ProgramServices>872</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>4462</Total>
+        <ProgramServices>4036</ProgramServices>
+        <ManagementAndGeneral>426</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>169792</Total>
+        <ProgramServices>153559</ProgramServices>
+        <ManagementAndGeneral>16233</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <EOY>18934</EOY>
+      </CashNonInterestBearing>
+      <PledgesAndGrantsReceivable>
+        <BOY>71699</BOY>
+      </PledgesAndGrantsReceivable>
+      <LandBuildingsEquipmentBasis>8124</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>3736</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>6120</BOY>
+        <EOY>4388</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>825</BOY>
+        <EOY>705</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>78644</BOY>
+        <EOY>24027</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>45289</BOY>
+        <EOY>590</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>40379</BOY>
+        <EOY>14507</EOY>
+      </DeferredRevenue>
+      <OtherLiabilities>
+        <BOY>7912</BOY>
+        <EOY>8900</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>93580</BOY>
+        <EOY>23997</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-14936</BOY>
+        <EOY>30</EOY>
+      </UnrestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>-14936</BOY>
+        <EOY>30</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>78644</BOY>
+        <EOY>24027</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>14966</ReconcilationRevenueExpenses>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>0</FSAudited>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus4Years>175364</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>96620</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>103796</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>339325</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>183379</CurrentTaxYear>
+        <Total>898484</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus4Years>175364</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>96620</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>103796</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>339325</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>183379</CurrentTaxYear>
+        <Total>898484</Total>
+      </Total170>
+      <PublicSupportTotal170>898484</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus4Years>28</CurrentTaxYearMinus4Years>
+        <Total>28</Total>
+      </GrossInvestmentIncome170>
+      <OtherIncome170>
+        <CurrentTaxYearMinus2Years>2459</CurrentTaxYearMinus2Years>
+        <Total>2459</Total>
+      </OtherIncome170>
+      <TotalSupport>900971</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>2900</GrossReceiptsFromAdmissionsEtc>
+      <PublicSupportPertcentage170>0.99720</PublicSupportPertcentage170>
+      <PublicSupportPertcentPriorYear>0.99410</PublicSupportPertcentPriorYear>
+      <ThirtyThreePercntTestsCY170>X</ThirtyThreePercntTestsCY170>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Equipment>
+        <OtherCostOrOtherBasis>8124</OtherCostOrOtherBasis>
+        <Depreciation>3736</Depreciation>
+        <BookValue>4388</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>4388</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>ACCRUED SALARY</Description>
+        <Amount>8900</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>8900</TotalOfAmounts>
+    </IRS990ScheduleD>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 8A</Identifier>
+        <Explanation>NOT ALL MEETINGS WERE DOCUMENTED CONTEMPORANEOUSLY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 8B</Identifier>
+        <Explanation>NOT ALL WERE DOCUMENTED CONTEMPORANEOUSLY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>REVIEWED BY BOARD OF DIRECTORS BEFORE FILING.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ANNUALLY MONITORED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>THE BOARD CONSIDERS EDUCATION, EXPERIENCE, COMPENSATION PAID BY SIMILAR ORGANIZATIONS AND FINANCIAL STATUS OF THE ORGANIZATION.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 18</ReturnReference>
+        <Explanation>AVAILABLE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>DOCUMENTS AVAILABLE AT ENTITY OFFICE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

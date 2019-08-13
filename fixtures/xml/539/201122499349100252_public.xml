@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-09-06T11:06:36-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>O'HARE ASSOCIATES CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>7 OCEAN ST</AddressLine1>
+        <City>SOUTH PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041062874</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010539524</EIN>
+      <Name>
+        <BusinessNameLine1>SEA OTTER FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>SEAO</NameControl>
+      <Phone>2079251844</Phone>
+      <USAddress>
+        <AddressLine1>39 COVESIDE LANE</AddressLine1>
+        <City>YARMOUTH</City>
+        <State>ME</State>
+        <ZIPCode>04096</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>LOUISE MURPHY</Name>
+      <Title>PRESIDENT</Title>
+      <Phone>2079251844</Phone>
+      <DateSigned>2011-08-15</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>SEAN T O'HARE CPA</Name>
+      <Phone>2077412400</Phone>
+      <DatePrepared>2011-09-06</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>3475</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <TotalRevenueAndExpenses>0</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>0</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">1800</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1800</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc7">160</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc6">26</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>26</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>1986</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1826</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>16000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>16000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>17986</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1826</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>16000</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-17986</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1160</CashBOY>
+        <CashEOY>3475</CashEOY>
+        <CashEOYFMV>3475</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>26678</SavingsAndTempCashInvstBOY>
+        <InvestmentsMortgageLoansEOY>10000</InvestmentsMortgageLoansEOY>
+        <InvestmentsOtherBOY>19370</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc5">15747</InvestmentsOtherEOY>
+        <TotalAssetsBOY>47208</TotalAssetsBOY>
+        <TotalAssetsEOY>29222</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>3475</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>47208</UnrestrictedBOY>
+        <UnrestrictedEOY>29222</UnrestrictedEOY>
+        <TotalNetAssetsBOY>47208</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>29222</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>47208</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>29222</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>47208</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-17986</ExcessOfRevenueOverExpenses>
+        <Subtotal>29222</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>29222</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>8000</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>40275</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.198634</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>6000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>46359</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.129425</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>13000</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>57923</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.224436</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>34000</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>100806</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.337282</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>43113</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>130869</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.329436</DistributionRatioYear5>
+        <TotalDistributionRatio>1.219213</TotalDistributionRatio>
+        <AverageDistributionRatio>0.243843</AverageDistributionRatio>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>16000</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <EstTaxPaymentsAndOverpayment>16</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>16</TotalCreditsAndPayments>
+        <Overpayment>16</Overpayment>
+        <AmountCreditedToNextYear>16</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>LOUISE H MURPHY</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2078481401</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>39 COVESIDE LANE</AddressLine1>
+          <City>YARMOUTH</City>
+          <State>ME</State>
+          <ZIPCode>04096</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">LOUISE H MURPHY</PersonName>
+          <USAddress>
+            <AddressLine1>39 COVESIDE LANE</AddressLine1>
+            <City>YARMOUTH</City>
+            <State>ME</State>
+            <ZIPCode>04096</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">NORA K MURPHY</PersonName>
+          <USAddress>
+            <AddressLine1>39 COVESIDE LANE</AddressLine1>
+            <City>YARMOUTH</City>
+            <State>ME</State>
+            <ZIPCode>04096</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>0</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>0</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>0</CashDeemedCharitable>
+        <NetNoncharitableAssets>0</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>0</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>16000</ExpensesAndContributions>
+        <QualifyingDistributions>16000</QualifyingDistributions>
+        <AdjQualifyingDistributions>16000</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>0</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>36224</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>29511</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>10166</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>3682</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>5986</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>85569</TotalExcessDistriCarryover>
+        <QualifyingDistributions>16000</QualifyingDistributions>
+        <RemainingDistriFromCorpus>16000</RemainingDistriFromCorpus>
+        <TotalCorpus>101569</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>36224</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>65345</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>29511</ExcessFromYear4>
+        <ExcessFromYear3>10166</ExcessFromYear3>
+        <ExcessFromYear2>3682</ExcessFromYear2>
+        <ExcessFromYear1>5986</ExcessFromYear1>
+        <ExcessFromCurrentYear>16000</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>LOUISE H MURPHY</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FAMILY CRISIS SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>109 MIDDLE STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientFoundationStatus>501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION.</PurposeOfGrantOrContribution>
+          <Amount>16000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>16000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>1800</Amount>
+        <NetInvestmentIncome>1800</NetInvestmentIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <PersonName>LOUISE H MURPHY</PersonName>
+      </Compensation>
+      <Compensation>
+        <PersonName>NORA K MURPHY</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpStockSchedule documentId="RetDoc4">
+      <InvestmentsCorpStock>
+        <NameOfStock>293 SHS. STORA ENSO CORP. ADR</NameOfStock>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc5">
+      <InvestmentsOther>
+        <CategoryOrItem>VARIOUS MUTUAL FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>15747</BookValue>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="RetDoc6">
+      <OtherExpenses>
+        <Description>EXPENSES</Description>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>26</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>26</NetInvestmentIncome>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INVESTMENT FEES</Description>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="RetDoc7">
+      <Taxes>
+        <Category>PRIOR YEARS FEDERAL TAXES</Category>
+        <Amount>160</Amount>
+      </Taxes>
+      <Taxes>
+        <Category>FOREIGN TAXES</Category>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

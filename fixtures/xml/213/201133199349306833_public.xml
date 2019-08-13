@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-15T14:29:59-06:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ALBIN RANDALL &amp; BENNETT</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 445 130 MIDDLE STREET</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041120445</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010213357</EIN>
+      <Name>
+        <BusinessNameLine1>DOWN EAST CREDIT UNION</BusinessNameLine1>
+      </Name>
+      <NameControl>DOWN</NameControl>
+      <Phone>8004271223</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 130</AddressLine1>
+        <City>BAILEYVILLE</City>
+        <State>ME</State>
+        <ZIPCode>04694</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DAVID TOZIER</Name>
+      <Title>CEO</Title>
+      <Phone>8004271223</Phone>
+      <DateSigned>2011-11-10</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>HOLLY D FERGUSON</Name>
+      <Phone>2077721981</Phone>
+      <DatePrepared>2011-11-09</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>DAVID TOZIER</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 130</AddressLine1>
+        <City>BAILEYVILLE</City>
+        <State>ME</State>
+        <ZIPCode>04694</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>6591217</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="14">X</Organization501c>
+      <WebSite>WWW.DOWNEASTCU.COM</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2006</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO PROVIDE FINANCIAL SERVICES TO CREDIT UNION MEMBERS</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>5</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>5</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>74</TotalNbrEmployees>
+      <TotalNbrVolunteers>7</TotalNbrVolunteers>
+      <TotalGrossUBI>775271</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>-125963</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>0</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>0</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>6348382</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>5697442</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>39215</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>47437</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>856028</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>846338</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>7243625</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>6591217</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>2597164</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>2811376</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>4769975</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>3363867</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>7367139</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>6175243</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-123514</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>415974</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>88499931</TotalAssetsBOY>
+      <TotalAssetsEOY>84410503</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>80952293</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>76446891</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>7547638</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>7963612</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>TO PROVIDE FINANCIAL SERVICES, INCLUDING DEPOSIT ACCOUNTS AND LOANS, TO CREDIT UNION MEMBERS.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Description>THE PROCUREMENT OF FINANCIAL SERVICES INCLUDING, BUT NOT LIMITED TO, THE EXTENSION OF LOANS AND THE HOUSING OF DEPOSITS FOR MEMBERS.</Description>
+      <DescribedIn501C3>0</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">1</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>2615</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>74</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>1</UnrelatedBusinessIncome>
+      <Form990-TFiled>1</Form990-TFiled>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>5</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>5</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>1</MembersOrStockholders>
+      <ElectionOfBoardMembers>1</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>1</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>1</LocalChapters>
+      <PoliciesReferenceChapters>1</PoliciesReferenceChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <OtherWebsite>X</OtherWebsite>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>DAVID TOZIER</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>8004271223</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>PO BOX 130</AddressLine1>
+          <City>BAILEYVILLE</City>
+          <State>ME</State>
+          <ZIPCode>04694</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>MASON POTTLE</NamePerson>
+        <Title>CHAIRMAN</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT CURTIS</NamePerson>
+        <Title>VICE CHAIRMAN</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOSEPH MANZA</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JEFFREY GAGNER</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JAMES ENMAN</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID TOZIER</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>148698</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>16034</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>148698</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>16034</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <ProgramServiceRevenue>
+        <Description>INT ON LOANS TO MEMBER</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>4461580</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>4461580</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>SERVICE FEE INCOME</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>807592</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>807592</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>VISA INTERCHANGE</Description>
+        <BusinessCode>522100</BusinessCode>
+        <TotalRevenueColumn>428270</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>428270</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>5697442</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>47437</TotalRevenueColumn>
+        <ExclusionAmount>47437</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>REIMB BY SUBSIDIARIES</Description>
+        <BusinessCode>525990</BusinessCode>
+        <TotalRevenueColumn>725539</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>725539</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>NON-INT INCOME-MEMBERS</Description>
+        <BusinessCode>524298</BusinessCode>
+        <TotalRevenueColumn>120799</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>71067</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>49732</UnrelatedBusinessRevenue>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>846338</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>6591217</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5768509</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>775271</UnrelatedBusinessRevenue>
+        <ExclusionAmount>47437</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>164732</Total>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>2072313</Total>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>387360</Total>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>186971</Total>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>36862</Total>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>65711</Total>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>66845</Total>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>94145</Total>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>520581</Total>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>97824</Total>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>247159</Total>
+      </Occupancy>
+      <Travel>
+        <Total>129206</Total>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>3443</Total>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>259832</Total>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>340565</Total>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>57959</Total>
+      </Insurance>
+      <OtherExpenses>
+        <Description>DIVIDENDS ON MEMBER SHS</Description>
+        <Total>754758</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>BANK SERVICES &amp; CHARGES</Description>
+        <Total>352657</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>NCUSIF IMPAIR &amp; PREM EX</Description>
+        <Total>174055</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PROVISIONS FOR LOAN LOS</Description>
+        <Total>130000</Total>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DUES &amp; SUBSCRIPTIONS</Description>
+        <Total>20265</Total>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>12000</Total>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>6175243</Total>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>8313275</BOY>
+        <EOY>5521020</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>1536504</BOY>
+        <EOY>264931</EOY>
+      </SavingsAndTempCashInvestments>
+      <OtherNotesLoansReceivableNet>
+        <BOY>67084067</BOY>
+        <EOY>65362276</EOY>
+      </OtherNotesLoansReceivableNet>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>2972300</BOY>
+        <EOY>2355427</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>7299530</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>2004214</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>3631841</BOY>
+        <EOY>5295316</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>2298575</BOY>
+        <EOY>2448242</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>2663369</BOY>
+        <EOY>3163291</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>88499931</BOY>
+        <EOY>84410503</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>250362</BOY>
+        <EOY>241584</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>80701931</BOY>
+        <EOY>76205307</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>80952293</BOY>
+        <EOY>76446891</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <CapStckTrstPrinCurrentFunds>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CapStckTrstPrinCurrentFunds>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>7547638</BOY>
+        <EOY>7963612</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>7547638</BOY>
+        <EOY>7963612</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>88499931</BOY>
+        <EOY>84410503</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>415974</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>0</FSAudited>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>1399022</OtherCostOrOtherBasis>
+        <BookValue>1399022</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>3628513</OtherCostOrOtherBasis>
+        <Depreciation>540646</Depreciation>
+        <BookValue>3087867</BookValue>
+      </Buildings>
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>136093</OtherCostOrOtherBasis>
+        <Depreciation>58221</Depreciation>
+        <BookValue>77872</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>2135902</OtherCostOrOtherBasis>
+        <Depreciation>1405347</Depreciation>
+        <BookValue>730555</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>5295316</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>BORROWED FUNDS</Description>
+        <Amount>6000000</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>MEMBERS' SHARE ACCOUNTS</Description>
+        <Amount>70205307</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>76205307</TotalOfAmounts>
+    </IRS990ScheduleD>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <Form990ScheduleJPartII>
+        <NamePerson>DAVID TOZIER</NamePerson>
+        <BaseCompensationFilingOrg>141528</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>7170</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>4320</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>11714</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>164732</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 6</Identifier>
+        <Explanation>THE ORGANIZATION'S MEMBERS HAVE THE RIGHT TO PARTICIPATE IN THE ORGANIZATION'S GOVERNANCE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7A</Identifier>
+        <Explanation>MEMBERS OF THE CREDIT UNION HAVE THE AUTHORITY TO ELECT THE ORGANIZATION'S GOVERNING BODY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION A, LINE 7B</Identifier>
+        <Explanation>MERGERS ARE SUBJECT TO APPROVAL BY MEMBERS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>MANAGEMENT AND THE BOARD OF DIRECTORS BOTH REVIEW A COPY OF THE 990 BEFORE IT IS FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>THE ORGANIZATION HAS A COMPLIANCE DEPARTMENT THAT MONITORS AND ENFORCES COMPLIANCE WITH THE CONFLICT OF INTEREST POLICY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15</ReturnReference>
+        <Explanation>COMPENSATION FOR TOP MANAGEMENT OFFICIALS, OTHER OFFICERS, AND KEY EMPLOYEES IS DETERMINED BY BOTH A CUNA SALARY SURVEY AND THE BOARD OF DIRECTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>FINANCIAL STATEMENTS ARE POSTED IN ALL BRANCH LOBBIES FOR THE ORGANIZATION. ALL OTHER INFORMATION AVAILABLE UPON REQUEST.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>CONSOLIDATED SOLUTIONS II LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>PO BOX 130 23RD AVENUE</AddressLine1>
+          <City>BAILEYVILLE</City>
+          <State>ME</State>
+          <ZIPCode>04694</ZIPCode>
+        </AddressUS>
+        <EIN>010537469</EIN>
+        <PrimaryActivities>INSURANCE BROKERAGE SERVICES TO CREDIT UNION MEMBERS</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>539251</TotalIncome>
+        <EOYAssets>1300925</EOYAssets>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>DOWN EAST CREDIT UNION</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>CONSOLIDATED SOLUTIONS LLC</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>PO BOX 130 23RD AVENUE</AddressLine1>
+          <City>BAILEYVILLE</City>
+          <State>ME</State>
+          <ZIPCode>04694</ZIPCode>
+        </AddressUS>
+        <EIN>010542492</EIN>
+        <PrimaryActivities>INDIRECT LENDING FOR PARTICIPATING CREDIT UNIONS</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>185675</TotalIncome>
+        <EOYAssets>393608</EOYAssets>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>DOWN EAST CREDIT UNION</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartI>
+      <Form990ScheduleRPartI>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>BAYVIEW FINANCIAL</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>PO BOX 130 23RD AVENUE</AddressLine1>
+          <City>BAILEYVILLE</City>
+          <State>ME</State>
+          <ZIPCode>04694</ZIPCode>
+        </AddressUS>
+        <EIN>200361756</EIN>
+        <PrimaryActivities>FINANCIAL SERVICES FOR SMALL BUSINESS</PrimaryActivities>
+        <LegalDomicileState>ME</LegalDomicileState>
+        <TotalIncome>613</TotalIncome>
+        <EOYAssets>27884</EOYAssets>
+        <DirectControllingEntityName>
+          <BusinessNameLine1>DOWN EAST CREDIT UNION</BusinessNameLine1>
+        </DirectControllingEntityName>
+      </Form990ScheduleRPartI>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

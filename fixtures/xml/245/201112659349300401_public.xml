@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-09-22T08:06:48-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>WILLIAM H BREWER CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>858 WASHINGTON STREET</AddressLine1>
+        <City>BATH</City>
+        <State>ME</State>
+        <ZIPCode>04530</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010245261</EIN>
+      <Name>
+        <BusinessNameLine1>ERSKINE ACADEMY</BusinessNameLine1>
+      </Name>
+      <NameControl>ERSK</NameControl>
+      <Phone>2074452962</Phone>
+      <USAddress>
+        <AddressLine1>309 WINDSOR ROAD</AddressLine1>
+        <City>SOUTH CHINA</City>
+        <State>ME</State>
+        <ZIPCode>04358</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>MICHAEL MCQUARRIE</Name>
+      <Title>HEAD MASTER</Title>
+      <Phone>2074452962</Phone>
+      <DateSigned>2011-08-17</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>WILLIAM H BREWER</Name>
+      <Phone>2074439759</Phone>
+      <DatePrepared>2011-08-17</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>MICHAEL MCQUARRIE</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>309 WINDSOR ROAD</AddressLine1>
+        <City>SOUTH CHINA</City>
+        <State>ME</State>
+        <ZIPCode>04358</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>7585841</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>N/A</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1883</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>ORGANIZATION PROVIDES A QUALITY EDUCATION TO STUDENTS WHICH ENABLES THEM TO ACHIEVE THEIR POTENTIAL AND REALIZE THEIR GOALS.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>5</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>5</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>155</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>74231</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>27203</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>7831478</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>7361752</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>23765</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>18756</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>15439</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>164485</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>7944913</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>7572196</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>28516</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>17802</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>5150687</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>5101918</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>114133</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>2149097</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>2276989</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>7328300</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>7396709</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>616613</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>175487</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>8149439</TotalAssetsBOY>
+      <TotalAssetsEOY>8323920</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>1547127</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>1546121</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>6602312</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>6777799</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>SEE SCHEDULE O</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>5974429</Expense>
+      <Revenue>7357007</Revenue>
+      <Description>ERSKINE ACADEMY IS A PRIVATE NON PROFIT HIGH SCHOOL FOR GRADES 9-12. APPROXIMATELY 694 STUDENTS ATTENDED THE SCHOOL DURING THE 2010-2011 SCHOOL YEAR.</Description>
+      <TotalProgramServiceExpense>5974429</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School referenceDocumentId="RetDoc1040400001">1</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">0</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">1</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>19</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>155</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>5</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>5</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>ME</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>MICHAEL MCQUARRIE</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2074452962</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>309 WINDSOR ROAD</AddressLine1>
+          <City>SOUTH CHINA</City>
+          <State>ME</State>
+          <ZIPCode>04358</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>TODD CUMMINGS</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BARRY W THOMAS</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BRENDA DRUMMOND</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>SCOTT KENOYER</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN W NORED</NamePerson>
+        <Title>VICE-PRESIDENT</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MICHAEL MCQUARRIE</NamePerson>
+        <Title>HEADMASTER</Title>
+        <AverageHoursPerWeek>48.00</AverageHoursPerWeek>
+        <KeyEmployee>X</KeyEmployee>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>104423</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>104423</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <AllOtherContributions>27203</AllOtherContributions>
+      <TotalContributions>27203</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>TUITION AND FEES</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>7361752</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>7361752</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>7361752</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>23501</TotalRevenueColumn>
+        <ExclusionAmount>23501</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossAmountSalesAssets>
+        <Other>8900</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Other>13645</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Other>-4745</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>-4745</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-4745</RelatedOrExemptFunctionIncome>
+      </NetGainOrLossInvestments>
+      <OtherRevenueMisc>
+        <Description>UNREALIZED DEPRECIATIO</Description>
+        <BusinessCode>523000</BusinessCode>
+        <TotalRevenueColumn>159587</TotalRevenueColumn>
+        <ExclusionAmount>159587</ExclusionAmount>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>CAPITAL GAINS (LOSSES)</Description>
+        <BusinessCode>523000</BusinessCode>
+        <TotalRevenueColumn>4898</TotalRevenueColumn>
+        <ExclusionAmount>4898</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>164485</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>7572196</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>7357007</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>187986</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticIndividuals>
+        <Total>17802</Total>
+        <ProgramServices>17802</ProgramServices>
+      </GrantsToDomesticIndividuals>
+      <CompCurrentOfficersDirectors>
+        <Total>104423</Total>
+        <ProgramServices>62654</ProgramServices>
+        <ManagementAndGeneral>41769</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>4340302</Total>
+        <ProgramServices>3373808</ProgramServices>
+        <ManagementAndGeneral>886198</ManagementAndGeneral>
+        <Fundraising>80296</Fundraising>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>516218</Total>
+        <ProgramServices>422008</ProgramServices>
+        <ManagementAndGeneral>84660</ManagementAndGeneral>
+        <Fundraising>9550</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>140975</Total>
+        <ProgramServices>116480</ProgramServices>
+        <ManagementAndGeneral>22012</ManagementAndGeneral>
+        <Fundraising>2483</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>968</Total>
+        <ManagementAndGeneral>968</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>11900</Total>
+        <ManagementAndGeneral>11900</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <Advertising>
+        <Total>13577</Total>
+        <ManagementAndGeneral>13577</ManagementAndGeneral>
+      </Advertising>
+      <Interest>
+        <Total>46354</Total>
+        <ProgramServices>46354</ProgramServices>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>357814</Total>
+        <ProgramServices>356633</ProgramServices>
+        <ManagementAndGeneral>1181</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>104423</Total>
+        <ManagementAndGeneral>104423</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>MAINE STATE RETIREMENT</Description>
+        <Total>516244</Total>
+        <ProgramServices>516244</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSTRUCTIONAL EXPENSES</Description>
+        <Total>274744</Total>
+        <ProgramServices>274744</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FOOD SERVICE PROGRAM</Description>
+        <Total>255967</Total>
+        <ProgramServices>255967</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MISCELLANEOUS</Description>
+        <Total>230204</Total>
+        <ProgramServices>230204</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>UTILITIES</Description>
+        <Total>132768</Total>
+        <ProgramServices>132768</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>332026</Total>
+        <ProgramServices>168763</ProgramServices>
+        <ManagementAndGeneral>141459</ManagementAndGeneral>
+        <Fundraising>21804</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>7396709</Total>
+        <ProgramServices>5974429</ProgramServices>
+        <ManagementAndGeneral>1308147</ManagementAndGeneral>
+        <Fundraising>114133</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>2224018</BOY>
+        <EOY>2440933</EOY>
+      </CashNonInterestBearing>
+      <AccountsReceivable>
+        <BOY>107734</BOY>
+        <EOY>34942</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>919</BOY>
+        <EOY>1128</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>201542</BOY>
+        <EOY>141612</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>8092579</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>3605724</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>4619404</BOY>
+        <EOY>4486855</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>927099</BOY>
+        <EOY>1149948</EOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>68723</BOY>
+        <EOY>68502</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>8149439</BOY>
+        <EOY>8323920</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <EOY>40054</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>941580</BOY>
+        <EOY>909365</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>605547</BOY>
+        <EOY>596702</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>1547127</BOY>
+        <EOY>1546121</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>6171851</BOY>
+        <EOY>6260541</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>6246</BOY>
+        <EOY>8258</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>424215</BOY>
+        <EOY>509000</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>6602312</BOY>
+        <EOY>6777799</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>8149439</BOY>
+        <EOY>8323920</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>175487</ReconcilationRevenueExpenses>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <School170b1Aii>X</School170b1Aii>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>424216</BeginningOfYearBalance>
+        <Contributions>3695</Contributions>
+        <InvestmentEarningsOrLosses>89585</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>-6000</GrantsOrScholarships>
+        <AdministrativeExpenses>-2496</AdministrativeExpenses>
+        <EndOfYearBalance>525992</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>406048</BeginningOfYearBalance>
+        <Contributions>1300</Contributions>
+        <InvestmentEarningsOrLosses>26199</InvestmentEarningsOrLosses>
+        <GrantsOrScholarships>-5489</GrantsOrScholarships>
+        <AdministrativeExpenses>-3842</AdministrativeExpenses>
+        <EndOfYearBalance>424216</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <EndowmentsHeldByUnrelatedOrgs>1</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Land>
+        <OtherCostOrOtherBasis>376787</OtherCostOrOtherBasis>
+        <BookValue>376787</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>5064898</OtherCostOrOtherBasis>
+        <Depreciation>1555076</Depreciation>
+        <BookValue>3509822</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>2650894</OtherCostOrOtherBasis>
+        <Depreciation>2050648</Depreciation>
+        <BookValue>600246</BookValue>
+      </Equipment>
+      <TotalOfBookValueLandBuildings>4486855</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>SUMMER SALARIES PAYABLE</Description>
+        <Amount>460644</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>CUSTODIAL LIABILITY FOR STUDENT ACTIVITIES</Description>
+        <Amount>136058</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>596702</TotalOfAmounts>
+      <TotalRevenue>7572196</TotalRevenue>
+      <TotalExpenses>7396709</TotalExpenses>
+      <ExcessOrDeficitForYear>175487</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>175487</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>7572196</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>7572196</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>7572196</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>7396709</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>7396709</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>7396709</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF INTENDED USE OF ENDOWMENT FUNDS:</Identifier>
+        <ReturnReference>PART V, LINE 4:</ReturnReference>
+        <Explanation>TO FUND SCHOLARSHIPS TO GRADUATING STUDENTS TO BE USED FOR HIGHER EDUCATION. FUNDS ARE ALSO AVAILABLE TO SUPPORT STUDENTS ATTENDING ERSKINE ACADEMY.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleE documentId="RetDoc1040400001">
+      <NondiscriminatoryPolicyStmt>1</NondiscriminatoryPolicyStmt>
+      <PolicyStatementInBrochuresEtc>1</PolicyStatementInBrochuresEtc>
+      <PolicyPublViaBroadcastMedia>1</PolicyPublViaBroadcastMedia>
+      <MaintRacialCompositionRecords>1</MaintRacialCompositionRecords>
+      <MaintScholarshipsRecords>1</MaintScholarshipsRecords>
+      <MaintCopiesOfBrochuresEtc>1</MaintCopiesOfBrochuresEtc>
+      <MaintCopiesOfAllSolicitations>1</MaintCopiesOfAllSolicitations>
+      <DiscriminateRaceStudentsRights>0</DiscriminateRaceStudentsRights>
+      <DiscriminateRaceAdmissPolicies>0</DiscriminateRaceAdmissPolicies>
+      <DiscriminateRaceEmplmnFaculty>0</DiscriminateRaceEmplmnFaculty>
+      <DiscriminateRaceScholarships>0</DiscriminateRaceScholarships>
+      <DiscriminateRaceEducPolicies>0</DiscriminateRaceEducPolicies>
+      <DiscriminateRaceUseOfFclts>0</DiscriminateRaceUseOfFclts>
+      <DiscriminateRaceAthleticProg>0</DiscriminateRaceAthleticProg>
+      <DiscriminateRaceOtherActy>0</DiscriminateRaceOtherActy>
+      <GovernmentFinancialAidReceived>1</GovernmentFinancialAidReceived>
+      <GovernmentFinancialAidRevoked>0</GovernmentFinancialAidRevoked>
+      <ComplianceWithRevProc7550>1</ComplianceWithRevProc7550>
+      <Form990ScheduleEPartII>
+        <Identifier>EXPLANATION OF NONDISCRIMINATORY POLICY PUBLICATION</Identifier>
+        <ReturnReference>SCHEDULE E, PART I, LINE 3</ReturnReference>
+        <Explanation>ALL SCHOOL DOCUMENTS STATE THAT THERE IS NO DISCRIMINATION BASED ON RACE,COLOR AND NATIONAL OR ETHNIC ORIGIN</Explanation>
+      </Form990ScheduleEPartII>
+      <Form990ScheduleEPartII>
+        <Identifier>EXPLANATION OF GOVERNMENT FINANCIAL ASSISTANCE</Identifier>
+        <ReturnReference>SCHEDULE E, PART I, LINE 6</ReturnReference>
+        <Explanation>AMOUNTS RECEIVED FROM THE U S DEPT OF AGRICULTURE FOR SCHOOL HOT LUNCH PROGRAM</Explanation>
+      </Form990ScheduleEPartII>
+    </IRS990ScheduleE>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>0</RecordsMaintained>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>SCHOLARSHIPS</TypeOfGrant>
+        <NumberOfRecipients>20</NumberOfRecipients>
+        <AmountOfCashGrant>17802</AmountOfCashGrant>
+      </Form990ScheduleIPartIII>
+    </IRS990ScheduleI>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>FORM 990 IS REVIEWED AT A MEETING OF THE BOARD OF DIRECTORS BEFORE IT IS FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>REVIEWED ANNUALLY BY THE BOARD OF DIRECTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 15A</ReturnReference>
+        <Explanation>REVIEWED ANNUALLY BY THE BOARD OF DIRECTORS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>AVAILABLE UPON REQUEST FROM THE BUSINESS OFFICE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>OVERSIGHT RESPONSIBILITY</Identifier>
+        <ReturnReference>FORM 990 PART XI LINE 2C</ReturnReference>
+        <Explanation>NO CHANGE TO OVERSIGHT PROCESS DURING THE TAX YEAR</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>ORGINIZATIONS MISSION STATEMENT</Identifier>
+        <ReturnReference>FORM 990 PART III LINE 1</ReturnReference>
+        <Explanation>ERSKINE ACADEMY IS AN INDEPENDENT, SECONDARY SCHOOL APPROVED FOR TUITION PURPOSES BY THE MAINE DEPARTMENT OF EDUCATIONAL AND CULTURAL SERVICES. HISTORICALLY, IT HAS SERVED THE PUBLIC INTEREST IN 9-12 EDUCATION BY PROVIDING EDUCATIONAL, CULTURAL, AND EXTRACURRICULAR OPPORTUNITIES TO THE YOUTH AND FAMILITES OF EIGHT, PRIMARY SENDING COMMUNITIES: CHINA, VASSALBORO, WINDSOR, WHITEFIELD, PALERMO, JEFFERSON, SOMERVILLE, AND CHELSEA, MAINE, ALL OF WHICH HAVE NO HIGH SCHOOL OF THEIR OWN AND THEREFORE HAVE SCHOOL CHOICE. IN ADDITION TO THESE STUDENTS BEING TUITIONED FROM THEIR COMMUNITIES FOR EDUCATIONAL PURPOSES, ERSKINE ACADEMY RECEIVES APPROXIMATELY 2% OF ITS STUDENT BODY ON A PRIVATELY TUITIONED BASIS. ERSKINE ACADEMY IS COMMITTED TO PRESENTING A COMPREHENSIVE HIGH SHCOOL EXPERIENCE TO THE EXTENT THAT FISCAL AND HUMAN RESOURCES ARE SUFFICIENT TO ENABLE IT AND THE DEGREE TO WHICH IT IS PRACTICABLE. DUE TO RESPONSIBLE AND EFFICIENT FISCAL AND HUMAN RESOURCE MANAGEMENT, ERSKINE RETAINS MANY ACTIVITIES - CURRICULAR AND COCURRICULAR - THAT HAVE BEEN ELIMINATED FROM SURROUNDING PUBLIC SCHOOLS, SUCH AS SHOP TECHNOLOGIES, HOME AND CONSUMER ECONOMICS, THE FINE AND PERFORMING ARTS, AND MODERN AND CLASSICAL LANGUAGES. SINCE IT ENGAGES IN NO TUITION CONTRACTS FOR ENROLLMENT WITH ANY COMMUNITY, ERSKINE'S STUDENT BODY IS COMPLETELY VOLUNTARY. ENROLLMENT HAS INCREASED DRAMATICALLY IN THE PAST TEN YEARS. COURSE OFFERINGS IN THE DIVERSIFIED CURRICULUM AND A WIDE RANGE OF EXTRACURRICULAR ACTIVITIES ARE IN PART RESPONSIBLE FOR THIS GROWTH; THE RESPONSIVE AND CARING SERVICE OF A COMMITTED AND SKILLED FACULTY HAS GROWN THE SCHOOL'S REPUTATION AS BEING THE SCHOOL OF CHOICE. THE SCHOOL'S GROWTH AND DEVELOPMENT REFLECT THE COMMUNITIES' DESIRE FOR AN EDUCATIONAL EXPERIENCE THAT IS FIT FOR THE TIME AND THEIR STUDENTS IN PREPARATION OF A FUTURE THAT WILL DEMAND HIGHER EDUCATION AND PREFERRED WORKPLACE DISPOSITIONS. LOCAL CITIZENS AND BENEFACTORS FOUNDED ERSKINE ACADEMY IN 1882 TO FILL A VOID IN THE EDUCATIONAL OPPORTUNITIES AVAILABLE TO STUDENTS LIVING IN THE RURAL AREAS. TODAY WE STAY TRUE TO THAT FOUNDATIONAL CHARGE - TO SERVE AS THE SCHOOL FOR STUDENTS OF SURROUNDING TOWNS THAT DO NOT MAINTAIN THEIR OWN HIGH SCHOOLS. TO SUSTAIN ITS PROGRAM AND MISSION DURING A TIME OF SHRINKING TRADITIONAL STUDENT DEMOGRAPHICS, DECLINING FISCAL RESOURCES FOR EDUCATION AT THE STATE AND LOCAL LEVELS, AND THE RECONSTITUTION OF PUBLIC SCHOOLING SCHEMAS, ERSKINE ENDEAVORS TO BECOME LESS DEPENDENT OF TUITION DOLLARS FOR ITS OPERATIONS AND FUNCTIONING. GROWTH INITIATIVES HAVE INCLUDED THE ESTABLISHMNET OF A DEVELOPMENT OFFICE, STRONGER CULTIVATION OF ALUMNI AND FAMILY RELATIONSHIPS, AND THE EXPLORATION OF AN INTERNATIONAL STUDENT AND BOARDING PROGRAM.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

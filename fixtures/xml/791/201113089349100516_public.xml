@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-04T00:23:19-00:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Foundation Source</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>55 Walls Drive</AddressLine1>
+        <City>Fairfield</City>
+        <State>CT</State>
+        <ZIPCode>06824</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010791882</EIN>
+      <Name>
+        <BusinessNameLine1>The Klungness Family Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>KLUN</NameControl>
+      <Phone>8008391754</Phone>
+      <USAddress>
+        <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+        <City>Wilmington</City>
+        <State>DE</State>
+        <ZIPCode>198091377</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>James A Klungness</Name>
+      <Title>President</Title>
+      <DateSigned>2011-11-04</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey D Haskell</Name>
+      <Phone>8008391754</Phone>
+      <DatePrepared>2011-11-04</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF referenceDocumentId="990PF:150" documentId="990PF" softwareId="10000149" softwareVersion="2010.2.15">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>240104</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>4828</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4828</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="990PF:72">321</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>5000</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>321</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>5149</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>5149</TotalNetInvestmentIncome>
+        <TaxesRevAndExpnss referenceDocumentId="990PF:78">27</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="990PF:79">5497</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>5497</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5524</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>5497</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>8500</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>8500</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>14024</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>13997</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-8875</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>5149</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>5033</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>160</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>160</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>235968</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="990PF:89">231966</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>239944</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>241001</TotalAssetsBOY>
+        <TotalAssetsEOY>232126</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>240104</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>241001</RetainedEarningsBOY>
+        <RetainedEarningsEOY>232126</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>241001</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>232126</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>241001</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>232126</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>241001</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-8875</ExcessOfRevenueOverExpenses>
+        <Subtotal>232126</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>232126</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>Publicly-traded Securities</DescriptionOfAsset>
+          <GrossSalesPrice>5000</GrossSalesPrice>
+          <CostOrOtherBasis>4679</CostOrOtherBasis>
+          <GainOrLoss>321</GainOrLoss>
+          <GainsMinusExcessOrLosses>321</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>321</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>12826</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>198556</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>000.064596</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>13825</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>240277</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>000.057538</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>8389</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>282473</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>000.029698</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>4684</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>264776</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>000.017690</DistributionRatioYear4>
+        <NoncharitableAssetsYear5>10261</NoncharitableAssetsYear5>
+        <TotalDistributionRatio>000.169522</TotalDistributionRatio>
+        <AverageDistributionRatio>000.033904</AverageDistributionRatio>
+        <NetNoncharitableAssets>222193</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>7533</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>51</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>7584</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>13997</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>51</InvestmentIncomeExciseTax>
+        <Subtotal>51</Subtotal>
+        <TaxBasedOnInvestmentIncome>51</TaxBasedOnInvestmentIncome>
+        <TaxPaidWithExtension>53</TaxPaidWithExtension>
+        <TotalCreditsAndPayments>53</TotalCreditsAndPayments>
+        <TaxPaidOriginalReturn>53</TaxPaidOriginalReturn>
+        <Overpayment>2</Overpayment>
+        <AmountCreditedToNextYear>2</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>co Foundation Source</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>8008391754</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>501 Silverside Road Suite 123</AddressLine1>
+          <City>Wilmington</City>
+          <State>DE</State>
+          <ZIPCode>198091377</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>true</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James A Klungness</PersonName>
+          <USAddress>
+            <AddressLine1>c/o Foundation Source 501 Silversid</AddressLine1>
+            <City>Wilmington</City>
+            <State>DE</State>
+            <ZIPCode>19809</ZIPCode>
+          </USAddress>
+          <Title>President / Director / Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>001.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>222140</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>3437</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>225577</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>225577</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable referenceDocumentId="990PF:240">3384</CashDeemedCharitable>
+        <NetNoncharitableAssets>222193</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>11110</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>11110</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>51</TaxBasedOnInvestmentIncome>
+        <TotalTax>51</TotalTax>
+        <DistributableAmountBeforeAdj>11059</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>11059</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>11059</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions referenceDocumentId="990PF:241">13997</ExpensesAndContributions>
+        <QualifyingDistributions>13997</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>51</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>13946</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>11059</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>8926</UndistributedIncomePriorYear>
+        <QualifyingDistributions>13997</QualifyingDistributions>
+        <AppliedToYear1>8926</AppliedToYear1>
+        <AppliedToCurrentYear>5071</AppliedToCurrentYear>
+        <UndistributedIncomeCY>5988</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>James A Klungness</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BAY CLIFF HEALTH CAMP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 310</AddressLine1>
+            <City>BIG BAY</City>
+            <State>MI</State>
+            <ZIPCode>49808</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARING HOUSE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1305 PROSPECT AVE</AddressLine1>
+            <City>IRON MOUNTAIN</City>
+            <State>MI</State>
+            <ZIPCode>49801</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FINLANDIA UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>601 QUINCY ST</AddressLine1>
+            <City>HANCOCK</City>
+            <State>MI</State>
+            <ZIPCode>49930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PINE MOUNTAIN MUSIC FESTIVAL INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 406</AddressLine1>
+            <City>HANCOCK</City>
+            <State>MI</State>
+            <ZIPCode>49930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(2)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>3000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WILDLANDS CPR</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 7516</AddressLine1>
+            <City>MISSOULA</City>
+            <State>MT</State>
+            <ZIPCode>59807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>N/A</RecipientRelationship>
+          <RecipientFoundationStatus>509(a)(1)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>General Unrestricted</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>8500</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4828</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>321</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>5149</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5149</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <GeneralExplanationAttachment documentId="990PF:150" softwareId="10000149" softwareVersion="2010.2.15"></GeneralExplanationAttachment>
+    <InvestmentsCorpStockSchedule documentId="990PF:89" softwareId="10000149" softwareVersion="2010.2.15">
+      <InvestmentsCorpStock>
+        <NameOfStock>556 shares of COHEN STEERS RLTY INCM INC NEW A CSEIX</NameOfStock>
+        <EOYBookValue>8279</EOYBookValue>
+        <EOYFMV>6252</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1328 shares of EAGLE SER TR MID CAP STK FD CL A HMCAX</NameOfStock>
+        <EOYBookValue>37246</EOYBookValue>
+        <EOYFMV>36601</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>531 shares of HARBOR FDS INTL FD HAINX</NameOfStock>
+        <EOYBookValue>28221</EOYBookValue>
+        <EOYFMV>32160</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2592 shares of JP MORGAN CORE BOND FUND WOBDX</NameOfStock>
+        <EOYBookValue>27821</EOYBookValue>
+        <EOYFMV>29702</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1367 shares of JP MORGAN SMALL CAP EQUITY INSTL SELECT VSEIX</NameOfStock>
+        <EOYBookValue>42557</EOYBookValue>
+        <EOYFMV>50242</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1546 shares of JPMORGAN HIGH YIELD BOND FUND SELECT OHYFX</NameOfStock>
+        <EOYBookValue>12662</EOYBookValue>
+        <EOYFMV>12602</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>2071 shares of JPMORGAN MULTI CAP-MARKET NEUTRAL FD OGNIX</NameOfStock>
+        <EOYBookValue>21894</EOYBookValue>
+        <EOYFMV>20030</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1955 shares of MARSICO INVT FD FOCUS FD MFOCX</NameOfStock>
+        <EOYBookValue>36628</EOYBookValue>
+        <EOYFMV>35370</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>665 shares of TEMPLETON DEVELOPING MARKETS TRUST CLASS A TEDMX</NameOfStock>
+        <EOYBookValue>16658</EOYBookValue>
+        <EOYFMV>16985</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherExpensesSchedule documentId="990PF:79" softwareId="10000149" softwareVersion="2010.2.15">
+      <OtherExpenses>
+        <Description>Administrative Fees</Description>
+        <RevenueAndExpensesPerBooks>5472</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>5472</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>State or Local Filing Fees</Description>
+        <RevenueAndExpensesPerBooks>25</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>25</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="990PF:78" softwareId="10000149" softwareVersion="2010.2.15">
+      <Taxes>
+        <Category>Excise Tax for 2009</Category>
+        <Amount>27</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-15T08:09:42-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Rothstein Kass &amp; Company PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>4 Becker Farm Road</AddressLine1>
+        <City>Roseland</City>
+        <State>NJ</State>
+        <ZIPCode>070681785</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010718240</EIN>
+      <Name>
+        <BusinessNameLine1>THE FAIRHOLME FOUNDATION</BusinessNameLine1>
+      </Name>
+      <NameControl>FAIR</NameControl>
+      <Phone>3056675437</Phone>
+      <USAddress>
+        <AddressLine1>14 TAHITI BEACH ISLAND ROAD C/O B</AddressLine1>
+        <City>CORAL GABLES</City>
+        <State>FL</State>
+        <ZIPCode>33143</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BRUCE BERKOWITZ</Name>
+      <Title>TRUSTEE</Title>
+      <DateSigned>2011-11-15</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Neil Tendler</Name>
+      <Phone>9739946666</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>112234997</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>48527177</ContriReceivedRevAndExpnss>
+        <DividendsRevAndExpnss>974384</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>974384</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>2678977</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>10598365</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>3910898</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>61223</NetSTCGAdjNetIncm>
+        <TotalRevenueAndExpenses>52180538</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>4885282</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>61223</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">4455</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>4455</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">14647</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>4004</TaxesNetInvstIncm>
+        <OccupancyRevAndExpnss>375366</OccupancyRevAndExpnss>
+        <OccupancyDsbrsChrtblPrps>375366</OccupancyDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">8477</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>8477</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>402945</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>8459</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>383843</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>8651300</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>8651300</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>9054245</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>8459</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>9035143</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>43126293</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>4876823</NetInvestmentIncome>
+        <AdjustedNetIncome>61223</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>53926</CashBOY>
+        <CashEOY>382555</CashEOY>
+        <CashEOYFMV>382555</CashEOYFMV>
+        <InvestmentsCorpStockBOY>43546370</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">86253071</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>102992364</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>8769115</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="InvOtherSch2">8860078</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>8860078</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>52369411</TotalAssetsBOY>
+        <TotalAssetsEOY>95495704</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>112234997</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>52369411</RetainedEarningsBOY>
+        <RetainedEarningsEOY>95495704</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>52369411</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>95495704</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>52369411</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>95495704</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>52369411</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>43126293</ExcessOfRevenueOverExpenses>
+        <Subtotal>95495704</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>95495704</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>48525 SHS AMERICREDIT CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-01-01</DateAcquired>
+          <DateSold>2010-10-01</DateSold>
+          <GrossSalesPrice>1104942</GrossSalesPrice>
+          <CostOrOtherBasis>324423</CostOrOtherBasis>
+          <GainOrLoss>780519</GainOrLoss>
+          <FMVAsOf123169>284356</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>324423</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>780519</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>39945 SHS CANWELL BUILDING</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-06-05</DateAcquired>
+          <DateSold>2010-05-13</DateSold>
+          <GrossSalesPrice>195076</GrossSalesPrice>
+          <CostOrOtherBasis>182273</CostOrOtherBasis>
+          <GainOrLoss>12803</GainOrLoss>
+          <FMVAsOf123169>90407</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>182273</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>12803</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8092 SHS CARGOJET INCOME FD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-12-12</DateAcquired>
+          <DateSold>2010-03-23</DateSold>
+          <GrossSalesPrice>64286</GrossSalesPrice>
+          <CostOrOtherBasis>98301</CostOrOtherBasis>
+          <GainOrLoss>-34015</GainOrLoss>
+          <FMVAsOf123169>18935</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>98301</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>-34015</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>42000 SHS CLARKE INC 6% 2012</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-01-16</DateAcquired>
+          <DateSold>2010-03-30</DateSold>
+          <GrossSalesPrice>38200</GrossSalesPrice>
+          <CostOrOtherBasis>66748</CostOrOtherBasis>
+          <GainOrLoss>-28548</GainOrLoss>
+          <FMVAsOf123169>23075</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>66748</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>-28548</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>501000 SHS CLARKE INC 6% 2013</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-04-19</DateAcquired>
+          <DateSold>2010-03-22</DateSold>
+          <GrossSalesPrice>431828</GrossSalesPrice>
+          <CostOrOtherBasis>538593</CostOrOtherBasis>
+          <GainOrLoss>-106765</GainOrLoss>
+          <FMVAsOf123169>281034</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>538593</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>-106765</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>12768 SHS CLARKE INC TENDER</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-05-27</DateAcquired>
+          <DateSold>2010-04-30</DateSold>
+          <GrossSalesPrice>25367</GrossSalesPrice>
+          <CostOrOtherBasis>108697</CostOrOtherBasis>
+          <GainOrLoss>-83330</GainOrLoss>
+          <FMVAsOf123169>39492</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>108697</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>-83330</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>29017 SHS HERTZ GLOBAL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-22</DateAcquired>
+          <DateSold>2010-06-01</DateSold>
+          <GrossSalesPrice>368830</GrossSalesPrice>
+          <CostOrOtherBasis>137954</CostOrOtherBasis>
+          <GainOrLoss>160205</GainOrLoss>
+          <FMVAsOf123169>208625</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>137954</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>70671</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>160205</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>14396 SHS SPIRIT AEROSYSTEMS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-10</DateAcquired>
+          <DateSold>2010-08-23</DateSold>
+          <GrossSalesPrice>296289</GrossSalesPrice>
+          <CostOrOtherBasis>194276</CostOrOtherBasis>
+          <GainOrLoss>64082</GainOrLoss>
+          <FMVAsOf123169>232207</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>194276</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>37931</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>64082</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>8244 SHS TAL INTL GROUP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2004-11-03</DateAcquired>
+          <DateSold>2010-10-21</DateSold>
+          <GrossSalesPrice>203790</GrossSalesPrice>
+          <CostOrOtherBasis>195299</CostOrOtherBasis>
+          <GainOrLoss>8491</GainOrLoss>
+          <FMVAsOf123169>195299</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>195299</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>8491</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>27418 SHS WELLCARE HEALTH PLAN</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-11-13</DateAcquired>
+          <DateSold>2010-10-20</DateSold>
+          <GrossSalesPrice>771652</GrossSalesPrice>
+          <CostOrOtherBasis>788895</CostOrOtherBasis>
+          <GainOrLoss>-17243</GainOrLoss>
+          <FMVAsOf123169>693484</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>788895</AdjustedBasisAsOf123169>
+          <GainsMinusExcessOrLosses>-17243</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7074 SHS WHITE MTNS INSUR GRP</DescriptionOfAsset>
+          <HowAcquired>D</HowAcquired>
+          <DateAcquired>2008-09-11</DateAcquired>
+          <DateSold>2010-08-03</DateSold>
+          <GrossSalesPrice>2255702</GrossSalesPrice>
+          <CostOrOtherBasis>1414800</CostOrOtherBasis>
+          <GainOrLoss>840902</GainOrLoss>
+          <FMVAsOf123169>3288773</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>1414800</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>1873973</ExcessOfFMVOverAdjustedBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>14891 SHS WINTHROP REALTY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2009-07-15</DateAcquired>
+          <DateSold>2010-10-28</DateSold>
+          <GrossSalesPrice>192094</GrossSalesPrice>
+          <CostOrOtherBasis>120757</CostOrOtherBasis>
+          <GainOrLoss>60731</GainOrLoss>
+          <FMVAsOf123169>131363</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>120757</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>10606</ExcessOfFMVOverAdjustedBasis>
+          <GainsMinusExcessOrLosses>60731</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>394582 SHS FAIRHOLME FOCUSED</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-01-05</DateAcquired>
+          <DateSold>2010-12-16</DateSold>
+          <GrossSalesPrice>4100000</GrossSalesPrice>
+          <CostOrOtherBasis>4038777</CostOrOtherBasis>
+          <GainOrLoss>61223</GainOrLoss>
+          <GainsMinusExcessOrLosses>61223</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>INTEREST IN FAIRHOLME HOLDINGS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-06-01</DateAcquired>
+          <DateSold>2010-09-27</DateSold>
+          <GrossSalesPrice>363080</GrossSalesPrice>
+          <CostOrOtherBasis>1062908</CostOrOtherBasis>
+          <GainOrLoss>-699828</GainOrLoss>
+          <GainsMinusExcessOrLosses>-699828</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>7800 SHS LEUCADIA NATL</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-10-23</DateAcquired>
+          <DateSold>2010-09-10</DateSold>
+          <GrossSalesPrice>187228</GrossSalesPrice>
+          <CostOrOtherBasis>174257</CostOrOtherBasis>
+          <GainOrLoss>12971</GainOrLoss>
+          <FMVAsOf123169>209352</FMVAsOf123169>
+          <AdjustedBasisAsOf123169>174257</AdjustedBasisAsOf123169>
+          <ExcessOfFMVOverAdjustedBasis>35095</ExcessOfFMVOverAdjustedBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>2878700</GainOrLoss>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>3910898</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>61223</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>1312878</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>49116177</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.02673</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>1073000</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>17140835</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.062599</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>509500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>13266665</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.038405</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>315411</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>5231070</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.060296</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>72271</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>535379</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.13499</DistributionRatioYear5>
+        <TotalDistributionRatio>0.32302</TotalDistributionRatio>
+        <AverageDistributionRatio>0.064604</AverageDistributionRatio>
+        <NetNoncharitableAssets>59438484</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>3839964</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>48768</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>3888732</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>9035143</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>48768</InvestmentIncomeExciseTax>
+        <Subtotal>48768</Subtotal>
+        <TaxBasedOnInvestmentIncome>48768</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>132161</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>132161</TotalCreditsAndPayments>
+        <Overpayment>83393</Overpayment>
+        <AmountCreditedToNextYear>83393</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BRUCE R BERKOWITZ</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3056675437</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>14 TAHITI BEACH ISLAND ROAD</AddressLine1>
+          <City>CORAL GABLES</City>
+          <State>FL</State>
+          <ZIPCode>33143</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BRUCE BERKOWITZ</PersonName>
+          <USAddress>
+            <AddressLine1>14 TAHITI BEACH ISLAND ROAD</AddressLine1>
+            <City>CORAL GABLES</City>
+            <State>FL</State>
+            <ZIPCode>33143</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>TRACEY BERKOWITZ</PersonName>
+          <USAddress>
+            <AddressLine1>14 TAHITI BEACH ISLAND ROAD</AddressLine1>
+            <City>CORAL GABLES</City>
+            <State>FL</State>
+            <ZIPCode>33143</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>CHARITABLE EVENT</Description1>
+        <Expenses1>8477</Expenses1>
+        <Description2>OCCUPANCY EXPENSES PERTAINING TO CHARITABLE EVENTS ON BEHALF OF UNIVERSITY MIAMI, MIAMI CHILDREN'S HOSPITAL)</Description2>
+        <Expenses2>375366</Expenses2>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>59564907</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>778732</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>60343639</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>60343639</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>905155</CashDeemedCharitable>
+        <NetNoncharitableAssets>59438484</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>2971924</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>2971924</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>48768</TaxBasedOnInvestmentIncome>
+        <TotalTax>48768</TotalTax>
+        <DistributableAmountBeforeAdj>2923156</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>2923156</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>2923156</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>9035143</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>9035143</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>48768</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>8986375</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>2923156</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>682478</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <QualifyingDistributions>9035143</QualifyingDistributions>
+        <AppliedToYear1>682478</AppliedToYear1>
+        <AppliedToCurrentYear>2923156</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>5429509</RemainingDistriFromCorpus>
+        <TotalCorpus>5429509</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>5429509</ExcessDistriCyovToNextYear>
+        <ExcessFromCurrentYear>5429509</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>BRUCE BERKOWITZ TRUSTEE</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CENTER FOR JEWISH HISTORY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15 WEST 16TH STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10011</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>6750000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MIAMI ART MUSEUM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>101 W Flagler St</AddressLine1>
+            <City>Miami</City>
+            <State>FL</State>
+            <ZIPCode>33130</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRS SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GULLIVER SCHOOLS INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6575 N Kendall Drive</AddressLine1>
+            <City>Pinecrest</City>
+            <State>FL</State>
+            <ZIPCode>33156</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>230000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NEW WORLD SYMPHONY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>541 LINCOLN ROAD</AddressLine1>
+            <City>MIAMI BEACH</City>
+            <State>FL</State>
+            <ZIPCode>33139</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>225000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BIG BROTHERS BIG SISTERS OF GREATER MIAMI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>701 SW 27th AVE SUITE 800</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33135</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TEMPLE BETH AM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5950 N KENDALL DRIVE</AddressLine1>
+            <City>PINECREST</City>
+            <State>FL</State>
+            <ZIPCode>331562068</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ADRIENNE ARSHT CTR FOR PERFORMING ARTS MIAMI-DADE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1300 BISCAYNE BLVD</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33132</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>20000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMILLUS HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>336 NW Fifth Street</AddressLine1>
+            <City>Miami</City>
+            <State>FL</State>
+            <ZIPCode>33128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>35000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHABAD CENTER OF KENDALL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8700 SW 112 Street</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33176</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>100000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLUMBIA BUSINESS SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>475 Riverside Drive</AddressLine1>
+            <AddressLine2>Mail Code 7724</AddressLine2>
+            <City>New York</City>
+            <State>NY</State>
+            <ZIPCode>10023</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN FRIENDS MAGEN DAVID ADOM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2100 E HALLANDALE BEACH BLVD</AddressLine1>
+            <AddressLine2>SUITE 205</AddressLine2>
+            <City>HALLANDALE</City>
+            <State>FL</State>
+            <ZIPCode>33009</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>400000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MIAMI CHILDREN'S HOSPITAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3000 SW 62ND AVENUE</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33155</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>37500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>OPPORTUNITY PROJECT INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>60 EAST WILLOW STREET</AddressLine1>
+            <City>MILLBURN</City>
+            <State>NJ</State>
+            <ZIPCode>07041</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PROJECT RENEWAL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>200 VARICK STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10014</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>4750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPECIAL OLYMPICS OF FLORIDA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2335 NW 107TH AVENUE</AddressLine1>
+            <AddressLine2>BOX 57</AddressLine2>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33172</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>15750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ST PHILLIPS EPISCOPAL SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1142 CORAL WAY</AddressLine1>
+            <City>CORAL GABLES</City>
+            <State>FL</State>
+            <ZIPCode>33134</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED WAY OF MIAMI-DADE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>THE ANSIN BUILDING</AddressLine1>
+            <AddressLine2>3250 SOUTHWEST THIRD AVE</AddressLine2>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33129</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MIAMI</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 248073</AddressLine1>
+            <City>CORAL GABLES</City>
+            <State>FL</State>
+            <ZIPCode>33124</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>301000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AEPI FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>FLORIDA ATLANTIC UNIVERSITY HILLEL</AddressLine1>
+            <AddressLine2>777 GLADES ROAD</AddressLine2>
+            <City>BOCA RATON</City>
+            <State>FL</State>
+            <ZIPCode>33431</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN FRIENDS OF THE HEBREW UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>7280 WEST PALMETTO PARK RD STE 301</AddressLine1>
+            <City>HALLANDALE</City>
+            <State>FL</State>
+            <ZIPCode>33433</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CAMP BOGGY CREEK</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>30500 BRANTLEY BRANCH RD</AddressLine1>
+            <City>EUSTIS</City>
+            <State>FL</State>
+            <ZIPCode>32736</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CORAL GABLES FIRE RESCUE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2815 SALZEDO STREET</AddressLine1>
+            <City>CORAL GABLES</City>
+            <State>FL</State>
+            <ZIPCode>33134</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DUKE UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>BOX 90600</AddressLine1>
+            <City>DURHAM</City>
+            <State>NC</State>
+            <ZIPCode>22708</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GUITAR STAR INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>8611 SW 68TH CT</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33143</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>JESPY HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>102 PROSPECT STREET</AddressLine1>
+            <City>SOUTH ORANGE</City>
+            <State>NJ</State>
+            <ZIPCode>07079</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL BREAST CANCER FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2600 NETWORK BLVD SUITE 300</AddressLine1>
+            <City>FRISCO</City>
+            <State>TX</State>
+            <ZIPCode>75034</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>300</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NATIONAL FOUNDATION FOR ADVANCEMENT IN ARTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>777 BRICKELL AVENUE SUITE 370</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33131</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>35000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PLAYGROUND THEATRE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>9806 NE 2ND AVENUE</AddressLine1>
+            <City>MIAMI SHORES</City>
+            <State>FL</State>
+            <ZIPCode>33138</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RED CROSS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 4002018</AddressLine1>
+            <City>DES MOINES</City>
+            <State>IA</State>
+            <ZIPCode>50340</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVADORIAN AMERICAN HUMANITARIAN FDN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2050 CORAL WAY SUITE 600</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33145</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>30000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SAVE VENICE INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1104 LEXINGTON AVE 4C</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10075</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE BUONICONTI FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1095 NW 14TH TERRACE</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33136</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE WOMEN OF TOMORROW MENTOR &amp; SCHOLARSHIP</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>22 E FLAGLER ST 6TH FL</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33131</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MIAMI EXECUTIVE MEDICINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1150 NW 14TH ST SUITE 130</AddressLine1>
+            <City>MIAMI</City>
+            <State>FL</State>
+            <ZIPCode>33136</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>50000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WALKING 4 FRIENDSHIP-FRIENDSHIP CIRCLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6892 W MAPLE RD</AddressLine1>
+            <City>WEST BLOOMFIELD</City>
+            <State>MI</State>
+            <ZIPCode>48322</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>IRC SEC 501(C)(3)</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GENERAL PURPOSE</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>8651300</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst />
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>974384</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>2678977</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>3653361</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>3653361</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>EAST LANE LLC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>14 TAHITI BEACH ISLAND RD</AddressLine1>
+          <City>CORAL GABLES</City>
+          <State>FL</State>
+          <ZIPCode>33143</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>10741026</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>FAIRHOLME CAPITAL MANAGEMENT LLC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>4400 BISCAYNE BLVD 9TH FL</AddressLine1>
+          <City>MIAMI</City>
+          <State>FL</State>
+          <ZIPCode>33137</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>19000000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>EAST LANE LLC</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>14 TAHITI BEACH ISLAND RD</AddressLine1>
+          <City>CORAL GABLES</City>
+          <State>FL</State>
+          <ZIPCode>33143</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>102953</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameIndividual>BRUCE TRACEY BERKOWITZ</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>14 TAHITI BEACH ISLAND ROAD</AddressLine1>
+          <City>CORAL GABLES</City>
+          <State>FL</State>
+          <ZIPCode>33143</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>144582</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>5</ContributorNumber>
+        <ContributorNameIndividual>BRUCE TRACEY BERKOWITZ</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>14 TAHITI BEACH ISLAND ROAD</AddressLine1>
+          <City>CORAL GABLES</City>
+          <State>FL</State>
+          <ZIPCode>33143</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>18538616</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>242,994 SHS IMPERIAL METALS</NoncashPropertyDescription>
+        <FairMarketValue>10741026</FairMarketValue>
+        <DateReceived>2010-12-27</DateReceived>
+      </NoncashProperty>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>5</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>733,524 SHS IMPERIAL METALS</NoncashPropertyDescription>
+        <FairMarketValue>18538616</FairMarketValue>
+        <DateReceived>2010-12-27</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>FIDELITY STOCKS</NameOfStock>
+        <EOYBookValue>29930766</EOYBookValue>
+        <EOYFMV>32441225</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FAIRHOLME HOLDINGS, LTD</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FAIRHOLME FUND</NameOfStock>
+        <EOYBookValue>50038460</EOYBookValue>
+        <EOYFMV>64160137</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>FAIRHOLME FOCUSED INCOME FUND</NameOfStock>
+        <EOYBookValue>6283845</EOYBookValue>
+        <EOYFMV>6391002</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="InvOtherSch2">
+      <InvestmentsOther>
+        <CategoryOrItem>INVESTMENT IN 21 TAHITI BEACH</CategoryOrItem>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>ISLAND RD, LLC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>8860078</BookValue>
+        <EOYFMV>8860078</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>CHARITABLE EVENT</Description>
+        <RevenueAndExpensesPerBooks>8477</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>8477</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>PROFESSIONAL FEES</Category>
+        <Amount>4455</Amount>
+        <NetInvestmentIncome>4455</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>FOREIGN TAXES PAID</Category>
+        <Amount>4004</Amount>
+        <NetInvestmentIncome>4004</NetInvestmentIncome>
+      </Taxes>
+      <Taxes>
+        <Category>FEDERAL TAXES</Category>
+        <Amount>10643</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

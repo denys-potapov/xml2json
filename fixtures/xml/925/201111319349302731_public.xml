@@ -1,0 +1,773 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-11T18:58:28-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>JPGates CPA LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>10031 NE 14st Street</AddressLine1>
+        <City>Bothell</City>
+        <State>WA</State>
+        <ZIPCode>98011</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010925282</EIN>
+      <Name>
+        <BusinessNameLine1>HERO House</BusinessNameLine1>
+      </Name>
+      <NameControl>HERO</NameControl>
+      <Phone>4256141282</Phone>
+      <USAddress>
+        <AddressLine1>14230 NE 21st Street</AddressLine1>
+        <City>Bellevue</City>
+        <State>WA</State>
+        <ZIPCode>98007</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Robert Simpson</Name>
+      <Title>President</Title>
+      <Phone>4256141282</Phone>
+      <DateSigned>2011-05-10</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Joe Gates</Name>
+      <Phone>4258915853</Phone>
+      <DatePrepared>2011-05-11</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Robert Simpson</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>14230 NE 21st Street</AddressLine1>
+        <City>Bellevue</City>
+        <State>WA</State>
+        <ZIPCode>98007</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>422274</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>www.herohouse.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2009</YearFormation>
+      <StateLegalDomicile>WA</StateLegalDomicile>
+      <ActivityOrMissionDescription>The mission of HERO House, an ICCD clubhouse, is to provide rehabilitation programs for adults living with mental illness that facilitate their recovery through increased Hope, greater Empowerment, meaningful Relationships, and abundant Opportunities. HERO House Vision: A growing number of Eastside adults living with serious mental illness are regaining their lives and rejoining their community as respected, contributing members of society.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>8</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>8</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>6</TotalNbrEmployees>
+      <TotalNbrVolunteers>36</TotalNbrVolunteers>
+      <TotalGrossUBI>60</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>60</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>144962</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>404785</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>4195</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>17168</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>21</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>60</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>0</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>261</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>149178</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>422274</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>88038</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>190832</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>11007</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>35290</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>76858</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>181228</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>175903</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>372060</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-26725</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>50214</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>147283</TotalAssetsBOY>
+      <TotalAssetsEOY>204118</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>20846</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>27467</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>126437</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>176651</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>The mission of HERO House, an ICCD clubhouse, is to provide rehabilitation programs for adults living with mental illness that facilitate their recovery through increased Hope, greater Empowerment, meaningful Relationships, and abundant Opportunities. HERO House Vision: A growing number of Eastside adults living with serious mental illness are regaining their lives and rejoining their community as respected, contributing members of society.</MissionDescription>
+      <SignificantNewProgramServices>1</SignificantNewProgramServices>
+      <SignificantChange>1</SignificantChange>
+      <Expense>177127</Expense>
+      <Revenue>277860</Revenue>
+      <Description>Clubhouse philosophy is based on the Work-Ordered Day, functioning as a business where members are encouraged to develop and strengthen their talents and abilities while accomplishing the clubhouse work. No clubhouse could function without the Hospitality Unit (Food Service Unit). In the morning the main focus is on preparing nutritious meals for everyone in the clubhouse. At lunchtime there are opportunities for members to get involved in serving the food and in cleaning up. The Hospitality Unit also includes operation/management of the Snack Bar, Bank, Employment and Social Program. The following tasks are part of this unit: Cooking/Baking,Menu planning, Grocery shopping, Preparing meals, Taking orders for lunch and waiting on tables, Cleaning/dishwashing, Organizing/restocking the Snack Bar, Keeping track of inventory, Depositing revenue, Operating the cash register, andPrimary event coordination for Special Events.The Hospitality Unit also operates the Snack Bar and the Member Bank. The Food Service unit is in charge of the "Dine with a HERO" program. In this program, we invite key community leaders, supporters, and stakeholders to our clubhouse for a tour, a meal, and short presentation. The Business Unit in a Clubhouse is always very busy and is responsible for all the general administrative and clerical tasks of the Clubhouse. Tasks include: 1. Statistics for Washington State Clubhouse Coalition and Medicaid 2. Basic Computing including database input, spreadsheets 3. Manages the IT needs of the clubhouse including: e-mail access, server, printers, copier, etc. 4. Enrollment of new members 5. Production of HERO House Herald newsletter 6. Reception 7. Creating and maintaining new documents 8. Copying, filing and collating 9. Maintenance of the unit (including Library, Media Center, Business Unit and Bathrooms) 10. Manages event announcements, weekly cards, birthday and celebration cards, and clubhouse mailingsVisits in the Work-Ordered Day program totaled 6,062 visits.</Description>
+      <Activity2>
+        <Expense>102291</Expense>
+        <Revenue>132508</Revenue>
+        <Description>Employment &amp; Educational Program: The Hero House Career Development Center is committed to supporting our members' educational and employment goals, from learning to read to finding employment. With today's jobs requiring specialized training and skills, the connection between having a solid education and career development has become increasingly crucial. Hero House has a good track record of initiating and developing Transitional Employment (TE). We have worked with local companies to place members on transitional employment jobs at their place of business since 2005. Through the TE program, managed by members and staff together, members are placed in paid, entry-level positions provided by participating companies. These placements are transitional in two senses: they let members ease into the world of work with a direct connection to the job, as well as on the job training and job site visits from Hero House placement managers. Typically, each placement lasts between six and nine months. The member may then move on to other placements until they are ready for a less supported job. Supported Employment (SE) combines aspects of both Transitional Employment and Independent Employment. It is designed to ease members integration into long-term jobs. While providing a direct referral from the clubhouse to the employer, as well as some initial on-job-training and assistance where it may be needed, SE is designed to offer ongoing Hero House support to members who are seeking or have moved into more permanent employment. This includes a full job search, assistance with application forms, resumes, cover letters, mock interviews, as well as accessing items needed for interviews, such as clothing. Once comfortably on the job, members are kept in touch with through employment phone reach out, monthly dinners and other supports as needed. It also provides support to the company that may initially be unsure about hiring a member for a regular job. Members with prior work experience, and/or job related education, skills and abilities as well as those who through TE complete a number of placements are encouraged to seek their own job. Hero House's Employment support helps them prepare resumes, coaches them in job search and interview techniques. Unlike TE and SE, members go on competitive interviews to get jobs gaining Independent Employment (IE). While members are working, they can continue to call on Hero House for support by phone and through a unit available to working members weekday evenings and Sunday afternoons. Job Club is held each week to assist members with becoming job ready. In Job Club Members take an active role toward moving back into the working community. Job Club helps members with writing resume's, preparing cover letters, searching for jobs, interview preparation, and overall job readiness.Hero House supports members with basic courses, geared toward supporting GED achievement, in reading, writing, math, and computers taught by Hero House members with subject matter expertise. Participants in the educational opportunities &amp; placed in employment totaled 63.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>7838</Expense>
+        <Revenue>11906</Revenue>
+        <Description>Social &amp; Recreational opportunities are available after the Work-Ordered Day which lessen the isolation of mental illness and aid in the persons recovery. Various outings have included Mariners Games, bowling, picnics, cinema, theatre, museums, arts &amp; crafts, game nights, dances and campouts to name just a few. All are offered free of charge or at reduced pricing.Participants in the social &amp; recreational programs totaled 2,019 visits.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>0</Expense>
+        <Grants>0</Grants>
+        <Revenue>0</Revenue>
+        <Description>No other programs.</Description>
+      </ActivityOther>
+      <TotalProgramServiceExpense>287256</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <SubjectToProxyTax>0</SubjectToProxyTax>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">1</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>1</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>67754</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>6</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <NumberOf8282Filed>0</NumberOf8282Filed>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <Form8899Filed>1</Form8899Filed>
+      <Form1098CFiled>0</Form1098CFiled>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>8</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>8</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>WA</StatesWhereCopyOfReturnIsFiled>
+      <OtherWebsite>X</OtherWebsite>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Erica Horn</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>4256141282</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>14230 NE 21st Street</AddressLine1>
+          <City>Bellevue</City>
+          <State>WA</State>
+          <ZIPCode>98007</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <NoListedPersonsCompensated>X</NoListedPersonsCompensated>
+      <Form990PartVIISectionA>
+        <NamePerson>Robert Simpson</NamePerson>
+        <Title>President</Title>
+        <AverageHoursPerWeek>15.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Phil Gerson</NamePerson>
+        <Title>Vice-President</Title>
+        <AverageHoursPerWeek>10.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Darlene Siegel</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Erica Levine</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>25.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Stan Donogh III</NamePerson>
+        <Title>Member Director</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Michael McCann</NamePerson>
+        <Title>Creative Director</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Joy Gerlicher</NamePerson>
+        <Title>Member Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Dana Shaw</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Harry Rubin</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Ala Batarseh</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Shefali Skukla</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Deby Macleod</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Roberta Lyon</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>5.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Tanya Eberhardt</NamePerson>
+        <Title>Director</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <FundraisingEvents>76240</FundraisingEvents>
+      <GovernmentGrants>267909</GovernmentGrants>
+      <AllOtherContributions>60636</AllOtherContributions>
+      <NoncashContributions>27885</NoncashContributions>
+      <TotalContributions>404785</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Provail Traumatic Brai</Description>
+        <BusinessCode>611430</BusinessCode>
+        <TotalRevenueColumn>13700</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>13700</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Snack-bar and kitchen</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>3468</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>3468</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>17168</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>60</TotalRevenueColumn>
+        <UnrelatedBusinessRevenue>60</UnrelatedBusinessRevenue>
+      </InvestmentIncome>
+      <GrossIncomeFundraisingEvents>0</GrossIncomeFundraisingEvents>
+      <CntrbtnsRprtdFundraisingEvents>76240</CntrbtnsRprtdFundraisingEvents>
+      <NetIncomeFromFundraisingEvents>
+        <TotalRevenueColumn>0</TotalRevenueColumn>
+      </NetIncomeFromFundraisingEvents>
+      <OtherRevenueMisc>
+        <Description>Miscellaneous</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>261</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>261</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>261</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>422274</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>17429</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>60</UnrelatedBusinessRevenue>
+        <ExclusionAmount>0</ExclusionAmount>
+      </TotalRevenue>
+      <OtherSalariesAndWages>
+        <Total>162538</Total>
+        <ProgramServices>134334</ProgramServices>
+        <ManagementAndGeneral>14102</ManagementAndGeneral>
+        <Fundraising>14102</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>136</Total>
+        <ProgramServices>110</ProgramServices>
+        <ManagementAndGeneral>13</ManagementAndGeneral>
+        <Fundraising>13</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>11479</Total>
+        <ProgramServices>7872</ProgramServices>
+        <ManagementAndGeneral>1803</ManagementAndGeneral>
+        <Fundraising>1804</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>16679</Total>
+        <ProgramServices>11478</ProgramServices>
+        <ManagementAndGeneral>2600</ManagementAndGeneral>
+        <Fundraising>2601</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesManagement>
+        <Total>8663</Total>
+        <ProgramServices>2437</ProgramServices>
+        <ManagementAndGeneral>4812</ManagementAndGeneral>
+        <Fundraising>1414</Fundraising>
+      </FeesForServicesManagement>
+      <FeesForServicesAccounting>
+        <Total>10505</Total>
+        <ProgramServices>2956</ProgramServices>
+        <ManagementAndGeneral>5835</ManagementAndGeneral>
+        <Fundraising>1714</Fundraising>
+      </FeesForServicesAccounting>
+      <OfficeExpenses>
+        <Total>6050</Total>
+        <ProgramServices>4087</ProgramServices>
+        <ManagementAndGeneral>513</ManagementAndGeneral>
+        <Fundraising>1450</Fundraising>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>80205</Total>
+        <ProgramServices>71513</ProgramServices>
+        <ManagementAndGeneral>8692</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>3989</Total>
+        <ProgramServices>1233</ProgramServices>
+        <ManagementAndGeneral>2667</ManagementAndGeneral>
+        <Fundraising>89</Fundraising>
+      </Travel>
+      <DepreciationDepletion>
+        <Total>14556</Total>
+        <ProgramServices>14556</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>3122</Total>
+        <ManagementAndGeneral>3122</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Licenses, fees, and tax</Description>
+        <Total>27885</Total>
+        <ProgramServices>17885</ProgramServices>
+        <Fundraising>10000</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Supplies</Description>
+        <Total>13588</Total>
+        <ProgramServices>10855</ProgramServices>
+        <ManagementAndGeneral>729</ManagementAndGeneral>
+        <Fundraising>2004</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Education and training</Description>
+        <Total>5005</Total>
+        <ProgramServices>3562</ProgramServices>
+        <ManagementAndGeneral>1344</ManagementAndGeneral>
+        <Fundraising>99</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Vehicle</Description>
+        <Total>4081</Total>
+        <ProgramServices>4073</ProgramServices>
+        <ManagementAndGeneral>8</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Dues and memberships</Description>
+        <Total>2116</Total>
+        <ProgramServices>181</ProgramServices>
+        <ManagementAndGeneral>1935</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>1463</Total>
+        <ProgramServices>124</ProgramServices>
+        <ManagementAndGeneral>1339</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>372060</Total>
+        <ProgramServices>287256</ProgramServices>
+        <ManagementAndGeneral>49514</ManagementAndGeneral>
+        <Fundraising>35290</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>58537</BOY>
+        <EOY>126947</EOY>
+      </CashNonInterestBearing>
+      <PledgesAndGrantsReceivable>
+        <BOY>37151</BOY>
+        <EOY>37995</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>1759</BOY>
+        <EOY>1011</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <EOY>448</EOY>
+      </InventoriesForSaleOrUse>
+      <LandBuildingsEquipmentBasis>57413</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>22974</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>43076</BOY>
+        <EOY>34439</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>2358</BOY>
+        <EOY>3278</EOY>
+      </InvestmentsPubTradedSecurities>
+      <OtherAssetsTotal>
+        <BOY>4402</BOY>
+        <EOY>0</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>147283</BOY>
+        <EOY>204118</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>3845</BOY>
+        <EOY>10624</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>17001</BOY>
+        <EOY>16843</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>20846</BOY>
+        <EOY>27467</EOY>
+      </TotalLiabilities>
+      <DoNotFollowSFAS117>X</DoNotFollowSFAS117>
+      <CapStckTrstPrinCurrentFunds>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </CapStckTrstPrinCurrentFunds>
+      <PaidInCapSrplsLandBldgEqpFund>
+        <BOY>0</BOY>
+        <EOY>0</EOY>
+      </PaidInCapSrplsLandBldgEqpFund>
+      <RetainedEarningsEndowmentEtc>
+        <BOY>126437</BOY>
+        <EOY>176651</EOY>
+      </RetainedEarningsEndowmentEtc>
+      <TotalNetAssetsFundBalances>
+        <BOY>126437</BOY>
+        <EOY>176651</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>147283</BOY>
+        <EOY>204118</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>50214</ReconcilationRevenueExpenses>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg170b1Avi>X</PubliclySupportedOrg170b1Avi>
+      <GiftsGrantsContribReceived170>
+        <CurrentTaxYearMinus1Year>144962</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>404785</CurrentTaxYear>
+        <Total>549747</Total>
+      </GiftsGrantsContribReceived170>
+      <Total170>
+        <CurrentTaxYearMinus1Year>144962</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>404785</CurrentTaxYear>
+        <Total>549747</Total>
+      </Total170>
+      <AmountsSubstContributorsTotal>46566</AmountsSubstContributorsTotal>
+      <PublicSupportTotal170>503181</PublicSupportTotal170>
+      <GrossInvestmentIncome170>
+        <CurrentTaxYearMinus1Year>21</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>60</CurrentTaxYear>
+        <Total>81</Total>
+      </GrossInvestmentIncome170>
+      <OtherIncome170>
+        <CurrentTaxYear>261</CurrentTaxYear>
+        <Total>261</Total>
+      </OtherIncome170>
+      <TotalSupport>550089</TotalSupport>
+      <GrossReceiptsFromAdmissionsEtc>21363</GrossReceiptsFromAdmissionsEtc>
+      <First5Years170>X</First5Years170>
+      <FactsAndCircumstancesTest>The Organization received 97% of its total support from governmental entities and the general public in 2009 and 96% in 2010. The Organization was established in 2009.</FactsAndCircumstancesTest>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>21466</OtherCostOrOtherBasis>
+        <Depreciation>7528</Depreciation>
+        <BookValue>13938</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>28512</OtherCostOrOtherBasis>
+        <Depreciation>12889</Depreciation>
+        <BookValue>15623</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>7435</OtherCostOrOtherBasis>
+        <Depreciation>2557</Depreciation>
+        <BookValue>4878</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>34439</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Compensation and payroll taxes payable</Description>
+        <Amount>10882</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Compensated absences payable</Description>
+        <Amount>5961</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>16843</TotalOfAmounts>
+      <TotalRevenue>422274</TotalRevenue>
+      <TotalExpenses>372060</TotalExpenses>
+      <ExcessOrDeficitForYear>50214</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>50214</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>422274</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>422274</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>422274</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>372060</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>372060</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>372060</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Description of Uncertain Tax Positions Under FIN 48:</Identifier>
+        <ReturnReference>Part X:</ReturnReference>
+        <Explanation>The Organization has adopted the provisions of FASB ASC 740-10-25, which requires that a tax position be recognized or derecognized based on a "more likely than not" threshold. This applies to positions taken or expected to be taken in a tax return. The Organization does not believe its financial statements include any uncertain tax positions.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleG documentId="RetDoc1041300001">
+      <EventsInformation>
+        <NameOfEvent1>Harvest Luncheon (GALA)</NameOfEvent1>
+        <GrossReceiptsEvent1>76240</GrossReceiptsEvent1>
+        <CharitableContributionsEvent1>76240</CharitableContributionsEvent1>
+        <GrossReceiptsTotal>76240</GrossReceiptsTotal>
+        <CharitableContributionsTotal>76240</CharitableContributionsTotal>
+      </EventsInformation>
+      <NameOfGamingRecKeeperPerson>Erica Horn</NameOfGamingRecKeeperPerson>
+      <AddressOfGamingRecKeeperUS>
+        <AddressLine1>14230 NE 21st Street</AddressLine1>
+        <City>Bellevue</City>
+        <State>WA</State>
+        <ZIPCode>98007</ZIPCode>
+      </AddressOfGamingRecKeeperUS>
+    </IRS990ScheduleG>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <FoodInventory>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <NumberOfContributions>26</NumberOfContributions>
+        <NoncashContribsRptdF990>15720</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>Estimated fair value</MethodOfDeterminingRevenues>
+      </FoodInventory>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>Furniture</Description>
+        <NumberOfContributions>1</NumberOfContributions>
+        <NoncashContribsRptdF990>2000</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>Estimated fair value</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>Starbucks</Description>
+        <NumberOfContributions>2</NumberOfContributions>
+        <NoncashContribsRptdF990>50</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>Estimated fair value</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>Computer accessories</Description>
+        <NumberOfContributions>3</NumberOfContributions>
+        <NoncashContribsRptdF990>115</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>Estimated fair value</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>Professional svcs for video</Description>
+        <NumberOfContributions>1</NumberOfContributions>
+        <NoncashContribsRptdF990>10000</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>Estimated fair value</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <NumberOf8283Received>0</NumberOf8283Received>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>0</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+      <Form990ScheduleMPartII>
+        <Identifier>Method for Determining Number of Contributors:</Identifier>
+        <ReturnReference>Part I, Column (b):</ReturnReference>
+        <Explanation>The number of contributions consist of a count of the individuals or organizations that contributed goods or services.</Explanation>
+      </Form990ScheduleMPartII>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>New Program Services</Identifier>
+        <ReturnReference>Form 990, Part III, line 2</ReturnReference>
+        <Explanation>King County awarded HERO House a Supported Employment Program contract which enables HERO House to fulfill its mission and commitment to the members it serves by helping to build employable skills, placement, and support in employment opportunities. This is not a totally new program as employment has been a focus of HERO House but having the financial support of King County enables HERO House to continue to expand employment opportunities for its members.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Changes in Program Services</Identifier>
+        <ReturnReference>Form 990, Part III, line 3</ReturnReference>
+        <Explanation>Programs were broken out in different categories in 2010 as compared to 2009 which more accurately reflect what HERO House does. Instead of Medicaid recipients vs non-Medicaid recipients vs Department of Vocational Rehabilitation recipients, which still reflects the makeup of our membership, we are reporting on outcomes: participants in work-ordered day activities, participants in employment and educational activities, and participants in the social &amp; recreational programming.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>Copies of the Form 990 are reviewed by the Executive Director and the Finance Committee, including the President of the Board, prior filing the document with the IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 12c</ReturnReference>
+        <Explanation>The Executive Director assists the Board with regularly and consistently monitoring and enforcing compliance with the conflict of interest policy.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15</ReturnReference>
+        <Explanation>The process for determining compensation of the organization's officers included a review and approval by independent persons, comparability data, and contemporaneous substantiation of the deliberation and decision.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>The organization makes its Form 990 available to the public using GuideStar who receives the 990 from the IRS. The HERO House makes governing documents available upon request. Board members review financial statements on a monthly basis. After the audit process, the auditor goes over the financials with the Board. The audited financial statements are routinely shared with potential grantors and a summarized version of the financial data is shared with donors, etc. in an annual report.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>HERO House has a Finance Committee that assumes responsibility for oversight of audits, reviews, or compilations of its financial statements and for selecting an independent accountant. The Finance Committee was established when HERO House started operations in August 2009.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

@@ -1,0 +1,1410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-11T12:50:52-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ALBIN RANDALL &amp; BENNETT</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO BOX 445 130 MIDDLE STREET</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>041120445</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010421806</EIN>
+      <Name>
+        <BusinessNameLine1>THE WILLIAM AND JOAN ALFOND FOUNDATION</BusinessNameLine1>
+        <BusinessNameLine2>C/O DEXTER ENTERPRISES INC</BusinessNameLine2>
+      </Name>
+      <NameControl>WILL</NameControl>
+      <Phone>2078287999</Phone>
+      <USAddress>
+        <AddressLine1>TWO MONUMENT SQUARE</AddressLine1>
+        <City>PORTLAND</City>
+        <State>ME</State>
+        <ZIPCode>04101</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>GREGORY POWELL</Name>
+      <Title>CORPORATE OFFICER</Title>
+      <Phone>2078287999</Phone>
+      <DateSigned>2011-07-29</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>DANIEL P DOIRON</Name>
+      <Phone>2077721981</Phone>
+      <DatePrepared>2011-07-29</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>24370074</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>7084986</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>596</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>596</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>6078</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>6078</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss referenceDocumentId="RetDoc2213400001">868684</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>901507</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>19860</CapitalGainNetIncmNetInvstIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="RetDoc2001500001">3070</OtherIncomeRevAndExpnss>
+        <OtherIncomeNetInvstIncm>3070</OtherIncomeNetInvstIncm>
+        <TotalRevenueAndExpenses>7963414</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>29604</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">4315</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>4315</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">97595</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>19242</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>78353</OtherProfFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>2</InterestRevAndExpnss>
+        <InterestNetInvstIncm>2</InterestNetInvstIncm>
+        <InterestDsbrsChrtblPrps>0</InterestDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="RetDoc2003200001">38706</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>34920</OtherExpensesNetInvstIncm>
+        <OtherExpensesDsbrsChrtblPrps>3662</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>140618</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>54164</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>86330</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>1055588</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>1055588</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>1196206</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>54164</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>1141918</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>6767208</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>52631</CashBOY>
+        <CashEOY>4800</CashEOY>
+        <CashEOYFMV>4800</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>970002</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>295660</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>295660</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>1651898</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">1655053</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>15828165</InvestmentsCorpStockEOYFMV>
+        <InvestmentsOtherBOY>6196074</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="RetDoc2018100001">6628231</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>8241449</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>8870605</TotalAssetsBOY>
+        <TotalAssetsEOY>8583744</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>24370074</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>8870605</CapitalStockBOY>
+        <CapitalStockEOY>8583744</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>0</RetainedEarningsBOY>
+        <RetainedEarningsEOY>0</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>8870605</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>8583744</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>8870605</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>8583744</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>8870605</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>6767208</ExcessOfRevenueOverExpenses>
+        <OtherIncreases>0</OtherIncreases>
+        <Subtotal>15637813</Subtotal>
+        <OtherDecreases referenceDocumentId="RetDoc2049800001">7054069</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>8583744</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>5 SH BERKSHIRE HATHAWAY CL B</DescriptionOfAsset>
+          <DateAcquired>1993-11-07</DateAcquired>
+          <DateSold>2010-01-25</DateSold>
+          <GrossSalesPrice>16822</GrossSalesPrice>
+          <CostOrOtherBasis>735</CostOrOtherBasis>
+          <GainOrLoss>16087</GainOrLoss>
+          <GainsMinusExcessOrLosses>16087</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LEGACY VENTURE V (QP) LLC K-1</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>2311</GrossSalesPrice>
+          <GainOrLoss>2311</GainOrLoss>
+          <GainsMinusExcessOrLosses>2311</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LEGACY VENTURE V (QP) LLC K-1</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>730</GrossSalesPrice>
+          <GainOrLoss>730</GainOrLoss>
+          <GainsMinusExcessOrLosses>730</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAINS DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GrossSalesPrice>732</GrossSalesPrice>
+          <GainOrLoss>732</GainOrLoss>
+          <GainsMinusExcessOrLosses>732</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>19860</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>1129311</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>15769237</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.071615</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>1101989</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>21387978</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.051524</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>943419</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>22589173</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.041764</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>764024</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>19158881</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.039878</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>640620</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>17600657</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.036398</DistributionRatioYear5>
+        <TotalDistributionRatio>0.241179</TotalDistributionRatio>
+        <AverageDistributionRatio>0.048236</AverageDistributionRatio>
+        <NetNoncharitableAssets>17518071</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>845002</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>845002</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>1141918</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>0</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>4469</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>4469</TotalCreditsAndPayments>
+        <Overpayment>4469</Overpayment>
+        <AmountCreditedToNextYear>4469</AmountCreditedToNextYear>
+        <AmountToBeRefunded>0</AmountToBeRefunded>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>DEXTER ENTERPRISES INC</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>2078287999</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>TWO MONUMENT SQUARE</AddressLine1>
+          <City>PORTLAND</City>
+          <State>ME</State>
+          <ZIPCode>04101</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>1</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>1</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>0</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOAN ALFOND</PersonName>
+          <USAddress>
+            <AddressLine1>14 OTIS PLACE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02108</ZIPCode>
+          </USAddress>
+          <Title>VICE PRES, TREAS, DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>7.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GREGORY POWELL SEE FOOTNOTE</PersonName>
+          <USAddress>
+            <AddressLine1>TWO MONUMENT SQUARE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </USAddress>
+          <Title>SECRETARY</Title>
+          <AvgHoursPerWkDevotedToPosition>1.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM ALFOND</PersonName>
+          <USAddress>
+            <AddressLine1>14 OTIS PLACE</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02108</ZIPCode>
+          </USAddress>
+          <Title>PRESIDENT, DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>12.50</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>KENDEN ALFOND</PersonName>
+          <ForeignAddress>
+            <AddressLine1>15 AVENUE PICTET DE ROCHEMONT</AddressLine1>
+            <City>GENEVA</City>
+            <Country>SZ</Country>
+          </ForeignAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUSTIN ALFOND</PersonName>
+          <USAddress>
+            <AddressLine1>134 SHERIDAN STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>REIS ALFOND</PersonName>
+          <USAddress>
+            <AddressLine1>1120 PARK AVENUE APT 14B</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10128</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompensationOfHghstPaidCntrct>
+          <BusinessName>
+            <BusinessNameLine1>DEXTER ENTERPRISES INC</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>TWO MONUMENT SQUARE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </USAddress>
+          <TypeOfService>INVESTMENT &amp; GRANT ADMINISTRATION</TypeOfService>
+          <Compensation>61804</Compensation>
+        </CompensationOfHghstPaidCntrct>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>NONE</Description1>
+        <Expenses1>0</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NONE</Description1>
+        <Amount1>0</Amount1>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>17182655</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>602189</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>17784844</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>17784844</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>266773</CashDeemedCharitable>
+        <NetNoncharitableAssets>17518071</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>875904</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>875904</MinimumInvestmentReturn>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>875904</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>875904</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>875904</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>1141918</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>1141918</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>1141918</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>875904</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>668508</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>1141918</QualifyingDistributions>
+        <AppliedToYear1>668508</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>473410</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>402494</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>WILLIAM ALFOND</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>THE WILLIAM JOAN ALFOND FOUNDATION</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>TWO MONUMENT SQUARE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2078287999</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>APPLICANTS SHOULD SUBMIT THEIR REQUESTS AS FOLLOWS: (1) A BRIEF (1-3 PAGE) LETTER DESCRIBING THE PROJECT, DRIVE OR CAMPAIGN. THIS SHOULD INCLUDE A STATEMENT OF NEED, NUMBER OF PEOPLE BENEFITED, GEOGRAPHIC AREA SERVED, TOTAL FUND RAISING GOAL, STRATEGY AND AMOUNT REQUESTED FROM THE FOUNDATION, (2) CAPITAL CAMPAIGNS AND SPECIAL PROJECTS SHOULD ALSO INCLUDE A BUDGET, (3) ORGANIZATIONS SHOULD ENCLOSE A COPY OF THEIR 501(C)(3) DETERMINATION LETTER, (4) OTHER SUPPORTING MATERIAL.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NO SUBMISSION DEADLINES.</SubmissionDeadlines>
+          <RestrictionsOnAwards>THE FOUNDATION CONTRIBUTES TO ORGANIZATIONS IN THE FIELDS OF HIGHER EDUCATION, HEALTH CARE AND MEDICAL RESEARCH. THE FOUNDATION ALSO CONTRIBUTES TO WORTHY CHARITIES WITHIN ITS PRINCIPAL AREA OF GEOGRAPHIC INTEREST. WHEN CONSIDERING MAJOR GRANTS, THE FOUNDATION NORMALLY REQUIRES THAT THE GRANTEE RAISE MATCHING FUNDS FROM OTHER ORGANIZATIONS AND INDIVIDUALS.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ABBOTT MEMORIAL LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE CHURCH STREET</AddressLine1>
+            <City>DEXTER</City>
+            <State>ME</State>
+            <ZIPCode>04930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHILDREN'S BOOKS</PurposeOfGrantOrContribution>
+          <Amount>550</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN LUNG ASSOCIATION OF MAINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>122 STATE STREET</AddressLine1>
+            <City>AUGUSTA</City>
+            <State>ME</State>
+            <ZIPCode>04330</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TREK ACROSS MAINE</PurposeOfGrantOrContribution>
+          <Amount>180</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BELGRADE LAKES ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 551</AddressLine1>
+            <City>BELGRADE LAKES</City>
+            <State>ME</State>
+            <ZIPCode>04918</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DOCKS TO DOORWAYS</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BELMONT GOLF SCHOLARSHIP FUND</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>219 BEAR HILL ROAD</AddressLine1>
+            <City>WALTHAM</City>
+            <State>MA</State>
+            <ZIPCode>02451</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A2 1/3 GROS</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FUND</PurposeOfGrantOrContribution>
+          <Amount>336</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BETH ISRAEL CONGREGATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>291 MAIN STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNUAL APPEAL</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOYS AND GIRLS CLUBS OF AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5 HANOVER SQUARE 3RD FLOOR</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10004</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TOURNAMENT SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>14000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARIBOU PARKS &amp; RECREATION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>25 HIGH STREET</AddressLine1>
+            <City>CARIBOU</City>
+            <State>ME</State>
+            <ZIPCode>04736</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CARIBOU COMMUNITY WELLNESS CENTER</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARRABASSETT VALLEY ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3197 CARRABASSETT DRIVE</AddressLine1>
+            <City>CARRABASSETT VALLEY</City>
+            <State>ME</State>
+            <ZIPCode>04947</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HEADMASTER FUND</PurposeOfGrantOrContribution>
+          <Amount>4500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CHARLES RIVER CONSERVANCY INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4 BRATTLE STREET</AddressLine1>
+            <City>CAMBRIDGE</City>
+            <State>MA</State>
+            <ZIPCode>02128</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>150</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLBY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4800 MAYFLOWER HILL</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLBY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4800 MAYFLOWER HILL</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FOOTBALL PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COMBINED JEWISH PHILANTHOPIES OF GREATER BOSTON INC</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>126 HIGH STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>021102700</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DANA FARBER CANCER INSTITUTE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>44 BINNEY STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02115</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>LA PETITE SURPRISE</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EAGLEBROOK SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PINE NOOK ROAD</AddressLine1>
+            <City>DEERFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01342</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>1964 FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF BLAINE HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 68</AddressLine1>
+            <City>AUGUSTA</City>
+            <State>ME</State>
+            <ZIPCode>04332</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FRIENDS OF BELGRADE PUBLIC LIBRARY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 CENTER DRIVE</AddressLine1>
+            <City>BELGRADE</City>
+            <State>ME</State>
+            <ZIPCode>04917</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHILDREN'S BOOKS</PurposeOfGrantOrContribution>
+          <Amount>950</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOVERNOR DUMMER ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 ELM STREET</AddressLine1>
+            <City>BYFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01922</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FUNDRAISING SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOVERNOR DUMMER ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 ELM STREET</AddressLine1>
+            <City>BYFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01922</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CLASS OF 1967 ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOVERNOR DUMMER ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 ELM STREET</AddressLine1>
+            <City>BYFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01922</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>HARDY GIRLS HEALTHY WOMEN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 821</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04903</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FREAKY 5K</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KEHILATH AISH KODESH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1805 BALSAM AVENUE</AddressLine1>
+            <City>BOULDER</City>
+            <State>CO</State>
+            <ZIPCode>80304</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SHABBAT CHILDCARE/FUNDRAISING</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KENNEBEC VALLEY COMMUNITY ACTION PROGRAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>97 WATER STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KENNEBEC VALLEY COMMUNITY ACTION PROGRAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>97 WATER STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCARE CONSTRUCTION &amp; START-UP</PurposeOfGrantOrContribution>
+          <Amount>882072</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KENNEBEC VALLEY COMMUNITY COLLEGE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>92 WESTERN AVE</AddressLine1>
+            <City>FAIRFIELD</City>
+            <State>ME</State>
+            <ZIPCode>04937</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FUND</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAINE CHILDRENS HOME FOR LITTLE WANDERERS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>93 SILVER STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>TEEN PARENTING PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>15000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MILESTONE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>28 PORTLAND AVENUE</AddressLine1>
+            <City>OLD ORCHARD BEACH</City>
+            <State>ME</State>
+            <ZIPCode>04064</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MSAD #46</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10 SPRING STREET</AddressLine1>
+            <City>DEXTER</City>
+            <State>ME</State>
+            <ZIPCode>04930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DEXTER PRE K-8 SCHOOL GYM DEBT SERVICE</PurposeOfGrantOrContribution>
+          <Amount>28900</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>NOBLE AND GREENOUGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10 CAMPUS DRIVE</AddressLine1>
+            <City>DEDHAM</City>
+            <State>MA</State>
+            <ZIPCode>020264099</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>ONE REVOLUTION FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 981748</AddressLine1>
+            <City>PARK CITY</City>
+            <State>UT</State>
+            <ZIPCode>84098</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>RED SOX FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4 YAWKEY WAY</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02215</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>HOME BASE PROGRAM</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SALVATION ARMY AND ITS COMPONENTS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>297 CUMBERLAND AVE</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04104</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPACE GALLERY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>538 CONGRESS STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNITED STATES BIATHLON ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>49 PINELAND DRIVE SUITE 301A</AddressLine1>
+            <City>NEW GLOUCESTER</City>
+            <State>ME</State>
+            <ZIPCode>04260</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GOLD MEDAL CAMPAIGN</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MAINE FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>TWO ALUMNI PLACE</AddressLine1>
+            <City>ORONO</City>
+            <State>ME</State>
+            <ZIPCode>04469</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ELLEN LORING MUSEUM FUND</PurposeOfGrantOrContribution>
+          <Amount>10000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WASHINGTON DC CENTER ON AGING</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10225 MONTGOMERY AVENUE</AddressLine1>
+            <City>KENSINGTON</City>
+            <State>MD</State>
+            <ZIPCode>20895</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>LEVINE LEGACY PROJECT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CITY OF WATERVILLE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 COMMON STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>QUARRY ROAD SKI TRAIL, PHASE 1</PurposeOfGrantOrContribution>
+          <Amount>40000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRUSTEES OF DARTMOUTH COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>6132 MCNUTT ROOM 103</AddressLine1>
+            <City>HANOVER</City>
+            <State>NH</State>
+            <ZIPCode>03755</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FRIENDS OF SOCCER</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MAINE WOMENS POLICY CENTER</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 85</AddressLine1>
+            <City>HALLOWELL</City>
+            <State>ME</State>
+            <ZIPCode>04347</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>GIRLS DAY AT STATE HOUSE</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>THE TELLING ROOM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>225 COMMERCIAL STREET</AddressLine1>
+            <City>PORTLAND</City>
+            <State>ME</State>
+            <ZIPCode>04101</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A2 1/3 GROS</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MAINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5747 MEMORIAL GYM</AddressLine1>
+            <City>ORONO</City>
+            <State>ME</State>
+            <ZIPCode>04469</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>3200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>WATERVILLE HIGH SCHOOL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>ONE BROOKLYN AVENUE</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>WATERVILLE TRACK</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CONGREGATION BETH ISRAEL</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>144 YORK STREET</AddressLine1>
+            <City>BANGOR</City>
+            <State>ME</State>
+            <ZIPCode>04401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TRAVELERS AID FAMILY SERVICES</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>17 EAST STREET</AddressLine1>
+            <City>BOSTON</City>
+            <State>MA</State>
+            <ZIPCode>02111</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>ANNNUAL FUND</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>TWOTEN INTERNATIONAL FOOTWEAR FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1466 MAIN STREET</AddressLine1>
+            <City>WALTHAM</City>
+            <State>MA</State>
+            <ZIPCode>02154</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>1055588</TotGrantOrContriPaidDuringYear>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>CARRABASSETT VALLEY ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3197 CARRABASSETT DRIVE</AddressLine1>
+            <City>CARRABASSETT VALLEY</City>
+            <State>ME</State>
+            <ZIPCode>04947</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP FUND</PurposeOfGrantOrContribution>
+          <Amount>180000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COLBY COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>4800 MAYFLOWER HILL</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>FIELD TURF PROJECT</PurposeOfGrantOrContribution>
+          <Amount>210578</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOVERNOR DUMMER ACADEMY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1 ELM STREET</AddressLine1>
+            <City>BYFIELD</City>
+            <State>MA</State>
+            <ZIPCode>01922</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>UNRESTRICTED</PurposeOfGrantOrContribution>
+          <Amount>220000</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KENNEBEC VALLEY COMMUNITY ACTION PROGRAM</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>97 WATER STREET</AddressLine1>
+            <City>WATERVILLE</City>
+            <State>ME</State>
+            <ZIPCode>04901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3-509A1 PUBLIC C</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCARE CONSTRUCTION &amp; START-UP</PurposeOfGrantOrContribution>
+          <Amount>589688</Amount>
+        </GrantOrContriApprovedForFuture>
+        <GrantOrContriApprovedForFuture>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MSAD #46</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>10 SPRING STREET</AddressLine1>
+            <City>DEXTER</City>
+            <State>ME</State>
+            <ZIPCode>04930</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>170C1 GOVERNMENT UNI</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>DEXTER PRE K-8 SCHOOL GYM DEBT SERVICE</PurposeOfGrantOrContribution>
+          <Amount>231200</Amount>
+        </GrantOrContriApprovedForFuture>
+        <TotGrantOrContriApprovedFuture>1431466</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>596</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>6078</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <OtherInvestmentIncomePartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>3070</ExclusionAmount>
+        </OtherInvestmentIncomePartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>868684</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>878428</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>878428</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1</LineNumber>
+          <RelationshipStatement>NOT APPLICABLE</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>WILLIAM JOAN ALFOND</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>14 OTIS PLACE</AddressLine1>
+          <City>BOSTON</City>
+          <State>MA</State>
+          <ZIPCode>02108</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>7084986</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>1</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>59 SH BERKSHIRE HATHAWAY CLASS A STOCK</NoncashPropertyDescription>
+        <FairMarketValue>7084986</FairMarketValue>
+        <DateReceived>2010-12-28</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>4315</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>4315</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <GainLossSaleOtherAssetsSch documentId="RetDoc2213400001">
+      <GainLossSaleOtherAsset>
+        <Name>PUBLICLY TRADED SECURITIES - DONATED TO PUBLIC CHARITY</Name>
+        <HowAcquired>DONATED</HowAcquired>
+        <GrossSalesPrice>880912</GrossSalesPrice>
+        <Basis>32088</Basis>
+        <SalesExpense>0</SalesExpense>
+        <TotalNet>848824</TotalNet>
+      </GainLossSaleOtherAsset>
+    </GainLossSaleOtherAssetsSch>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>BERKSHIRE HATHAWAY CL A</NameOfStock>
+        <EOYBookValue>158815</EOYBookValue>
+        <EOYFMV>4336200</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BERKSHIRE HATHAWAY CL B</NameOfStock>
+        <EOYBookValue>119649</EOYBookValue>
+        <EOYFMV>3239809</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>MELLON EMERGING MKTS FUND</NameOfStock>
+        <EOYBookValue>1345672</EOYBookValue>
+        <EOYFMV>1145606</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>BERKSHIRE HATHAWAY CL A</NameOfStock>
+        <EOYBookValue>30917</EOYBookValue>
+        <EOYFMV>7106550</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="RetDoc2018100001">
+      <InvestmentsOther>
+        <CategoryOrItem>DORSET ENERGY FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1000000</BookValue>
+        <EOYFMV>2157034</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>LEGACY VENTURE V (QP) LLC</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>492426</BookValue>
+        <EOYFMV>366701</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>PLATINUM FUND</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>800000</BookValue>
+        <EOYFMV>1646680</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>MAST CREDIT OPPORTUNITIES</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1000000</BookValue>
+        <EOYFMV>1606381</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>SPECIAL OPPORTUNITIES FUNDS</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1398332</BookValue>
+        <EOYFMV>1129886</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>TA REALTY FUND VIII</CategoryOrItem>
+        <ListedAtCostOrFMV>AT COST</ListedAtCostOrFMV>
+        <BookValue>1937473</BookValue>
+        <EOYFMV>1334767</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherDecreasesSchedule documentId="RetDoc2049800001">
+      <OtherDecreases>
+        <Description>PUBLICLY TRADED SECURITIES CARRYING VALUE REDUCTION TO DONOR'S BASIS</Description>
+        <Amount>7054069</Amount>
+      </OtherDecreases>
+    </OtherDecreasesSchedule>
+    <OtherExpensesSchedule documentId="RetDoc2003200001">
+      <OtherExpenses>
+        <Description>COMPUTER SOFTWARE EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>271</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>271</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>PAYCHEX PROCESSING FEES</Description>
+        <RevenueAndExpensesPerBooks>1388</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1388</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FILING FEES</Description>
+        <RevenueAndExpensesPerBooks>35</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>35</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>K1: LEGACY VENTURE CHARITABLE</Description>
+        <RevenueAndExpensesPerBooks>1968</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>1968</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>K1: LEGACY VENTURE NONDEDUCTIBLE</Description>
+        <RevenueAndExpensesPerBooks>124</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>K1: LEGACY VENTURE OTHER DEDUCTIONS</Description>
+        <RevenueAndExpensesPerBooks>38</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>38</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>K1: LEGACY VENTURE PORTFOLIO DEDUCTIONS</Description>
+        <RevenueAndExpensesPerBooks>34882</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>34882</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="RetDoc2001500001">
+      <OtherIncome>
+        <Description>K1: LEGACY VENTURE V OTHER INCOME</Description>
+        <RevenueAndExpensesPerBooks>249</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>249</NetInvestmentIncome>
+        <AdjustedNetIncome>249</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>CLASS ACTION PROCEEDS</Description>
+        <RevenueAndExpensesPerBooks>700</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>700</NetInvestmentIncome>
+        <AdjustedNetIncome>700</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>MELLON REBATES</Description>
+        <RevenueAndExpensesPerBooks>2121</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>2121</NetInvestmentIncome>
+        <AdjustedNetIncome>2121</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>DEXTER ENTERPRISES - INVESTMENT ADMINISTRATION</Category>
+        <Amount>15451</Amount>
+        <NetInvestmentIncome>15451</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>DEXTER ENTERPRISES - GRANT ADMINISTRATION</Category>
+        <Amount>46353</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>46353</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>BNY MELLON INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>3791</Amount>
+        <NetInvestmentIncome>3791</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>HUARD CONSULTING</Category>
+        <Amount>32000</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>32000</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

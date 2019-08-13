@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-11T10:57:22-06:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>ARMANINO MCKENNA LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>12667 ALCOSTA BOULEVARD SUITE 500</AddressLine1>
+        <City>SAN RAMON</City>
+        <State>CA</State>
+        <ZIPCode>945834427</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010816065</EIN>
+      <Name>
+        <BusinessNameLine1>CFNV CHARITABLE REAL ESTATE FUND CO</BusinessNameLine1>
+        <BusinessNameLine2>THE COMMUNITY FOUNDATION OF NAPA VALLEY</BusinessNameLine2>
+      </Name>
+      <NameControl>CFNV</NameControl>
+      <Phone>7072549565</Phone>
+      <USAddress>
+        <AddressLine1>3299 CLAREMONT WAY NO 2</AddressLine1>
+        <City>NAPA</City>
+        <State>CA</State>
+        <ZIPCode>94558</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>TERENCE MULLIGAN</Name>
+      <Title>SECRETARY</Title>
+      <Phone>7072549565</Phone>
+      <DateSigned>2011-11-09</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>BARBARA CYPHERS</Name>
+      <Phone>9257902600</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>TERENCE MULLIGAN</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>3299 CLAREMONT WAY NO 2</AddressLine1>
+        <City>NAPA</City>
+        <State>CA</State>
+        <ZIPCode>94558</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>274927</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>WWW.NAPAVALLEYCF.ORG</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>2004</YearFormation>
+      <StateLegalDomicile>CA</StateLegalDomicile>
+      <ActivityOrMissionDescription>THE CORPORATION SUPPORTS THE COMMUNITY FOUNDATION OF THE NAPA VALLEY.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>5</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>4</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>0</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>381413</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>3750</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>660</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>5300</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>-25097</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>156</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>263284</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>265721</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>620260</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>274927</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>130103</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>78512</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>0</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>0</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>151642</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>160640</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>281745</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>239152</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>338515</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>35775</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>2429647</TotalAssetsBOY>
+      <TotalAssetsEOY>2337483</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>196551</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>68612</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>2233096</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>2268871</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>THE CORPORATION OPERATES EXCLUSIVELY FOR CHARITABLE PURPOSES BY CONDUCTING OR SUPPORTING ACTIVITIES FOR THE BENEFIT OF, OR TO CARRY OUT THE PURPOSES OF THE COMMUNITY FOUNDATION OF THE NAPA VALLEY DBA NAPA VALLEY COMMUNITY FOUNDATION (NVCF). THE CORPORATION SUPPORTS THE MISSION OF NVCF BY ACCEPTING GIFTS OF REAL PROPERTY AND OTHER ASSETS, AND MANAGING OR ARRANGING FOR THE SALE OF THOSE ASSETS FOR THE BENEFIT OF NVCF.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>229280</Expense>
+      <Grants>78512</Grants>
+      <Revenue>5300</Revenue>
+      <Description>THE CORPORATION OPERATES EXCLUSIVELY FOR CHARITABLE PURPOSES BY CONDUCTING OR SUPPORTING ACTIVITIES FOR THE BENEFIT OF, OR TO CARRY OUT THE PURPOSES OF THE COMMUNITY FOUNDATION OF THE NAPA VALLEY DBA NAPA VALLEY COMMUNITY FOUNDATION (NVCF).</Description>
+      <TotalProgramServiceExpense>229280</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired>0</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">1</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">1</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">0</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity referenceDocumentId="RetDoc1043400001">0</DisregardedEntity>
+      <RelatedEntity referenceDocumentId="RetDoc1043400001">1</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity referenceDocumentId="RetDoc1043400001">0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg referenceDocumentId="RetDoc1043400001">0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership referenceDocumentId="RetDoc1043400001">0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>3</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>0</NumberOfEmployees>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <Form8899Filed>0</Form8899Filed>
+      <Form1098CFiled>0</Form1098CFiled>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>5</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>4</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>0</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>CA</StatesWhereCopyOfReturnIsFiled>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>SANDY FASOLD CFO (NAPA VALLEY COMMUNITY FOUNDATION)</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>7072549565</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>3299 CLAREMONT WAY NO 2</AddressLine1>
+          <City>NAPA</City>
+          <State>CA</State>
+          <ZIPCode>94558</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID FREED</NamePerson>
+        <Title>PRESIDENT</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>MARK FARLEY</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>TERENCE MULLIGAN</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>199083</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>23196</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID GAW</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>KATE OHLANT</NamePerson>
+        <Title>DIRECTOR</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>199083</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>23196</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <RelatedOrganizations>3500</RelatedOrganizations>
+      <AllOtherContributions>250</AllOtherContributions>
+      <TotalContributions>3750</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>MGMT FEE-VALLEJO HOME</Description>
+        <BusinessCode>531310</BusinessCode>
+        <TotalRevenueColumn>5300</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5300</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>5300</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>156</TotalRevenueColumn>
+        <ExclusionAmount>156</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>260958</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>260958</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>260958</TotalRevenueColumn>
+        <ExclusionAmount>260958</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <OtherRevenueMisc>
+        <Description>OTHER INCOME</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>4763</TotalRevenueColumn>
+        <ExclusionAmount>4763</ExclusionAmount>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>4763</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>274927</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5300</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>265877</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticOrgs>
+        <Total>78512</Total>
+        <ProgramServices>78512</ProgramServices>
+      </GrantsToDomesticOrgs>
+      <FeesForServicesManagement>
+        <Total>10000</Total>
+        <ProgramServices>10000</ProgramServices>
+      </FeesForServicesManagement>
+      <FeesForServicesAccounting>
+        <Total>8932</Total>
+        <ManagementAndGeneral>8932</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <OfficeExpenses>
+        <Total>1912</Total>
+        <ProgramServices>972</ProgramServices>
+        <ManagementAndGeneral>940</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>44972</Total>
+        <ProgramServices>44972</ProgramServices>
+      </Occupancy>
+      <Interest>
+        <Total>2369</Total>
+        <ProgramServices>2369</ProgramServices>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>67053</Total>
+        <ProgramServices>67053</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>7450</Total>
+        <ProgramServices>7450</ProgramServices>
+      </Insurance>
+      <OtherExpenses>
+        <Description>LANDSCAPING</Description>
+        <Total>17952</Total>
+        <ProgramServices>17952</ProgramServices>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>239152</Total>
+        <ProgramServices>229280</ProgramServices>
+        <ManagementAndGeneral>9872</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <SavingsAndTempCashInvestments>
+        <BOY>75160</BOY>
+        <EOY>147653</EOY>
+      </SavingsAndTempCashInvestments>
+      <LandBuildingsEquipmentBasis>2561470</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>371640</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>2354487</BOY>
+        <EOY>2189830</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <TotalAssets>
+        <BOY>2429647</BOY>
+        <EOY>2337483</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>88551</BOY>
+        <EOY>68612</EOY>
+      </AccountsPayableAccruedExpenses>
+      <OtherLiabilities>
+        <BOY>108000</BOY>
+        <EOY>0</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>196551</BOY>
+        <EOY>68612</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>-18153</BOY>
+        <EOY>79041</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>1351249</BOY>
+        <EOY>1289830</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>900000</BOY>
+        <EOY>900000</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>2233096</BOY>
+        <EOY>2268871</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>2429647</BOY>
+        <EOY>2337483</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>35775</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementConsolidated>X</FinancialStatementConsolidated>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <SupportingOrganization509a3>X</SupportingOrganization509a3>
+      <SupportingOrg509a3Type1>X</SupportingOrg509a3Type1>
+      <CertificationCheckbox>X</CertificationCheckbox>
+      <ContribByControllingIndividual>0</ContribByControllingIndividual>
+      <ContributionByRelatedParty>0</ContributionByRelatedParty>
+      <ContribBy35ControlledEntity>0</ContribBy35ControlledEntity>
+      <SupportedOrgInformation>
+        <Name>
+          <BusinessNameLine1>COMMUNITY FOUNDATION OF THE NAPA VALLEY</BusinessNameLine1>
+        </Name>
+        <EIN>680349777</EIN>
+        <TypeOfOrganization>8</TypeOfOrganization>
+        <ListedInGoverningDoc>1</ListedInGoverningDoc>
+        <SupportedOrganizationNotified>1</SupportedOrganizationNotified>
+        <OrganizedInUS>1</OrganizedInUS>
+        <Amount>30826</Amount>
+      </SupportedOrgInformation>
+      <TotalNumberOfSupportedOrgs>1</TotalNumberOfSupportedOrgs>
+      <SumOfAmounts>30826</SumOfAmounts>
+    </IRS990ScheduleA>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>900000</BeginningOfYearBalance>
+        <EndOfYearBalance>900000</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>900000</BeginningOfYearBalance>
+        <EndOfYearBalance>900000</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <CurrentYearMinus2Years>
+        <BeginningOfYearBalance>900000</BeginningOfYearBalance>
+        <EndOfYearBalance>900000</EndOfYearBalance>
+      </CurrentYearMinus2Years>
+      <PermanentEndowmentEOYBalance>1.00000</PermanentEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Land>
+        <OtherCostOrOtherBasis>900000</OtherCostOrOtherBasis>
+        <BookValue>900000</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>789884</OtherCostOrOtherBasis>
+        <Depreciation>239603</Depreciation>
+        <BookValue>550281</BookValue>
+      </Buildings>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>871586</OtherCostOrOtherBasis>
+        <Depreciation>132037</Depreciation>
+        <BookValue>739549</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>2189830</TotalOfBookValueLandBuildings>
+      <TotalRevenue>274927</TotalRevenue>
+      <TotalExpenses>239152</TotalExpenses>
+      <ExcessOrDeficitForYear>35775</ExcessOrDeficitForYear>
+      <OtherAmount>3429265</OtherAmount>
+      <TotalAdjustments>3429265</TotalAdjustments>
+      <ExcessOrDeficitPerFS>3465040</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>6294855</TotRevenueEtcAuditedFinclStmt>
+      <OtherRevenues>6098257</OtherRevenues>
+      <RevenueNotRptdF990>6098257</RevenueNotRptdF990>
+      <RevenueSubtotal>196598</RevenueSubtotal>
+      <OtherRevenuesNotIncluded>78329</OtherRevenuesNotIncluded>
+      <RevenueNotRptdOnFinStmt>78329</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>274927</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>2829815</TotExpensesEtcAuditedFinclStmt>
+      <OtherExpensesIncluded>2668992</OtherExpensesIncluded>
+      <ExpensesNotRptdF990>2668992</ExpensesNotRptdF990>
+      <ExpensesSubtotal>160823</ExpensesSubtotal>
+      <OtherExpensesNotIncluded>78329</OtherExpensesNotIncluded>
+      <ExpensesNotRptdOnFinStmt>78329</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>239152</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF INTENDED USE OF ENDOWMENT FUNDS:</Identifier>
+        <ReturnReference>PART V, LINE 4:</ReturnReference>
+        <Explanation>THE ANNUAL SPENDING POLICY IS INTENDED TO ENABLE THE ORGANIZATION'S ENDOWMENT FUNDS TO PROVIDE PERMANENT SUPPORT TO THE COMMUNITY FOUNDATION OF THE NAPA VALLEY.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>DESCRIPTION OF UNCERTAIN TAX POSITIONS UNDER FIN 48:</Identifier>
+        <ReturnReference>PART X:</ReturnReference>
+        <Explanation>THE FOUNDATION ADOPTED THE PROVISIONS FOR ACCOUNTING FOR UNCERTAIN TAX POSITIONS ON JANUARY 1, 2009. IT EVALUATES ITS TAX POSITIONS TAKEN OR EXPECTED TO BE TAKEN TO DETERMINE WHETHER THE TAX POSITIONS ARE "MORE-LIKELY-THAN-NOT" OF BEING SUSTAINED BY THE APPLICABLE TAX AUTHORITY. TAX POSITIONS NOT DEEMED TO MEET THE "MORE-LIKELY-THAN-NOT" THRESHOLD ARE RECORDED AS AN EXPENSE IN THE APPLICABLE YEAR. AS OF JUNE 30, 2011, THE FOUNDATION DOES NOT HAVE ANY SIGNIFICANT UNCERTAIN TAX POSITIONS FOR WHICH A RESERVE WOULD BE NECESSARY.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XI, LINE 8 - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>CONSOLIDATED ENTITY CHANGE IN NET ASSETS 3,429,265.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>CONSOLIDATED ENTITY REVENUE 6,098,257.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>ELIMINATIONS IN CONSOLIDATION 78,329.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 2D - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>CONSOLIDATED ENTITY EXPENSE 2,668,992.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>PART XIII, LINE 4B - OTHER ADJUSTMENTS:</Identifier>
+        <Explanation>ELIMINATIONS IN CONSOLIDATION 78,329.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>CYBERMILL INC</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3299 CLAREMONT WAY SUITE 4</AddressLine1>
+          <City>NAPA</City>
+          <State>CA</State>
+          <ZIPCode>94558</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>943337533</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>50976</AmountOfCashGrant>
+        <PurposeOfGrant>GENERAL SUPPORT</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>COMMUNITY RESOURCES FOR CHILDREN</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3299 CLAREMONT WAY SUITE 1</AddressLine1>
+          <City>NAPA</City>
+          <State>CA</State>
+          <ZIPCode>94558</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>942524785</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>5210</AmountOfCashGrant>
+        <PurposeOfGrant>GENERAL SUPPORT</PurposeOfGrant>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientNameBusiness>
+          <BusinessNameLine1>COMMUNITY FOUNDATION OF THE NAPA VALLEY</BusinessNameLine1>
+        </RecipientNameBusiness>
+        <AddressUS>
+          <AddressLine1>3299 CLAREMONT WAY SUITE 2</AddressLine1>
+          <City>NAPA</City>
+          <State>CA</State>
+          <ZIPCode>94558</ZIPCode>
+        </AddressUS>
+        <EINOfRecipient>680349777</EINOfRecipient>
+        <IRCSection>501(C)(3)</IRCSection>
+        <AmountOfCashGrant>20826</AmountOfCashGrant>
+        <PurposeOfGrant>GENERAL SUPPORT</PurposeOfGrant>
+      </RecipientTable>
+      <TotalNbrOf501C3AndGovtGrants>3</TotalNbrOf501C3AndGovtGrants>
+      <TotalNbrOfOtherOrganizations>0</TotalNbrOfOtherOrganizations>
+      <Form990ScheduleIPartIV>
+        <Identifier>PROCEDURE FOR MONITORING GRANTS IN THE U.S.:</Identifier>
+        <ReturnReference>PART I, LINE 2:</ReturnReference>
+        <Explanation>SCHEDULE I, PART I, LINE 2: CFNV CHARITABLE REAL ESTATE FUND (CREF) IS COMMITTED TO ENSURING THAT ALL GRANT FUNDS ARE USED SOLELY FOR THE CHARITABLE PURPOSES INTENDED. NAPA VALLEY COMMUNITY FOUNDATION (CREF'S PARENT) CONDUCTS MORE THAN 200 SITE VISITS EACH YEAR WITH NONPROFIT ORGANIZATIONS IN NAPA COUNTY, ANALYZES FINANCIAL INFORMATION ABOUT PROSPECTIVE GRANTEES, INCLUDING TAX RETURNS AND AUDITED FINANCIALS (WHERE AVAILABLE), AND REQUIRES ALL ORGANIZATIONS RECEIVING GRANT DISTRIBUTIONS TO AGREE THAT SUCH DISTRIBUTIONS SHALL BE USED ONLY FOR THE CHARITABLE PURPOSES OUTLINED IN A GRANT LETTER THAT ACCOMPANIES PAYMENT. IN MANY CASES, WE REQUIRE GRANTEE ORGANIZATIONS TO COMPLETE A WRITTEN GRANT REPORT WITHIN A YEAR OF RECEIVING FUNDS.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NamePerson>TERENCE MULLIGAN</NamePerson>
+        <BaseCompensationFilingOrg>0</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>140083</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>30000</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>29000</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>0</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>6000</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>0</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>17196</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>0</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>222279</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <Identifier>SUPPLEMENTAL INFORMATION</Identifier>
+        <ReturnReference>PART III</ReturnReference>
+        <Explanation>SCHEDULE J, PART I, LINE 3: THE ORGANIZATION DOES NOT COMPENSATE ANY DIRECTORS, OFFICERS, TRUSTEES, OR EMPLOYEES. IT IS COMPLETING SCHEDULE J FOR THE COMPENSATION OF A BOARD MEMBER RECEIVED FOR HIS WORK AT A RELATED ORGANIZATION. THE RELATED ORGANIZATION USES A COMPENSATION COMMITTEE, WRITTEN EMPLOYMENT CONTRACT, APPROVAL BY THE BOARD OR COMPENSATION COMMITTEE AND A COMPENSATION SURVEY OR STUDY TO ESTABLISH THE COMPENSATION OF SAID EMPLOYEE.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>FORM 990, PART VI, SECTION B, LINE 11</Identifier>
+        <Explanation>THE AUDIT COMMITTEE (AC) SHALL HAVE THE RESPONSIBILITY FOR REVIEWING THE FORM 990 TAX RETURN INCLUDING ALL PERTINENT SCHEDULES, BEFORE THEY ARE FILED WITH THE INTERNAL REVENUE SERVICE. A DRAFT OF THE FORM 990 SHOULD BE READY FOR REVIEW BY THE AC NO LATER THAN TWO WEEKS PRIOR TO THE FILING DEADLINE. AFTER THE DRAFT OF THE FORM 990 HAS BEEN OBTAINED BY THE AC, THEY WILL HAVE 7-10 DAYS TO COMPLETE THEIR REVIEW. THE AC SHALL CONDUCT A REVIEW OF THE FORM 990. ONCE THE AC HAS COMPLETED ITS INITIAL REVIEW OF THE FORM 990, A MEETING OR CONFERENCE CALL WILL BE SCHEDULED WITH THE PREPARER OF THE FORM 990, IF NECESSARY, TO DISCUSS ANY QUESTIONS, COMMENTS, AND SUGGESTED REVISIONS IDENTIFIED BY THE AC. AFTER THE FORM 990 HAS BEEN REVIEWED BY THE AC AND A FINAL COPY IS PREPARED, STAFF WILL E-MAIL THE FINAL FORM 990 TO ALL BOARD MEMBERS BEFORE THE 990 IS FILED AND WILL MAKE A PRESENTATION AT THE NEXT FULL BOARD OF DIRECTORS MEETING TO UPDATE THE BOARD REGARDING THE REVIEW OF THE FORM 990, IF NECESSARY.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION B, LINE 12C</ReturnReference>
+        <Explanation>ONCE A YEAR OR AS NEEDED, BOARD AND ADVISORY COMMITTEE MEMBERS, FOUNDATION STAFF, VOLUNTEERS AND CONTRACTORS WILL COMPLETE A CONFLICT OF INTEREST DISCLOSURE STATEMENT IDENTIFYING ANY SIGNIFICANT AFFILIATION AND/OR POSITION HELD BY SELF OR ANY IMMEDIATE FAMILY MEMBER WITH ANY ORGANIZATION USING THE FOLLOWING GUIDELINES: A.ANY SIGNIFICANT AFFILIATION AND/OR POSITION HELD BY SELF OR ANY IMMEDIATE FAMILY MEMBER WITH ANY LOCAL CHARITABLE OR COMMUNITY ORGANIZATION(S). B.ANY SIGNIFICANT AFFILIATION AND/OR POSITION HELD BY SELF OR ANY IMMEDIATE FAMILY MEMBER WITH LOCAL BUSINESS ENTERPRISE(S). C.ANY OTHER SIGNIFICANT INVOLVEMENTS WITH ORGANIZATIONS THAT MAY CREATE AN INTEREST OR BIAS WITH RESPECT TO THE ORGANIZATION'S ACTION. ANY POSSIBLE CONFLICTS SHALL BE DISCLOSED BEFORE ANY BOARD OR COMMITTEE MEETING DISCUSSION BEGINS. THE MINUTES OF THE MEETING SHALL REFLECT THIS DISCLOSURE. AFTER ACKNOWLEDGING THE POTENTIAL CONFLICT, THE BOARD/COMMITTEE/STAFF MEMBER/VOLUNTEER/CONTRACTOR MAY BRIEFLY ADDRESS THE OTHER MEMBERS REGARDING THIS MATTER. THE BOARD/COMMITTEE/STAFF/MEMBER/VOLUNTEER/CONTRACTOR MAY ALSO ANSWER PERTINENT QUESTIONS SINCE PERSONAL KNOWLEDGE ON THE ISSUE MAY BE OF ASSISTANCE TO THE OTHER MEMBERS IN REACHING THEIR DECISIONS. THE BOARD/COMMITTEE/STAFF MEMBER, HOWEVER, WILL ABSTAIN FROM VOTING ON THIS ISSUE.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>FORM 990, PART VI, SECTION C, LINE 19</ReturnReference>
+        <Explanation>THE FOLLOWING ORGANIZATIONAL AND FINANCIAL DOCUMENTS OF THE ORGANIZATION WILL BE AVAILABLE (FOR INSPECTION OR COPYING) AT THE ORGANIZATION'S OFFICE DURING NORMAL BUSINESS HOURS AT NO CHARGE: * IRS FORM 1023 - APPLICATION FOR RECOGNITION OF EXEMPTION UNDER SECTION 501(C)(3) OF THE INTERNAL REVENUE CODE * ARTICLES OF INCORPORATION * INTERNAL REVENUE SERVICE DETERMINATION LETTER * CALIFORNIA TAX EXEMPT LETTER * CONFLICT OF INTEREST POLICY * AUDITED FINANCIAL STATEMENTS * FORM 990S - RETURN OF ORGANIZATION EXEMPT FROM INCOME TAX (PUBLIC INSPECTION COPY) * ANNUAL REPORTS * INVESTMENT POLICY * DETAILS OF FUNDS AND FEES ALL OF THE AFOREMENTIONED ORGANIZATIONAL AND FINANCIAL DOCUMENTS WILL ALSO BE POSTED ON THE ORGANIZATION'S WEB SITE. THE ORGANIZATION WILL MAKE BEST EFFORTS TO ENSURE THAT THE DOCUMENTS POSTED ON THE WEB SITE ARE THE MOST UPDATED VERSIONS OF SUCH DOCUMENTS. WHEN RESPONDING TO A PUBLIC INSPECTION REQUEST FOR ANY ORGANIZATIONAL OR FINANCIAL DOCUMENT BY ANYONE, THE ORGANIZATION SHALL FULFILL SUCH REQUEST IN A TIMELY FASHION WITHOUT INQUIRING AS TO THE REASON FOR THE PUBLIC INSPECTION REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>FORM 990, PART XII, LINE 2C: THE PROCESS HAS NOT CHANGED FROM THE PRIOR YEAR.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>FORM 990, PART VI, SECTION B, LINES 15A &amp; B: THE ORGANIZATION DOES NOT PAY ANY EMPLOYEES.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="RetDoc1043400001">
+      <Form990ScheduleRPartII>
+        <NameOfDisregardedEntity>
+          <BusinessNameLine1>COMMUNITY FOUNDATION OF THE NAPA VALLEY</BusinessNameLine1>
+        </NameOfDisregardedEntity>
+        <AddressUS>
+          <AddressLine1>3299 CLAREMONT WAY SUITE 2</AddressLine1>
+          <City>NAPA</City>
+          <State>CA</State>
+          <ZIPCode>94558</ZIPCode>
+        </AddressUS>
+        <EIN>680349777</EIN>
+        <PrimaryActivities>TO MOBILIZE RESOURCES AND PROMOTE PHILANTHROPY IN NAPA COUNTY</PrimaryActivities>
+        <LegalDomicileState>CA</LegalDomicileState>
+        <ExemptCodeSection>501(C)(3)</ExemptCodeSection>
+        <PublicCharityStatus>LINE 8</PublicCharityStatus>
+        <ControlledOrg>0</ControlledOrg>
+      </Form990ScheduleRPartII>
+      <ReceiptOfIntAnnRentsRoyalties>0</ReceiptOfIntAnnRentsRoyalties>
+      <GiftGrantOrCapContrToOtherOrg>0</GiftGrantOrCapContrToOtherOrg>
+      <GiftGrantOrCapContrFrOtherOrg>1</GiftGrantOrCapContrFrOtherOrg>
+      <LoansOrGuaranteesToOtherOrg>0</LoansOrGuaranteesToOtherOrg>
+      <LoansOrGuaranteesFromOtherOrg>1</LoansOrGuaranteesFromOtherOrg>
+      <SaleOfAssetsToOtherOrg>0</SaleOfAssetsToOtherOrg>
+      <PurchaseOfAssetsFromOtherOrg>0</PurchaseOfAssetsFromOtherOrg>
+      <ExchangeOfAssets>0</ExchangeOfAssets>
+      <RentalOfFacilitiesToOtherOrgs>1</RentalOfFacilitiesToOtherOrgs>
+      <RentalOfFacilitiesFrOtherOrgs>0</RentalOfFacilitiesFrOtherOrgs>
+      <PerformOfServicesForOtherOrgs>0</PerformOfServicesForOtherOrgs>
+      <PerformOfServicesByOtherOrgs>0</PerformOfServicesByOtherOrgs>
+      <SharingOfFacilities>0</SharingOfFacilities>
+      <SharingOfPaidEmployees>0</SharingOfPaidEmployees>
+      <ReimbursementPaidToOtherOrg>1</ReimbursementPaidToOtherOrg>
+      <ReimbursementPaidByOtherOrg>0</ReimbursementPaidByOtherOrg>
+      <OtherTransferToOtherOrg>1</OtherTransferToOtherOrg>
+      <OtherTransferFromOtherOrg>0</OtherTransferFromOtherOrg>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>

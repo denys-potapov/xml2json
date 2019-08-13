@@ -1,0 +1,785 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-07-11T15:23:02-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-08-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>FEELEY &amp; DRISCOLL PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>200 PORTLAND STREET</AddressLine1>
+        <City>BOSTON</City>
+        <State>MA</State>
+        <ZIPCode>02114</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-09-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010355980</EIN>
+      <Name>
+        <BusinessNameLine1>THE LANDING SCHOOL OF BOATBUILDING AND DESIGN</BusinessNameLine1>
+      </Name>
+      <NameControl>LAND</NameControl>
+      <Phone>2079857976</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 1490</AddressLine1>
+        <City>Kennebunkport</City>
+        <State>ME</State>
+        <ZIPCode>04046</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>barry acker</Name>
+      <Title>executive director</Title>
+      <Phone>2079857976</Phone>
+      <DateSigned>2011-06-30</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Jeffrey Rogers</Name>
+      <Phone>6177427788</Phone>
+      <DatePrepared>2011-06-30</DatePrepared>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>barry acker</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO BOX 1490</AddressLine1>
+        <City>KENNEBUNKPORT</City>
+        <State>ME</State>
+        <ZIPCode>04046</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>2247673</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>www.landingschool.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1979</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>TO CONDUCT A PROGRAM OF VOCATIONAL EDUCATION THAT WILL EQUIP AND PREPARE STUDENT TO SEEK GAINFUL EMPLOYMENT IN THE MARINE INDUSTRY AS DESIGNERS, BUILDERS, AND REPAIRERS OF BOTH RECREATIONAL AND COMMERIAL WATERCRAFT.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>16</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>16</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>15</TotalNbrEmployees>
+      <TotalNbrVolunteers>0</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>517197</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>372608</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>1491702</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>1843807</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>20870</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>16594</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>6255</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>14664</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>2036024</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>2247673</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>173054</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>989709</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>1000185</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>4104</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>890826</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>1377371</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>2053589</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>2377556</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-17565</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-129883</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>5693703</TotalAssetsBOY>
+      <TotalAssetsEOY>5546637</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>2088121</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>2070938</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>3605582</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>3475699</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>THE PURPOSE OF THE ORGANIZATION IS TO CONDUCT A PROGRAM OF VOCATIONAL EDUCATION THAT WILL EQUIP AND PREPARE STUDENTS TO SEEK GAINFUL EMPLOYMENT IN THE MARINE INDUSTRY AS DESIGNERS, BUILDERS, AND / OR REPAIRERS OF BOTH RECREATIONAL AND COMMERCIAL WATERCRAFT.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>683330</Expense>
+      <Revenue>476000</Revenue>
+      <Description>Boatbuilding program - apprenticeship program - teaches students construction techniques for traditional and modern boats using wood and composite materials.</Description>
+      <Activity2>
+        <Expense>300202</Expense>
+        <Revenue>421240</Revenue>
+        <Description>Marine Systems - apprenticeship program teaches the skills and knowledge necessary to install, maintain and repair modern boat systems using established industry standards.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>186281</Expense>
+        <Revenue>314100</Revenue>
+        <Description>Yacht Design - apprenticeship program teaches the fundamentals of sail and powerboat design including hull form, deck geometry, resistance and propulsion, and rig, keel and rudder design.</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>196656</Expense>
+        <Revenue>262356</Revenue>
+        <Description>Other programs include a Composite boatbuilding apprenticeship program and Continuing education courses to non-students.</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>196656</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceRev>262356</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>1366469</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc1040000001">1</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School referenceDocumentId="RetDoc1040400001">1</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">0</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">1</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>0</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>15</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <ExcessBusinessHoldings>0</ExcessBusinessHoldings>
+      <TaxableDistributions>0</TaxableDistributions>
+      <DistributionToDonor>0</DistributionToDonor>
+      <NbrVotingGoverningBodyMembers>16</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>16</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>0</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>0</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>1</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Bob DeColfmacker</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2079857976</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>PO Box 1490</AddressLine1>
+          <City>Kennebunkport</City>
+          <State>ME</State>
+          <ZIPCode>04046</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>PETER R WORRELL</NamePerson>
+        <Title>CHAIR</Title>
+        <AverageHoursPerWeek>6.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PATRICK S ROBINS</NamePerson>
+        <Title>VICE CHAIR</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>PETER L MURRAY</NamePerson>
+        <Title>SECRETARY</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RICHARD L PARISEN</NamePerson>
+        <Title>TREASURER</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN T BURGESS</NamePerson>
+        <Title>FOUNDER</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CRICKET TUPPER</NamePerson>
+        <Title>FOUNDER</Title>
+        <AverageHoursPerWeek>4.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WILLIAM W ALCORN</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ROBERT J DECOLFMACKER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>ERIC GOETZ</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DAVID GOULD</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>JOHN LASTAVICA</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>WILLIAM A LIEBER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>CHRISTOPHER A PIERCE</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>RIVES POTTS JR</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>DRAKE H SPARKMAN III</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>W BRADFORD WILLAUER</NamePerson>
+        <Title>TRUSTEE</Title>
+        <AverageHoursPerWeek>3.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>BARRY ACKER</NamePerson>
+        <Title>EXECUTIVE DIRECTOR</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>99019</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>0</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>99019</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>0</TotalOtherCompensation>
+      <NumberIndividualsGT100K>0</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <AllOtherContributions>372608</AllOtherContributions>
+      <TotalContributions>372608</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>TUITION REVENUE</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>1473696</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1473696</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>BOAT SALES (EDUCATION</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>320851</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>320851</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>STUDENT SUPPLIES</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>49260</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>49260</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>1843807</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>16594</TotalRevenueColumn>
+        <ExclusionAmount>16594</ExclusionAmount>
+      </InvestmentIncome>
+      <OtherRevenueMisc>
+        <Description>MISCELLANEOUS REVENUE</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>8739</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>8739</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <OtherRevenueMisc>
+        <Description>VENDING MACHINE REVENU</Description>
+        <BusinessCode>900099</BusinessCode>
+        <TotalRevenueColumn>5925</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>5925</RelatedOrExemptFunctionIncome>
+      </OtherRevenueMisc>
+      <TotalOtherRevenue>14664</TotalOtherRevenue>
+      <TotalRevenue>
+        <TotalRevenueColumn>2247673</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>1858471</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>16594</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>99019</Total>
+        <ManagementAndGeneral>99019</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <CompDisqualPersons>
+        <Total>823502</Total>
+        <ProgramServices>600102</ProgramServices>
+        <ManagementAndGeneral>223400</ManagementAndGeneral>
+      </CompDisqualPersons>
+      <PayrollTaxes>
+        <Total>77664</Total>
+        <ProgramServices>43907</ProgramServices>
+        <ManagementAndGeneral>33757</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesOther>
+        <Total>73631</Total>
+        <ProgramServices>1614</ProgramServices>
+        <ManagementAndGeneral>72017</ManagementAndGeneral>
+      </FeesForServicesOther>
+      <OfficeExpenses>
+        <Total>45715</Total>
+        <ManagementAndGeneral>45715</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Travel>
+        <Total>32254</Total>
+        <ProgramServices>8946</ProgramServices>
+        <ManagementAndGeneral>19557</ManagementAndGeneral>
+        <Fundraising>3751</Fundraising>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>47484</Total>
+        <ProgramServices>8298</ProgramServices>
+        <ManagementAndGeneral>39186</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>51694</Total>
+        <ManagementAndGeneral>51694</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>200254</Total>
+        <ProgramServices>62619</ProgramServices>
+        <ManagementAndGeneral>137635</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>33190</Total>
+        <ProgramServices>3233</ProgramServices>
+        <ManagementAndGeneral>29957</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>MATERIALS &amp; DESIGN EXPE</Description>
+        <Total>528470</Total>
+        <ProgramServices>521225</ProgramServices>
+        <ManagementAndGeneral>7245</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>FACILITIES &amp; UTILITIES</Description>
+        <Total>72880</Total>
+        <ProgramServices>29431</ProgramServices>
+        <ManagementAndGeneral>43449</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>EDUCATION EXPENSE</Description>
+        <Total>65381</Total>
+        <ProgramServices>65381</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>MARKETING &amp; PUBLIC RELA</Description>
+        <Total>61123</Total>
+        <ManagementAndGeneral>60770</ManagementAndGeneral>
+        <Fundraising>353</Fundraising>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS &amp; MAINTENANCE</Description>
+        <Total>55582</Total>
+        <ProgramServices>21225</ProgramServices>
+        <ManagementAndGeneral>34357</ManagementAndGeneral>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>109713</Total>
+        <ProgramServices>488</ProgramServices>
+        <ManagementAndGeneral>109225</ManagementAndGeneral>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>2377556</Total>
+        <ProgramServices>1366469</ProgramServices>
+        <ManagementAndGeneral>1006983</ManagementAndGeneral>
+        <Fundraising>4104</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>643118</BOY>
+        <EOY>434218</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>264138</BOY>
+        <EOY>239705</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>63950</BOY>
+        <EOY>20950</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>460232</BOY>
+        <EOY>836301</EOY>
+      </AccountsReceivable>
+      <OtherNotesLoansReceivableNet>
+        <BOY>130</BOY>
+        <EOY>283</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>649480</BOY>
+        <EOY>402948</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>18131</BOY>
+        <EOY>20492</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>4133275</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>1188185</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>2980527</BOY>
+        <EOY>2945090</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsOtherSecurities>
+        <BOY>571364</BOY>
+        <EOY>600712</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>42633</BOY>
+        <EOY>45938</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>5693703</BOY>
+        <EOY>5546637</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>44087</BOY>
+        <EOY>20253</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>1267367</BOY>
+        <EOY>1306737</EOY>
+      </DeferredRevenue>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>776667</BOY>
+        <EOY>743948</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <TotalLiabilities>
+        <BOY>2088121</BOY>
+        <EOY>2070938</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>2933784</BOY>
+        <EOY>2780573</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>184381</BOY>
+        <EOY>187609</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>487417</BOY>
+        <EOY>507517</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>3605582</BOY>
+        <EOY>3475699</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>5693703</BOY>
+        <EOY>5546637</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <School170b1Aii>X</School170b1Aii>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>20863</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>1014</InvestmentEarningsOrLosses>
+        <EndOfYearBalance>21877</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>25503</BeginningOfYearBalance>
+        <InvestmentEarningsOrLosses>-4640</InvestmentEarningsOrLosses>
+        <EndOfYearBalance>20863</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <PermanentEndowmentEOYBalance>1.00000</PermanentEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Land>
+        <OtherCostOrOtherBasis>66600</OtherCostOrOtherBasis>
+        <BookValue>66600</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>2833723</OtherCostOrOtherBasis>
+        <Depreciation>505363</Depreciation>
+        <BookValue>2328360</BookValue>
+      </Buildings>
+      <LeaseholdImprovements>
+        <OtherCostOrOtherBasis>401096</OtherCostOrOtherBasis>
+        <Depreciation>185958</Depreciation>
+        <BookValue>215138</BookValue>
+      </LeaseholdImprovements>
+      <Equipment>
+        <OtherCostOrOtherBasis>800695</OtherCostOrOtherBasis>
+        <Depreciation>494423</Depreciation>
+        <BookValue>306272</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>31161</OtherCostOrOtherBasis>
+        <Depreciation>2441</Depreciation>
+        <BookValue>28720</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>2945090</TotalOfBookValueLandBuildings>
+      <OtherSecurities>
+        <Description>US TREASURY NOTES &amp; INDEXED STOCK FUNDS</Description>
+        <BookValue>600712</BookValue>
+        <MethodOfValuation>F</MethodOfValuation>
+      </OtherSecurities>
+      <TotalOfBookValueSecurities>600712</TotalOfBookValueSecurities>
+      <TotalRevenue>2247673</TotalRevenue>
+      <TotalExpenses>2377556</TotalExpenses>
+      <ExcessOrDeficitForYear>-129883</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>-129883</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>2247673</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>2247673</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>2247673</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>2377556</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>2377556</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>2377556</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XI, Line 8 - Other Adjustments:</Identifier>
+        <Explanation>UNREALIZED LOSS ON INVESTMENTS: 0. UNREALIZED LOSS ON FMV OF DONATED BOATS: 0.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>UNREALIZED LOSS ON FMV OF DONATED BOATS: 0.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleE documentId="RetDoc1040400001">
+      <NondiscriminatoryPolicyStmt>1</NondiscriminatoryPolicyStmt>
+      <PolicyStatementInBrochuresEtc>1</PolicyStatementInBrochuresEtc>
+      <PolicyPublViaBroadcastMedia>1</PolicyPublViaBroadcastMedia>
+      <PubViaBroadcastMediaExpln>policy is described in all brochures and is available to the public.</PubViaBroadcastMediaExpln>
+      <MaintRacialCompositionRecords>1</MaintRacialCompositionRecords>
+      <MaintScholarshipsRecords>1</MaintScholarshipsRecords>
+      <MaintCopiesOfBrochuresEtc>1</MaintCopiesOfBrochuresEtc>
+      <MaintCopiesOfAllSolicitations>1</MaintCopiesOfAllSolicitations>
+      <DiscriminateRaceStudentsRights>0</DiscriminateRaceStudentsRights>
+      <DiscriminateRaceAdmissPolicies>0</DiscriminateRaceAdmissPolicies>
+      <DiscriminateRaceEmplmnFaculty>0</DiscriminateRaceEmplmnFaculty>
+      <DiscriminateRaceScholarships>0</DiscriminateRaceScholarships>
+      <DiscriminateRaceEducPolicies>0</DiscriminateRaceEducPolicies>
+      <DiscriminateRaceUseOfFclts>0</DiscriminateRaceUseOfFclts>
+      <DiscriminateRaceAthleticProg>0</DiscriminateRaceAthleticProg>
+      <DiscriminateRaceOtherActy>0</DiscriminateRaceOtherActy>
+      <GovernmentFinancialAidReceived>1</GovernmentFinancialAidReceived>
+      <GovernmentFinancialAidRevoked>0</GovernmentFinancialAidRevoked>
+      <GovtFinancialAidExplanation>THE ORGANIZATION IS ELIGIBLE TO PARTICIPATE IN THE FOLLOWING PROGRAMS:FEDERAL PELL GRANT PROGRAMFEDERAL FAMILY EDUCATION LOAN PROGRAMSTATE OF MAINE LOAN PROGRAMS</GovtFinancialAidExplanation>
+      <ComplianceWithRevProc7550>1</ComplianceWithRevProc7550>
+    </IRS990ScheduleE>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>LANDING SCHOOL TUITION VOUCHERS ($7,500 EACH)</TypeOfGrant>
+        <MethodOfValuation>FAIR MARKET VALUE</MethodOfValuation>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>TURNING POINT FARM ($5,600)</TypeOfGrant>
+        <MethodOfValuation>FAIR MARKET VALUE</MethodOfValuation>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>MAINE VOCATIONAL REHABILITATION (1 FOR $8,442 &amp; 1 FOR $6,250)</TypeOfGrant>
+        <MethodOfValuation>FAIR MARKET VALUE</MethodOfValuation>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>VA VOCATIONAL REHABILITATION ($17,140)</TypeOfGrant>
+        <MethodOfValuation>FAIR MARKET VALUE</MethodOfValuation>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIV>
+        <Identifier>Procedure for Monitoring Grants in the U.S.:</Identifier>
+        <ReturnReference>Part I, Line 2:</ReturnReference>
+        <Explanation>Schedule I, Part I, Line 2: THE ORGANIZATION MAINTAINS RECORDS TO SUBSTANTIATE THE AMOUNT OF GRANTS OR ASSISTANCE AND THE SELECTION CRITERIA USED TO AWARD THE GRANTS OR ASSISTANCE.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>BOAT MATERIALS, ETC.</Description>
+        <NumberOfContributions>2</NumberOfContributions>
+        <NoncashContribsRptdF990>110916</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>FAIR MARKET VALUE</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>0</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>THE 990 IS MAILED TO THE BOARD OF TRUSTEES FOR REVIEW AND A CONFERENCE CALL IS HELD BEFORE IT IS FILED. IF ANY QUESTIONS/CONCERNS ARISE DURING THE BOARD'S REVIEW, THE TREASURER OF THE BOARD WILL LOOK INTO THE ISSUE AND MAKE SURE THAT ALL QUESTIONS ARE ANSWERED BEFORE THE 990 IS FILED.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 12</Identifier>
+        <Explanation>ACCORDING TO THE ORGANIZATION'S BY-LAWS, NO LOANS SHALL BE MADE BY THE ORGANIZATION TO ITS TRUSTEES OR OFFICERS. ANY TRUSTEE OR OFFICER WHO ASSENTS TO OR PARTICIPATES IN THE MAKING OF ANY SUCH LOAN SHALL BE LIABLE TO THE ORGANIZATION FOR THE AMOUN OF THE LOAN UNTIL THE REPAYMENT THEREOF. IN ADDITION, NEITHER THE OFFICERS OR TRUSTEES OF THE CORPORATION MAY PARTICIPATE IN ANY TRANSACTION WHICH INVOLVES A CONFLICT OF INTEREST. THIS IS MONITORED ON AN ANNUAL BASIS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 15</Identifier>
+        <Explanation>THE BOARD OF TRUSTEES REVIEWS TOP MANAGEMENT'S COMPENSATION ON AN ANNUAL BASIS. ALL SALARIES ARE DETERMINED BY THE ORGANIZATION'S BOARD OF TRUSTEES.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 19</Identifier>
+        <Explanation>THE ORGANIZATION MAKES ALL OF ITS GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS AVAILABLE TO THE PUBLIC ON REQUEST.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Explanation>THE BOARD OF TRUSTEES OVERSEES THE AUDIT AND IS RESPONSIBLE FOR THE SELECTION OF AN INDEPENDENT ACCOUNTANT. THIS PROCESS HAS NOT CHANGED FROM PRIOR YEARS.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

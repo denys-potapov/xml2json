@@ -1,0 +1,977 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2009v1.7">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-12T15:58:28-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Runyon Kersteen Ouellette</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>20 Long Creek Drive</AddressLine1>
+        <City>South Portland</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2009-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010224898</EIN>
+      <Name>
+        <BusinessNameLine1>Hebron Academy Incorporated</BusinessNameLine1>
+      </Name>
+      <NameControl>HEBR</NameControl>
+      <Phone>2079662100</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 309</AddressLine1>
+        <City>Hebron</City>
+        <State>ME</State>
+        <ZIPCode>04238</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>James L Bisesti</Name>
+      <Title>Business Manager</Title>
+      <Phone>2079662100</Phone>
+      <DateSigned>2011-05-12</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Thomas Emery</Name>
+      <Phone>2077732986</Phone>
+    </Preparer>
+    <TaxYear>2009</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="11">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>John J King</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO Box 309</AddressLine1>
+        <City>Hebron</City>
+        <State>ME</State>
+        <ZIPCode>04238</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>21318802</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c typeOf501cOrganization="3">X</Organization501c>
+      <WebSite>www.hebronacademy.org</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1941</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>To operate a non-profit, private school for students from middle school to high school, and to inspire and guide students to reach their highest potential in mind, body and spirit. Our core values are fundamental to the Hebron experience.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>17</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>17</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>142</TotalNbrEmployees>
+      <TotalNbrVolunteers>38</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>1764439</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>2763391</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>8992550</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>9690962</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>167409</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>424507</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>149691</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>93653</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>11074089</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>12972513</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>2473556</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>3460348</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>4692173</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>4618806</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>34621</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>39504</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>808680</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>4509149</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>5083019</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>11709499</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>13201677</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>-635410</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>-229164</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>35459116</TotalAssetsBOY>
+      <TotalAssetsEOY>36473555</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>18718845</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>19397178</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>16740271</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>17076377</NetAssetsOrFundBalancesEOY>
+      <MissionDescription>To operate a non-profit, private school for students from middle school to high school, and to inspire and guide students to reach their highest potential in mind, body and spirit. Our core values are fundamental to the Hebron experience.</MissionDescription>
+      <SignificantNewProgramServices>0</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>9567445</Expense>
+      <Grants>3460348</Grants>
+      <Revenue>9690962</Revenue>
+      <Description>Secondary and Middle School Education.</Description>
+      <TotalProgramServiceExpense>9567445</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities>0</PoliticalActivities>
+      <LobbyingActivities>0</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">1</TermOrPermanentEndowments>
+      <BalanceSheetAmountsReported referenceDocumentId="RetDoc1040000001">1</BalanceSheetAmountsReported>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School referenceDocumentId="RetDoc1040400001">1</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising referenceDocumentId="RetDoc1041200001">1</ProfessionalFundraising>
+      <FundraisingActivities referenceDocumentId="RetDoc1041200001">0</FundraisingActivities>
+      <Gaming referenceDocumentId="RetDoc1041200001">0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations referenceDocumentId="RetDoc1041900001">0</GrantsToOrganizations>
+      <GrantsToIndividuals referenceDocumentId="RetDoc1041900001">1</GrantsToIndividuals>
+      <ScheduleJRequired referenceDocumentId="RetDoc1042400001">1</ScheduleJRequired>
+      <TaxExemptBonds referenceDocumentId="RetDoc1053100001">1</TaxExemptBonds>
+      <InvestTaxExemptBonds>0</InvestTaxExemptBonds>
+      <EscrowAccount>0</EscrowAccount>
+      <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+      <ExcessBenefitTransaction>0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction>0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP>0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson>0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization>0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember>0</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp>0</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions referenceDocumentId="RetDoc1042900001">1</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt referenceDocumentId="RetDoc1042900001">0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>28</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <ComplianceWithBackupWitholding>1</ComplianceWithBackupWitholding>
+      <NumberOfEmployees>142</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <NbrVotingGoverningBodyMembers>17</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>17</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <StatesWhereCopyOfReturnIsFiled>ME</StatesWhereCopyOfReturnIsFiled>
+      <OtherWebsite>X</OtherWebsite>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>James L Bisesti</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2079665268</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>PO Box 309</AddressLine1>
+          <City>Hebron</City>
+          <State>ME</State>
+          <ZIPCode>04238</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>J Reeve Bright</NamePerson>
+        <Title>Chair</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Stephen B Jeffries</NamePerson>
+        <Title>Vice Chair</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Paul Goodof</NamePerson>
+        <Title>Treasurer</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Debra Beacham-Bloomingdale</NamePerson>
+        <Title>Secretary</Title>
+        <AverageHoursPerWeek>2.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Meredith Strang Burgess</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Judah Sommer</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Susan R Geismar</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Susan A Gendron</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>William B Golden</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Edward Gottlieb</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Wallace E Higgins</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>James B Hill</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Kimball L Kenway</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Scott R Nelson</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Robert P Rich</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Michael E Silverman</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Scott E Wilson</NamePerson>
+        <Title>Board Member</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>John J King</NamePerson>
+        <Title>Headmaster</Title>
+        <AverageHoursPerWeek>45.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>177528</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>43313</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>James Bisesti</NamePerson>
+        <Title>Business Manager</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <HighestCompensatedEmployee>X</HighestCompensatedEmployee>
+        <ReportableCompFromOrganization>107283</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>13094</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>284811</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>56407</TotalOtherCompensation>
+      <NumberIndividualsGT100K>2</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>1</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <NumberOfContractorsGT100K>0</NumberOfContractorsGT100K>
+      <AllOtherContributions>2763391</AllOtherContributions>
+      <NoncashContributions>36631</NoncashContributions>
+      <TotalContributions>2763391</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Tuition and fees</Description>
+        <BusinessCode>611600</BusinessCode>
+        <TotalRevenueColumn>9458105</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>9458105</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Student Center</Description>
+        <BusinessCode>611710</BusinessCode>
+        <TotalRevenueColumn>140828</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>140828</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Other services and fee</Description>
+        <BusinessCode>611710</BusinessCode>
+        <TotalRevenueColumn>60202</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>60202</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Special assessments</Description>
+        <BusinessCode>611710</BusinessCode>
+        <TotalRevenueColumn>31827</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>31827</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>9690962</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>295017</TotalRevenueColumn>
+        <ExclusionAmount>295017</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>93653</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>93653</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>93653</TotalRevenueColumn>
+        <ExclusionAmount>93653</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Securities>8469979</Securities>
+        <Other>5800</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Securities>8346289</Securities>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Securities>123690</Securities>
+        <Other>5800</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>129490</TotalRevenueColumn>
+        <ExclusionAmount>129490</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <TotalRevenue>
+        <TotalRevenueColumn>12972513</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>9690962</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>518160</ExclusionAmount>
+      </TotalRevenue>
+      <GrantsToDomesticIndividuals>
+        <Total>3460348</Total>
+        <ProgramServices>3460348</ProgramServices>
+      </GrantsToDomesticIndividuals>
+      <CompCurrentOfficersDirectors>
+        <Total>226513</Total>
+        <ProgramServices>149049</ProgramServices>
+        <ManagementAndGeneral>49770</ManagementAndGeneral>
+        <Fundraising>27694</Fundraising>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>3467362</Total>
+        <ProgramServices>2281574</ProgramServices>
+        <ManagementAndGeneral>761862</ManagementAndGeneral>
+        <Fundraising>423926</Fundraising>
+      </OtherSalariesAndWages>
+      <PensionPlanContributions>
+        <Total>209715</Total>
+        <ProgramServices>137995</ProgramServices>
+        <ManagementAndGeneral>46079</ManagementAndGeneral>
+        <Fundraising>25641</Fundraising>
+      </PensionPlanContributions>
+      <OtherEmployeeBenefits>
+        <Total>446404</Total>
+        <ProgramServices>293740</ProgramServices>
+        <ManagementAndGeneral>98086</ManagementAndGeneral>
+        <Fundraising>54578</Fundraising>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>268812</Total>
+        <ProgramServices>176883</ProgramServices>
+        <ManagementAndGeneral>59064</ManagementAndGeneral>
+        <Fundraising>32865</Fundraising>
+      </PayrollTaxes>
+      <FeesForServicesAccounting>
+        <Total>21175</Total>
+        <ManagementAndGeneral>21175</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesProfFundraising>
+        <Total>39504</Total>
+        <Fundraising>39504</Fundraising>
+      </FeesForServicesProfFundraising>
+      <FeesForServicesInvstMgmntFees>
+        <Total>36838</Total>
+        <ManagementAndGeneral>36838</ManagementAndGeneral>
+      </FeesForServicesInvstMgmntFees>
+      <FeesForServicesOther>
+        <Total>151821</Total>
+        <ProgramServices>112014</ProgramServices>
+        <ManagementAndGeneral>37089</ManagementAndGeneral>
+        <Fundraising>2718</Fundraising>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>44100</Total>
+        <ProgramServices>44100</ProgramServices>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>368555</Total>
+        <ProgramServices>165759</ProgramServices>
+        <ManagementAndGeneral>125664</ManagementAndGeneral>
+        <Fundraising>77132</Fundraising>
+      </OfficeExpenses>
+      <InformationTechnology>
+        <Total>17561</Total>
+        <ProgramServices>17561</ProgramServices>
+      </InformationTechnology>
+      <Occupancy>
+        <Total>975650</Total>
+        <ProgramServices>736076</ProgramServices>
+        <ManagementAndGeneral>239574</ManagementAndGeneral>
+      </Occupancy>
+      <Travel>
+        <Total>113473</Total>
+        <ProgramServices>46896</ProgramServices>
+        <ManagementAndGeneral>27227</ManagementAndGeneral>
+        <Fundraising>39350</Fundraising>
+      </Travel>
+      <Interest>
+        <Total>904142</Total>
+        <ManagementAndGeneral>904142</ManagementAndGeneral>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>967503</Total>
+        <ProgramServices>774002</ProgramServices>
+        <ManagementAndGeneral>193501</ManagementAndGeneral>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>76207</Total>
+        <ManagementAndGeneral>76207</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Food service</Description>
+        <Total>619515</Total>
+        <ProgramServices>619515</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Recruitment</Description>
+        <Total>157938</Total>
+        <ProgramServices>157938</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Student center</Description>
+        <Total>127843</Total>
+        <ProgramServices>127843</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bad debt</Description>
+        <Total>116292</Total>
+        <ManagementAndGeneral>116292</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Athletics</Description>
+        <Total>78978</Total>
+        <ProgramServices>78978</ProgramServices>
+      </OtherExpenses>
+      <AllOtherExpenses>
+        <Total>305428</Total>
+        <ProgramServices>187174</ProgramServices>
+        <ManagementAndGeneral>32982</ManagementAndGeneral>
+        <Fundraising>85272</Fundraising>
+      </AllOtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>13201677</Total>
+        <ProgramServices>9567445</ProgramServices>
+        <ManagementAndGeneral>2825552</ManagementAndGeneral>
+        <Fundraising>808680</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>13265</BOY>
+        <EOY>348335</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>1806625</BOY>
+        <EOY>2059982</EOY>
+      </SavingsAndTempCashInvestments>
+      <PledgesAndGrantsReceivable>
+        <BOY>1746870</BOY>
+        <EOY>1689398</EOY>
+      </PledgesAndGrantsReceivable>
+      <AccountsReceivable>
+        <BOY>85219</BOY>
+        <EOY>170191</EOY>
+      </AccountsReceivable>
+      <OtherNotesLoansReceivableNet>
+        <BOY>1588978</BOY>
+        <EOY>1588978</EOY>
+      </OtherNotesLoansReceivableNet>
+      <InventoriesForSaleOrUse>
+        <BOY>45960</BOY>
+        <EOY>49668</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>49421</BOY>
+        <EOY>53795</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>27804840</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>6166575</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>22400492</BOY>
+        <EOY>21638265</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <InvestmentsPubTradedSecurities>
+        <BOY>6000605</BOY>
+        <EOY>7207524</EOY>
+      </InvestmentsPubTradedSecurities>
+      <InvestmentsOtherSecurities>
+        <BOY>1726</BOY>
+        <EOY>1880</EOY>
+      </InvestmentsOtherSecurities>
+      <OtherAssetsTotal>
+        <BOY>1719955</BOY>
+        <EOY>1665539</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>35459116</BOY>
+        <EOY>36473555</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>580640</BOY>
+        <EOY>546834</EOY>
+      </AccountsPayableAccruedExpenses>
+      <DeferredRevenue>
+        <BOY>963643</BOY>
+        <EOY>1993468</EOY>
+      </DeferredRevenue>
+      <TaxExemptBondLiabilities>
+        <BOY>14700000</BOY>
+        <EOY>14700000</EOY>
+      </TaxExemptBondLiabilities>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>2312691</BOY>
+        <EOY>2077512</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <OtherLiabilities>
+        <BOY>161871</BOY>
+        <EOY>79364</EOY>
+      </OtherLiabilities>
+      <TotalLiabilities>
+        <BOY>18718845</BOY>
+        <EOY>19397178</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>8311162</BOY>
+        <EOY>7914229</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>536974</BOY>
+        <EOY>1170420</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <PermanentlyRestrictedNetAssets>
+        <BOY>7892135</BOY>
+        <EOY>7991728</EOY>
+      </PermanentlyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>16740271</BOY>
+        <EOY>17076377</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>35459116</BOY>
+        <EOY>36473555</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <School170b1Aii>X</School170b1Aii>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <CurrentYear>
+        <BeginningOfYearBalance>6476252</BeginningOfYearBalance>
+        <Contributions>16465</Contributions>
+        <InvestmentEarningsOrLosses>580943</InvestmentEarningsOrLosses>
+        <OtherExpenditures>277481</OtherExpenditures>
+        <EndOfYearBalance>6796179</EndOfYearBalance>
+      </CurrentYear>
+      <CurrentYearMinus1Year>
+        <BeginningOfYearBalance>7478444</BeginningOfYearBalance>
+        <Contributions>35751</Contributions>
+        <InvestmentEarningsOrLosses>-761240</InvestmentEarningsOrLosses>
+        <OtherExpenditures>276703</OtherExpenditures>
+        <EndOfYearBalance>6476252</EndOfYearBalance>
+      </CurrentYearMinus1Year>
+      <PermanentEndowmentEOYBalance>1.00000</PermanentEndowmentEOYBalance>
+      <EndowmentsHeldByUnrelatedOrgs>0</EndowmentsHeldByUnrelatedOrgs>
+      <EndowmentsHeldByRelatedOrgs>0</EndowmentsHeldByRelatedOrgs>
+      <Land>
+        <OtherCostOrOtherBasis>416289</OtherCostOrOtherBasis>
+        <BookValue>416289</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>23933526</OtherCostOrOtherBasis>
+        <Depreciation>4861147</Depreciation>
+        <BookValue>19072379</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>2766060</OtherCostOrOtherBasis>
+        <Depreciation>856837</Depreciation>
+        <BookValue>1909223</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>688965</OtherCostOrOtherBasis>
+        <Depreciation>448591</Depreciation>
+        <BookValue>240374</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>21638265</TotalOfBookValueLandBuildings>
+      <OtherLiabilities>
+        <Description>Class and activity funds</Description>
+        <Amount>34188</Amount>
+      </OtherLiabilities>
+      <OtherLiabilities>
+        <Description>Capital lease obligations</Description>
+        <Amount>45176</Amount>
+      </OtherLiabilities>
+      <TotalOfAmounts>79364</TotalOfAmounts>
+      <TotalRevenue>12972513</TotalRevenue>
+      <TotalExpenses>13201677</TotalExpenses>
+      <ExcessOrDeficitForYear>-229164</ExcessOrDeficitForYear>
+      <NetUnrealizedGLOnInvestments>482023</NetUnrealizedGLOnInvestments>
+      <OtherAmount>83247</OtherAmount>
+      <TotalAdjustments>565270</TotalAdjustments>
+      <ExcessOrDeficitPerFS>336106</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>13500945</TotRevenueEtcAuditedFinclStmt>
+      <NetUnrealizedGainsInvestments>482023</NetUnrealizedGainsInvestments>
+      <OtherRevenues>83247</OtherRevenues>
+      <RevenueNotRptdF990>565270</RevenueNotRptdF990>
+      <RevenueSubtotal>12935675</RevenueSubtotal>
+      <InvestmentExpensesNotIncluded>36838</InvestmentExpensesNotIncluded>
+      <RevenueNotRptdOnFinStmt>36838</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>12972513</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>13164839</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>13164839</ExpensesSubtotal>
+      <InvestmentExpensesNotIncluded2>36838</InvestmentExpensesNotIncluded2>
+      <ExpensesNotRptdOnFinStmt>36838</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>13201677</TotalExpensesPerForm990>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part V, Line 4:</Identifier>
+        <ReturnReference>Description of Intended Use of Endowment Funds:</ReturnReference>
+        <Explanation>To provide support for various activities of the Academy, including provision for financial aid and related expenditures.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part X:</Identifier>
+        <ReturnReference>Description of Uncertain Tax Positions Under FIN 48:</ReturnReference>
+        <Explanation>Effective July 1, 2009, the Academy adopted the provisions of Accounting for Uncertainty in Income Taxes as provided for in the Income Taxes topic of the FASB Accounting Standards Codification; however, this implementation has had no material impact on the Academy's financial statements. This statement clarifies the criteria that an individual tax position must satisfy for some or all of the benefits of that position to be recognized in an entity's financial statements. It also prescribes a recognition threshold of more likely-than-not, and a measurement attribute for all tax positions taken or expected to be taken on a tax return, in order for those tax positions to be recognized in the financial statements. There was no cumulative effect on the Academy's financial statements related to the adoption of these provisions, and no interest or penalties related to uncertain tax positions were accrued. The Academy is currently open to audit under the statute of limitations by the Internal Revenue Service and state taxing authorities for the years ended June 30, 2007 through 2010.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XI, Line 8 - Other Adjustments:</Identifier>
+        <Explanation>Change in value of split-interest agreements: 83247.</Explanation>
+      </Form990ScheduleDPartXIV>
+      <Form990ScheduleDPartXIV>
+        <Identifier>Part XII, Line 2d - Other Adjustments:</Identifier>
+        <Explanation>Change in value of split-interest agreements: 83247.</Explanation>
+      </Form990ScheduleDPartXIV>
+    </IRS990ScheduleD>
+    <IRS990ScheduleE documentId="RetDoc1040400001">
+      <NondiscriminatoryPolicyStmt>1</NondiscriminatoryPolicyStmt>
+      <PolicyStatementInBrochuresEtc>1</PolicyStatementInBrochuresEtc>
+      <PolicyPublViaBroadcastMedia>1</PolicyPublViaBroadcastMedia>
+      <PubViaBroadcastMediaExpln>Hebron Academy publicizes its policy through student and staff handbooks, as well as other publicised advertisements.</PubViaBroadcastMediaExpln>
+      <MaintRacialCompositionRecords>1</MaintRacialCompositionRecords>
+      <MaintScholarshipsRecords>1</MaintScholarshipsRecords>
+      <MaintCopiesOfBrochuresEtc>1</MaintCopiesOfBrochuresEtc>
+      <MaintCopiesOfAllSolicitations>1</MaintCopiesOfAllSolicitations>
+      <DiscriminateRaceStudentsRights>0</DiscriminateRaceStudentsRights>
+      <DiscriminateRaceAdmissPolicies>0</DiscriminateRaceAdmissPolicies>
+      <DiscriminateRaceEmplmnFaculty>0</DiscriminateRaceEmplmnFaculty>
+      <DiscriminateRaceScholarships>0</DiscriminateRaceScholarships>
+      <DiscriminateRaceEducPolicies>0</DiscriminateRaceEducPolicies>
+      <DiscriminateRaceUseOfFclts>0</DiscriminateRaceUseOfFclts>
+      <DiscriminateRaceAthleticProg>0</DiscriminateRaceAthleticProg>
+      <DiscriminateRaceOtherActy>0</DiscriminateRaceOtherActy>
+      <GovernmentFinancialAidReceived>0</GovernmentFinancialAidReceived>
+      <GovernmentFinancialAidRevoked>0</GovernmentFinancialAidRevoked>
+      <ComplianceWithRevProc7550>1</ComplianceWithRevProc7550>
+    </IRS990ScheduleE>
+    <IRS990ScheduleG documentId="RetDoc1041200001">
+      <MailSolicitations>X</MailSolicitations>
+      <EmailSolicitations>X</EmailSolicitations>
+      <PhoneSolicitations>X</PhoneSolicitations>
+      <InPersonSolicitations>X</InPersonSolicitations>
+      <SolicitationOfNonGovtGrants>X</SolicitationOfNonGovtGrants>
+      <SolicitationOfGovtGrants>X</SolicitationOfGovtGrants>
+      <SpecialFundraisingEvents>X</SpecialFundraisingEvents>
+      <AgreementRefFundraising>0</AgreementRefFundraising>
+      <FundraiserActivityInformation>
+        <NameOfOrganization>
+          <BusinessNameLine1>Marts &amp; Lundy</BusinessNameLine1>
+        </NameOfOrganization>
+        <Activity>Fundraising Consulting</Activity>
+        <FundraiserControlOfFunds>0</FundraiserControlOfFunds>
+        <GrossReceipts>0</GrossReceipts>
+        <AmountRetainedByContractor>39504</AmountRetainedByContractor>
+        <NetToOrganization>0</NetToOrganization>
+      </FundraiserActivityInformation>
+      <TotalRetainedByContractors>39504</TotalRetainedByContractors>
+    </IRS990ScheduleG>
+    <IRS990ScheduleI documentId="RetDoc1041900001">
+      <RecordsMaintained>1</RecordsMaintained>
+      <Form990ScheduleIPartIII>
+        <TypeOfGrant>Student Financial Aid</TypeOfGrant>
+        <NumberOfRecipients>160</NumberOfRecipients>
+        <AmountOfNonCashAssistance>3460348</AmountOfNonCashAssistance>
+        <MethodOfValuation>Direct discount of tuition.</MethodOfValuation>
+        <DescriptionOfNonCashAssistance>Reduction of tuition due for recipient.</DescriptionOfNonCashAssistance>
+      </Form990ScheduleIPartIII>
+      <Form990ScheduleIPartIV>
+        <Identifier>Procedure for Monitoring Grants in the U.S.:</Identifier>
+        <ReturnReference>Part I, Line 2:</ReturnReference>
+        <Explanation>Schedule I, Part I, Line 2: Grant funds are direct reductions of tuition.</Explanation>
+      </Form990ScheduleIPartIV>
+      <Form990ScheduleIPartIV>
+        <Identifier>Other Information:</Identifier>
+        <ReturnReference>Part IV:</ReturnReference>
+        <Explanation>Grant funds represent financial aid, this is not a cash transaction, but rather a reduction in the students overall tuition.</Explanation>
+      </Form990ScheduleIPartIV>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="RetDoc1042400001">
+      <DiscretionarySpendingAccount>X</DiscretionarySpendingAccount>
+      <HousingAllowanceOrResidence>X</HousingAllowanceOrResidence>
+      <WrittenPolicyReTAndEExpenses>1</WrittenPolicyReTAndEExpenses>
+      <SubstantiationRequired>1</SubstantiationRequired>
+      <WrittenEmploymentContract>X</WrittenEmploymentContract>
+      <CompensationSurvey>X</CompensationSurvey>
+      <BoardOrCommitteeApproval>X</BoardOrCommitteeApproval>
+      <SeverancePayment>0</SeverancePayment>
+      <SupplementalNonqualRetirePlan>0</SupplementalNonqualRetirePlan>
+      <EquityBasedCompArrangement>0</EquityBasedCompArrangement>
+      <CompBasedOnRevenueOfFilingOrg>0</CompBasedOnRevenueOfFilingOrg>
+      <CompBasedOnRevenueRelatedOrgs>0</CompBasedOnRevenueRelatedOrgs>
+      <CompBasedNetEarningsFilingOrg>0</CompBasedNetEarningsFilingOrg>
+      <CompBasedNetEarningsRelateOrgs>0</CompBasedNetEarningsRelateOrgs>
+      <AnyNonFixedPayments>0</AnyNonFixedPayments>
+      <InitialContractException>0</InitialContractException>
+      <Form990ScheduleJPartII>
+        <NameBusiness>
+          <BusinessNameLine1>John J King</BusinessNameLine1>
+        </NameBusiness>
+        <BaseCompensationFilingOrg>177528</BaseCompensationFilingOrg>
+        <CompBasedOnRelatedOrgs>0</CompBasedOnRelatedOrgs>
+        <BonusFilingOrg>0</BonusFilingOrg>
+        <BonusRelatedOrgs>0</BonusRelatedOrgs>
+        <OtherCompensationFilingOrg>0</OtherCompensationFilingOrg>
+        <OtherCompensationRelatedOrgs>0</OtherCompensationRelatedOrgs>
+        <DeferredCompFilingOrg>12427</DeferredCompFilingOrg>
+        <DeferredCompRelatedOrgs>0</DeferredCompRelatedOrgs>
+        <NontaxableBenefitsFilingOrg>30886</NontaxableBenefitsFilingOrg>
+        <NontaxableBenefitsRelatedOrgs>0</NontaxableBenefitsRelatedOrgs>
+        <TotalCompensationFilingOrg>220841</TotalCompensationFilingOrg>
+        <TotalCompensationRelatedOrgs>0</TotalCompensationRelatedOrgs>
+        <CompReportPrior990FilingOrg>0</CompReportPrior990FilingOrg>
+        <CompReportPrior990RelatedOrgs>0</CompReportPrior990RelatedOrgs>
+      </Form990ScheduleJPartII>
+      <Form990ScheduleJPartIII>
+        <ReturnReference>Part I, Line 1a</ReturnReference>
+        <Explanation>The Head Master of Hebron Academy is provided with housing located on the Hebron Academy campus. This is in accordance with an employment agreement stipulating that the Head Master is required to live on the grounds of the campus A discretionary allowance is also available for reimbursement of housing related costs such as maintenance and cleaning.</Explanation>
+      </Form990ScheduleJPartIII>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleK documentId="RetDoc1053100001">
+      <Form990ScheduleKPartI>
+        <IssuerName>
+          <BusinessNameLine1>Finance Authority of Maine</BusinessNameLine1>
+        </IssuerName>
+        <IssuerEIN>010392006</IssuerEIN>
+        <CUSIPNumber>56042BBJ5</CUSIPNumber>
+        <DateIssued>2007-07-12</DateIssued>
+        <IssuePrice>14700000</IssuePrice>
+        <DescriptionOfPurpose>Provide funds for major capital improvement project.</DescriptionOfPurpose>
+        <Defeased>0</Defeased>
+        <OnBehalfOfIssuer>0</OnBehalfOfIssuer>
+      </Form990ScheduleKPartI>
+      <Form990ScheduleKPartII>
+        <TotalProceeds>14700000</TotalProceeds>
+        <IssuanceCostsFromProceeds>257971</IssuanceCostsFromProceeds>
+        <CapitalExpenditures>14442029</CapitalExpenditures>
+        <YearOfSubstCompletion>2009</YearOfSubstCompletion>
+        <CurrentRefunding>0</CurrentRefunding>
+        <AdvanceRefunding>0</AdvanceRefunding>
+        <FinalAllocationMade>1</FinalAllocationMade>
+        <AdequateBooksAndRecdsMaintaind>1</AdequateBooksAndRecdsMaintaind>
+      </Form990ScheduleKPartII>
+      <Form990ScheduleKPartIII>
+        <OwningBondFinancedProperty>0</OwningBondFinancedProperty>
+        <AnyLeaseArrangements>0</AnyLeaseArrangements>
+        <MngmentCntrctBondFinancdPrprty>0</MngmentCntrctBondFinancdPrprty>
+        <AnyResearchAgreements>0</AnyResearchAgreements>
+        <BondCounselRoutinelyEngaged>0</BondCounselRoutinelyEngaged>
+        <PrcntgePrvtBusinessUseByOthers>0.00000</PrcntgePrvtBusinessUseByOthers>
+        <PercentageOfPrvtBusinessReUBI>0.00000</PercentageOfPrvtBusinessReUBI>
+        <TotalPrivateBusinessUse>0.00000</TotalPrivateBusinessUse>
+        <PostIssuanceComplianceProcdrs>1</PostIssuanceComplianceProcdrs>
+      </Form990ScheduleKPartIII>
+      <Form990ScheduleKPartIV>
+        <Form8038TFiled>0</Form8038TFiled>
+        <VariableRateIssue>1</VariableRateIssue>
+        <HedgeIdentifiedInBooksAndRecds>1</HedgeIdentifiedInBooksAndRecds>
+        <NameOfHedgeProvider>
+          <BusinessNameLine1>Lehman Brothers</BusinessNameLine1>
+          <BusinessNameLine2>Special Financing</BusinessNameLine2>
+        </NameOfHedgeProvider>
+        <TermOfHedge>29.900000000000</TermOfHedge>
+        <GrossProceedsInvestedInGIC>1</GrossProceedsInvestedInGIC>
+        <NameOfGICProvider>
+          <BusinessNameLine1>MBIA Inc</BusinessNameLine1>
+        </NameOfGICProvider>
+        <TermOfGIC>2.100000000000</TermOfGIC>
+        <RegulatorySafeHarborSatisfied>1</RegulatorySafeHarborSatisfied>
+        <GrossProceedsInvested>0</GrossProceedsInvested>
+        <ExceptionToRebate>1</ExceptionToRebate>
+      </Form990ScheduleKPartIV>
+    </IRS990ScheduleK>
+    <IRS990ScheduleM documentId="RetDoc1042900001">
+      <OtherNonCashContributionsTable>
+        <NonCashCheckbox>X</NonCashCheckbox>
+        <Description>New Equip/Furniture</Description>
+        <NumberOfContributions>2</NumberOfContributions>
+        <NoncashContribsRptdF990>36631</NoncashContribsRptdF990>
+        <MethodOfDeterminingRevenues>Comparative Cost</MethodOfDeterminingRevenues>
+      </OtherNonCashContributionsTable>
+      <AnyPropertyThatMustBeHeld>0</AnyPropertyThatMustBeHeld>
+      <ReviewProcessUnusualNCGifts>0</ReviewProcessUnusualNCGifts>
+      <ThirdPartiesUsed>0</ThirdPartiesUsed>
+    </IRS990ScheduleM>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>The Form 990 is prepared by Hebron's independent auditors, a draft is sent to the business manager who reviews the return and directs any questions/comments to the audit firm's personnel. Upon the business manager's approval of the return, it is then reviewed by the Audit Committee. Upon the approval of the return by the Audit Committee, the return is then finalized and filed with the IRS.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 12c</Identifier>
+        <Explanation>Hebron regularly monitors such issues with employees and board members.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 15a</Identifier>
+        <Explanation>In the first board meeting of the calendar year, the Board of Trustees goes into executive session to review the Head of School, which is followed up with a review of the Head of School's performance at the summer Board meeting. Compensation is then discussed for the next fiscal year based on performance and comparability data of other private schools.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section C, line 19</Identifier>
+        <Explanation>Available upon request at the Business Office.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part XI, Question 2C - Audit Oversight:</Identifier>
+        <Explanation>The audit process did not change during the current year.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

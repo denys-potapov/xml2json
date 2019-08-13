@@ -1,0 +1,624 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-11-15T10:20:44-06:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BEATHAMBERNIERSEEKINS &amp; COLPRITT CPAS</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>38 PARKWAY SOUTH</AddressLine1>
+        <City>BREWER</City>
+        <State>ME</State>
+        <ZIPCode>044121628</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010532830</EIN>
+      <Name>
+        <BusinessNameLine1>ERNEST R BRADSTREET SCHOLARSHIP</BusinessNameLine1>
+      </Name>
+      <NameControl>ERNE</NameControl>
+      <Phone>2079425211</Phone>
+      <USAddress>
+        <AddressLine1>PO BOX 930</AddressLine1>
+        <City>BANGOR</City>
+        <State>ME</State>
+        <ZIPCode>044020930</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>BANGOR SAVINGS BANK</Name>
+      <Title>TRUSTEE</Title>
+      <Phone>2079425211</Phone>
+      <DateSigned>2011-11-03</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>JASON D GOULD CPA</Name>
+      <Phone>2079418890</Phone>
+      <DatePrepared>2011-11-15</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="8">
+    <IRS990PF documentId="RetDoc1">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>73161</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>1843</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>1843</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>592</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>5390</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>592</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>2435</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>2435</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2">650</AccountingFeesRevAndExpnss>
+        <AccountingFeesAdjNetIncm>650</AccountingFeesAdjNetIncm>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc7">1250</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>625</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>625</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId="RetDoc8">46</TaxesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>1946</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>625</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>650</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>625</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>3000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>3000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>4946</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>625</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>650</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>3625</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-2511</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>1810</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>631</SavingsAndTempCashInvstBOY>
+        <InvestmentsGovtObligBOY>16929</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId="RetDoc6">18160</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>18522</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>40059</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc5">36905</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>42824</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>11301</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="RetDoc4">11344</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>11815</InvestmentsCorpBondsEOYFMV>
+        <TotalAssetsBOY>68920</TotalAssetsBOY>
+        <TotalAssetsEOY>66409</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>73161</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>68920</RetainedEarningsBOY>
+        <RetainedEarningsEOY>66409</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>68920</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>66409</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>68920</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>66409</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>68920</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-2511</ExcessOfRevenueOverExpenses>
+        <Subtotal>66409</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>66409</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES TR S&amp;P CITIGROUP INT'L TREAS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-18</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>104</GrossSalesPrice>
+          <CostOrOtherBasis>95</CostOrOtherBasis>
+          <GainOrLoss>9</GainOrLoss>
+          <GainsMinusExcessOrLosses>9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>IPATH DOW JONES UBS COMMDTY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-11</DateAcquired>
+          <DateSold>2011-02-28</DateSold>
+          <GrossSalesPrice>591</GrossSalesPrice>
+          <CostOrOtherBasis>451</CostOrOtherBasis>
+          <GainOrLoss>140</GainOrLoss>
+          <GainsMinusExcessOrLosses>140</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES ITERMEDIATE GOV</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-18</DateAcquired>
+          <DateSold>2010-07-01</DateSold>
+          <GrossSalesPrice>650</GrossSalesPrice>
+          <CostOrOtherBasis>645</CostOrOtherBasis>
+          <GainOrLoss>5</GainOrLoss>
+          <GainsMinusExcessOrLosses>5</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>IPATH DOW JONES UBS COMMDTY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-11</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>98</GrossSalesPrice>
+          <CostOrOtherBasis>75</CostOrOtherBasis>
+          <GainOrLoss>23</GainOrLoss>
+          <GainsMinusExcessOrLosses>23</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES S&amp;P 500 INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-17</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>664</GrossSalesPrice>
+          <CostOrOtherBasis>604</CostOrOtherBasis>
+          <GainOrLoss>60</GainOrLoss>
+          <GainsMinusExcessOrLosses>60</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES S&amp;P 500 INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-17</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>265</GrossSalesPrice>
+          <CostOrOtherBasis>241</CostOrOtherBasis>
+          <GainOrLoss>24</GainOrLoss>
+          <GainsMinusExcessOrLosses>24</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>IPATH DOW JONES UBS COMMDTY</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-18</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>345</GrossSalesPrice>
+          <CostOrOtherBasis>271</CostOrOtherBasis>
+          <GainOrLoss>74</GainOrLoss>
+          <GainsMinusExcessOrLosses>74</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES INTERMEDIATE GOV</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-11</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>218</GrossSalesPrice>
+          <CostOrOtherBasis>215</CostOrOtherBasis>
+          <GainOrLoss>3</GainOrLoss>
+          <GainsMinusExcessOrLosses>3</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANGUARD REIT INDEX ETF</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-18</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>240</GrossSalesPrice>
+          <CostOrOtherBasis>205</CostOrOtherBasis>
+          <GainOrLoss>35</GainOrLoss>
+          <GainsMinusExcessOrLosses>35</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANGUARD REIT INDEX ETF</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-11</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>180</GrossSalesPrice>
+          <CostOrOtherBasis>148</CostOrOtherBasis>
+          <GainOrLoss>32</GainOrLoss>
+          <GainsMinusExcessOrLosses>32</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES IBOXX HIGH YIELD CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-18</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>92</GrossSalesPrice>
+          <CostOrOtherBasis>86</CostOrOtherBasis>
+          <GainOrLoss>6</GainOrLoss>
+          <GainsMinusExcessOrLosses>6</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES S&amp;P 500 INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-17</DateAcquired>
+          <DateSold>2011-02-07</DateSold>
+          <GrossSalesPrice>927</GrossSalesPrice>
+          <CostOrOtherBasis>845</CostOrOtherBasis>
+          <GainOrLoss>82</GainOrLoss>
+          <GainsMinusExcessOrLosses>82</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERATED TOTAL RETURN SERS 328</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2006-02-16</DateAcquired>
+          <DateSold>2010-10-13</DateSold>
+          <GrossSalesPrice>1</GrossSalesPrice>
+          <CostOrOtherBasis>1</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANGUARD REIT INDEX ETF</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-11</DateAcquired>
+          <DateSold>2011-02-07</DateSold>
+          <GrossSalesPrice>460</GrossSalesPrice>
+          <CostOrOtherBasis>394</CostOrOtherBasis>
+          <GainOrLoss>66</GainOrLoss>
+          <GainsMinusExcessOrLosses>66</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>FEDERATED INTERMEDIATE CORP BD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2001-02-16</DateAcquired>
+          <DateSold>2010-10-13</DateSold>
+          <GrossSalesPrice>4</GrossSalesPrice>
+          <CostOrOtherBasis>4</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES S&amp;P SMALL CAP 600</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-09-25</DateAcquired>
+          <DateSold>2011-02-07</DateSold>
+          <GrossSalesPrice>71</GrossSalesPrice>
+          <CostOrOtherBasis>70</CostOrOtherBasis>
+          <GainOrLoss>1</GainOrLoss>
+          <GainsMinusExcessOrLosses>1</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES MSCI EAFE INDEX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2007-09-25</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>61</GrossSalesPrice>
+          <CostOrOtherBasis>82</CostOrOtherBasis>
+          <GainOrLoss>-21</GainOrLoss>
+          <GainsMinusExcessOrLosses>-21</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES S&amp;P MID CAP 400</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2005-02-17</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>98</GrossSalesPrice>
+          <CostOrOtherBasis>67</CostOrOtherBasis>
+          <GainOrLoss>31</GainOrLoss>
+          <GainsMinusExcessOrLosses>31</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES S&amp;P SMALL CAP 600</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2008-02-26</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>72</GrossSalesPrice>
+          <CostOrOtherBasis>63</CostOrOtherBasis>
+          <GainOrLoss>9</GainOrLoss>
+          <GainsMinusExcessOrLosses>9</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES IBOXX HIGH YIELD CORP</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-06-11</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>92</GrossSalesPrice>
+          <CostOrOtherBasis>84</CostOrOtherBasis>
+          <GainOrLoss>8</GainOrLoss>
+          <GainsMinusExcessOrLosses>8</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>ISHARES BARCLAYS INTERM CREDIT BOND</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2011-02-28</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>107</GrossSalesPrice>
+          <CostOrOtherBasis>105</CostOrOtherBasis>
+          <GainOrLoss>2</GainOrLoss>
+          <GainsMinusExcessOrLosses>2</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>VANGUARD MSCI EMERGING MARKETS ETF</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2011-02-28</DateAcquired>
+          <DateSold>2011-05-25</DateSold>
+          <GrossSalesPrice>47</GrossSalesPrice>
+          <CostOrOtherBasis>47</CostOrOtherBasis>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>592</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>403</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>true</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>36</InvestmentIncomeExciseTax>
+        <Subtotal>36</Subtotal>
+        <TaxBasedOnInvestmentIncome>36</TaxBasedOnInvestmentIncome>
+        <TaxDue>36</TaxDue>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>BANGOR SAVINGS BANK</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2079425211</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>99 FRANKLIN STREET</AddressLine1>
+          <City>BANGOR</City>
+          <State>ME</State>
+          <ZIPCode>044020930</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <BusinessName referenceDocumentId="RetDoc3">
+            <BusinessNameLine1>BANGOR SAVINGS BANK</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>PO BOX 930</AddressLine1>
+            <City>BANGOR</City>
+            <State>ME</State>
+            <ZIPCode>044020930</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName referenceDocumentId="RetDoc3">WILLIAM THERIAULT</PersonName>
+          <USAddress>
+            <AddressLine1>67 CLARK HILL ROAD</AddressLine1>
+            <City>HOLDEN</City>
+            <State>ME</State>
+            <ZIPCode>04429</ZIPCode>
+          </USAddress>
+          <Title>TRUSTEE</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>N/A</Description1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>69121</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>69121</TotalFMVOfUnusedAssets>
+        <AdjTotalFMVOfUnusedAssets>69121</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>1037</CashDeemedCharitable>
+        <NetNoncharitableAssets>68084</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>3404</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>3404</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>36</TaxBasedOnInvestmentIncome>
+        <TotalTax>36</TotalTax>
+        <DistributableAmountBeforeAdj>3368</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>3368</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>3368</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>3625</ExpensesAndContributions>
+        <QualifyingDistributions>3625</QualifyingDistributions>
+        <AdjQualifyingDistributions>3625</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>3368</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>2336</UndistributedIncomePriorYear>
+        <QualifyingDistributions>3625</QualifyingDistributions>
+        <AppliedToYear1>2336</AppliedToYear1>
+        <AppliedToCurrentYear>1289</AppliedToCurrentYear>
+        <UndistributedIncomeCY>2079</UndistributedIncomeCY>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <AppicationSubmissionInfo>
+          <RecipientName>THERESA HIGGINS</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>C/O BANGOR SAVINGS BANK</AddressLine1>
+            <AddressLine2>99 FRANKLIN STREET PO BOX 930</AddressLine2>
+            <City>BANGOR</City>
+            <State>ME</State>
+            <ZIPCode>04401</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>2079425211</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>NO PARTICULAR FORM</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>NONE</SubmissionDeadlines>
+          <RestrictionsOnAwards>A SENIOR AT BREWER HIGH SCHOOL IN MAINE SEEKING ADVANCED STUDY IN THE PURSUIT OF A CAREER IN SECONDARY EDUCATION OR A THIRD OR FOUTH YEAR STUDENT AT THE UNIVERSITY OF MAINE PURSUING A CAREER IN SECONDARY EDUCATION.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF MAINE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>168 COLLEGE AVENUE</AddressLine1>
+            <City>ORONO</City>
+            <State>ME</State>
+            <ZIPCode>04473</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP AWARD FOR 2011-2012</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>EASTERN NAZARENE COLLEGE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>23 EAST ELM AVENUE</AddressLine1>
+            <City>QUINCY</City>
+            <State>MA</State>
+            <ZIPCode>02170</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>N/A</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>SCHOLARSHIP AWARD FOR 2011-2012</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>3000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>1843</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>3</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>589</RelatedOrExemptFunctionIncome>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>1846</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>589</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>2435</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="RetDoc2">
+      <AccountingFees>
+        <Category>INDIRECT ACCOUNTING FEES</Category>
+        <Amount>650</Amount>
+        <AdjustedNetIncome>650</AdjustedNetIncome>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <CompensationExplanation documentId="RetDoc3">
+      <Compensation>
+        <BusinessName>
+          <BusinessNameLine1>BANGOR SAVINGS BANK</BusinessNameLine1>
+        </BusinessName>
+      </Compensation>
+      <Compensation>
+        <PersonName>WILLIAM THERIAULT</PersonName>
+      </Compensation>
+    </CompensationExplanation>
+    <InvestmentsCorpBondsSchedule documentId="RetDoc4">
+      <InvestmentsCorpBonds>
+        <NameOfBond>FEDERATED INTERMEDIATE CORP BOND FUN</NameOfBond>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ISHARE TR S&amp;P CITIGROUP INT'L TREAS</NameOfBond>
+        <EOYBookValue>1325</EOYBookValue>
+        <EOYFMV>1492</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ISHARES IBOXX HIGH YIELD CORP</NameOfBond>
+        <EOYBookValue>1279</EOYBookValue>
+        <EOYFMV>1369</EOYFMV>
+      </InvestmentsCorpBonds>
+      <InvestmentsCorpBonds>
+        <NameOfBond>ISHARES BARCLAYS INTERM CREDIT BOND</NameOfBond>
+        <EOYBookValue>8740</EOYBookValue>
+        <EOYFMV>8954</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc5">
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES MSCI EAFE INDEX</NameOfStock>
+        <EOYBookValue>4239</EOYBookValue>
+        <EOYFMV>4029</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P MID-CAP 400</NameOfStock>
+        <EOYBookValue>2960</EOYBookValue>
+        <EOYFMV>4299</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P SMALL-CAP 600</NameOfStock>
+        <EOYBookValue>3096</EOYBookValue>
+        <EOYFMV>4253</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES S&amp;P 500 INDEX</NameOfStock>
+        <EOYBookValue>20803</EOYBookValue>
+        <EOYFMV>23174</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD MSCI EMERGING MARKET</NameOfStock>
+        <EOYBookValue>1662</EOYBookValue>
+        <EOYFMV>2042</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>IPATH DOW JONES UBS COMMODITY</NameOfStock>
+        <EOYBookValue>2029</EOYBookValue>
+        <EOYFMV>2503</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>VANGUARD REIT INDEX ETF</NameOfStock>
+        <EOYBookValue>2116</EOYBookValue>
+        <EOYFMV>2524</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="RetDoc6">
+      <USGovtSecuritiesEOYBookValue>4204</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>4334</USGovtSecuritiesEOYFMV>
+      <StateLocalSecuritiesEOYBookVal>13956</StateLocalSecuritiesEOYBookVal>
+      <StateLocalSecuritiesEOYFMV>14188</StateLocalSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherProfessionalFeesSchedule documentId="RetDoc7">
+      <OtherProfessionalFees>
+        <Category>INDIRECT OTHER PROFESSIONAL FEES</Category>
+        <Amount>1250</Amount>
+        <NetInvestmentIncome>625</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>625</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="RetDoc8">
+      <Taxes>
+        <Category>INDIRECT TAXES/LICENSES</Category>
+        <Amount>46</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

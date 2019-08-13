@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-03-07T12:34:59-08:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Janet E Cole CPA PA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>2211 South Flagler Drive</AddressLine1>
+        <City>West Palm Beach</City>
+        <State>FL</State>
+        <ZIPCode>334018007</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010737173</EIN>
+      <Name>
+        <BusinessNameLine1>SUZANNE WESTER MATTEO MD CHARITABLE FNDN</BusinessNameLine1>
+      </Name>
+      <NameControl>SUZA</NameControl>
+      <Phone>3522642071</Phone>
+      <USAddress>
+        <AddressLine1>Suntrust Invtmt 5080 W Newberry Rd</AddressLine1>
+        <City>Gainesville</City>
+        <State>FL</State>
+        <ZIPCode>32607</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>WILLIAM J WESTER</Name>
+      <Title>Trustee</Title>
+      <DateSigned>2011-03-03</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Janet E Cole CPA</Name>
+      <Phone>5616557807</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="5">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <AddressChange>X</AddressChange>
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>701081</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>15044</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>15044</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>358</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>358</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>358</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>15402</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>15402</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">1455</AccountingFeesRevAndExpnss>
+        <AccountingFeesDsbrsChrtblPrps>1455</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">2774</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>2774</OtherProfFeesNetInvstIncm>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>4229</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>2774</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>1455</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>50000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>50000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>54229</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>2774</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>51455</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-38827</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>12628</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <InvestmentsGovtObligBOY>98929</InvestmentsGovtObligBOY>
+        <InvestmentsGovtObligEOY referenceDocumentId=" InvestmentsGovtObligationsSche">98929</InvestmentsGovtObligEOY>
+        <InvestmentsGovtObligEOYFMV>107604</InvestmentsGovtObligEOYFMV>
+        <InvestmentsCorpStockBOY>614884</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId=" InvestmentsCorpStockSchedule">576057</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>593477</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>713813</TotalAssetsBOY>
+        <TotalAssetsEOY>674986</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>701081</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>1000500</CapitalStockBOY>
+        <CapitalStockEOY>1000500</CapitalStockEOY>
+        <RetainedEarningsBOY>-286687</RetainedEarningsBOY>
+        <RetainedEarningsEOY>-325514</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>713813</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>674986</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>713813</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>674986</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>713813</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-38827</ExcessOfRevenueOverExpenses>
+        <Subtotal>674986</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>674986</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CLASS ACTION RENAISSANCERE HOLDINGS LTD</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-01-22</DateAcquired>
+          <DateSold>2010-07-23</DateSold>
+          <GrossSalesPrice>28</GrossSalesPrice>
+          <GainOrLoss>28</GainOrLoss>
+          <GainsMinusExcessOrLosses>28</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>LTCG DIVIDEND BBH CORE SELECT FD N</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2000-01-22</DateAcquired>
+          <DateSold>2010-12-31</DateSold>
+          <GrossSalesPrice>330</GrossSalesPrice>
+          <GainOrLoss>330</GainOrLoss>
+          <GainsMinusExcessOrLosses>330</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>358</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>51701</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>766114</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.06749</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>51730</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>1006611</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.05139</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>51103</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>1059649</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.04823</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>50681</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>1007541</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.05030</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>56507</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>993263</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.05689</DistributionRatioYear5>
+        <TotalDistributionRatio>0.27429</TotalDistributionRatio>
+        <AverageDistributionRatio>0.05486</AverageDistributionRatio>
+        <NetNoncharitableAssets>718980</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>39443</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>126</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>39569</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>51455</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>126</InvestmentIncomeExciseTax>
+        <Subtotal>126</Subtotal>
+        <TaxBasedOnInvestmentIncome>126</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>389</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>389</TotalCreditsAndPayments>
+        <Overpayment>263</Overpayment>
+        <AmountCreditedToNextYear>263</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>PA</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Suntrust Investment Services</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>3522642071</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>5080 W Newberry Rd</AddressLine1>
+          <City>Gainesville</City>
+          <State>FL</State>
+          <ZIPCode>326072251</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM J WESTER II</PersonName>
+          <USAddress>
+            <AddressLine1>SUNTRUST 5080 W Newberry Road</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>326072251</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>STEPHANIE WESTER</PersonName>
+          <USAddress>
+            <AddressLine1>SUNTRUST 5080 W Newberry Road</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>326072251</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>WILLIAM J WESTER</PersonName>
+          <USAddress>
+            <AddressLine1>SUNTRUST 5080 W Newberry Road</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>326072251</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>2.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>729929</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>0</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>729929</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>729929</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>10949</CashDeemedCharitable>
+        <NetNoncharitableAssets>718980</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>35949</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>35949</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>126</TaxBasedOnInvestmentIncome>
+        <TotalTax>126</TotalTax>
+        <DistributableAmountBeforeAdj>35823</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>35823</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>35823</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>51455</ExpensesAndContributions>
+        <QualifyingDistributions>51455</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>126</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>51329</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>35823</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>7360</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>2042</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear2>1914</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>13657</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>24973</TotalExcessDistriCarryover>
+        <QualifyingDistributions>51455</QualifyingDistributions>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>35823</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>15632</RemainingDistriFromCorpus>
+        <TotalCorpus>40605</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>7360</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>33245</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>2042</ExcessFromYear4>
+        <ExcessFromYear2>1914</ExcessFromYear2>
+        <ExcessFromYear1>13657</ExcessFromYear1>
+        <ExcessFromCurrentYear>15632</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>WILLIAM J WESTER</ContributingManager>
+        <AppicationSubmissionInfo>
+          <RecipientName>WILLIAM J WESTER wwestercoxnet</RecipientName>
+          <RecipientUSAddress>
+            <AddressLine1>5080 W Newberry Road</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>326072251</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientPhoneNumber>3522642067</RecipientPhoneNumber>
+          <FormAndInfoAndMaterials>EMAIL, WRITE OR CALL TO REQUEST APPLICATION INFORMATION.</FormAndInfoAndMaterials>
+          <SubmissionDeadlines>MAY 1</SubmissionDeadlines>
+          <RestrictionsOnAwards>ANY FEMALE AMERICAN CITIZEN WHOSE CITIZENSHIP WAS ATTAINED BY BIRTH AND NOT NATURALIZATION AND WHO HAS GRADUATED FROM AN ACCREDITED INSTITUTION WITH AT LEAST A 3.0 AVERAGE IN HER MAJOR IS ELIGIBLE TO RECEIVE A SCHOLARSHIP AWARD. EACH SCHOLARSHIP AWARD SHALL BE IN THE FORM OF AN OUTRIGHT GRANT OF NO LESS THAN $5,000 AND NO MORE THAN $25,000.</RestrictionsOnAwards>
+        </AppicationSubmissionInfo>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>UNIVERSITY OF FLORIDA FNDN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>PO BOX 14425</AddressLine1>
+            <City>GAINESVILLE</City>
+            <State>FL</State>
+            <ZIPCode>32604</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientPersonName>EAST CAROLINA UNIVERSITY FDN</RecipientPersonName>
+          <RecipientUSAddress>
+            <AddressLine1>EAST 5TH STREET</AddressLine1>
+            <City>GREENVILLE</City>
+            <State>NC</State>
+            <ZIPCode>27858</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>501C3</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>EDUCATION</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>50000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>15044</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>358</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>15402</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>15402</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Category>TAX PREPARATION</Category>
+        <Amount>1455</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1455</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="InvestmentsCorpStockSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <InvestmentsCorpStock>
+        <NameOfStock>2019 SH BBH INTERNATIONAL EQUITY CL N</NameOfStock>
+        <EOYBookValue>25000</EOYBookValue>
+        <EOYFMV>26373</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>8996 SH BBH CORE SELECT FUND CL N</NameOfStock>
+        <EOYBookValue>120000</EOYBookValue>
+        <EOYFMV>128907</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>36469 SH BBH BROAD MARKET FD N</NameOfStock>
+        <EOYBookValue>375000</EOYBookValue>
+        <EOYFMV>379639</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>1569 SH VANGUARD FIXED INC INFLATION FD</NameOfStock>
+        <EOYBookValue>20030</EOYBookValue>
+        <EOYFMV>20392</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>SUNTRUST FEDERATED PRIME MONEY MKT FDS</NameOfStock>
+        <EOYBookValue>36027</EOYBookValue>
+        <EOYFMV>38166</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsGovtObligationsSch documentId="InvestmentsGovtObligationsSche" softwareId="10000105" softwareVersion="2010v3.2">
+      <USGovtSecuritiesEOYBookValue>98929</USGovtSecuritiesEOYBookValue>
+      <USGovtSecuritiesEOYFMV>107604</USGovtSecuritiesEOYFMV>
+    </InvestmentsGovtObligationsSch>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>SUNTRUST PORTFOLIO SERVICES FEE</Category>
+        <Amount>934</Amount>
+        <NetInvestmentIncome>934</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>BROWN BROTHERS INVESTMENT ADVISORY FEES</Category>
+        <Amount>1840</Amount>
+        <NetInvestmentIncome>1840</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

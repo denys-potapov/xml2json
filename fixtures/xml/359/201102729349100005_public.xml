@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-09-29T12:11:51-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Macdonald Page &amp; Co LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>30 Long Creek Dr</AddressLine1>
+        <City>South Portland</City>
+        <State>ME</State>
+        <ZIPCode>04106</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010359164</EIN>
+      <Name>
+        <BusinessNameLine1>GRAND BANKS SCHOONER MUSEUM TRUST</BusinessNameLine1>
+      </Name>
+      <NameControl>GRAN</NameControl>
+      <Phone>2076334727</Phone>
+      <USAddress>
+        <AddressLine1>BOX 123</AddressLine1>
+        <City>BOOTHBAY</City>
+        <State>ME</State>
+        <ZIPCode>04537</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT RYAN</Name>
+      <Title>Executive Director</Title>
+      <DateSigned>2011-09-29</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Patrick Nicholas</Name>
+      <Phone>2077745701</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>0</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>148100</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>22</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>22</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>22</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <OtherIncomeRevAndExpnss referenceDocumentId=" OtherIncomeSchedule2">5561</OtherIncomeRevAndExpnss>
+        <OtherIncomeAdjNetIncm>5561</OtherIncomeAdjNetIncm>
+        <TotalRevenueAndExpenses>153683</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>22</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>5583</TotalAdjustedNetIncome>
+        <CompOfcrDirTrstRevAndExpnss>9000</CompOfcrDirTrstRevAndExpnss>
+        <OthEmplSlrsWgsRevAndExpnss>59222</OthEmplSlrsWgsRevAndExpnss>
+        <OthEmplSlrsWgsDsbrsChrtblPrps>59222</OthEmplSlrsWgsDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">3146</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>1573</OtherProfFeesDsbrsChrtblPrps>
+        <InterestRevAndExpnss>1403</InterestRevAndExpnss>
+        <InterestDsbrsChrtblPrps>1403</InterestDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">6356</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>6356</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">8604</DeprecAndDepletionRevAndExpnss>
+        <TravConfMeetingRevAndExpnss>2103</TravConfMeetingRevAndExpnss>
+        <TravConfMeetingDsbrsChrtblPrps>2103</TravConfMeetingDsbrsChrtblPrps>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">124119</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>123761</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>213953</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>194418</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>213953</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>194418</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-60270</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>22</NetInvestmentIncome>
+        <AdjustedNetIncome>5583</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>8492</CashBOY>
+        <CashEOY>1142</CashEOY>
+        <PledgesReceivable>135000</PledgesReceivable>
+        <PledgesReceivableBOY>212000</PledgesReceivableBOY>
+        <PledgesReceivableEOY>135000</PledgesReceivableEOY>
+        <LandBuildingAndEquipmentBasis>173239</LandBuildingAndEquipmentBasis>
+        <AccumDeprecLandBldgAndEquip>143452</AccumDeprecLandBldgAndEquip>
+        <LandBuildingAndEquipmentBOY>38391</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">29787</LandBuildingAndEquipmentEOY>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">464963</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">464963</OtherAssetsEOY>
+        <TotalAssetsBOY>723846</TotalAssetsBOY>
+        <TotalAssetsEOY>630892</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>0</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>2171</AccountsPayableBOY>
+        <AccountsPayableEOY>4487</AccountsPayableEOY>
+        <MortgagesAndNotesPayableBOY>50000</MortgagesAndNotesPayableBOY>
+        <MortgagesAndNotesPayableEOY referenceDocumentId=" MortgagesAndNotesPayableSchedu">15000</MortgagesAndNotesPayableEOY>
+        <TotalLiabilitiesBOY>52171</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>19487</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>459675</UnrestrictedBOY>
+        <UnrestrictedEOY>476405</UnrestrictedEOY>
+        <TemporarilyRestrictedBOY>212000</TemporarilyRestrictedBOY>
+        <TemporarilyRestrictedEOY>135000</TemporarilyRestrictedEOY>
+        <TotalNetAssetsBOY>671675</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>611405</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>723846</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>630892</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>671675</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-60270</ExcessOfRevenueOverExpenses>
+        <Subtotal>611405</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>611405</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <ExemptOperatingFoundations>X</ExemptOperatingFoundations>
+        <DateOfRulingLetter>1981-10-28</DateOfRulingLetter>
+        <InvestmentIncomeExciseTaxNA>N/A</InvestmentIncomeExciseTaxNA>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors referenceDocumentId=" SubstantialContributorsSchedul">true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>www.schoonermuseum.org</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>ROBERT RYAN</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2076334727</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>PO BOX 123</AddressLine1>
+          <City>BOOTHBAY</City>
+          <State>ME</State>
+          <ZIPCode>04537</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>GEORGE H MCEVOY</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 123</AddressLine1>
+            <City>BOOTHBAY</City>
+            <State>ME</State>
+            <ZIPCode>04537</ZIPCode>
+          </USAddress>
+          <Title>Ex. Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>PAUL R ROSSLEY</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 123</AddressLine1>
+            <City>BOOTHBAY</City>
+            <State>ME</State>
+            <ZIPCode>04537</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT RYAN</PersonName>
+          <USAddress>
+            <AddressLine1>BOX 123</AddressLine1>
+            <City>BOOTHBAY</City>
+            <State>ME</State>
+            <ZIPCode>04537</ZIPCode>
+          </USAddress>
+          <Title>Executive Direc</Title>
+          <AvgHoursPerWkDevotedToPosition>15.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>9000</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>SCHOONER MUSEUM EXPENSES</Description1>
+        <Expenses1>194418</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>4817</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>4817</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>4817</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>72</CashDeemedCharitable>
+        <NetNoncharitableAssets>4745</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>237</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>194418</ExpensesAndContributions>
+        <QualifyingDistributions>194418</QualifyingDistributions>
+        <AdjQualifyingDistributions>194418</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>1981-10-28</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>237</CurrentYear>
+          <Year1>589</Year1>
+          <Year2>1029</Year2>
+          <Year3>810</Year3>
+          <Total>2665</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <CurrentYear>201</CurrentYear>
+          <Year1>501</Year1>
+          <Year2>875</Year2>
+          <Year3>689</Year3>
+          <Total>2266</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>194418</CurrentYear>
+          <Year1>171365</Year1>
+          <Year2>154458</Year2>
+          <Year3>210669</Year3>
+          <Total>730910</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>194418</CurrentYear>
+          <Year1>171365</Year1>
+          <Year2>154458</Year2>
+          <Year3>210669</Year3>
+          <Total>730910</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>630892</CurrentYear>
+          <Year1>723846</Year1>
+          <Year2>518811</Year2>
+          <Year3>704248</Year3>
+          <Total>2577797</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>606929</CurrentYear>
+          <Year1>699883</Year1>
+          <Year2>494848</Year2>
+          <Year3>680285</Year3>
+          <Total>2481945</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>GEORGE H MCEVOY</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>MISCELLANEOUS REVENUE</Description>
+          <RelatedOrExemptFunctionIncome>5561</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>22</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>22</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>5561</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>5583</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps>
+        <RlnOfActyToAccomOfExemptPrps>
+          <LineNumber>1A</LineNumber>
+          <RelationshipStatement>MISCELLANEOUS PROGRAM REVENUE HELPS TO OFFSET OPERATING EXPENSES</RelationshipStatement>
+        </RlnOfActyToAccomOfExemptPrps>
+      </RlnOfActyToAccomOfExemptPrps>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>GEORGE H MCEVOY</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>25 ROADS END</AddressLine1>
+          <City>BOOTHBAY HARBOR</City>
+          <State>ME</State>
+          <ZIPCode>04538</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>6000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>MILDRED H MCEVOY FOUNDATION</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>370 MAIN ST 12TH FLOOR</AddressLine1>
+          <City>WORCESTER</City>
+          <State>MA</State>
+          <ZIPCode>01608</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>141000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>173239</CostOrOtherBasis>
+        <AccumulatedDepreciation>143452</AccumulatedDepreciation>
+        <BookValue>29787</BookValue>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <MortgagesAndNotesPayableSch documentId="MortgagesAndNotesPayableSchedu" softwareId="10000105" softwareVersion="2010v3.2">
+      <TotalMortgageAmount>15000</TotalMortgageAmount>
+      <NotePayable>
+        <LendersName>
+          <Individual>1ST NTL BANK OF DAMARISCOTTA</Individual>
+        </LendersName>
+        <OriginalAmountOfLoan>50000</OriginalAmountOfLoan>
+        <BalanceDue>15000</BalanceDue>
+        <RepaymentTerms>due on demand</RepaymentTerms>
+        <InterestRate>6.0000</InterestRate>
+        <SecurityProvidedByBorrower>UNSECURED</SecurityProvidedByBorrower>
+        <PurposeOfLoan>to help manage operating funds</PurposeOfLoan>
+        <DescOfLenderConsideration>Line of Credit</DescOfLenderConsideration>
+      </NotePayable>
+    </MortgagesAndNotesPayableSch>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>COLLECTIONS</Description>
+        <BOYBookValue>464963</BOYBookValue>
+        <EOYBookValue>464963</EOYBookValue>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>UTILITIES AND TELEPHONE</Description>
+        <RevenueAndExpensesPerBooks>1221</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1001</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SECURITY</Description>
+        <RevenueAndExpensesPerBooks>1226</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1226</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>REPAIRS AND MAINTENANCE</Description>
+        <RevenueAndExpensesPerBooks>2118</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>2118</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office Supplies</Description>
+        <RevenueAndExpensesPerBooks>138</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>3482</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3482</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>material purchased</Description>
+        <RevenueAndExpensesPerBooks>13290</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>13290</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>INSURANCE</Description>
+        <RevenueAndExpensesPerBooks>9424</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>9424</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>GAS AND OIL</Description>
+        <RevenueAndExpensesPerBooks>1243</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>1243</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>DOCKAGE</Description>
+        <RevenueAndExpensesPerBooks>8250</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>8250</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>CONTRACT LABOR</Description>
+        <RevenueAndExpensesPerBooks>83727</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>83727</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="OtherIncomeSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherIncome>
+        <Description>MISCELLANEOUS REVENUE</Description>
+        <RevenueAndExpensesPerBooks>5561</RevenueAndExpensesPerBooks>
+        <AdjustedNetIncome>5561</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>legal &amp; professional fees</Category>
+        <Amount>3146</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1573</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SubstantialContributorsSch documentId="SubstantialContributorsSchedul" softwareId="10000105" softwareVersion="2010v3.2">
+      <SubstantialContributor>
+        <PersonName>MILDRED H MCEVOY FOUNDATION</PersonName>
+        <USAddress>
+          <AddressLine1>370 MAIN ST 12TH FLOOR</AddressLine1>
+          <City>WORCESTER</City>
+          <State>MA</State>
+          <ZIPCode>01608</ZIPCode>
+        </USAddress>
+      </SubstantialContributor>
+    </SubstantialContributorsSch>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Payroll taxes</Category>
+        <Amount>6356</Amount>
+        <DisbursementsCharitablePrps>6356</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

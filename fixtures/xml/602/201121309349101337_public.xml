@@ -1,0 +1,651 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-05-10T17:06:27-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BKD LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>910 E ST LOUIS 200/PO BOX 1190</AddressLine1>
+        <City>SPRINGFIELD</City>
+        <State>MO</State>
+        <ZIPCode>658062523</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010602943</EIN>
+      <Name>
+        <BusinessNameLine1>FOSTER FAMILY FOUNDATION</BusinessNameLine1>
+        <BusinessNameLine2>C/O BILLY RAY FOSTER</BusinessNameLine2>
+      </Name>
+      <NameControl>FOST</NameControl>
+      <Phone>4178310174</Phone>
+      <USAddress>
+        <AddressLine1>426 SOUTH JEFFERSON</AddressLine1>
+        <City>SPRINGFIELD</City>
+        <State>MO</State>
+        <ZIPCode>65806</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>ROBERT ANTHONY FOSTER</Name>
+      <Title>DIRECTOR</Title>
+      <DateSigned>2011-04-27</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>Brian D Todd</Name>
+      <Phone>4178658701</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>134</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>51200</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>10</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>10</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>4</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>4</DividendsNetInvstIncm>
+        <TotalRevenueAndExpenses>51214</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>14</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <LegalFeesRevAndExpnss>50</LegalFeesRevAndExpnss>
+        <LegalFeesNetInvstIncm>50</LegalFeesNetInvstIncm>
+        <AccountingFeesRevAndExpnss>1475</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>1475</AccountingFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">30</TaxesRevAndExpnss>
+        <TaxesNetInvstIncm>30</TaxesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">147</OtherExpensesRevAndExpnss>
+        <OtherExpensesNetInvstIncm>147</OtherExpensesNetInvstIncm>
+        <TotOprExpensesRevAndExpnss>1702</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>1702</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>49550</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>49550</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>51252</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>1702</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>49550</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-38</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>172</CashBOY>
+        <CashEOY>134</CashEOY>
+        <CashEOYFMV>134</CashEOYFMV>
+        <TotalAssetsBOY>172</TotalAssetsBOY>
+        <TotalAssetsEOY>134</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>134</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>172</UnrestrictedBOY>
+        <UnrestrictedEOY>134</UnrestrictedEOY>
+        <TotalNetAssetsBOY>172</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>134</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>172</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>134</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>172</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-38</ExcessOfRevenueOverExpenses>
+        <Subtotal>134</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>134</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses />
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>55620</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>415</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>134.024096</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>121294</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>44297</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>2.738199</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>103376</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>104062</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.993408</DistributionRatioYear3>
+        <QualifyingDistributionsYear4>39650</QualifyingDistributionsYear4>
+        <NoncharitableAssetsYear4>104731</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.378589</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>44252</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>88807</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.498294</DistributionRatioYear5>
+        <TotalDistributionRatio>138.632586</TotalDistributionRatio>
+        <AverageDistributionRatio>27.726517</AverageDistributionRatio>
+        <NetNoncharitableAssets>457</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>12671</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>0</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>12671</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>49550</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <Subtotal>0</Subtotal>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <TaxDue>0</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>MO</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>GREG SMITH</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>4178310174</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>426 SOUTH JEFFERSON</AddressLine1>
+          <City>SPRINGFIELD</City>
+          <State>MO</State>
+          <ZIPCode>65806</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BILLY RAY FOSTER</PersonName>
+          <USAddress>
+            <AddressLine1>426 SOUTH JEFFERSON</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JUANITHA FOSTER</PersonName>
+          <USAddress>
+            <AddressLine1>5775 CASTLEBAY</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65809</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JOHN D FOSTER</PersonName>
+          <USAddress>
+            <AddressLine1>4011 GLEN ABBY CIRCLE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65809</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>J KAYE FOSTER-GIBSON</PersonName>
+          <USAddress>
+            <AddressLine1>2730 WEST GRAY ROCK</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65810</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>BILLY R FOSTER</PersonName>
+          <USAddress>
+            <AddressLine1>5710 NEOSHO</AddressLine1>
+            <City>ST LOUIS</City>
+            <State>MO</State>
+            <ZIPCode>63109</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>ROBERT ANTHONY FOSTER</PersonName>
+          <USAddress>
+            <AddressLine1>2823 ELLISON DRIVE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65810</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>1.0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>464</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>464</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>464</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>7</CashDeemedCharitable>
+        <NetNoncharitableAssets>457</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>23</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>23</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+        <TotalTax>0</TotalTax>
+        <DistributableAmountBeforeAdj>23</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>23</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>23</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>49550</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>49550</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>0</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>49550</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>23</DistributableAmountAsAdjusted>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <ExcessDistriCarryoverYear5>44252</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>39650</ExcessDistriCarryoverYear4>
+        <ExcessDistriCarryoverYear3>103450</ExcessDistriCarryoverYear3>
+        <ExcessDistriCarryoverYear2>121335</ExcessDistriCarryoverYear2>
+        <ExcessDistriCarryoverYear1>55599</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>364286</TotalExcessDistriCarryover>
+        <QualifyingDistributions>49550</QualifyingDistributions>
+        <AppliedToCurrentYear>23</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>49527</RemainingDistriFromCorpus>
+        <TotalCorpus>413813</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <TaxableAmount1>0</TaxableAmount1>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovFromYear5>44252</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>369561</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>39650</ExcessFromYear4>
+        <ExcessFromYear3>103450</ExcessFromYear3>
+        <ExcessFromYear2>121335</ExcessFromYear2>
+        <ExcessFromYear1>55599</ExcessFromYear1>
+        <ExcessFromCurrentYear>49527</ExcessFromCurrentYear>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>BILL R FOSTER</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MSU FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>901 SOUTH NATIONAL</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPRINGFIELD REGIONAL OPERA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>400 SOUTH AVENUE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPRINGFIELD CHAMBER OF COMMERCE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>202S JOHN Q HAMMONS PKWY</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPRINGFIELD SYMPHONY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1536 EAST DIVISION STREET</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65803</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>23550</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPRINGFIELD LITTLE THEATRE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>311 E WALNUT</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>800</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>SPRINGFIELD BALLET</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>411 N SHERMAN PKWY</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COX HEALTH FOUNDATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3525 S NATIONAL AVE</AddressLine1>
+            <AddressLine2>SUITE 204</AddressLine2>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65807</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>4000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN HEART ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2446 EAST MADRID AVENUE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>MISC CONTRIBUTIONS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>426 SOUTH JEFFERSON</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>100</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BREAST CANCER FOUNDATION OF THE OZARKS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>330 N JEFFERSON STE B</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65806</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>7000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>BOY SCOUTS OF AMERICA</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1616 S EASTGATE AVE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>658092116</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>DRURY UNIVERSITY</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>900 NORTH BENTON AVENUE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65802</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>AMERICAN HEART ASSOCIATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2446 EAST MADRID AVENUE</AddressLine1>
+            <City>SPRINGFIELD</City>
+            <State>MO</State>
+            <ZIPCode>65804</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1450</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>GOOD SAMARITAN BOYS RANCH</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5549 HIGHWAY K</AddressLine1>
+            <City>BRIGHTON</City>
+            <State>MO</State>
+            <ZIPCode>65617</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <PurposeOfGrantOrContribution>FINANCIAL SUPPORT</PurposeOfGrantOrContribution>
+          <Amount>1400</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>49550</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>4</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry />
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>14</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>14</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>CHEROKEE ASSISTED LIVING</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>426 S JEFFERSON</AddressLine1>
+          <City>SPRINGFIELD</City>
+          <State>MO</State>
+          <ZIPCode>65806</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>9670</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>CHESTERFIELD ASSISTED LIVING</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>426 S JEFFERSON</AddressLine1>
+          <City>SPRINGFIELD</City>
+          <State>MO</State>
+          <ZIPCode>65806</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>9670</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>3</ContributorNumber>
+        <ContributorNameIndividual>BRANSON MEADOWS ASSISTED LIVING</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>426 S JEFFERSON</AddressLine1>
+          <City>SPRINGFIELD</City>
+          <State>MO</State>
+          <ZIPCode>65806</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>9670</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>4</ContributorNumber>
+        <ContributorNameIndividual>SPRINGDALE ASSISTED LIVING</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>426 S JEFFERSON</AddressLine1>
+          <City>SPRINGFIELD</City>
+          <State>MO</State>
+          <ZIPCode>65806</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>9670</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>5</ContributorNumber>
+        <ContributorNameIndividual>JONESBORO ASSISTED LIVING</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>426 S JEFFERSON</AddressLine1>
+          <City>SPRINGFIELD</City>
+          <State>MO</State>
+          <ZIPCode>65806</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>9370</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>147</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>147</NetInvestmentIncome>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>TAXES &amp; LICENSES</Category>
+        <Amount>30</Amount>
+        <NetInvestmentIncome>30</NetInvestmentIncome>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

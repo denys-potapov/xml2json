@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2" xsi:schemaLocation="http://www.irs.gov/efile">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-26T09:39:43-07:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Williams CPA Group LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>350 Commercial/PO BOX 839</AddressLine1>
+        <City>Rockport</City>
+        <State>ME</State>
+        <ZIPCode>048560839</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010544416</EIN>
+      <Name>
+        <BusinessNameLine1>Maine Coastal Habitat Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>MAIN</NameControl>
+      <Phone>2075966373</Phone>
+      <USAddress>
+        <AddressLine1>172 Clark Island Rd</AddressLine1>
+        <City>Spruce Head</City>
+        <State>ME</State>
+        <ZIPCode>04859</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Jill Wilcox</Name>
+      <Title>President</Title>
+      <DateSigned>2011-08-26</DateSigned>
+    </Officer>
+    <Preparer>
+      <Name>David R Williams</Name>
+      <Phone>2072368781</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF" referenceDocumentId=" GeneralExplanation" softwareId="10000105" softwareVersion="2010v3.2">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>464523</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>191929</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>17</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>17</InterestOnSavingsNetInvstIncm>
+        <InterestOnSavingsAdjNetIncm>17</InterestOnSavingsAdjNetIncm>
+        <NetGainSaleAssetsRevAndExpnss>0</NetGainSaleAssetsRevAndExpnss>
+        <TotalRevenueAndExpenses>191946</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>17</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>17</TotalAdjustedNetIncome>
+        <LegalFeesRevAndExpnss referenceDocumentId=" LegalFeesSchedule">3250</LegalFeesRevAndExpnss>
+        <LegalFeesDsbrsChrtblPrps>3250</LegalFeesDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId=" AccountingFeesSchedule">629</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>50</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>50</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>579</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId=" OtherProfessionalFeesSchedule">1423</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesDsbrsChrtblPrps>1423</OtherProfFeesDsbrsChrtblPrps>
+        <TaxesRevAndExpnss referenceDocumentId=" TaxesSchedule">1148</TaxesRevAndExpnss>
+        <TaxesDsbrsChrtblPrps>1148</TaxesDsbrsChrtblPrps>
+        <DeprecAndDepletionRevAndExpnss referenceDocumentId=" DepreciationSchedule">0</DeprecAndDepletionRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSchedule AmortizationSchedule">189534</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>189534</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>195984</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>50</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>50</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>195934</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>195984</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>50</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>50</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>195934</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-4038</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>7776</CashBOY>
+        <CashEOY>3738</CashEOY>
+        <CashEOYFMV>3738</CashEOYFMV>
+        <LandBuildingAndEquipmentBasis>310371</LandBuildingAndEquipmentBasis>
+        <LandBuildingAndEquipmentBOY>310371</LandBuildingAndEquipmentBOY>
+        <LandBuildingAndEquipmentEOY referenceDocumentId=" LandEtcSchedule2">310371</LandBuildingAndEquipmentEOY>
+        <LandBuildingAndEquipmentEOYFMV>459371</LandBuildingAndEquipmentEOYFMV>
+        <OtherAssetsBOY referenceDocumentId=" OtherAssetsSchedule">1414</OtherAssetsBOY>
+        <OtherAssetsEOY referenceDocumentId=" OtherAssetsSchedule">1414</OtherAssetsEOY>
+        <OtherAssetsEOYFMV referenceDocumentId=" OtherAssetsSchedule">1414</OtherAssetsEOYFMV>
+        <TotalAssetsBOY>319561</TotalAssetsBOY>
+        <TotalAssetsEOY>315523</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>464523</TotalAssetsEOYFMV>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatFollowSFAS117>X</OrgThatFollowSFAS117>
+        <UnrestrictedBOY>319561</UnrestrictedBOY>
+        <UnrestrictedEOY>315523</UnrestrictedEOY>
+        <TotalNetAssetsBOY>319561</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>315523</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>319561</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>315523</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>319561</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-4038</ExcessOfRevenueOverExpenses>
+        <Subtotal>315523</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>315523</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <AmountCreditedToNextYear>0</AmountCreditedToNextYear>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <Form990TFiled>false</Form990TFiled>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>false</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>ME</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>true</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>Pamela Kick</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2073301333</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>172 Clark Island Road</AddressLine1>
+          <City>Spruce Head</City>
+          <State>ME</State>
+          <ZIPCode>04859</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <ActsFailToQualifyAsExceptions>false</ActsFailToQualifyAsExceptions>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <ExcessBusinessHoldings>false</ExcessBusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <TrFailToQualifyAsExceptions>false</TrFailToQualifyAsExceptions>
+        <MaintExpendResponsibility>false</MaintExpendResponsibility>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+        <ProceedsOrNetIncome>false</ProceedsOrNetIncome>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Dr Roderick W Gilkey</PersonName>
+          <USAddress>
+            <AddressLine1>917 Barton Woods Rd NE</AddressLine1>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <ZIPCode>30307</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Max Brazerman</PersonName>
+          <USAddress>
+            <AddressLine1>325 Harvard Street</AddressLine1>
+            <City>Cambridge</City>
+            <State>MA</State>
+            <ZIPCode>02139</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Leslie Hyde</PersonName>
+          <USAddress>
+            <AddressLine1>75 Long Cove Road</AddressLine1>
+            <City>Tenants Harbor</City>
+            <State>ME</State>
+            <ZIPCode>04860</ZIPCode>
+          </USAddress>
+          <Title>Director</Title>
+          <AvgHoursPerWkDevotedToPosition>1.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Leonard Greenhalgh</PersonName>
+          <USAddress>
+            <AddressLine1>172 Clark Island Road</AddressLine1>
+            <City>Spruce Head</City>
+            <State>ME</State>
+            <ZIPCode>04859</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>3.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompensationOfHghstPaidCntrct>
+          <BusinessName referenceDocumentId=" ContractorProfExpln">
+            <BusinessNameLine1>George C Hall Inc</BusinessNameLine1>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1>190 Pleasant Street</AddressLine1>
+            <City>Rockland</City>
+            <State>ME</State>
+            <ZIPCode>048410506</ZIPCode>
+          </USAddress>
+          <TypeOfService>Wetland restoration</TypeOfService>
+          <Compensation>149000</Compensation>
+        </CompensationOfHghstPaidCntrct>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy>
+        <Description1>Creation, improvement and maintenance of a protected refuge for wild animals, birds and aquatic life. During 2010 this included hauling granite tailings (left over from old quarrying operations) off wetlands, and related wetland restoration.</Description1>
+        <Expenses1>189534</Expenses1>
+      </SummaryOfDirectCharitableActy>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>0</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>12890</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>12890</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AdjTotalFMVOfUnusedAssets>12890</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>193</CashDeemedCharitable>
+        <NetNoncharitableAssets>12697</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>635</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <Sect4942j3j5FndtnAndFrgnOrg>X</Sect4942j3j5FndtnAndFrgnOrg>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>195934</ExpensesAndContributions>
+        <QualifyingDistributions>195934</QualifyingDistributions>
+        <AdjQualifyingDistributions>195934</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <PrivateOperatingFoundations>
+        <DateOfRuling>2001-09-24</DateOfRuling>
+        <Section4942j3>X</Section4942j3>
+        <LessorAdjNetIncmMinInvstReturn>
+          <CurrentYear>0</CurrentYear>
+          <Year2>6</Year2>
+          <Year3>5</Year3>
+          <Total>11</Total>
+        </LessorAdjNetIncmMinInvstReturn>
+        <Percent85OfLessor>
+          <Year2>5</Year2>
+          <Year3>4</Year3>
+          <Total>9</Total>
+        </Percent85OfLessor>
+        <QualifyingDistributions>
+          <CurrentYear>195934</CurrentYear>
+          <Year1>128897</Year1>
+          <Year2>11159</Year2>
+          <Year3>37085</Year3>
+          <Total>373075</Total>
+        </QualifyingDistributions>
+        <QlfyDistriMadeDirectly>
+          <CurrentYear>195934</CurrentYear>
+          <Year1>128897</Year1>
+          <Year2>11159</Year2>
+          <Year3>37085</Year3>
+          <Total>373075</Total>
+        </QlfyDistriMadeDirectly>
+        <TotalAssets>
+          <CurrentYear>464523</CurrentYear>
+          <Year1>311747</Year1>
+          <Year2>296607</Year2>
+          <Year3>196659</Year3>
+          <Total>1269536</Total>
+        </TotalAssets>
+        <TotalAssetsSect4942j3Bi>
+          <CurrentYear>459371</CurrentYear>
+          <Year1>303971</Year1>
+          <Year2>197000</Year2>
+          <Year3>189818</Year3>
+          <Total>1150160</Total>
+        </TotalAssetsSect4942j3Bi>
+        <TwoThirdsMinInvstReturn>
+          <Total>0</Total>
+        </TwoThirdsMinInvstReturn>
+      </PrivateOperatingFoundations>
+      <SupplementaryInformation>
+        <ContributingManager>Leonard Greenhalgh</ContributingManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>17</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>17</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>17</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB" softwareId="10000105" softwareVersion="2010v3.2">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Leonard Greenhalgh</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>172 Clark Island Road</AddressLine1>
+          <City>Spruce Head</City>
+          <State>ME</State>
+          <ZIPCode>04859</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>120250</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <AccountingFees>
+        <Amount>629</Amount>
+        <NetInvestmentIncome>50</NetInvestmentIncome>
+        <AdjustedNetIncome>50</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>579</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <ContractorCompensationExpln documentId="ContractorProfExpln" softwareId="10000105" softwareVersion="2010v3.2">
+      <ContractorCompExplanation>
+        <ContractorNameBusiness>
+          <BusinessNameLine1>George C Hall Inc</BusinessNameLine1>
+        </ContractorNameBusiness>
+      </ContractorCompExplanation>
+    </ContractorCompensationExpln>
+    <LandEtcSchedule2 documentId="LandEtcSchedule2" softwareId="10000105" softwareVersion="2010v3.2">
+      <LandEtc>
+        <CategoryOrItem>Land</CategoryOrItem>
+        <CostOrOtherBasis>186553</CostOrOtherBasis>
+        <BookValue>186553</BookValue>
+        <EOYFMV>335553</EOYFMV>
+      </LandEtc>
+      <LandEtc>
+        <CategoryOrItem>Machinery and Equipment</CategoryOrItem>
+        <CostOrOtherBasis>123818</CostOrOtherBasis>
+        <BookValue>123818</BookValue>
+        <EOYFMV>123818</EOYFMV>
+      </LandEtc>
+    </LandEtcSchedule2>
+    <LegalFeesSchedule documentId="LegalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <LegalFees>
+        <Category>Annual filing</Category>
+        <Amount>3250</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>3250</DisbursementsCharitablePrps>
+      </LegalFees>
+    </LegalFeesSchedule>
+    <OtherAssetsSchedule documentId="OtherAssetsSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherAssets>
+        <Description>Net Intangible Assets</Description>
+        <BOYBookValue>1414</BOYBookValue>
+        <EOYBookValue>1414</EOYBookValue>
+        <EOYFMV>1414</EOYFMV>
+      </OtherAssets>
+    </OtherAssetsSchedule>
+    <OtherExpensesSchedule documentId="OtherExpensesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherExpenses>
+        <Description>Wildlife feed and plantings</Description>
+        <RevenueAndExpensesPerBooks>6243</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>6243</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Wetland restoration</Description>
+        <RevenueAndExpensesPerBooks>149000</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>149000</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Office</Description>
+        <RevenueAndExpensesPerBooks>133</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>133</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Insurance</Description>
+        <RevenueAndExpensesPerBooks>281</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>281</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Equipment repairs and maintenance</Description>
+        <RevenueAndExpensesPerBooks>30480</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>30480</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Equipment fuel</Description>
+        <RevenueAndExpensesPerBooks>3332</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>3332</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Annual report</Description>
+        <RevenueAndExpensesPerBooks>65</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>65</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OtherProfessionalFeesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <OtherProfessionalFees>
+        <Category>Moody Mtn Evironmental</Category>
+        <Amount>1423</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>1423</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule" softwareId="10000105" softwareVersion="2010v3.2">
+      <Taxes>
+        <Category>Property Taxes</Category>
+        <Amount>1148</Amount>
+        <DisbursementsCharitablePrps>1148</DisbursementsCharitablePrps>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

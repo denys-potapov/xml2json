@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2010v3.2">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-04-16T08:45:47-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>BDO USA LLP</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>99 MONROE AVENUE NW SUITE 800</AddressLine1>
+        <City>GRAND RAPIDS</City>
+        <State>MI</State>
+        <ZIPCode>495032654</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010930068</EIN>
+      <Name>
+        <BusinessNameLine1>The Holewinski Family Foundation Inc</BusinessNameLine1>
+      </Name>
+      <NameControl>HOLE</NameControl>
+      <Phone>2393891151</Phone>
+      <USAddress>
+        <AddressLine1>940 Cape Marco Drive</AddressLine1>
+        <City>Marco Island</City>
+        <State>FL</State>
+        <ZIPCode>34145</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>DENNIS E HOLEWINSKI</Name>
+      <Title>OFFICER</Title>
+      <Phone>6167747000</Phone>
+      <DateSigned>2011-03-21</DateSigned>
+      <AuthorizeThirdParty>true</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>MATTHEW BECKER</Name>
+      <Phone>6167747000</Phone>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="10">
+    <IRS990PF documentId="IRS990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>1097015</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>425000</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>32</InterestOnSavingsRevAndExpnss>
+        <DividendsRevAndExpnss>28019</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>28019</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>11632</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>198834</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>11632</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>464683</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>39651</TotalNetInvestmentIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="AccountingFeesSch">1346</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesAdjNetIncm>0</AccountingFeesAdjNetIncm>
+        <AccountingFeesDsbrsChrtblPrps>0</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="OthProfFeesSch">3825</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>3825</OtherProfFeesNetInvstIncm>
+        <TaxesRevAndExpnss referenceDocumentId="TaxesSchedule">61</TaxesRevAndExpnss>
+        <OtherExpensesRevAndExpnss referenceDocumentId="OtherExpensesSch">92</OtherExpensesRevAndExpnss>
+        <OtherExpensesDsbrsChrtblPrps>75</OtherExpensesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>5324</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>3825</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesAdjNetIncm>0</TotOprExpensesAdjNetIncm>
+        <TotOprExpensesDsbrsChrtblPrps>75</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>41000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>41000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>46324</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>3825</TotalExpensesNetInvstIncm>
+        <TotalExpensesAdjNetIncm>0</TotalExpensesAdjNetIncm>
+        <TotalExpensesDsbrsChrtblPrps>41075</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>418359</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>35826</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <SavingsAndTempCashInvstBOY>600115</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>100143</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>100143</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>0</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="InvestCorpStockSch">996872</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>996872</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>600115</TotalAssetsBOY>
+        <TotalAssetsEOY>1097015</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>1097015</TotalAssetsEOYFMV>
+        <AccountsPayableBOY>0</AccountsPayableBOY>
+        <AccountsPayableEOY>0</AccountsPayableEOY>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>600115</RetainedEarningsBOY>
+        <RetainedEarningsEOY>1097015</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>600115</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>1097015</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>600115</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>1097015</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>600115</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>418359</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="OtherIncreasesSch">78541</OtherIncreases>
+        <Subtotal>1097015</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>1097015</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PIMCO LOW DURATION FUND INSTL CL: PTLDX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-18</DateAcquired>
+          <DateSold>2010-08-27</DateSold>
+          <GrossSalesPrice>71575</GrossSalesPrice>
+          <CostOrOtherBasis>70718</CostOrOtherBasis>
+          <GainOrLoss>857</GainOrLoss>
+          <GainsMinusExcessOrLosses>857</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PIMCO REAL RETURN FUND CL D: PRRDX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-18</DateAcquired>
+          <DateSold>2010-08-27</DateSold>
+          <GrossSalesPrice>33500</GrossSalesPrice>
+          <CostOrOtherBasis>32260</CostOrOtherBasis>
+          <GainOrLoss>1240</GainOrLoss>
+          <GainsMinusExcessOrLosses>1240</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>PIMCO TOTAL RETURN FUND INSTL CL: PTTRX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-18</DateAcquired>
+          <DateSold>2010-08-27</DateSold>
+          <GrossSalesPrice>27975</GrossSalesPrice>
+          <CostOrOtherBasis>26927</CostOrOtherBasis>
+          <GainOrLoss>1048</GainOrLoss>
+          <GainsMinusExcessOrLosses>1048</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>T ROWE PRICE INTL BOND FUND:RPIBX</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-03-26</DateAcquired>
+          <DateSold>2010-08-27</DateSold>
+          <GrossSalesPrice>65784</GrossSalesPrice>
+          <CostOrOtherBasis>64000</CostOrOtherBasis>
+          <GainOrLoss>1784</GainOrLoss>
+          <GainsMinusExcessOrLosses>1784</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>CAPITAL GAIN DIVIDENDS</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <GainOrLoss>6703</GainOrLoss>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>11632</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>false</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>7200</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>25701</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.280145</DistributionRatioYear1>
+        <TotalDistributionRatio>0.280145</TotalDistributionRatio>
+        <AverageDistributionRatio>0.280145</AverageDistributionRatio>
+        <NetNoncharitableAssets>915714</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>256533</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>358</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>256891</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>41075</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>717</InvestmentIncomeExciseTax>
+        <Subtotal>717</Subtotal>
+        <TaxBasedOnInvestmentIncome>717</TaxBasedOnInvestmentIncome>
+        <TotalCreditsAndPayments>0</TotalCreditsAndPayments>
+        <Form2220Attached referenceDocumentId="IRS2220">X</Form2220Attached>
+        <PenaltyForUnderpayment>18</PenaltyForUnderpayment>
+        <TaxDue>735</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <Form990PFFiledWithAG>true</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>true</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <BooksInCareOfBusinessName>
+          <BusinessNameLine1>LEGACY FAMILY OFFICE</BusinessNameLine1>
+        </BooksInCareOfBusinessName>
+        <BooksInCareOfPhoneNumber>2392619612</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>780 5TH AVE SOUTH SUITE 200</AddressLine1>
+          <City>NAPLES</City>
+          <State>FL</State>
+          <ZIPCode>34102</ZIPCode>
+        </BooksInCareOfUSAddress>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <UndistrIncome4942a2NotApplied>false</UndistrIncome4942a2NotApplied>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DENNIS E HOLEWINSKI</PersonName>
+          <USAddress>
+            <AddressLine1>C/O LEGACY FAMILY OFFICE</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SUSAN J HOLEWINSKI</PersonName>
+          <USAddress>
+            <AddressLine1>C/O LEGACY FAMILY OFFICE</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>DANE HOLEWINSKI</PersonName>
+          <USAddress>
+            <AddressLine1>C/O LEGACY FAMILY OFFICE</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>JILL O'DONNELL</PersonName>
+          <USAddress>
+            <AddressLine1>C/O LEGACY FAMILY OFFICE</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>SARA GRUNWELL</PersonName>
+          <USAddress>
+            <AddressLine1>C/O LEGACY FAMILY OFFICE</AddressLine1>
+            <City>NAPLES</City>
+            <State>FL</State>
+            <ZIPCode>34102</ZIPCode>
+          </USAddress>
+          <Title>DIRECTOR</Title>
+          <AvgHoursPerWkDevotedToPosition>0.25</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+        </OfcrDirTrusteesOrKeyEmployee>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SummaryOfDirectCharitableActy />
+      <SumOfProgramRelatedInvestments />
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>702110</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>227549</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>929659</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>929659</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>13945</CashDeemedCharitable>
+        <NetNoncharitableAssets>915714</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>45786</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>45786</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>717</TaxBasedOnInvestmentIncome>
+        <TotalTax>717</TotalTax>
+        <DistributableAmountBeforeAdj>45069</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>45069</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>45069</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>41075</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <AmountsPaidAcqCharitableAssets>0</AmountsPaidAcqCharitableAssets>
+        <AmountsSetAsideSuitabilityTest>0</AmountsSetAsideSuitabilityTest>
+        <AmountsSetAsideCashDistriTest>0</AmountsSetAsideCashDistriTest>
+        <QualifyingDistributions>41075</QualifyingDistributions>
+        <AdjQualifyingDistributions>41075</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>45069</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>0</UndistributedIncomePriorYear>
+        <PriorYear1>2008</PriorYear1>
+        <PriorYear2>2007</PriorYear2>
+        <PriorYear3>2006</PriorYear3>
+        <ExcessDistriCarryoverYear1>6554</ExcessDistriCarryoverYear1>
+        <TotalExcessDistriCarryover>6554</TotalExcessDistriCarryover>
+        <QualifyingDistributions>41075</QualifyingDistributions>
+        <AppliedToYear1>0</AppliedToYear1>
+        <AppliedToCurrentYear>41075</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>3994</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>3994</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>2560</TotalCorpus>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>2560</ExcessDistriCyovToNextYear>
+        <ExcessFromYear1>2560</ExcessFromYear1>
+      </UndistributedIncome>
+      <PrivateOperatingFoundations />
+      <SupplementaryInformation>
+        <ContributingManager>DENNIS E HOLEWINSKI</ContributingManager>
+        <ShareholderManager>NA</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>KIVA MICROFUNDS</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2180 BRYANT STREET SUITE 106</AddressLine1>
+            <City>SAN FRANCISCO</City>
+            <State>CA</State>
+            <ZIPCode>94110</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>COVENANT HOUSE</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>460 WEST 41ST STREET</AddressLine1>
+            <City>NEW YORK</City>
+            <State>NY</State>
+            <ZIPCode>10036</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>FOUNDATION FOR CANCER RESEARCH AND EDUCATION</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>FCRE PO BOX 746</AddressLine1>
+            <City>EARLYSVILLE</City>
+            <State>VA</State>
+            <ZIPCode>22936</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>25000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>UNIVERSITY OF WISCONSIN</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1848 UNIVERSITY AVENUE</AddressLine1>
+            <City>MADISON</City>
+            <State>WI</State>
+            <ZIPCode>53726</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>NONE</RecipientRelationship>
+          <RecipientFoundationStatus>PUBLIC</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>CHARITABLE</PurposeOfGrantOrContribution>
+          <Amount>7500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>41000</TotGrantOrContriPaidDuringYear>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <ProgramServiceRevenuePartVII>
+          <Description>CONTRIBS, GIFTS, GRANTS, ETC</Description>
+          <RelatedOrExemptFunctionIncome>425000</RelatedOrExemptFunctionIncome>
+        </ProgramServiceRevenuePartVII>
+        <FeesContractsFromGovtAgencies />
+        <MembershipDuesAndAssessments />
+        <IntOnSavingsAndTempCashInvst>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>32</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>28019</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <NetRentalIncmReDebtFincdProp />
+        <NetRntlIncmReNotDebtFincdProp />
+        <NetRentalIncmPersonalProperty />
+        <OtherInvestmentIncomePartVII />
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>11632</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <NetIncomeLossFromSpecialEvents />
+        <GrossProfitLossSalesOfInvntry />
+        <SubtotalsPartXVIA>
+          <ExclusionAmount>39683</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>425000</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>464683</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <RlnOfActyToAccomOfExemptPrps />
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>Dennis E Holewinski</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>780 Fifth Avenue South Suite 200</AddressLine1>
+          <City>NAPLES</City>
+          <State>FL</State>
+          <ZIPCode>34102</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>425000</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="AccountingFeesSch">
+      <AccountingFees>
+        <Category>ACCOUNTING FEES</Category>
+        <Amount>1346</Amount>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <DepreciationSchedule documentId="DepreciationSch" />
+    <InvestmentsCorpStockSchedule documentId="InvestCorpStockSch">
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO LOW DURATION FUND</NameOfStock>
+        <EOYBookValue>49140</EOYBookValue>
+        <EOYFMV>49140</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO REAL RETURN FUND</NameOfStock>
+        <EOYBookValue>49618</EOYBookValue>
+        <EOYFMV>49618</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>PIMCO TOTAL RETURN FUND</NameOfStock>
+        <EOYBookValue>288029</EOYBookValue>
+        <EOYFMV>288029</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>GENEVA ADVS ALL CAP</NameOfStock>
+        <EOYBookValue>122918</EOYBookValue>
+        <EOYFMV>122918</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>IVA WORLDWIDE FUND CLASS A</NameOfStock>
+        <EOYBookValue>182940</EOYBookValue>
+        <EOYFMV>182940</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>OPPENHEIMER DEVELOPING MKTS</NameOfStock>
+        <EOYBookValue>121387</EOYBookValue>
+        <EOYFMV>121387</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES RUSSELL MIDCAP</NameOfStock>
+        <EOYBookValue>60538</EOYBookValue>
+        <EOYFMV>60538</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES RUSSELL 1000 VAL</NameOfStock>
+        <EOYBookValue>59032</EOYBookValue>
+        <EOYFMV>59032</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>ISHARES TR RUSSELL 2000</NameOfStock>
+        <EOYBookValue>63270</EOYBookValue>
+        <EOYFMV>63270</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <LandEtcSchedule2 documentId="LandEtcSch2" />
+    <OtherExpensesSchedule documentId="OtherExpensesSch">
+      <OtherExpenses>
+        <Description>BANK FEES</Description>
+        <RevenueAndExpensesPerBooks>17</RevenueAndExpensesPerBooks>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>SUPPLIES EXPENSE</Description>
+        <RevenueAndExpensesPerBooks>75</RevenueAndExpensesPerBooks>
+        <DisbursementsCharitablePrps>75</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncreasesSchedule documentId="OtherIncreasesSch">
+      <OtherIncreases>
+        <Description>BOOK TO FAIR MARKET VALUE ADJUSTMENT</Description>
+        <Amount>78541</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="OthProfFeesSch">
+      <OtherProfessionalFees>
+        <Category>FOUNDATION ADMINISTRATION FEES</Category>
+        <Amount>625</Amount>
+        <NetInvestmentIncome>625</NetInvestmentIncome>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>INVESTMENT MANAGEMENT FEES</Category>
+        <Amount>3200</Amount>
+        <NetInvestmentIncome>3200</NetInvestmentIncome>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <TaxesSchedule documentId="TaxesSchedule">
+      <Taxes>
+        <Category>TAXES AND FILING FEES</Category>
+        <Amount>61</Amount>
+      </Taxes>
+    </TaxesSchedule>
+  </ReturnData>
+</Return>

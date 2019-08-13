@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-10-13T15:18:07-05:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>David H Knopf PC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>6416-C Bradley Park Drive</AddressLine1>
+        <City>Columbus</City>
+        <State>GA</State>
+        <ZIPCode>31904</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010589836</EIN>
+      <Name>
+        <BusinessNameLine1>Yancey Family Foundation co David H Knopf PC</BusinessNameLine1>
+      </Name>
+      <NameControl>YANC</NameControl>
+      <Phone>7065968823</Phone>
+      <USAddress>
+        <AddressLine1>6416-C Bradley Park Drive</AddressLine1>
+        <City>Columbus</City>
+        <State>GA</State>
+        <ZIPCode>31902</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Stephanie Y Hunter</Name>
+      <Title>Director</Title>
+      <Phone>7065968823</Phone>
+      <DateSigned>2011-10-12</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>David H Knopf PC</Name>
+      <Phone>7066539130</Phone>
+      <DatePrepared>2011-10-12</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="6">
+    <IRS990PF documentId="RetDoc1235000001">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>731924</FMVAssetsEOY>
+      <MethodOfAccountingCash>X</MethodOfAccountingCash>
+      <AnalysisOfRevenueAndExpenses>
+        <ContriReceivedRevAndExpnss>80857</ContriReceivedRevAndExpnss>
+        <InterestOnSavingsRevAndExpnss>13</InterestOnSavingsRevAndExpnss>
+        <InterestOnSavingsNetInvstIncm>13</InterestOnSavingsNetInvstIncm>
+        <DividendsRevAndExpnss>10553</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>10553</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>-58339</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>610361</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>0</CapitalGainNetIncmNetInvstIncm>
+        <TotalRevenueAndExpenses>33084</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>10566</TotalNetInvestmentIncome>
+        <CompOfcrDirTrstRevAndExpnss>0</CompOfcrDirTrstRevAndExpnss>
+        <CompOfcrDirTrstNetInvstIncm>0</CompOfcrDirTrstNetInvstIncm>
+        <CompOfcrDirTrstDsbrsChrtblPrps>0</CompOfcrDirTrstDsbrsChrtblPrps>
+        <AccountingFeesRevAndExpnss referenceDocumentId="RetDoc2002200001">2125</AccountingFeesRevAndExpnss>
+        <AccountingFeesNetInvstIncm>0</AccountingFeesNetInvstIncm>
+        <AccountingFeesDsbrsChrtblPrps>2125</AccountingFeesDsbrsChrtblPrps>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="RetDoc2002300001">100</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>0</OtherProfFeesNetInvstIncm>
+        <OtherProfFeesDsbrsChrtblPrps>100</OtherProfFeesDsbrsChrtblPrps>
+        <TotOprExpensesRevAndExpnss>2225</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>0</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>2225</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>34000</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>34000</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>36225</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>0</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>36225</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-3141</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>10566</NetInvestmentIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>1</CashBOY>
+        <SavingsAndTempCashInvstBOY>87474</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>677347</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>677347</SavingsAndTempCashInvstEOYFMV>
+        <InvestmentsCorpStockBOY>2</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="RetDoc2018900001">1</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>54577</InvestmentsCorpStockEOYFMV>
+        <TotalAssetsBOY>87477</TotalAssetsBOY>
+        <TotalAssetsEOY>677348</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>731924</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <CapitalStockBOY>0</CapitalStockBOY>
+        <CapitalStockEOY>0</CapitalStockEOY>
+        <PaidInOrCapitalSurplusBOY>0</PaidInOrCapitalSurplusBOY>
+        <PaidInOrCapitalSurplusEOY>0</PaidInOrCapitalSurplusEOY>
+        <RetainedEarningsBOY>87477</RetainedEarningsBOY>
+        <RetainedEarningsEOY>677348</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>87477</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>677348</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>87477</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>677348</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>87477</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-3141</ExcessOfRevenueOverExpenses>
+        <OtherIncreases referenceDocumentId="RetDoc2049700001">593012</OtherIncreases>
+        <Subtotal>677348</Subtotal>
+        <OtherDecreases>0</OtherDecreases>
+        <TotalNetAssetsFundBalancesEOY>677348</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>TSYS</DescriptionOfAsset>
+          <DateAcquired>2002-01-29</DateAcquired>
+          <DateSold>2010-12-16</DateSold>
+          <GrossSalesPrice>610361</GrossSalesPrice>
+          <CostOrOtherBasis>668700</CostOrOtherBasis>
+          <GainOrLoss>-58339</GainOrLoss>
+          <GainsMinusExcessOrLosses>-58339</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>-58339</CapitalGainNetIncome>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <LiableFor4942Tax>0</LiableFor4942Tax>
+        <QualifyingDistributionsYear1>40895</QualifyingDistributionsYear1>
+        <NoncharitableAssetsYear1>699117</NoncharitableAssetsYear1>
+        <DistributionRatioYear1>0.058495</DistributionRatioYear1>
+        <QualifyingDistributionsYear2>44845</QualifyingDistributionsYear2>
+        <NoncharitableAssetsYear2>809424</NoncharitableAssetsYear2>
+        <DistributionRatioYear2>0.055404</DistributionRatioYear2>
+        <QualifyingDistributionsYear3>44500</QualifyingDistributionsYear3>
+        <NoncharitableAssetsYear3>989438</NoncharitableAssetsYear3>
+        <DistributionRatioYear3>0.044975</DistributionRatioYear3>
+        <NoncharitableAssetsYear4>846282</NoncharitableAssetsYear4>
+        <DistributionRatioYear4>0.0</DistributionRatioYear4>
+        <QualifyingDistributionsYear5>52550</QualifyingDistributionsYear5>
+        <NoncharitableAssetsYear5>883960</NoncharitableAssetsYear5>
+        <DistributionRatioYear5>0.059448</DistributionRatioYear5>
+        <TotalDistributionRatio>0.218322</TotalDistributionRatio>
+        <AverageDistributionRatio>0.054581</AverageDistributionRatio>
+        <NetNoncharitableAssets>642899</NetNoncharitableAssets>
+        <AdjustedNoncharitableAssets>35090</AdjustedNoncharitableAssets>
+        <OnePercentNetInvestmentIncome>106</OnePercentNetInvestmentIncome>
+        <AdjNonchrtblAssetsAndOnePct>35196</AdjNonchrtblAssetsAndOnePct>
+        <QualifyingDistributions>36225</QualifyingDistributions>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <DomesticOrgMeetingSect4940e>X</DomesticOrgMeetingSect4940e>
+        <InvestmentIncomeExciseTax>106</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <Subtotal>106</Subtotal>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>106</TaxBasedOnInvestmentIncome>
+        <EstTaxPaymentsAndOverpayment>55</EstTaxPaymentsAndOverpayment>
+        <TotalCreditsAndPayments>55</TotalCreditsAndPayments>
+        <TaxDue>51</TaxDue>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>0</LegislativePoliticalActivities>
+        <MoreThan100Spent>0</MoreThan100Spent>
+        <Form1120POLFiled>0</Form1120POLFiled>
+        <Sect4955TaxOnOrganization>0</Sect4955TaxOnOrganization>
+        <Sect4955TaxOnManagers>0</Sect4955TaxOnManagers>
+        <ReimbursementOfTax>0</ReimbursementOfTax>
+        <ActivitiesNotPrevReported>0</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>0</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>0</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>0</TerminationEtc>
+        <RequirementsOfSect508e>1</RequirementsOfSect508e>
+        <AtLeast5000InAssets>1</AtLeast5000InAssets>
+        <StatesFiledWith>GA</StatesFiledWith>
+        <Form990PFFiledWithAG>1</Form990PFFiledWithAG>
+        <PrivateOperatingFoundation>0</PrivateOperatingFoundation>
+        <NewSubstantialContributors>0</NewSubstantialContributors>
+        <InterestInControlledEntity>0</InterestInControlledEntity>
+        <ApplicableInsuranceContract>0</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>1</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>N/A</WebsiteAddress>
+        <BooksInCareOfPersonName>Stephanie Y Hunter</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>7065968823</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>6672 Waterford Court</AddressLine1>
+          <City>Columbus</City>
+          <State>GA</State>
+          <ZIPCode>31904</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>0</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>0</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>0</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>0</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>0</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>0</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>0</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>0</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>0</UndistributedIncomePriorYears>
+        <BusinessHoldings>0</BusinessHoldings>
+        <JeopardyInvestments>0</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>0</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>0</InfluenceLegislation>
+        <InfluenceElection>0</InfluenceElection>
+        <GrantsToIndividuals>0</GrantsToIndividuals>
+        <GrantsToOrganizations>0</GrantsToOrganizations>
+        <NoncharitablePurpose>0</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>0</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>0</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>0</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James D Yancey</PersonName>
+          <USAddress>
+            <AddressLine1>6049 Roundhill Court</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </USAddress>
+          <Title>President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Ruth B Yancey</PersonName>
+          <USAddress>
+            <AddressLine1>6049 Roundhill Court</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </USAddress>
+          <Title>Vice President</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Stephanie Y Hunter</PersonName>
+          <USAddress>
+            <AddressLine1>6672 Waterford Court</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </USAddress>
+          <Title>Secretary</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Roderick C Hunter</PersonName>
+          <USAddress>
+            <AddressLine1>6672 Waterford Court</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James Brooks Yancey</PersonName>
+          <USAddress>
+            <AddressLine1>7600 5 Rolling Bend</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jennifer W Yancey</PersonName>
+          <USAddress>
+            <AddressLine1>7600 5 Rolling Bend</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0.00</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <TotNumberOfOthEmplPaidOver50k>0</TotNumberOfOthEmplPaidOver50k>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+        <TotNumberOfCntrctPaidOver50k>0</TotNumberOfCntrctPaidOver50k>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Total>0</Total>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>535872</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>116817</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>652689</TotalFMVOfUnusedAssets>
+        <ReductionClaimed>0</ReductionClaimed>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>652689</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>9790</CashDeemedCharitable>
+        <NetNoncharitableAssets>642899</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>32145</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>32145</MinimumInvestmentReturn>
+        <TaxBasedOnInvestmentIncome>106</TaxBasedOnInvestmentIncome>
+        <TotalTax>106</TotalTax>
+        <DistributableAmountBeforeAdj>32039</DistributableAmountBeforeAdj>
+        <RecoveriesQlfyDistributions>0</RecoveriesQlfyDistributions>
+        <DistributableAmountBeforeDed>32039</DistributableAmountBeforeDed>
+        <DeductionFrDistributableAmount>0</DeductionFrDistributableAmount>
+        <DistributableAmountAsAdjusted>32039</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>36225</ExpensesAndContributions>
+        <ProgramRelatedInvestmentsTotal>0</ProgramRelatedInvestmentsTotal>
+        <QualifyingDistributions>36225</QualifyingDistributions>
+        <OnePctSect4940eOrgNetInvstIncm>106</OnePctSect4940eOrgNetInvstIncm>
+        <AdjQualifyingDistributions>36119</AdjQualifyingDistributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>32039</DistributableAmountAsAdjusted>
+        <UndistributedIncomePriorYear>33884</UndistributedIncomePriorYear>
+        <TotalForPriorYears>0</TotalForPriorYears>
+        <TotalExcessDistriCarryover>0</TotalExcessDistriCarryover>
+        <QualifyingDistributions>36225</QualifyingDistributions>
+        <AppliedToYear1>33884</AppliedToYear1>
+        <AppliedToPriorYears>0</AppliedToPriorYears>
+        <TreatedAsDistriFromCorpus>0</TreatedAsDistriFromCorpus>
+        <AppliedToCurrentYear>2341</AppliedToCurrentYear>
+        <RemainingDistriFromCorpus>0</RemainingDistriFromCorpus>
+        <ExcessDistriCyovAppCYCorpus>0</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>0</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>0</TotalCorpus>
+        <PriorYearUndistributedIncome>0</PriorYearUndistributedIncome>
+        <PriorYearDeficiencyOrTax>0</PriorYearDeficiencyOrTax>
+        <TaxableAmount1>0</TaxableAmount1>
+        <TaxableAmount2>0</TaxableAmount2>
+        <UndistributedIncomeCY>29698</UndistributedIncomeCY>
+        <DistriFromCorpus170b1EOr4942g3>0</DistriFromCorpus170b1EOr4942g3>
+        <ExcessDistriCyovFromYear5>0</ExcessDistriCyovFromYear5>
+        <ExcessDistriCyovToNextYear>0</ExcessDistriCyovToNextYear>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Boys and Girls Clubs of Columbus &amp; Phenix City nc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1700 Buena Vista Road</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Youth programs</PurposeOfGrantOrContribution>
+          <Amount>2200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Brookstone School</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>440 Bradley Park Drive</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Education - Excellance Now Campaign</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Valley Rescue Mission</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2903 2nd Ave</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assistance to poor</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Open Door Community House</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2405 2nd Ave</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assist in operation of community house</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Habitat for Humanity</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1209 Pou Street</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Housing for poor</PurposeOfGrantOrContribution>
+          <Amount>5250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Holy Family Church</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>320 12th Street</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>St Vincent DePaul Society - Assistance to indigent</PurposeOfGrantOrContribution>
+          <Amount>1200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Easter Seals of West Ga</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>2515 Double Churches Rd</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31904</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assistance for operation of Easter Seals projects</PurposeOfGrantOrContribution>
+          <Amount>1500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Lost Orphans Int'l - Naomi's Village</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 1388</AddressLine1>
+            <City>McKinney</City>
+            <State>TX</State>
+            <ZIPCode>75070</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assistance for orphans</PurposeOfGrantOrContribution>
+          <Amount>2250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Muscogee County Library Foundation</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>214A 10th Street</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assitance for library operations</PurposeOfGrantOrContribution>
+          <Amount>2500</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>PAWS Columbus Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 8964</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31908</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assistance for humane treatment of animals</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Second Harvest Food Bank</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>5928 Coca Cola Blvd</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31909</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Kid's Cafe - Assistance for feeding the poor</PurposeOfGrantOrContribution>
+          <Amount>2000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>The Community Foundation of the Chatthoochee Valley</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1340 13th Street</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Juvenile Drug Court and Columbus Scholars - Charitable community projects</PurposeOfGrantOrContribution>
+          <Amount>5000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Valley Interfaith Promise</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>1214 3rd Avenue</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Shelter for indigent families</PurposeOfGrantOrContribution>
+          <Amount>2250</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Global Routes</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>15 10th Street</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31901</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Teen Challenge</PurposeOfGrantOrContribution>
+          <Amount>200</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Girls Inc</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>3535 Levy Road</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31903</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Adopt a Girl program</PurposeOfGrantOrContribution>
+          <Amount>1750</Amount>
+        </GrantOrContriPaidDuringYear>
+        <GrantOrContriPaidDuringYear>
+          <RecipientBusinessName>
+            <BusinessNameLine1>Chattahoochee Valley Episcopal Ministries</BusinessNameLine1>
+          </RecipientBusinessName>
+          <RecipientUSAddress>
+            <AddressLine1>PO Box 5811</AddressLine1>
+            <City>Columbus</City>
+            <State>GA</State>
+            <ZIPCode>31906</ZIPCode>
+          </RecipientUSAddress>
+          <RecipientRelationship>None</RecipientRelationship>
+          <RecipientFoundationStatus>Public Charity</RecipientFoundationStatus>
+          <PurposeOfGrantOrContribution>Assistance to poor</PurposeOfGrantOrContribution>
+          <Amount>1000</Amount>
+        </GrantOrContriPaidDuringYear>
+        <TotGrantOrContriPaidDuringYear>34000</TotGrantOrContriPaidDuringYear>
+        <TotGrantOrContriApprovedFuture>0</TotGrantOrContriApprovedFuture>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <IntOnSavingsAndTempCashInvst>
+          <BusinessCode>522100</BusinessCode>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>13</ExclusionAmount>
+        </IntOnSavingsAndTempCashInvst>
+        <DividendsAndIntFromSecPartVII>
+          <BusinessCode>522100</BusinessCode>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>10553</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>-58339</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>0</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>-47773</ExclusionAmount>
+          <RelatedOrExemptFunctionIncome>0</RelatedOrExemptFunctionIncome>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>-47773</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>0</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>0</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>0</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>0</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>0</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>0</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>0</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>0</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>0</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>0</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <Organization501c3ExemptPF>X</Organization501c3ExemptPF>
+      <GeneralRule>X</GeneralRule>
+      <ContributorInfo>
+        <ContributorNumber>1</ContributorNumber>
+        <ContributorNameIndividual>James D Yancey Charitable Lead Annu</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>6867 Mountainbrook Drive</AddressLine1>
+          <City>Columbus</City>
+          <State>GA</State>
+          <ZIPCode>31904</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>4571</AggregateContributions>
+        <PersonContributionType>X</PersonContributionType>
+      </ContributorInfo>
+      <ContributorInfo>
+        <ContributorNumber>2</ContributorNumber>
+        <ContributorNameIndividual>James D Yancey Charitable Lead Annu</ContributorNameIndividual>
+        <ContributorAddressUS>
+          <AddressLine1>6867 Mountainbrook Drive</AddressLine1>
+          <City>Columbus</City>
+          <State>GA</State>
+          <ZIPCode>31904</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>76286</AggregateContributions>
+        <NoncashContributionType>X</NoncashContributionType>
+      </ContributorInfo>
+      <NoncashProperty>
+        <ContributorNumberFromPartI>2</ContributorNumberFromPartI>
+        <NoncashPropertyDescription>Common Stock - 4,973 shares of Total System Services</NoncashPropertyDescription>
+        <FairMarketValue>76286</FairMarketValue>
+        <DateReceived>2010-12-13</DateReceived>
+      </NoncashProperty>
+    </IRS990ScheduleB>
+    <AccountingFeesSchedule documentId="RetDoc2002200001">
+      <AccountingFees>
+        <Category>Accounting and Tax Fees</Category>
+        <Amount>2125</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>2125</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpStockSchedule documentId="RetDoc2018900001">
+      <InvestmentsCorpStock>
+        <NameOfStock>Synovus Finanicial</NameOfStock>
+        <EOYBookValue>1</EOYBookValue>
+        <EOYFMV>54577</EOYFMV>
+      </InvestmentsCorpStock>
+      <InvestmentsCorpStock>
+        <NameOfStock>Total System Services</NameOfStock>
+        <EOYBookValue>0</EOYBookValue>
+        <EOYFMV>0</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <OtherIncreasesSchedule documentId="RetDoc2049700001">
+      <OtherIncreases>
+        <Description>Fair Market Value in Excess of Book Value</Description>
+        <Amount>593012</Amount>
+      </OtherIncreases>
+    </OtherIncreasesSchedule>
+    <OtherProfessionalFeesSchedule documentId="RetDoc2002300001">
+      <OtherProfessionalFees>
+        <Category>Management fees</Category>
+        <Amount>100</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <DisbursementsCharitablePrps>100</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+  </ReturnData>
+</Return>

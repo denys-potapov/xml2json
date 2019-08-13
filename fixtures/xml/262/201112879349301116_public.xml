@@ -1,0 +1,770 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-10-14T12:02:22-05:00</Timestamp>
+    <TaxPeriodEndDate>2011-06-30</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Berry Dunn McNeil &amp; Parker LLC</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>PO Box 1100</AddressLine1>
+        <City>Portland</City>
+        <State>ME</State>
+        <ZIPCode>041041100</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990</ReturnType>
+    <TaxPeriodBeginDate>2010-07-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010262323</EIN>
+      <Name>
+        <BusinessNameLine1>Northern Maine General</BusinessNameLine1>
+      </Name>
+      <NameControl>NORT</NameControl>
+      <Phone>2074445152</Phone>
+      <USAddress>
+        <AddressLine1>PO Box 310</AddressLine1>
+        <City>Eagle Lake</City>
+        <State>ME</State>
+        <ZIPCode>04739</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>Reynold Raymond</Name>
+      <Title>CEO</Title>
+      <Phone>2074445152</Phone>
+      <DateSigned>2011-10-03</DateSigned>
+      <AuthorizeThirdParty>1</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Barbara J McGuan CPA</Name>
+      <Phone>2077752387</Phone>
+      <DatePrepared>2011-10-03</DatePrepared>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-03-07 17:11:31Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="7">
+    <IRS990 documentId="RetDoc1038000001" referenceDocumentId="RetDoc1044400001">
+      <NameOfPrincipalOfficerPerson>Reynold Raymond</NameOfPrincipalOfficerPerson>
+      <AddressPrincipalOfficerUS>
+        <AddressLine1>PO Box 310</AddressLine1>
+        <City>Eagle Lake</City>
+        <State>ME</State>
+        <ZIPCode>04739</ZIPCode>
+      </AddressPrincipalOfficerUS>
+      <GrossReceipts>10868311</GrossReceipts>
+      <GroupReturnForAffiliates>0</GroupReturnForAffiliates>
+      <Organization501c3>X</Organization501c3>
+      <WebSite>www.northernmainegeneral.com</WebSite>
+      <TypeOfOrganizationCorporation>X</TypeOfOrganizationCorporation>
+      <YearFormation>1907</YearFormation>
+      <StateLegalDomicile>ME</StateLegalDomicile>
+      <ActivityOrMissionDescription>To provide healthcare, nursing home, counseling and youth services in northern Maine.</ActivityOrMissionDescription>
+      <NbrVotingMembersGoverningBody>5</NbrVotingMembersGoverningBody>
+      <NbrIndependentVotingMembers>4</NbrIndependentVotingMembers>
+      <TotalNbrEmployees>385</TotalNbrEmployees>
+      <TotalNbrVolunteers>10</TotalNbrVolunteers>
+      <TotalGrossUBI>0</TotalGrossUBI>
+      <NetUnrelatedBusinessTxblIncome>0</NetUnrelatedBusinessTxblIncome>
+      <ContributionsGrantsPriorYear>12138</ContributionsGrantsPriorYear>
+      <ContributionsGrantsCurrentYear>83303</ContributionsGrantsCurrentYear>
+      <ProgramServiceRevenuePriorYear>10398501</ProgramServiceRevenuePriorYear>
+      <ProgramServiceRevenueCY>10706503</ProgramServiceRevenueCY>
+      <InvestmentIncomePriorYear>64646</InvestmentIncomePriorYear>
+      <InvestmentIncomeCurrentYear>39050</InvestmentIncomeCurrentYear>
+      <OtherRevenuePriorYear>22200</OtherRevenuePriorYear>
+      <OtherRevenueCurrentYear>22200</OtherRevenueCurrentYear>
+      <TotalRevenuePriorYear>10497485</TotalRevenuePriorYear>
+      <TotalRevenueCurrentYear>10851056</TotalRevenueCurrentYear>
+      <GrantsAndSimilarAmntsPriorYear>0</GrantsAndSimilarAmntsPriorYear>
+      <GrantsAndSimilarAmntsCY>0</GrantsAndSimilarAmntsCY>
+      <BenefitsPaidToMembersPriorYear>0</BenefitsPaidToMembersPriorYear>
+      <BenefitsPaidToMembersCY>0</BenefitsPaidToMembersCY>
+      <SalariesEtcPriorYear>7136754</SalariesEtcPriorYear>
+      <SalariesEtcCurrentYear>7210526</SalariesEtcCurrentYear>
+      <TotalProfFundrsngExpPriorYear>0</TotalProfFundrsngExpPriorYear>
+      <TotalProfFundrsngExpCY>0</TotalProfFundrsngExpCY>
+      <TotalFundrsngExpCurrentYear>0</TotalFundrsngExpCurrentYear>
+      <OtherExpensePriorYear>2668971</OtherExpensePriorYear>
+      <OtherExpensesCurrentYear>3058105</OtherExpensesCurrentYear>
+      <TotalExpensesPriorYear>9805725</TotalExpensesPriorYear>
+      <TotalExpensesCurrentYear>10268631</TotalExpensesCurrentYear>
+      <RevenuesLessExpensesPriorYear>691760</RevenuesLessExpensesPriorYear>
+      <RevenuesLessExpensesCY>582425</RevenuesLessExpensesCY>
+      <TotalAssetsBOY>9577536</TotalAssetsBOY>
+      <TotalAssetsEOY>10406290</TotalAssetsEOY>
+      <TotalLiabilitiesBOY>4541207</TotalLiabilitiesBOY>
+      <TotalLiabilitiesEOY>4787536</TotalLiabilitiesEOY>
+      <NetAssetsOrFundBalancesBOY>5036329</NetAssetsOrFundBalancesBOY>
+      <NetAssetsOrFundBalancesEOY>5618754</NetAssetsOrFundBalancesEOY>
+      <InfoInScheduleOPartIII>X</InfoInScheduleOPartIII>
+      <MissionDescription>It is Northern Maine General's mission to provide individuals with the highest standards of care, promote dignity and respect, encourage talents and individuality, and help all of the people we serve enjoy life to the fullest potential.</MissionDescription>
+      <SignificantNewProgramServices>1</SignificantNewProgramServices>
+      <SignificantChange>0</SignificantChange>
+      <Expense>2698927</Expense>
+      <Revenue>2619885</Revenue>
+      <Description>The Mercy Home is a 5 star rated home located in the quiet community of Eagle Lake. Our home offers three levels of personal care, Residential Care, Skilled Rehabilitation Care, and Long Term Care while providing a warm and stimulating home like environment. Our staff are friendly and encourage our residents to maintain family connections, independence, and a sense of social well-being.The home offers a spacious day room to encourage residents to maintain and enhance their social well-being while interacting with their peers and staff. We also offer a family room for family and friends to visit in a private atmosphere. The Mercy Home has a beautiful, spacious chapel to support and encourage each resident with their spiritual needs.Residents are encouraged to bring personal items from home to decorate their room. Some of the suggested items could include: a bedspread, wall decorations, clothing, special chair, shelf items, and photographs. This opportunity helps residents to feel comfortable and helps ease their concerns. Our Services:Through our detailed get to know you processes, our residents are offered the best possible care. Our residents are encouraged to assist their multi-disciplinary team and family members develop an individualized plan of care.To assist our residents with their person centered care, the Mercy Home is fortunate to have the ability to provide our resident with the best in home care to meet many of their medical and psychological needs. We have established relationships with area providers to care for their patients in the comfort of their own home. Some of these services include:1. 24 hour Direct Nursing Care2. Medical Checkups3. Psychiatric Care4. Psychological Care5. Podiatry Care6. Occupational Therapy7. Physical TherapyThe Mercy Home provides non-medical services for our residents. Some of these services include:1. Self-driven awake and sleep routine2. Continental Breakfast3. Self-driven personal care4. Hair Salon 5. Wireless Internet Access6. Support of Family Involvement A key part of person centered care is how they choose to spend their day. Our recreation department staff bring a sense of humor, smiles, and empathy with each interaction they have with our residents. Mercy Home provides a variety of activities to entertain and enhance the sense of well-being of each resident. Some of the activities offered include:1. Religious Services 2. Baking 3. Community Outings 4. Exercise Classes 5. Bingo 6. Cards 7. Wii 8. Art of many types9. Opportunity for group and 1:1 socializing As part of our recreation programs we host family gatherings along with decorating and celebrating for each holiday. We encourage family members to join us for any of our activities.</Description>
+      <Activity2>
+        <Expense>3213953</Expense>
+        <Revenue>3890106</Revenue>
+        <Description>NMG's Children's Case Management program is a home and community based service designed to assist consumers and their families with maximizing their ability to function within their environment. Each consumer receives a thorough psychosocial assessment to identify their strengths and presenting needs. Each comprehensive assessment includes taking a thorough client history, identifying the needs of the individual, and gathering supporting information and documentation from other sources including friends, family, and providers. Strengths Based, comprehensive service plans are developed following the initial assessment and consumers are able to identify individual short and long term goals and specific objectives for meeting those goals. The plans are reviewed minimally every 90 days. Consumers, guardians, and other individuals designated by the consumer are active participants in the assessment and planning process.Through the planning process consumers are linked to supportive services taking care to avoid the duplication of services. Referrals may include but are not limited to medical assessments and services, psychological evaluations, social and natural supports, and educational services. These services are then monitored and evaluated by the Case Manager to ensure that the service plan is effectively implemented and adequately addresses the needs of the consumer.Northern Maine General currently employs three staff persons who provide case management services to children that have been diagnosed with Mental Retardation and Pervasive Developmental Disorders. These staff would continue to provide Case Management services under the mental health license. The current case managers all meet the staff qualifications as defined under Section 13.07-2.B.1.of the MaineCare Benefits Manual. These individuals are responsible for completing the psychosocial assessments, developing the ISP's, providing referrals, participating in crisis resolution services, assisting with residential services, monitoring and coordinating comprehensive services, advocating for consumer needs, and assisting with problem solving and skill development. The program is supervised by a Licensed Clinical Social Worker who is responsible for reviewing and authorizing all psychosocial assessments and ISP's, service reviews, annual assessments, and crisis plans.Consumers served by NMG's Targeted Case Management service meet the eligibility requirements identified in Section 13.03-3.A. of the MaineCare benefits manual. These requirements include; A child with a completed multi-axial evaluation of an Axis I or Axis II diagnosis or a child between birth and five (5) years of age who is determined by a professional approved by the Department as being at risk of developing a mental health disorder due to known environmental or biological risks using DHHS adopted tools, and has significant impairment or limitation in adaptive behavior or functioning according to criteria as established by the Department and determined by a qualified professional approved by the Department. Northern Maine General's Outpatient Services are comprised of professional assessment and counseling services designed to assist consumers with improving functioning, managing disruptive symptoms, decreasing maladaptive behaviors, and promoting positive social, emotional, educational, and vocational growth and development. Services are strengths based and delivered utilizing psychological and sociological evidenced based approaches. Consumers are evaluated and an individualized plan of treatment is developed to maximize personal growth.Children's Outpatient Services assists with improving the consumer's individual functioning and family living environment in order to assist parents, guardians and family members to understand the effects of the consumer's disabilities. Clinicians engage parents and family members and other natural supports to positively affect their consumer's growth and development.Services include a Comprehensive Assessment, diagnosis, individual, family and group therapy. Services focus on the developmental and emotional strengths and needs of consumers and their families. Individual Treatment Plans are created as a collaborative effort between the clinician and consumer and focus on building upon their strengths and existing capabilities. Consumers with co-occurring substance abuse disorders will be referred to another provider of their choice for treatment of the substance related disorder. NMG will coordinate services with that provider to assure continuity of care.Outpatient services are delivered at NMG during a regularly scheduled appointment or on an as needed basis in the consumer's home or other community-based setting.Northern Maine General currently employs three Licensed Clinical Social Workers (LCSW) who will be providing the Outpatient Services. Any additional staff hired to provide these services will possess written evidence from the appropriate governing body that they are conditionally or fully licensed in the State of Maine and are approved to practice.</Description>
+      </Activity2>
+      <Activity3>
+        <Expense>996361</Expense>
+        <Revenue>1047224</Revenue>
+        <Description>Franciscan Home is a community residential facility that serves up to sixteen residents who have been diagnosed with severe and prolonged mental illness. Each resident has a private bedroom. There are eight private rooms on the second and third floor and both floors have a separate television room and a library/computer room for residents to use for social activities and for keeping in touch with families and friends. The home has a great deal of historical and sentimental value, as it is the building that originally housed Northern Maine General Hospital. The now renovated facility has enclosed stairwells at either end of the building and a full service elevator centrally located for the resident's conveniences. Close by is NMG Northern Aquatics, a therapeutic pool facility where residents can receive land or pool based physical therapy. Many local businesses are within walking distance of the home, including several small grocery and convenience stores, a senior citizen center, the Good Sheppard Shop, a bottle redemption center, a Catholic and a Christian church. In addition, there is a Health Center nearby with two attending physicians and a Physician Assistant. The Health Center also provides dental service, a podiatry clinic, and mental health counseling clinic. Transportation is provided by the home and, as available, through the Aroostook Regional Transportation system.The Franciscan home serves primarily public wards for which the department has a legal responsibility or others with similar needs. The Franciscan home only admits those with a primary diagnosis of severe and prolonged mental illness. Residents may have functional impairments and behavioral challenges. Priorities for admission are determined in collaboration with the department. Upon admission and then yearly, a comprehensive assessment is completed by a person centered planning team consisting of the resident, family members and friends (identified by the resident), legal representatives, Licensed Clinical Social Worker, the resident care director, Activity Coordinator, Social Services Coordinator, and any other applicable professional. Upon completion of the assessment, each resident will have a service plan that is individualized and person centered. The annual service plan will be reviewed at least quarterly and revised as needed. As part of the service plan, each resident will have a discharge plan which will state the resident's preferred living arrangement and the goals working on to meet the residents' preference. Any unmet needs identified though the assessment will be documented on the service plan. Residents will be encouraged to remain as self-sufficient as possible in their daily living. The services provided by the home will be designed to help residents maintain their independence and improve their quality of life. The Franciscan home will provide the following residential services:1. Housekeeping and home maintenance skills;2. mobility and community transportation skills3. interpersonal relationships, including spouse, family, and friends;4. health maintenance, including personal hygiene, exercise and fitness, nutrition and diet management, and use of medical services and medicine;5. safety practices, including dealing with injuries and life threatening emergencies,6. financial management, including techniques client purchasing, banking, taxes, budgeting, and repaying debts;7. basic academic skills;8. management and personal and legal affairs;9. contingency planning, problem solving, decision-making;10. self-advocacy and assertiveness training;11. utilization of community services and resources, including laundromats, library, post office, client affairs offices;12. recreations and leisure time activities;13. work attitude and skills exploration14. menu planning and meal preparation15. use of the telephone16. human sexuality; and 17. Client affairs, client rights, including familiarity with warranties, policies, and procedure of governmental and community services agencies.The Franciscan Home is supervised by a Licensed Assisted Living Administrator with the weekly consultation services of Licensed Clinical Social Worker. Services will be provided by the following staff:1. Social Services Coordinator (BS/MHRT 2) 2. Activity Coordinator3. Other Qualified Mental Health Professionals: Personal Support Specialists, Residential Care Specialists, and/or Mental Health Support SpecialistsThe Franciscan Home contracts with or procures arrangements for the following services:1. Psychiatric2. Psychological3. Community Support Workers4. Dietary and Nutritional Assessments5. Neurological6. Medical7. Pharmaceutical8. Nursing services</Description>
+      </Activity3>
+      <ActivityOther>
+        <Expense>690007</Expense>
+        <Revenue>854652</Revenue>
+        <Description>Personal Support Services &amp; Shared Living:Northern Maine General's Home Supports Program offers two methods of supporting adults with intellectual and physical disabilities to live in their own homes, apartments, or within a family unit. Personal Support Services:These services are delivered to individuals with intellectual and physical disabilities in their own homes or apartments, throughout Northern and Central Aroostook County. Support can range from a few hours a week up to twenty-four hours per day. The goal of the program is to assist individuals in living their lives with as much independence and as few restrictions as possible. Individuals are encouraged to pursue their wants, needs, and desires.Personal Support Services are delivered by Direct Support Professionals. Staff members are trained in areas that include person centered planning, medication administration, behavior management, residential rights, and environmental safety. The support of the staff allows individuals to live as independently as possible in the community. In fiscal year ending June 30, 2011, NMG supports three individuals under this program.Shared Living:Shared living is a joint service of NMG and DHHS that provides family living arrangements for adults with intellectual and physical disabilities in Northern and Central Aroostook County. The objective of shared living is to provide adults with a warm and supportive home, which allows an individual to live a more independent life and become part of a family and their community. After assessing their strengths and challenges, adults are placed in arrangements where it is most likely that their needs can be met. There are two options for shared living arrangements. An adult with intellectual and physical disabilities may move into a family's home. The other option is for a person who would like to provide support to move into the home of an adult with cognitive or physical disabilities. Considering the family structure of the shared living environment and the needs of the adult helps us ensure that we have made the best placement possible for everyone. We are committed to stopping the cycle of multiple placements that some adults have experienced. Northern Maine General delivers in-home support, training, and emergency crisis consultation services to our shared living providers. Northern Maine General works in a team effort with providers so that we can all make a difference in an adult's life. In fiscal year ending June 30, 2011, NMG is contracted with nine shared living providers who support ten adults with intellectual disabilities.</Description>
+      </ActivityOther>
+      <ActivityOther>
+        <Expense>513883</Expense>
+        <Revenue>645428</Revenue>
+        <Description>Powell Memorial Center:Northern Maine General's Powell Memorial Center Day Program's purpose is to teach individuals with intellectual and physical disabilities the skills necessary to reach their full potential for independent community living. Powell Day Program operates five days per week, serving individuals ages eighteen and older who have been diagnosed with mental retardation and/or autism. The program serves a wide range of people, from high school graduates who need to learn transition skills in order to live independently, to adults in long term residential care. The program's goal is to focus an individual's skills and build on them, enhancing physical and emotional development. This goal is achieved by providing choices and offering skill building activities that are practical and related to everyday living. Activities are designed to increase individuals' independence in their living, learning, working, and social environments. In order to help participants achieve their goals, the program takes place in the least restrictive environment possible, some in classroom settings and others throughout the community, using public community resources. All learning is targeted towards reaching a long-term goal, whether it is to live independently in the community or to become independent in specific activities of daily living. Activities can be broken down into two main categories: those pertaining to physical well-being, and those related to social and emotional well-being. Activities related to physical well-being might include following a land or aquatic exercise program developed by a physical therapist, or activities designed to maintain or increase strength. The Powell Day Program facility has a large gym and is adjacent to an indoor therapeutic pool facility which participants use regularly for exercise. Independent living skills are taught, as well, including programs that teach proper nutrition and cooking. Social and emotional well-being is enhanced by participation in community service projects and other small group activities targeting community inclusion. In fiscal year 2011, Powell Memorial Center's Day Program served 34 adults.</Description>
+      </ActivityOther>
+      <ActivityOther>
+        <Expense>326881</Expense>
+        <Revenue>506921</Revenue>
+        <Description>Children's Day Habilitation Services:Northern Maine General provides Children's Day Habilitation Treatment services through a program that delivers one-on-one, in home and community based services to children age 20 years or less and who have met the specific eligibility criteria as identified in the MaineCare benefits manual. These criteria include but are not limited to a diagnosis of a mental illness, mental retardation, autism, or a pervasive developmental disorder and a functional assessment administered within one (1) year prior to the date of the referral documenting functional impairment measured as two (2) standard deviations below the mean on the composite score or have one point five (1.5) standard deviations below the mean on the composite score and two standard deviations below the mean in the communication or social domain sub score of the most current version of the Vineland Adaptive Behavior scale. These services are designed to retain or improve functional abilities which have been negatively impacted by the effects of cognitive or functional impairment and are focused on behavior modification and management, social development, and acquisition and retention of developmentally appropriate skills. Services include problem solving activities, behavior management, learning the social skills and behaviors necessary to live with and interact with other community members and independently, building or maintain satisfactory relationships with peers or adults, learning the skills that will improve a member's self awareness, environmental awareness, and learning awareness of and appropriate use of community services and resources.Consumers are admitted to services following a referral from DHHS's central enrollment system. DHHS maintains a waitlist for services and contacts this agency to determine census and availability. Family participation is a requirement of the services and may include being a member of the treatment team, participation in the assessment process, and helping to develop the Individual Treatment Plan (ITP). Family participation may also mean participating in treatment, modeling, and reinforcing skills learned in the course of treatment.During the course of treatment a Comprehensive Assessment is completed and is used to identify strengths and needs of the member and family and to guide the development of an Individual Treatment Plan. The comprehensive assessment process determines the intensity and frequency of medically necessary services and includes utilization of instruments as may be approved or required by DHHS. The treatment team then works to develop the Individual Treatment Plan (ITP). The treatment plan is created to identify each consumer's unique goals and is based on strengths and needs identified in the comprehensive assessment. The Individual Treatment Plan includes a Crisis/Safety Plan and a Discharge Plan, along with other elements of the plan of care. The Individual Treatment Plan describes the medically necessary treatment the member will receive.Currently, Northern Maine General provides services to clients in Central and Northern Aroostook County. The program is clinically supervised by an LCSW and all program staff members receive required training and education to qualify them each as a Behavioral Health Professional. Northern Maine General's Children's Day Habilitation program served 40 unduplicated clients in Fiscal Year 2011.</Description>
+      </ActivityOther>
+      <ActivityOther>
+        <Expense>305093</Expense>
+        <Revenue>340159</Revenue>
+        <Description>Phillip Blanchette Residential:The Phillip Blanchette Residential (PBR) facility is located in the small, rural community of Eagle Lake, Maine. The PBR sits back a safe and fairly private distance from the main highway of Aroostook Road. It offers private bedrooms for six people who have a primary diagnosis of acquired brain injury (ABI). Although some people may need residential services for many years, the ultimate goal of the program is to support survivors of brain injury with continued recovery in order to return to an independent lifestyle. PBR is the only residential facility specializing in providing brain injury services in Aroostook County. The PBR is located within a miles radius of most community resources, such as the local health clinic, a physical therapy clinic which has an indoor therapeutic pool, a bank and credit union, and has several convenience and grocery stores. The community of Eagle Lake boasts numerous outdoor recreational activities and resources, including the beautiful lake and its public beach, walking and cross country ski trails, snowmobile and ATV trails, tennis court, and more. Having a population of only 800 people keeps Eagle Lake a friendly and safe community to live. The PBR offers round the clock, qualified staff, which is available to provide a variety of supports to residents in the program. Each person's strengths and desires are unique and their supports are tailored to meet their individual needs through a person centered planning process. 1. Personal supervision, meaning awareness of a resident's general whereabouts, even though the resident may travel independently in the community; and, observation and assessment of each resident's functioning or behavior to enhance his or her health or safety or the health or safety of others;2. Protection from environmental hazards, meaning mitigation of risk in the physical environment to prevent unnecessary injury or accident;3. Assistance with and skill building of Activities of Daily Living and Instrumental Activities of Daily Living;4. Provision of opportunities for diversional, motivational or recreational activities, meaning activities which respond to residents' interests or which stimulate social interaction, both in individual and group settings;5. Dietary services meaning the provision of regular and therapeutic diets that meet each resident's minimum daily food requirements, as defined by the Recommended Dietary Allowances of the Food and Nutrition Board of the National Research Council, National Academy of Sciences;6. Care Management Services, meaning the coordination and implementation of the Person Centered Plan (PCP) to identify a resident's needs and strengths, develop a service plan and arrange for and monitor service delivery.7. Administration of medications, means services completed by a certified residential medication aide (CRMA) such as administering medications, reading labels for residents, observing residents taking their medications, checking the dosage, removing the prescribed dosage, filling a syringe and administering insulin and bee sting kits (when permitted) and the maintenance of a medication record for each resident;8. Coordination and monitoring of medical, including dental, and other specialist services, meaning that appointments and evaluations will be coordinated, as directed within the person centered plan, and/or as ordered by the primary physician, and approved by the individual and/or their legal guardian. All treatment recommendations/orders will be implemented, as approved by the individual and/or their legal guardian. In fiscal year ending June 30, 2011, the Phillip Blanchette Residential facility served six adults with brain injury.</Description>
+      </ActivityOther>
+      <ActivityOther>
+        <Expense>454391</Expense>
+        <Revenue>802128</Revenue>
+        <Description>Northern Maine General offers diverse services to diverse consumer groups through various other programs working with at-risk children and adolescents, developmentally disabled adults, the elderly, ill, and displaced. Other services include therapeutic foster care, day programming for adults with mental retardation, supportive employment opportunities, and a therapeutic pool facility.</Description>
+      </ActivityOther>
+      <TotalOfOtherProgramServiceExp>2290255</TotalOfOtherProgramServiceExp>
+      <TotalOfOtherProgramServiceRev>3149288</TotalOfOtherProgramServiceRev>
+      <TotalProgramServiceExpense>9199496</TotalProgramServiceExpense>
+      <DescribedIn501C3 referenceDocumentId="RetDoc1039100001">1</DescribedIn501C3>
+      <ScheduleBRequired referenceDocumentId="RetDoc1234500001">1</ScheduleBRequired>
+      <PoliticalActivities referenceDocumentId="RetDoc1039700001">0</PoliticalActivities>
+      <LobbyingActivities referenceDocumentId="RetDoc1039700001">1</LobbyingActivities>
+      <DonorAdvisedFunds referenceDocumentId="RetDoc1040000001">0</DonorAdvisedFunds>
+      <ConservationEasements referenceDocumentId="RetDoc1040000001">0</ConservationEasements>
+      <CollectionsOfArt referenceDocumentId="RetDoc1040000001">0</CollectionsOfArt>
+      <CreditCounseling referenceDocumentId="RetDoc1040000001">0</CreditCounseling>
+      <TermOrPermanentEndowments referenceDocumentId="RetDoc1040000001">0</TermOrPermanentEndowments>
+      <ReportLandBldgEquip referenceDocumentId="RetDoc1040000001">1</ReportLandBldgEquip>
+      <ReportInvestOthSecurities referenceDocumentId="RetDoc1040000001">0</ReportInvestOthSecurities>
+      <ReportProgRelInvest referenceDocumentId="RetDoc1040000001">0</ReportProgRelInvest>
+      <ReportOtherAssets referenceDocumentId="RetDoc1040000001">0</ReportOtherAssets>
+      <ReportOtherLiabilities referenceDocumentId="RetDoc1040000001">0</ReportOtherLiabilities>
+      <ReportFin48Footnote referenceDocumentId="RetDoc1040000001">0</ReportFin48Footnote>
+      <IndependentAuditFinancialStmt referenceDocumentId="RetDoc1040000001">1</IndependentAuditFinancialStmt>
+      <ConsolidatedAuditFinancialStmt referenceDocumentId="RetDoc1040000001">0</ConsolidatedAuditFinancialStmt>
+      <School>0</School>
+      <ForeignOffice>0</ForeignOffice>
+      <ForeignActivities>0</ForeignActivities>
+      <MoreThan5000KToOrganizations>0</MoreThan5000KToOrganizations>
+      <MoreThan5000KToIndividuals>0</MoreThan5000KToIndividuals>
+      <ProfessionalFundraising>0</ProfessionalFundraising>
+      <FundraisingActivities>0</FundraisingActivities>
+      <Gaming>0</Gaming>
+      <Hospital>0</Hospital>
+      <GrantsToOrganizations>0</GrantsToOrganizations>
+      <GrantsToIndividuals>0</GrantsToIndividuals>
+      <ScheduleJRequired>0</ScheduleJRequired>
+      <TaxExemptBonds>0</TaxExemptBonds>
+      <ExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</ExcessBenefitTransaction>
+      <PriorExcessBenefitTransaction referenceDocumentId="RetDoc1042800001">0</PriorExcessBenefitTransaction>
+      <LoanToOfficerOrDQP referenceDocumentId="RetDoc1042800001">0</LoanToOfficerOrDQP>
+      <GrantToRelatedPerson referenceDocumentId="RetDoc1042800001">0</GrantToRelatedPerson>
+      <BsnssRltnshpWithOrganization referenceDocumentId="RetDoc1042800001">0</BsnssRltnshpWithOrganization>
+      <BsnssRltnshpThruFamilyMember referenceDocumentId="RetDoc1042800001">1</BsnssRltnshpThruFamilyMember>
+      <OfficerEntityWithBsnssRltnshp referenceDocumentId="RetDoc1042800001">1</OfficerEntityWithBsnssRltnshp>
+      <DeductibleNonCashContributions>0</DeductibleNonCashContributions>
+      <DeductibleContributionsOfArt>0</DeductibleContributionsOfArt>
+      <Terminated>0</Terminated>
+      <PartialLiquidation>0</PartialLiquidation>
+      <DisregardedEntity>0</DisregardedEntity>
+      <RelatedEntity>0</RelatedEntity>
+      <RelatedOrgControlledEntity>0</RelatedOrgControlledEntity>
+      <TransactionRelatedEntity>0</TransactionRelatedEntity>
+      <TransfersToExemptNonChrtblOrg>0</TransfersToExemptNonChrtblOrg>
+      <ActivitiesConductedPartnership>0</ActivitiesConductedPartnership>
+      <ScheduleORequired>1</ScheduleORequired>
+      <NumberFormsTransmittedWith1096>24</NumberFormsTransmittedWith1096>
+      <NumberW2GIncluded>0</NumberW2GIncluded>
+      <NumberOfEmployees>385</NumberOfEmployees>
+      <EmploymentTaxReturnsFiled>1</EmploymentTaxReturnsFiled>
+      <UnrelatedBusinessIncome>0</UnrelatedBusinessIncome>
+      <ForeignFinancialAccount>0</ForeignFinancialAccount>
+      <ProhibitedTaxShelterTrans>0</ProhibitedTaxShelterTrans>
+      <TaxablePartyNotification>0</TaxablePartyNotification>
+      <NonDeductibleContributions>0</NonDeductibleContributions>
+      <QuidProQuoContributions>0</QuidProQuoContributions>
+      <Form8282PropertyDisposedOf>0</Form8282PropertyDisposedOf>
+      <FundsToPayPremiums>0</FundsToPayPremiums>
+      <PremiumsPaid>0</PremiumsPaid>
+      <IndoorTanningServices>0</IndoorTanningServices>
+      <InfoInScheduleOPartVI>X</InfoInScheduleOPartVI>
+      <NbrVotingGoverningBodyMembers>5</NbrVotingGoverningBodyMembers>
+      <NumberIndependentVotingMembers>4</NumberIndependentVotingMembers>
+      <FamilyOrBusinessRelationship>0</FamilyOrBusinessRelationship>
+      <DelegationOfManagementDuties>0</DelegationOfManagementDuties>
+      <ChangesToOrganizingDocs>0</ChangesToOrganizingDocs>
+      <MaterialDiversionOrMisuse>0</MaterialDiversionOrMisuse>
+      <MembersOrStockholders>0</MembersOrStockholders>
+      <ElectionOfBoardMembers>0</ElectionOfBoardMembers>
+      <DecisionsSubjectToApproval>0</DecisionsSubjectToApproval>
+      <MinutesOfGoverningBody>1</MinutesOfGoverningBody>
+      <MinutesOfCommittees>1</MinutesOfCommittees>
+      <OfficerMailingAddress>0</OfficerMailingAddress>
+      <LocalChapters>0</LocalChapters>
+      <Form990ProvidedToGoverningBody>1</Form990ProvidedToGoverningBody>
+      <ConflictOfInterestPolicy>1</ConflictOfInterestPolicy>
+      <AnnualDisclosureCoveredPersons>1</AnnualDisclosureCoveredPersons>
+      <RegularMonitoringEnforcement>1</RegularMonitoringEnforcement>
+      <WhistleblowerPolicy>1</WhistleblowerPolicy>
+      <DocumentRetentionPolicy>1</DocumentRetentionPolicy>
+      <CompensationProcessCEO>1</CompensationProcessCEO>
+      <CompensationProcessOther>0</CompensationProcessOther>
+      <InvestmentInJointVenture>0</InvestmentInJointVenture>
+      <UponRequest>X</UponRequest>
+      <TheBooksAreInCareOf>
+        <NameBusiness>
+          <BusinessNameLine1>Reynold Raymond CEO</BusinessNameLine1>
+        </NameBusiness>
+        <TelephoneNumber>2074445152</TelephoneNumber>
+        <AddressUS>
+          <AddressLine1>PO Box 310</AddressLine1>
+          <City>Eagle Lake</City>
+          <State>ME</State>
+          <ZIPCode>04739</ZIPCode>
+        </AddressUS>
+      </TheBooksAreInCareOf>
+      <Form990PartVIISectionA>
+        <NamePerson>Norman Fournier</NamePerson>
+        <Title>President/Vice President</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>John L Martin</NamePerson>
+        <Title>Treasurer/Secretary</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Joan Sylvain</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Frances Labrie</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Arnold Devoe</NamePerson>
+        <Title>Trustee</Title>
+        <AverageHoursPerWeek>1.00</AverageHoursPerWeek>
+        <IndividualTrusteeOrDirector>X</IndividualTrusteeOrDirector>
+        <ReportableCompFromOrganization>0</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>0</OtherCompensation>
+      </Form990PartVIISectionA>
+      <Form990PartVIISectionA>
+        <NamePerson>Reynold Raymond</NamePerson>
+        <Title>CEO</Title>
+        <AverageHoursPerWeek>40.00</AverageHoursPerWeek>
+        <Officer>X</Officer>
+        <ReportableCompFromOrganization>110090</ReportableCompFromOrganization>
+        <ReportableCompFromRelatedOrgs>0</ReportableCompFromRelatedOrgs>
+        <OtherCompensation>25701</OtherCompensation>
+      </Form990PartVIISectionA>
+      <TotalReportableCompFromOrg>110090</TotalReportableCompFromOrg>
+      <TotalReportableCompFrmRltdOrgs>0</TotalReportableCompFrmRltdOrgs>
+      <TotalOtherCompensation>25701</TotalOtherCompensation>
+      <NumberIndividualsGT100K>1</NumberIndividualsGT100K>
+      <FormersListed>0</FormersListed>
+      <TotalCompGT150K>0</TotalCompGT150K>
+      <CompensationFromOtherSources>0</CompensationFromOtherSources>
+      <ContractorCompensation>
+        <NameOfContractor>
+          <NameBusiness>
+            <BusinessNameLine1>Devoe Construction</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfContractor>
+        <AddressOfContractor>
+          <AddressUS>
+            <AddressLine1>PO Box 40</AddressLine1>
+            <City>Eagle Lake</City>
+            <State>ME</State>
+            <ZIPCode>047390040</ZIPCode>
+          </AddressUS>
+        </AddressOfContractor>
+        <DescriptionOfServices>Construction Services</DescriptionOfServices>
+        <Compensation>937047</Compensation>
+      </ContractorCompensation>
+      <NumberOfContractorsGT100K>1</NumberOfContractorsGT100K>
+      <FederatedCampaigns>1079</FederatedCampaigns>
+      <GovernmentGrants>8019</GovernmentGrants>
+      <AllOtherContributions>74205</AllOtherContributions>
+      <TotalContributions>83303</TotalContributions>
+      <ProgramServiceRevenue>
+        <Description>Routine Service Rev.</Description>
+        <BusinessCode>621990</BusinessCode>
+        <TotalRevenueColumn>10906064</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>10906064</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Case Management</Description>
+        <BusinessCode>621990</BusinessCode>
+        <TotalRevenueColumn>371355</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>371355</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Other Revenue</Description>
+        <BusinessCode>621990</BusinessCode>
+        <TotalRevenueColumn>321140</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>321140</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Therapeutic Revenue</Description>
+        <BusinessCode>621990</BusinessCode>
+        <TotalRevenueColumn>109633</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>109633</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <ProgramServiceRevenue>
+        <Description>Contractual Adjustment</Description>
+        <BusinessCode>621990</BusinessCode>
+        <TotalRevenueColumn>-1001689</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>-1001689</RelatedOrExemptFunctionIncome>
+      </ProgramServiceRevenue>
+      <TotalProgramServiceRevenue>10706503</TotalProgramServiceRevenue>
+      <InvestmentIncome>
+        <TotalRevenueColumn>52655</TotalRevenueColumn>
+        <ExclusionAmount>52655</ExclusionAmount>
+      </InvestmentIncome>
+      <GrossRents>
+        <Real>22200</Real>
+      </GrossRents>
+      <RentalIncomeOrLoss>
+        <Real>22200</Real>
+      </RentalIncomeOrLoss>
+      <NetRentalIncomeOrLoss>
+        <TotalRevenueColumn>22200</TotalRevenueColumn>
+        <ExclusionAmount>22200</ExclusionAmount>
+      </NetRentalIncomeOrLoss>
+      <GrossAmountSalesAssets>
+        <Other>3650</Other>
+      </GrossAmountSalesAssets>
+      <LessCostOthBasisSalesExpenses>
+        <Other>17255</Other>
+      </LessCostOthBasisSalesExpenses>
+      <GainOrLoss>
+        <Other>-13605</Other>
+      </GainOrLoss>
+      <NetGainOrLossInvestments>
+        <TotalRevenueColumn>-13605</TotalRevenueColumn>
+        <ExclusionAmount>-13605</ExclusionAmount>
+      </NetGainOrLossInvestments>
+      <TotalRevenue>
+        <TotalRevenueColumn>10851056</TotalRevenueColumn>
+        <RelatedOrExemptFunctionIncome>10706503</RelatedOrExemptFunctionIncome>
+        <UnrelatedBusinessRevenue>0</UnrelatedBusinessRevenue>
+        <ExclusionAmount>61250</ExclusionAmount>
+      </TotalRevenue>
+      <CompCurrentOfficersDirectors>
+        <Total>149229</Total>
+        <ManagementAndGeneral>149229</ManagementAndGeneral>
+      </CompCurrentOfficersDirectors>
+      <OtherSalariesAndWages>
+        <Total>5036603</Total>
+        <ProgramServices>4777948</ProgramServices>
+        <ManagementAndGeneral>258655</ManagementAndGeneral>
+      </OtherSalariesAndWages>
+      <OtherEmployeeBenefits>
+        <Total>1519185</Total>
+        <ProgramServices>1441167</ProgramServices>
+        <ManagementAndGeneral>78018</ManagementAndGeneral>
+      </OtherEmployeeBenefits>
+      <PayrollTaxes>
+        <Total>505509</Total>
+        <ProgramServices>457505</ProgramServices>
+        <ManagementAndGeneral>48004</ManagementAndGeneral>
+      </PayrollTaxes>
+      <FeesForServicesLegal>
+        <Total>2458</Total>
+        <ManagementAndGeneral>2458</ManagementAndGeneral>
+      </FeesForServicesLegal>
+      <FeesForServicesAccounting>
+        <Total>74349</Total>
+        <ManagementAndGeneral>74349</ManagementAndGeneral>
+      </FeesForServicesAccounting>
+      <FeesForServicesOther>
+        <Total>4390</Total>
+        <ProgramServices>4390</ProgramServices>
+      </FeesForServicesOther>
+      <Advertising>
+        <Total>29662</Total>
+        <ManagementAndGeneral>29662</ManagementAndGeneral>
+      </Advertising>
+      <OfficeExpenses>
+        <Total>960000</Total>
+        <ProgramServices>758618</ProgramServices>
+        <ManagementAndGeneral>201382</ManagementAndGeneral>
+      </OfficeExpenses>
+      <Occupancy>
+        <Total>587242</Total>
+        <ProgramServices>587242</ProgramServices>
+      </Occupancy>
+      <Travel>
+        <Total>83398</Total>
+        <ProgramServices>38410</ProgramServices>
+        <ManagementAndGeneral>44988</ManagementAndGeneral>
+      </Travel>
+      <ConferencesMeetings>
+        <Total>19996</Total>
+        <ManagementAndGeneral>19996</ManagementAndGeneral>
+      </ConferencesMeetings>
+      <Interest>
+        <Total>221690</Total>
+        <ProgramServices>221690</ProgramServices>
+      </Interest>
+      <DepreciationDepletion>
+        <Total>337263</Total>
+        <ProgramServices>337263</ProgramServices>
+      </DepreciationDepletion>
+      <Insurance>
+        <Total>108742</Total>
+        <ProgramServices>60108</ProgramServices>
+        <ManagementAndGeneral>48634</ManagementAndGeneral>
+      </Insurance>
+      <OtherExpenses>
+        <Description>Service Provider Tax</Description>
+        <Total>470844</Total>
+        <ProgramServices>470844</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <Total>77866</Total>
+        <ManagementAndGeneral>77866</ManagementAndGeneral>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Inservice Training</Description>
+        <Total>44311</Total>
+        <ProgramServices>44311</ProgramServices>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bad Debt Expense</Description>
+        <Total>35894</Total>
+        <ManagementAndGeneral>35894</ManagementAndGeneral>
+      </OtherExpenses>
+      <TotalFunctionalExpenses>
+        <Total>10268631</Total>
+        <ProgramServices>9199496</ProgramServices>
+        <ManagementAndGeneral>1069135</ManagementAndGeneral>
+        <Fundraising>0</Fundraising>
+      </TotalFunctionalExpenses>
+      <CashNonInterestBearing>
+        <BOY>256014</BOY>
+        <EOY>288903</EOY>
+      </CashNonInterestBearing>
+      <SavingsAndTempCashInvestments>
+        <BOY>3672244</BOY>
+        <EOY>4114418</EOY>
+      </SavingsAndTempCashInvestments>
+      <AccountsReceivable>
+        <BOY>1012747</BOY>
+        <EOY>1472130</EOY>
+      </AccountsReceivable>
+      <InventoriesForSaleOrUse>
+        <BOY>39478</BOY>
+        <EOY>46889</EOY>
+      </InventoriesForSaleOrUse>
+      <PrepaidExpensesDeferredCharges>
+        <BOY>25445</BOY>
+        <EOY>45077</EOY>
+      </PrepaidExpensesDeferredCharges>
+      <LandBuildingsEquipmentBasis>7398199</LandBuildingsEquipmentBasis>
+      <LandBldgEquipmentAccumDeprec>2972399</LandBldgEquipmentAccumDeprec>
+      <LandBuildingsEquipmentBasisNet>
+        <BOY>4339522</BOY>
+        <EOY>4425800</EOY>
+      </LandBuildingsEquipmentBasisNet>
+      <OtherAssetsTotal>
+        <BOY>232086</BOY>
+        <EOY>13073</EOY>
+      </OtherAssetsTotal>
+      <TotalAssets>
+        <BOY>9577536</BOY>
+        <EOY>10406290</EOY>
+      </TotalAssets>
+      <AccountsPayableAccruedExpenses>
+        <BOY>658052</BOY>
+        <EOY>694738</EOY>
+      </AccountsPayableAccruedExpenses>
+      <MortNotesPyblSecuredInvestProp>
+        <BOY>3883155</BOY>
+        <EOY>4092798</EOY>
+      </MortNotesPyblSecuredInvestProp>
+      <TotalLiabilities>
+        <BOY>4541207</BOY>
+        <EOY>4787536</EOY>
+      </TotalLiabilities>
+      <FollowSFAS117>X</FollowSFAS117>
+      <UnrestrictedNetAssets>
+        <BOY>4831579</BOY>
+        <EOY>5358301</EOY>
+      </UnrestrictedNetAssets>
+      <TemporarilyRestrictedNetAssets>
+        <BOY>204750</BOY>
+        <EOY>260453</EOY>
+      </TemporarilyRestrictedNetAssets>
+      <TotalNetAssetsFundBalances>
+        <BOY>5036329</BOY>
+        <EOY>5618754</EOY>
+      </TotalNetAssetsFundBalances>
+      <TotalLiabNetAssetsFundBalances>
+        <BOY>9577536</BOY>
+        <EOY>10406290</EOY>
+      </TotalLiabNetAssetsFundBalances>
+      <ReconcilationRevenueExpenses>582425</ReconcilationRevenueExpenses>
+      <ReconcilationOtherChanges>0</ReconcilationOtherChanges>
+      <InfoInScheduleOPartXII>X</InfoInScheduleOPartXII>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AccountantCompileOrReview>0</AccountantCompileOrReview>
+      <FSAudited>1</FSAudited>
+      <AuditCommittee>1</AuditCommittee>
+      <FinancialStatementSeparate>X</FinancialStatementSeparate>
+      <FederalGrantAuditRequired>0</FederalGrantAuditRequired>
+    </IRS990>
+    <IRS990ScheduleA documentId="RetDoc1039100001">
+      <PubliclySupportedOrg509a2>X</PubliclySupportedOrg509a2>
+      <GiftsGrantsContribReceived509>
+        <CurrentTaxYearMinus4Years>12155</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>13482</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>10976</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>12138</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>83303</CurrentTaxYear>
+        <Total>132054</Total>
+      </GiftsGrantsContribReceived509>
+      <GrossReceiptsFromAdmissions>
+        <CurrentTaxYearMinus4Years>11381899</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>10619657</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>11187973</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>11214678</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>10706503</CurrentTaxYear>
+        <Total>55110710</Total>
+      </GrossReceiptsFromAdmissions>
+      <Total509>
+        <CurrentTaxYearMinus4Years>11394054</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>10633139</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>11198949</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>11226816</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>10789806</CurrentTaxYear>
+        <Total>55242764</Total>
+      </Total509>
+      <AmtsRecdFromDisqualPersons>
+        <Total>0</Total>
+      </AmtsRecdFromDisqualPersons>
+      <AmtsFromSubstContributors>
+        <Total>0</Total>
+      </AmtsFromSubstContributors>
+      <SupportFromDQPsEtc>
+        <Total>0</Total>
+      </SupportFromDQPsEtc>
+      <PublicSupportTotal509>55242764</PublicSupportTotal509>
+      <GrossInvestmentIncome509>
+        <CurrentTaxYearMinus4Years>78288</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>116302</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>101701</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>86388</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>74855</CurrentTaxYear>
+        <Total>457534</Total>
+      </GrossInvestmentIncome509>
+      <InvestmentIncomeAndUBTI>
+        <CurrentTaxYearMinus4Years>78288</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>116302</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>101701</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>86388</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>74855</CurrentTaxYear>
+        <Total>457534</Total>
+      </InvestmentIncomeAndUBTI>
+      <TotalSupportTotal>
+        <CurrentTaxYearMinus4Years>11472342</CurrentTaxYearMinus4Years>
+        <CurrentTaxYearMinus3Years>10749441</CurrentTaxYearMinus3Years>
+        <CurrentTaxYearMinus2Years>11300650</CurrentTaxYearMinus2Years>
+        <CurrentTaxYearMinus1Year>11313204</CurrentTaxYearMinus1Year>
+        <CurrentTaxYear>10864661</CurrentTaxYear>
+        <Total>55700298</Total>
+      </TotalSupportTotal>
+      <PublicSupportPercentage509>0.99180</PublicSupportPercentage509>
+      <PriorYearSupportPercentage>0.99120</PriorYearSupportPercentage>
+      <InvestmentIncomePercentage>0.00820</InvestmentIncomePercentage>
+      <PriorYrInvestIncomePercentage>0.00880</PriorYrInvestIncomePercentage>
+      <ThirtyThreePercntTestsCY509>X</ThirtyThreePercntTestsCY509>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="RetDoc1234500001">
+      <ContributorInfo>
+        <ContributorNumber>RESTRICTED</ContributorNumber>
+        <ContributorNameBusiness>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorNameBusiness>
+        <ContributorAddressUS>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorAddressUS>
+        <AggregateContributions>RESTRICTED</AggregateContributions>
+      </ContributorInfo>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="RetDoc1039700001">
+      <Volunteers>0</Volunteers>
+      <PaidStaffOrManagement>0</PaidStaffOrManagement>
+      <MediaAdvertisements>0</MediaAdvertisements>
+      <MailingsMembers>0</MailingsMembers>
+      <PublicationsOrBroadcast>0</PublicationsOrBroadcast>
+      <GrantsOtherOrganizations>0</GrantsOtherOrganizations>
+      <DirectContactLegislators>0</DirectContactLegislators>
+      <RalliesDemonstrations>0</RalliesDemonstrations>
+      <OtherActivities>1</OtherActivities>
+      <OtherActivitiesAmount>1727</OtherActivitiesAmount>
+      <TotalLobbyingExpendituresIIB>1727</TotalLobbyingExpendituresIIB>
+      <NotDescribedIn501c3>0</NotDescribedIn501c3>
+      <Form990ScheduleCPartIV>
+        <Identifier>Explanation of Other Lobbying Activities:</Identifier>
+        <ReturnReference>Part II-B, Line 1i:</ReturnReference>
+        <Explanation>The Organization pays dues to the Maine Health Care Association &amp; the Maine Association of Community Service Providers, of which a portion of the dues were attributable to lobbying expense.</Explanation>
+      </Form990ScheduleCPartIV>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="RetDoc1040000001">
+      <Land>
+        <OtherCostOrOtherBasis>144206</OtherCostOrOtherBasis>
+        <BookValue>144206</BookValue>
+      </Land>
+      <Buildings>
+        <OtherCostOrOtherBasis>6148646</OtherCostOrOtherBasis>
+        <Depreciation>2268549</Depreciation>
+        <BookValue>3880097</BookValue>
+      </Buildings>
+      <Equipment>
+        <OtherCostOrOtherBasis>775389</OtherCostOrOtherBasis>
+        <Depreciation>490513</Depreciation>
+        <BookValue>284876</BookValue>
+      </Equipment>
+      <OtherLandBuildings>
+        <OtherCostOrOtherBasis>329958</OtherCostOrOtherBasis>
+        <Depreciation>213337</Depreciation>
+        <BookValue>116621</BookValue>
+      </OtherLandBuildings>
+      <TotalOfBookValueLandBuildings>4425800</TotalOfBookValueLandBuildings>
+      <TotalRevenue>10851056</TotalRevenue>
+      <TotalExpenses>10268631</TotalExpenses>
+      <ExcessOrDeficitForYear>582425</ExcessOrDeficitForYear>
+      <TotalAdjustments>0</TotalAdjustments>
+      <ExcessOrDeficitPerFS>582425</ExcessOrDeficitPerFS>
+      <TotRevenueEtcAuditedFinclStmt>10851056</TotRevenueEtcAuditedFinclStmt>
+      <RevenueNotRptdF990>0</RevenueNotRptdF990>
+      <RevenueSubtotal>10851056</RevenueSubtotal>
+      <RevenueNotRptdOnFinStmt>0</RevenueNotRptdOnFinStmt>
+      <TotalRevenuePerForm990>10851056</TotalRevenuePerForm990>
+      <TotExpensesEtcAuditedFinclStmt>10268631</TotExpensesEtcAuditedFinclStmt>
+      <ExpensesNotRptdF990>0</ExpensesNotRptdF990>
+      <ExpensesSubtotal>10268631</ExpensesSubtotal>
+      <ExpensesNotRptdOnFinStmt>0</ExpensesNotRptdOnFinStmt>
+      <TotalExpensesPerForm990>10268631</TotalExpensesPerForm990>
+    </IRS990ScheduleD>
+    <IRS990ScheduleL documentId="RetDoc1042800001">
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Michelle Raymond</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>Family member of Reynold Raymond, CEO</Relationship>
+        <AmountOfTransaction>50231</AmountOfTransaction>
+        <DescriptionOfTransaction>Employment</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Denise Raymond</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>Family member of Reynold Raymond, CEO</Relationship>
+        <AmountOfTransaction>58364</AmountOfTransaction>
+        <DescriptionOfTransaction>Employment</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NamePerson>Lauri Raymond</NamePerson>
+        </NameOfInterestedPerson>
+        <Relationship>Family member of Reynold Raymond, CEO</Relationship>
+        <AmountOfTransaction>27649</AmountOfTransaction>
+        <DescriptionOfTransaction>Employment</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+      <Form990ScheduleLPartIV>
+        <NameOfInterestedPerson>
+          <NameBusiness>
+            <BusinessNameLine1>Devoe Construction</BusinessNameLine1>
+          </NameBusiness>
+        </NameOfInterestedPerson>
+        <Relationship>Entity more than 35% owned by family member of Arnold Devoe, Trustee</Relationship>
+        <AmountOfTransaction>255335</AmountOfTransaction>
+        <DescriptionOfTransaction>Independent contractor arrangement</DescriptionOfTransaction>
+        <SharingOfRevenues>0</SharingOfRevenues>
+      </Form990ScheduleLPartIV>
+    </IRS990ScheduleL>
+    <IRS990ScheduleO documentId="RetDoc1044400001">
+      <GeneralExplanation>
+        <Identifier>New Program Services</Identifier>
+        <ReturnReference>Form 990, Part III, line 2</ReturnReference>
+        <Explanation>In October 2010, the Organization started the Phillip Blanchette Residential facility. See detailed description on Form 990, Part III, line 4.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Form 990, Part VI, Section B, line 11</Identifier>
+        <Explanation>The Form 990 is initially reviewed internally by the CEO and other applicable members of the Organization. The return is then furnished to all members of the board for their review and approval prior to filing.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 12c</ReturnReference>
+        <Explanation>The conflict of interest policy is reviewed annually and trustees are asked to declare any conflict of interest. The CEO is responsible for consistently monitoring and enforcing compliance with the policy. Potential conflicts of interest are addressed and brought to the attention of the board by the CEO as they arise.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section B, line 15a</ReturnReference>
+        <Explanation>On an annual basis, the board of directors conduct an evaluation of the CEO. The chair of the board tabulates the results of the evaluations and presents the results to the board. The chair also compiles compensation comparability data and presents the findings to the full board. The board then reviews the data compiled by the chair. The CEO's compensation is voted upon and approved by the board of directors.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part VI, Section C, line 19</ReturnReference>
+        <Explanation>The Organization makes its governing documents and conflict of interest policy available to the public upon request. The Organization does not make its financial statements available to the public.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <Identifier>Oversight of Audit</Identifier>
+        <ReturnReference>Form 990, Part XI, Line 2c:</ReturnReference>
+        <Explanation>The process by which the Organization and its board of directors assumes responsibility for the oversight of the audit of its financial statements and selects an independent accountant has not changed from prior years.</Explanation>
+      </GeneralExplanation>
+      <GeneralExplanation>
+        <ReturnReference>Form 990, Part I, Lines 8-18:</ReturnReference>
+        <Explanation>Prior year numbers have been restated to present revenue net of contractual adjustments.</Explanation>
+      </GeneralExplanation>
+    </IRS990ScheduleO>
+  </ReturnData>
+</Return>

@@ -1,0 +1,535 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" returnVersion="2010v3.4">
+  <ReturnHeader binaryAttachmentCount="0">
+    <Timestamp>2011-08-11T08:25:54-04:00</Timestamp>
+    <TaxPeriodEndDate>2010-12-31</TaxPeriodEndDate>
+    <PreparerFirm>
+      <PreparerFirmBusinessName>
+        <BusinessNameLine1>Dan Calton CPA</BusinessNameLine1>
+      </PreparerFirmBusinessName>
+      <PreparerFirmUSAddress>
+        <AddressLine1>160 International Parkway Ste 170</AddressLine1>
+        <City>Lake Mary</City>
+        <State>FL</State>
+        <ZIPCode>32746</ZIPCode>
+      </PreparerFirmUSAddress>
+    </PreparerFirm>
+    <ReturnType>990PF</ReturnType>
+    <TaxPeriodBeginDate>2010-01-01</TaxPeriodBeginDate>
+    <Filer>
+      <EIN>010452942</EIN>
+      <Name>
+        <BusinessNameLine1>The Hamilton Foundation</BusinessNameLine1>
+      </Name>
+      <NameControl>HAMI</NameControl>
+      <USAddress>
+        <AddressLine1>1004 Ridge Point Cove</AddressLine1>
+        <City>Longwood</City>
+        <State>FL</State>
+        <ZIPCode>32750</ZIPCode>
+      </USAddress>
+    </Filer>
+    <Officer>
+      <Name>James Vigue</Name>
+      <Title>Trustee</Title>
+      <Phone>4073214411</Phone>
+      <DateSigned>2011-08-09</DateSigned>
+      <AuthorizeThirdParty>false</AuthorizeThirdParty>
+    </Officer>
+    <Preparer>
+      <Name>Dan Calton</Name>
+      <Phone>4077568661</Phone>
+      <DatePrepared>2011-08-11</DatePrepared>
+      <SelfEmployed>X</SelfEmployed>
+    </Preparer>
+    <TaxYear>2010</TaxYear>
+    <BuildTS>2016-02-24 21:20:13Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCount="9">
+    <IRS990PF documentId="990PF">
+      <ExemptPF>X</ExemptPF>
+      <FMVAssetsEOY>329786</FMVAssetsEOY>
+      <MethodOfAccountingAccrual>X</MethodOfAccountingAccrual>
+      <AnalysisOfRevenueAndExpenses>
+        <NotRequiredToAttachScheduleB>X</NotRequiredToAttachScheduleB>
+        <DividendsRevAndExpnss>2145</DividendsRevAndExpnss>
+        <DividendsNetInvstIncm>2145</DividendsNetInvstIncm>
+        <NetGainSaleAssetsRevAndExpnss>1170</NetGainSaleAssetsRevAndExpnss>
+        <GrossSalesPrice>13990</GrossSalesPrice>
+        <CapitalGainNetIncmNetInvstIncm>1170</CapitalGainNetIncmNetInvstIncm>
+        <NetSTCGAdjNetIncm>1170</NetSTCGAdjNetIncm>
+        <GrossSalesLessReturnsAndAllwnc>1124</GrossSalesLessReturnsAndAllwnc>
+        <CostOfGoodsSold>2266</CostOfGoodsSold>
+        <GrossProfitRevAndExpnss referenceDocumentId="STM102">-1142</GrossProfitRevAndExpnss>
+        <GrossProfitAdjNetIncm>-1142</GrossProfitAdjNetIncm>
+        <OtherIncomeRevAndExpnss referenceDocumentId="STM106">1400</OtherIncomeRevAndExpnss>
+        <TotalRevenueAndExpenses>3573</TotalRevenueAndExpenses>
+        <TotalNetInvestmentIncome>3315</TotalNetInvestmentIncome>
+        <TotalAdjustedNetIncome>28</TotalAdjustedNetIncome>
+        <AccountingFeesRevAndExpnss referenceDocumentId="STM108">1150</AccountingFeesRevAndExpnss>
+        <OtherProfFeesRevAndExpnss referenceDocumentId="STM109">60000</OtherProfFeesRevAndExpnss>
+        <OtherProfFeesNetInvstIncm>18000</OtherProfFeesNetInvstIncm>
+        <OtherExpensesRevAndExpnss referenceDocumentId="STM103">12653</OtherExpensesRevAndExpnss>
+        <TotOprExpensesRevAndExpnss>73803</TotOprExpensesRevAndExpnss>
+        <TotOprExpensesNetInvstIncm>18000</TotOprExpensesNetInvstIncm>
+        <TotOprExpensesDsbrsChrtblPrps>0</TotOprExpensesDsbrsChrtblPrps>
+        <ContriGiftsPaidRevAndExpnss>0</ContriGiftsPaidRevAndExpnss>
+        <ContriGiftsPaidDsbrsChrtblPrps>0</ContriGiftsPaidDsbrsChrtblPrps>
+        <TotalExpensesRevAndExpnss>73803</TotalExpensesRevAndExpnss>
+        <TotalExpensesNetInvstIncm>18000</TotalExpensesNetInvstIncm>
+        <TotalExpensesDsbrsChrtblPrps>0</TotalExpensesDsbrsChrtblPrps>
+        <ExcessOfRevenueOverExpenses>-70230</ExcessOfRevenueOverExpenses>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>28</AdjustedNetIncome>
+      </AnalysisOfRevenueAndExpenses>
+      <BalanceSheets>
+        <CashBOY>32385</CashBOY>
+        <CashEOY>2276</CashEOY>
+        <CashEOYFMV>2276</CashEOYFMV>
+        <SavingsAndTempCashInvstBOY>171275</SavingsAndTempCashInvstBOY>
+        <SavingsAndTempCashInvstEOY>128440</SavingsAndTempCashInvstEOY>
+        <SavingsAndTempCashInvstEOYFMV>128440</SavingsAndTempCashInvstEOYFMV>
+        <ReceivablesFromOfficersBOY>175</ReceivablesFromOfficersBOY>
+        <InventoriesForSaleOrUseBOY>4191</InventoriesForSaleOrUseBOY>
+        <InventoriesForSaleOrUseEOY>9080</InventoriesForSaleOrUseEOY>
+        <InventoriesForSaleOrUseEOYFMV>9080</InventoriesForSaleOrUseEOYFMV>
+        <InvestmentsCorpStockBOY>91936</InvestmentsCorpStockBOY>
+        <InvestmentsCorpStockEOY referenceDocumentId="STM137">91936</InvestmentsCorpStockEOY>
+        <InvestmentsCorpStockEOYFMV>99990</InvestmentsCorpStockEOYFMV>
+        <InvestmentsCorpBondsBOY>20000</InvestmentsCorpBondsBOY>
+        <InvestmentsCorpBondsEOY referenceDocumentId="STM138">20000</InvestmentsCorpBondsEOY>
+        <InvestmentsCorpBondsEOYFMV>20000</InvestmentsCorpBondsEOYFMV>
+        <InvestmentsOtherBOY>72000</InvestmentsOtherBOY>
+        <InvestmentsOtherEOY referenceDocumentId="STM118">70000</InvestmentsOtherEOY>
+        <InvestmentsOtherEOYFMV>70000</InvestmentsOtherEOYFMV>
+        <TotalAssetsBOY>391962</TotalAssetsBOY>
+        <TotalAssetsEOY>321732</TotalAssetsEOY>
+        <TotalAssetsEOYFMV>329786</TotalAssetsEOYFMV>
+        <TotalLiabilitiesBOY>0</TotalLiabilitiesBOY>
+        <TotalLiabilitiesEOY>0</TotalLiabilitiesEOY>
+        <OrgThatDoNotFollowSFAS117>X</OrgThatDoNotFollowSFAS117>
+        <RetainedEarningsBOY>391962</RetainedEarningsBOY>
+        <RetainedEarningsEOY>321732</RetainedEarningsEOY>
+        <TotalNetAssetsBOY>391962</TotalNetAssetsBOY>
+        <TotalNetAssetsEOY>321732</TotalNetAssetsEOY>
+        <TotalLiabilitiesNetAssetsBOY>391962</TotalLiabilitiesNetAssetsBOY>
+        <TotalLiabilitiesNetAssetsEOY>321732</TotalLiabilitiesNetAssetsEOY>
+      </BalanceSheets>
+      <ChangesInNetAssetsFundBalances>
+        <TotalNetAssetsFundBalancesBOY>391962</TotalNetAssetsFundBalancesBOY>
+        <ExcessOfRevenueOverExpenses>-70230</ExcessOfRevenueOverExpenses>
+        <Subtotal>321732</Subtotal>
+        <TotalNetAssetsFundBalancesEOY>321732</TotalNetAssetsFundBalancesEOY>
+      </ChangesInNetAssetsFundBalances>
+      <CapitalGainsAndLosses>
+        <CapitalGainsAndLossesInfo>
+          <DescriptionOfAsset>US Silver Corp</DescriptionOfAsset>
+          <HowAcquired>P</HowAcquired>
+          <DateAcquired>2010-11-26</DateAcquired>
+          <DateSold>2010-12-01</DateSold>
+          <GrossSalesPrice>13990</GrossSalesPrice>
+          <CostOrOtherBasis>12820</CostOrOtherBasis>
+          <GainOrLoss>1170</GainOrLoss>
+          <GainsMinusExcessOrLosses>1170</GainsMinusExcessOrLosses>
+        </CapitalGainsAndLossesInfo>
+        <CapitalGainNetIncome>1170</CapitalGainNetIncome>
+        <NetShortTermCapitalGainOrLoss>1170</NetShortTermCapitalGainOrLoss>
+      </CapitalGainsAndLosses>
+      <QlfyUndSect4940eForReducedTax>
+        <AdjustedNoncharitableAssets>0</AdjustedNoncharitableAssets>
+        <AdjNonchrtblAssetsAndOnePct>0</AdjNonchrtblAssetsAndOnePct>
+      </QlfyUndSect4940eForReducedTax>
+      <ExciseTaxBasedOnInvestmentIncm>
+        <InvestmentIncomeExciseTax>0</InvestmentIncomeExciseTax>
+        <TaxUnderSection511>0</TaxUnderSection511>
+        <SubtitleATax>0</SubtitleATax>
+        <TaxBasedOnInvestmentIncome>0</TaxBasedOnInvestmentIncome>
+      </ExciseTaxBasedOnInvestmentIncm>
+      <StatementsRegardingActivities>
+        <LegislativePoliticalActivities>false</LegislativePoliticalActivities>
+        <MoreThan100Spent>false</MoreThan100Spent>
+        <Form1120POLFiled>false</Form1120POLFiled>
+        <ActivitiesNotPrevReported>false</ActivitiesNotPrevReported>
+        <ChangesToArticlesOrBylaws>false</ChangesToArticlesOrBylaws>
+        <UnrelatedBusIncomeOver1000>false</UnrelatedBusIncomeOver1000>
+        <TerminationEtc>false</TerminationEtc>
+        <RequirementsOfSect508e>true</RequirementsOfSect508e>
+        <AtLeast5000InAssets>true</AtLeast5000InAssets>
+        <StatesFiledWith>FL</StatesFiledWith>
+        <PrivateOperatingFoundation>false</PrivateOperatingFoundation>
+        <NewSubstantialContributors>false</NewSubstantialContributors>
+        <InterestInControlledEntity>false</InterestInControlledEntity>
+        <ApplicableInsuranceContract>false</ApplicableInsuranceContract>
+        <ComplyWithPublicInspectionRqr>true</ComplyWithPublicInspectionRqr>
+        <WebsiteAddress>NA</WebsiteAddress>
+        <BooksInCareOfPersonName>Ivy Gilbert</BooksInCareOfPersonName>
+        <BooksInCareOfPhoneNumber>4073214411</BooksInCareOfPhoneNumber>
+        <BooksInCareOfUSAddress>
+          <AddressLine1>185 Randon Ter</AddressLine1>
+          <City>Lake Mary</City>
+          <State>FL</State>
+          <ZIPCode>32746</ZIPCode>
+        </BooksInCareOfUSAddress>
+        <ForeignBank>false</ForeignBank>
+      </StatementsRegardingActivities>
+      <StatementsRegardingActy4720>
+        <SaleOrExchangeWithDsqflyPerson>false</SaleOrExchangeWithDsqflyPerson>
+        <BorrowOrLendWithDsqflyPerson>false</BorrowOrLendWithDsqflyPerson>
+        <FurnishedGoodsWithDsqflyPerson>false</FurnishedGoodsWithDsqflyPerson>
+        <PayCompensationToDsqflyPerson>false</PayCompensationToDsqflyPerson>
+        <TransferAssetsToDsqflyPerson>false</TransferAssetsToDsqflyPerson>
+        <PaymentToGovernmentOffical>false</PaymentToGovernmentOffical>
+        <UncorrectedPriorActs>false</UncorrectedPriorActs>
+        <UndistributedIncomePriorYears>false</UndistributedIncomePriorYears>
+        <BusinessHoldings>false</BusinessHoldings>
+        <JeopardyInvestments>false</JeopardyInvestments>
+        <UncorrectedJeopardyInvestments>false</UncorrectedJeopardyInvestments>
+        <InfluenceLegislation>false</InfluenceLegislation>
+        <InfluenceElection>false</InfluenceElection>
+        <GrantsToIndividuals>false</GrantsToIndividuals>
+        <GrantsToOrganizations>false</GrantsToOrganizations>
+        <NoncharitablePurpose>false</NoncharitablePurpose>
+        <RcvFundsToPayPrsnlBnftContract>false</RcvFundsToPayPrsnlBnftContract>
+        <PayPremiumsPrsnlBnftContract>false</PayPremiumsPrsnlBnftContract>
+        <ProhibitedTaxShelterTransactn>false</ProhibitedTaxShelterTransactn>
+      </StatementsRegardingActy4720>
+      <OfcrDirTrusteesKeyEmployeeInfo>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>James Vigue</PersonName>
+          <USAddress>
+            <AddressLine1>1004 Ridge Point Cove</AddressLine1>
+            <City>Longwood</City>
+            <State>FL</State>
+            <ZIPCode>32750</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Alice Anderson</PersonName>
+          <USAddress>
+            <AddressLine1>1004 Ridge Point Cove</AddressLine1>
+            <City>Longwood</City>
+            <State>FL</State>
+            <ZIPCode>32750</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <OfcrDirTrusteesOrKeyEmployee>
+          <PersonName>Jeffry Edwards</PersonName>
+          <USAddress>
+            <AddressLine1>1004 Ridge Point Cove</AddressLine1>
+            <City>Longwood</City>
+            <State>FL</State>
+            <ZIPCode>32750</ZIPCode>
+          </USAddress>
+          <Title>Trustee</Title>
+          <AvgHoursPerWkDevotedToPosition>0</AvgHoursPerWkDevotedToPosition>
+          <Compensation>0</Compensation>
+          <ContriToEmplBenefitPlansEtc>0</ContriToEmplBenefitPlansEtc>
+          <ExpenseAccountOtherAllowances>0</ExpenseAccountOtherAllowances>
+        </OfcrDirTrusteesOrKeyEmployee>
+        <CompOfHighestPaidEmplNONE>NONE</CompOfHighestPaidEmplNONE>
+        <CompOfHghstPaidCntrctNONE>NONE</CompOfHghstPaidCntrctNONE>
+      </OfcrDirTrusteesKeyEmployeeInfo>
+      <SumOfProgramRelatedInvestments>
+        <Description1>NA</Description1>
+        <Amount1>0</Amount1>
+      </SumOfProgramRelatedInvestments>
+      <MinimumInvestmentReturn>
+        <AvgMonthlyFMVOfSecurities>179548</AvgMonthlyFMVOfSecurities>
+        <AvgMonthlyCashBalances>162158</AvgMonthlyCashBalances>
+        <FMVAllOtherNoncharitableAssets>0</FMVAllOtherNoncharitableAssets>
+        <TotalFMVOfUnusedAssets>341706</TotalFMVOfUnusedAssets>
+        <AcquisitionIndebtedness>0</AcquisitionIndebtedness>
+        <AdjTotalFMVOfUnusedAssets>341706</AdjTotalFMVOfUnusedAssets>
+        <CashDeemedCharitable>5126</CashDeemedCharitable>
+        <NetNoncharitableAssets>336580</NetNoncharitableAssets>
+        <MinimumInvestmentReturn>16829</MinimumInvestmentReturn>
+      </MinimumInvestmentReturn>
+      <DistributableAmount>
+        <MinimumInvestmentReturn>16829</MinimumInvestmentReturn>
+        <DistributableAmountBeforeAdj>16829</DistributableAmountBeforeAdj>
+        <DistributableAmountBeforeDed>16829</DistributableAmountBeforeDed>
+        <DistributableAmountAsAdjusted>16829</DistributableAmountAsAdjusted>
+      </DistributableAmount>
+      <QualifyingDistributions>
+        <ExpensesAndContributions>0</ExpensesAndContributions>
+      </QualifyingDistributions>
+      <UndistributedIncome>
+        <DistributableAmountAsAdjusted>16829</DistributableAmountAsAdjusted>
+        <ExcessDistriCarryoverYear5>13149</ExcessDistriCarryoverYear5>
+        <ExcessDistriCarryoverYear4>10962</ExcessDistriCarryoverYear4>
+        <TotalExcessDistriCarryover>24111</TotalExcessDistriCarryover>
+        <ExcessDistriCyovAppCYCorpus>16829</ExcessDistriCyovAppCYCorpus>
+        <ExcessDistriCyovAppliedCY>16829</ExcessDistriCyovAppliedCY>
+        <TotalCorpus>7282</TotalCorpus>
+        <UndistributedIncomeCY>0</UndistributedIncomeCY>
+        <ExcessDistriCyovToNextYear>7282</ExcessDistriCyovToNextYear>
+        <ExcessFromYear4>7282</ExcessFromYear4>
+      </UndistributedIncome>
+      <SupplementaryInformation>
+        <ContributingManager>James Vigue</ContributingManager>
+        <ShareholderManager>None</ShareholderManager>
+        <OnlyContributesToPreselected>X</OnlyContributesToPreselected>
+      </SupplementaryInformation>
+      <AnalysisIncomeProducingActy>
+        <DividendsAndIntFromSecPartVII>
+          <ExclusionCode>14</ExclusionCode>
+          <ExclusionAmount>2145</ExclusionAmount>
+        </DividendsAndIntFromSecPartVII>
+        <GainSalesAssetsOthThanInvntry>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>1170</ExclusionAmount>
+        </GainSalesAssetsOthThanInvntry>
+        <GrossProfitLossSalesOfInvntry>
+          <BusinessCode>454110</BusinessCode>
+          <UnrelatedBusinessIncomeAmount>-1142</UnrelatedBusinessIncomeAmount>
+        </GrossProfitLossSalesOfInvntry>
+        <OtherRevenueDescribed>
+          <Description>Othewr inv related</Description>
+          <ExclusionCode>18</ExclusionCode>
+          <ExclusionAmount>1400</ExclusionAmount>
+        </OtherRevenueDescribed>
+        <SubtotalsPartXVIA>
+          <UnrelatedBusinessIncomeAmount>-1142</UnrelatedBusinessIncomeAmount>
+          <ExclusionAmount>4715</ExclusionAmount>
+        </SubtotalsPartXVIA>
+        <TotalPartXVIA>3573</TotalPartXVIA>
+      </AnalysisIncomeProducingActy>
+      <TrnsfrTrRlnWithNoncharitableEO>
+        <TrnsfrOfCashToNoncharitableEO>false</TrnsfrOfCashToNoncharitableEO>
+        <TrnsfrOthAssetsNoncharitableEO>false</TrnsfrOthAssetsNoncharitableEO>
+        <SalesOrExchangesOfAssets>false</SalesOrExchangesOfAssets>
+        <PurchaseAssetsNoncharitableEO>false</PurchaseAssetsNoncharitableEO>
+        <RentalOfFacilitiesEtc>false</RentalOfFacilitiesEtc>
+        <ReimbursementArrangements>false</ReimbursementArrangements>
+        <LoansOrLoanGuarantees>false</LoansOrLoanGuarantees>
+        <PerformanceOfServicesEtc>false</PerformanceOfServicesEtc>
+        <SharingOfFacilitiesEtc>false</SharingOfFacilitiesEtc>
+        <RelationshipsNoncharitableEOs>false</RelationshipsNoncharitableEOs>
+      </TrnsfrTrRlnWithNoncharitableEO>
+    </IRS990PF>
+    <AccountingFeesSchedule documentId="STM108">
+      <AccountingFees>
+        <Category>Accounting Fees</Category>
+        <Amount>1150</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </AccountingFees>
+    </AccountingFeesSchedule>
+    <InvestmentsCorpBondsSchedule documentId="STM138">
+      <InvestmentsCorpBonds>
+        <NameOfBond>Corporate Bonds</NameOfBond>
+        <EOYBookValue>20000</EOYBookValue>
+        <EOYFMV>20000</EOYFMV>
+      </InvestmentsCorpBonds>
+    </InvestmentsCorpBondsSchedule>
+    <InvestmentsCorpStockSchedule documentId="STM137">
+      <InvestmentsCorpStock>
+        <NameOfStock>Corporate Stock</NameOfStock>
+        <EOYBookValue>91936</EOYBookValue>
+        <EOYFMV>99990</EOYFMV>
+      </InvestmentsCorpStock>
+    </InvestmentsCorpStockSchedule>
+    <InvestmentsOtherSchedule2 documentId="STM118">
+      <InvestmentsOther>
+        <CategoryOrItem>Crown Wellness</CategoryOrItem>
+        <BookValue>20000</BookValue>
+        <EOYFMV>20000</EOYFMV>
+      </InvestmentsOther>
+      <InvestmentsOther>
+        <CategoryOrItem>Westridge Investment Group</CategoryOrItem>
+        <BookValue>50000</BookValue>
+        <EOYFMV>50000</EOYFMV>
+      </InvestmentsOther>
+    </InvestmentsOtherSchedule2>
+    <OtherExpensesSchedule documentId="STM103">
+      <OtherExpenses>
+        <Description>Book Expense</Description>
+        <RevenueAndExpensesPerBooks>771</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Subscriptions</Description>
+        <RevenueAndExpensesPerBooks>969</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Research &amp; Development</Description>
+        <RevenueAndExpensesPerBooks>691</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Education</Description>
+        <RevenueAndExpensesPerBooks>3875</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Phone</Description>
+        <RevenueAndExpensesPerBooks>862</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Supplies</Description>
+        <RevenueAndExpensesPerBooks>767</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Postage</Description>
+        <RevenueAndExpensesPerBooks>552</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Shipping</Description>
+        <RevenueAndExpensesPerBooks>0</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Meals</Description>
+        <RevenueAndExpensesPerBooks>115</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>4</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Bank Service Charges</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Licensing &amp; Fees</Description>
+        <RevenueAndExpensesPerBooks>75</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Web Site</Description>
+        <RevenueAndExpensesPerBooks>115</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Computer</Description>
+        <RevenueAndExpensesPerBooks>12</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Travel</Description>
+        <RevenueAndExpensesPerBooks>45</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Advertising</Description>
+        <RevenueAndExpensesPerBooks>61</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Trade Show</Description>
+        <RevenueAndExpensesPerBooks>2678</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+      <OtherExpenses>
+        <Description>Miscellaneous</Description>
+        <RevenueAndExpensesPerBooks>1000</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherExpenses>
+    </OtherExpensesSchedule>
+    <OtherIncomeSchedule2 documentId="STM106">
+      <OtherIncome>
+        <Description>Other Income</Description>
+        <RevenueAndExpensesPerBooks>1400</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Hormone Testing Income</Description>
+        <RevenueAndExpensesPerBooks>0</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+      <OtherIncome>
+        <Description>Web Revenue</Description>
+        <RevenueAndExpensesPerBooks>0</RevenueAndExpensesPerBooks>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+      </OtherIncome>
+    </OtherIncomeSchedule2>
+    <OtherProfessionalFeesSchedule documentId="STM109">
+      <OtherProfessionalFees>
+        <Category>Consulting - Matrix Capital</Category>
+        <Amount>48000</Amount>
+        <NetInvestmentIncome>15000</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Consulting - GV Financial</Category>
+        <Amount>12000</Amount>
+        <NetInvestmentIncome>3000</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+      <OtherProfessionalFees>
+        <Category>Consulting - Other</Category>
+        <Amount>0</Amount>
+        <NetInvestmentIncome>0</NetInvestmentIncome>
+        <AdjustedNetIncome>0</AdjustedNetIncome>
+        <DisbursementsCharitablePrps>0</DisbursementsCharitablePrps>
+      </OtherProfessionalFees>
+    </OtherProfessionalFeesSchedule>
+    <SalesOfInventoryList documentId="STM102">
+      <SaleOfInventory>
+        <Category>Vitamin Sales</Category>
+        <GrossSales>1124</GrossSales>
+        <CostOfGoodsSold>2266</CostOfGoodsSold>
+        <Net>-1142</Net>
+      </SaleOfInventory>
+    </SalesOfInventoryList>
+  </ReturnData>
+</Return>
