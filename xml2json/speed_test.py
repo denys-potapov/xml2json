@@ -13,7 +13,7 @@ BASEPATH: str = os.path.dirname(os.path.abspath(__file__))
 
 xml_dir: str = os.path.join(BASEPATH, "..", "fixtures", "xml")
 json_dir: str = "/tmp/xml2json"
-os.makedirs(json_dir)
+os.makedirs(json_dir, exist_ok=True)
 
 translate: JsonTranslator = JsonTranslator()
 
